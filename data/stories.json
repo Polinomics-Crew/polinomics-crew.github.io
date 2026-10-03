@@ -1,12 +1,12 @@
 [
  {
-  "id": "gilt-yields-ftse-fall",
+  "id": "ftse-steadies-gilts-ease",
   "order": 1,
   "topic": "Economy",
   "region": "United Kingdom",
-  "source": "Share Talk",
-  "url": "https://www.share-talk.com/ftse-100-falls-1-7-as-uk-30-year-gilt-yield-breaks-6/",
-  "headline": "FTSE 100 suffers worst day since May as UK 30-year borrowing cost passes 6%",
+  "source": "Finimize",
+  "url": "https://finimize.com/content/ftse-100-found-its-footing-as-oil-and-yields-fell",
+  "headline": "FTSE 100 edges higher on Friday after gilt sell-off but is on course for its worst week since April",
   "terms": [
    {
     "term": "Gilt yield",
@@ -23,54 +23,54 @@
   ],
   "levels": [
    {
-    "headline": "FTSE 100 suffers worst day since May as UK 30-year borrowing cost passes 6%",
-    "body": "The UK government's cost of borrowing over 30 years rose above 6% on Thursday 1 October for the first time since 1998, and London's stock market fell sharply. The FTSE 100 closed down 177.73 points, or 1.68%, at 10,428.27, its biggest one-day fall since 15 May and its fourth straight daily loss.\nThe 30-year gilt yield briefly topped 6% before easing to about 5.97% by the close, while the 10-year yield moved above 5.5% during the day, its highest since 2007. Reports linked the moves to rising borrowing costs around the world and the standoff between the United States and Iran, which has pushed up oil prices. Banks and housebuilders were hit hardest: NatWest fell 5.4%, Lloyds 4.5%, Taylor Wimpey 5.5% and Persimmon 5.1%.\nA gilt yield is the return investors demand to lend to the government, so higher yields mean higher interest costs on public debt. One estimate says each quarter-point rise adds about £2.5 billion a year to those costs. That leaves Chancellor John Healey with less room before his first Budget on 28 October, and economists say tax rises are now more likely.",
-    "why": "Higher government borrowing costs squeeze the Budget and can feed through to mortgages and loans."
+    "headline": "FTSE 100 edges higher on Friday after gilt sell-off but is on course for its worst week since April",
+    "body": "London's FTSE 100 edged up 24 points, or 0.23%, to close at 10,452 on Friday 2 October, recovering a little after Thursday's 1.7% fall to 10,428.27. Even so, the index was on course for its sharpest weekly drop since April.\nThe relief came as oil prices and UK government borrowing costs eased. The 10-year gilt yield fell to about 5.33% after the previous day's sharp rise, and the 30-year yield, which briefly passed 6% on Thursday for the first time since 1998, also slipped back. Sterling had weakened by 0.43% to $1.3206 on Thursday. Investors have been unsettled by rising bond yields around the world and by the standoff between the United States and Iran.\nThe moves matter for the public finances. Higher gilt yields raise the interest the government pays on its debt, and have cut the room Chancellor John Healey has to meet his fiscal targets to about £13 billion, from £23.6 billion at the Spring Statement, before his Budget on 28 October. Markets also expect the Bank of England, which held Bank Rate at 3.75% in September, to raise rates over the coming year.",
+    "why": "Government borrowing costs shape the Budget and can feed through to mortgages and loans."
    },
    {
-    "headline": "UK government borrowing costs hit a 28-year high and shares fall",
-    "body": "The cost of the UK government borrowing money for 30 years went above 6% on Thursday for the first time since 1998. The FTSE 100 share index fell 1.68% to 10,428.27, its worst day since May and its fourth fall in a row.\nThe 30-year gilt yield eased back to about 5.97% by the close, and the 10-year yield rose above 5.5% at one point, the highest since 2007. Reports pointed to higher borrowing costs across the world and the US-Iran standoff, which is lifting oil prices. NatWest dropped 5.4%, Lloyds 4.5% and housebuilder Taylor Wimpey 5.5%.\nGilts are bonds the government sells to raise money, and the yield is the interest it must offer. When yields rise, the interest bill on national debt rises too. One estimate puts the cost of each 0.25 point rise at about £2.5 billion a year. Chancellor John Healey presents his first Budget on 28 October, and economists now see tax rises as more likely.",
-    "why": "It limits what the Chancellor can do in the Budget and can push up costs for homeowners and businesses."
+    "headline": "UK shares steady on Friday after a sharp fall, but the week is still the worst since April",
+    "body": "The FTSE 100, the index of the 100 biggest companies listed in London, rose 0.23% on Friday 2 October to close at 10,452. That was a small recovery after a 1.7% fall on Thursday, and the index was still heading for its biggest weekly drop since April.\nThe market steadied because oil prices and the cost of government borrowing both eased. The 10-year gilt yield, the interest rate on UK government debt, fell to about 5.33%. On Thursday the 30-year yield had briefly gone above 6%, a level not seen since 1998. Investors have been worried about rising borrowing costs around the world and the standoff between the US and Iran.\nThis matters because higher yields mean a bigger interest bill for the government. Chancellor John Healey now has about £13 billion of room to meet his fiscal targets, down from £23.6 billion in the spring. He presents his Budget on 28 October. Markets also think the Bank of England, which kept its rate at 3.75% in September, may raise it over the next year.",
+    "why": "A bigger interest bill leaves the Chancellor less room and can raise the cost of loans for everyone."
    },
    {
-    "headline": "Borrowing costs for the UK government pass 6% as shares drop",
-    "body": "On Thursday 1 October, the interest rate the UK government pays to borrow money for 30 years went above 6%. It was the first time since 1998. At the same time, the FTSE 100, which tracks the biggest companies in London, fell by 1.68%. That was its worst day since May.\nThe government borrows by selling bonds called gilts. The 30-year rate settled at about 5.97% by the end of the day. The 10-year rate also went above 5.5% at one point, the highest since 2007. Reports said global borrowing costs were rising and that the argument between the US and Iran was keeping oil prices high. Banks such as NatWest and Lloyds fell sharply, as did housebuilders.\nHigher rates mean the government pays more interest on its debts. One estimate says every 0.25 point rise adds about £2.5 billion a year. Chancellor John Healey has his first Budget on 28 October, so he has less money to play with and tax rises look more likely.",
-    "why": "The government has to find more money for interest, which could mean higher taxes or less spending."
+    "headline": "London shares recover a little on Friday, but it has still been a bad week",
+    "body": "London's main share index, the FTSE 100, went up by 0.23% on Friday to 10,452. That is a small bounce after it fell by 1.7% on Thursday. Over the whole week it has still dropped by more than in any week since April.\nThe market was calmer because the price of oil and the cost of government borrowing both came down a bit. The government borrows by selling bonds called gilts, and pays interest on them. On Thursday the interest on a 30-year gilt went above 6% for the first time since 1998. Worries about the US and Iran, and about rising borrowing costs across the world, have made investors nervous.\nWhen the government pays more interest, it has less left to spend. The Chancellor, John Healey, says what he will do with taxes and spending on 28 October. He has about £13 billion of spare room now, down from £23.6 billion earlier this year. The Bank of England has kept its rate at 3.75%, but investors think it may go up.",
+    "why": "Higher interest on government debt leaves less money for other things and can mean tax rises."
    },
    {
-    "headline": "Government borrowing gets more expensive and London shares fall",
-    "body": "The cost of the UK government borrowing money for 30 years passed 6% on Thursday. That has not happened since 1998. On the same day, the FTSE 100 share index fell 1.68%, its biggest one-day drop since May.\nWhen the government needs cash, it sells bonds called gilts and pays investors interest on them. The yield is that interest rate. By the end of the day the 30-year yield was about 5.97%, and the 10-year yield had touched its highest since 2007. Reports blamed rising borrowing costs around the world and the stand-off between the US and Iran, which keeps oil expensive. Banks and housebuilders fell the most.\nA higher yield means a bigger interest bill for the country. One estimate says each 0.25 point rise costs about £2.5 billion a year. The Chancellor, John Healey, will give his first Budget on 28 October. With less room to manage, many economists think he is more likely to raise taxes.",
-    "why": "A bigger interest bill leaves less money for public services and makes tax rises more likely."
-   },
-   {
-    "headline": "Why the UK government is paying more to borrow, and why shares fell",
-    "body": "On Thursday the interest rate on 30-year UK government bonds rose above 6%. It was the first time since 1998. Shares fell too. The FTSE 100, a list of the 100 biggest companies in London, dropped 1.68%, its worst day since May.\nThe government borrows by selling bonds called gilts. The interest it pays is called the yield. By the end of the day the 30-year yield was about 5.97%, and the 10-year yield had hit its highest level since 2007. Reports said borrowing costs were rising across the world, and that the row between the US and Iran was keeping oil prices high. Banks and builders of homes lost the most value.\nWhen the yield goes up, the government pays more interest on its debt. One estimate says a rise of 0.25 points adds about £2.5 billion a year. The Chancellor, who looks after taxes and spending, has his first Budget on 28 October. He now has less space to work with, so tax rises look more likely.",
+    "headline": "UK shares rise a little on Friday after a big fall, but the week has been poor",
+    "body": "Share prices in London went up a little on Friday. The FTSE 100, a list of the 100 biggest companies in London, rose 0.23% to 10,452. On Thursday it had fallen 1.7%, so this week is still the worst for shares since April.\nThings were calmer because oil and borrowing costs both fell. When the government wants to borrow, it sells bonds called gilts and pays interest to the people who buy them. On Thursday, the interest on the longest gilts went above 6%. That has not happened since 1998. Investors are worried about costs rising around the world and about the conflict between the US and Iran.\nIf the government pays more interest, there is less money for schools, hospitals and roads. John Healey is the Chancellor, the minister in charge of the country's money. He will make a speech on taxes and spending on 28 October. He has less spare room than before, so some people expect taxes to rise.",
     "why": "The government's interest bill affects how much it can spend and how much tax people pay."
    },
    {
-    "headline": "The government now pays more to borrow money, and shares have dropped",
-    "body": "The government often borrows money, just as people borrow to buy a house. It does this by selling bonds called gilts. On Thursday, the interest on a 30-year gilt went above 6%. That is the highest it has been since 1998. The FTSE 100, which follows the biggest companies in London, fell by 1.68% on the same day.\nBy the end of the day the rate was a little lower, at about 5.97%. Reports said that borrowing is getting dearer all over the world. They also said that the argument between the US and Iran is keeping the price of oil high. Banks and home builders lost the most.\nThis matters because the interest has to be paid from taxes. One estimate says a rise of 0.25 points costs about £2.5 billion a year. The Chancellor, John Healey, will announce his first Budget on 28 October. The Budget sets out taxes and spending. He has less room now, so taxes may go up.",
-    "why": "It could mean higher taxes or less money for schools and hospitals."
+    "headline": "UK shares edge up on Friday, but it has still been a rough week",
+    "body": "On Friday, the FTSE 100 went up by a small amount, 0.23%, to 10,452. The FTSE 100 shows how the shares of the 100 biggest firms in London are doing. It fell a lot on Thursday, so this week has been the worst since April.\nThe market was a bit calmer because oil and borrowing costs went down. Borrowing costs matter because the government borrows money. It sells bonds, called gilts, and pays interest to those who buy them. On Thursday the interest on the longest bonds went over 6% for the first time since 1998. People are also worried about the US and Iran, who are in conflict.\nA bigger interest bill means less money to spend. The Chancellor, John Healey, looks after the country's money. On 28 October he will say how much tax people pay and what the government spends. He has less spare money than he had in spring, so many people think taxes may go up.",
+    "why": "It could change taxes, public services and the cost of loans."
    },
    {
-    "headline": "Borrowing money has become dearer for the UK government",
-    "body": "Think of the government as a big family that borrows money. It sells bonds called gilts and pays interest to the people who buy them. On Thursday the interest on a 30-year gilt went above 6%. It has not been that high since 1998.\nOn the same day share prices fell. A share is a small piece of a company. The FTSE 100 follows the 100 biggest companies in London, and it dropped by 1.68%. Banks and house builders lost the most. People said that borrowing costs are going up in many countries. They also said that the fight between the US and Iran is keeping oil costly.\nWhen the interest goes up, the government must pay more each year. One guess is that a small rise costs about £2.5 billion. The Chancellor, John Healey, looks after the country's money. He will share his plans for taxes and spending on 28 October. Because he has less money to spare, taxes might rise.",
-    "why": "If the government pays more interest, it may have to raise taxes."
+    "headline": "UK share prices bounce back slightly, but the week has been tough",
+    "body": "Share prices in London rose a little on Friday. The main index, the FTSE 100, finished at 10,452, up 0.23%. It had dropped sharply on Thursday. This week is still the worst for shares since April.\nPrices steadied because oil and borrowing costs both fell. The government borrows money by selling bonds called gilts, and it pays interest on them. On Thursday, the interest on a 30-year gilt went above 6%. It had not been that high since 1998. Investors are nervous about prices rising across the world and about the fight between the US and Iran.\nWhen the interest bill grows, the government has less money left for things like schools and hospitals. The Chancellor, John Healey, will explain his plans for tax and spending on 28 October. His spare room has shrunk from £23.6 billion to about £13 billion. That is why some people think taxes may rise.",
+    "why": "The government's money problems can end up changing what people pay in tax."
    },
    {
-    "headline": "The government has to pay more to borrow, and shares went down",
-    "body": "Sometimes the government needs more money than it has. So it borrows, just like you might borrow from a friend. It pays interest to the people who lend. On Thursday that interest went up to more than 6% for a very long loan. It was last this high in 1998.\nShare prices fell too. A share is a small piece of a company. The FTSE 100 is a list of the 100 biggest companies in London. Its value fell by 1.68% in one day. People said that borrowing is getting dearer around the world. They said oil is dear too, because of a fight between two countries.\nWhen interest goes up, the government has to pay more each year. That means less money is left for things like schools. The Chancellor looks after the country's money. His name is John Healey. On 28 October he will say what he plans. He may need to ask people to pay more tax.",
-    "why": "The money has to come from somewhere, and that could be taxes."
+    "headline": "Shares in London go up a little on Friday after a bad week",
+    "body": "Share prices in London went up a little on Friday. The FTSE 100 is a list of the biggest 100 companies in London. It rose by 0.23%. That is a small gain. On Thursday it fell by much more, so the week has still been a bad one.\nThings felt calmer because oil got cheaper and so did borrowing. Borrowing means getting money now and paying it back later, with extra called interest. The government does this a lot. On Thursday it had to offer more than 6% interest on a very long loan. It has not been that high since 1998.\nThe extra interest is a problem. Each pound spent on interest is a pound not spent on things like schools. The Chancellor is the person who looks after the country's money. His name is John Healey. He has less spare money than before. On 28 October he will say what the plan is, and people may have to pay more tax.",
+    "why": "The more the government pays in interest, the less it has for schools and hospitals."
    },
    {
-    "headline": "Borrowing got dearer for the government, and shares fell",
-    "body": "Imagine you borrow some pocket money from a parent. You must pay it back with a little extra. The extra is called interest. The government borrows too, and it borrows a lot. On Thursday the extra it must pay went up. It is the highest for a very long loan since 1998.\nShares fell on the same day. A share is a tiny piece of a company that people can buy. Share prices in London dropped. Banks and house builders fell the most. People said it is getting dearer to borrow in many countries. Oil is dear as well, because two countries are in a fight.\nWhen the extra to pay goes up, the government has less left for other things, like schools and hospitals. The person who looks after the country's money is called the Chancellor. He is John Healey. On 28 October he will say how much tax people will pay. It might go up.",
-    "why": "The government might ask people to pay more tax, and it will have less to spend on things we share."
+    "headline": "Shares in London rise a little, but it has been a bad week",
+    "body": "Today, share prices in London went up a tiny bit. A share is a small piece of a company. People buy shares and hope the company does well. This week, many shares went down. Friday was a small step back up.\nOn Thursday, the government had to pay a lot more to borrow money. Borrowing means you take money now and give it back later with a little extra. The extra is called interest. The government borrows huge amounts. So when the extra grows, it is a big problem. Oil also got cheaper on Friday, which helped.\nIf the government pays more extra, it has less money left over. The person who looks after the money is called the Chancellor. His name is John Healey. On 28 October he will tell everyone his plan. He may ask grown-ups to pay more tax.",
+    "why": "The government's money has to cover schools, hospitals and its debts."
    },
    {
-    "headline": "The government has to pay more to borrow money",
-    "body": "Think about the school playground. Say you borrow a coin to buy a snack. Next day you give back the coin and a little extra. The extra is the price of borrowing. On Thursday, the price of borrowing went up for the government. It is the biggest price for a long time.\nThe government borrows lots of money, much more than a coin. So a small rise in the price makes a big bill. This is why it was in the news. Some companies also lost value that day. Banks and builders of homes lost the most.\nWhen the government has to pay more to borrow, it has less left to spend. It spends money on things like hospitals, roads and schools. The person who looks after the money is called the Chancellor. His name is John Healey. On 28 October he will say what happens next. He may ask grown-ups to pay a bit more tax.",
-    "why": "Borrowing costs can change how much money is left for schools, hospitals and roads."
+    "headline": "Share prices go up a little after a bad week",
+    "body": "Some people buy small pieces of companies. These pieces are called shares. When the company does well, the share is worth more. This week many shares in London lost value. On Friday they gained a little.\nThe government had a problem too. It borrows money, like when you borrow a pencil and promise to give it back. But the government also gives a little extra to say thank you. That extra is called interest. This week the extra it had to give got bigger. That is a worry.\nWhen the extra is bigger, there is less money left for things like schools and parks. The person who looks after the country's money is called the Chancellor. His name is John Healey. On 28 October he will say what he plans to do. Some people think he might ask grown-ups to pay more tax.",
+    "why": "When the government has less money, it may ask for more tax."
+   },
+   {
+    "headline": "Shares go up a tiny bit, but the week was bumpy",
+    "body": "Think about a toy stall at a school fair. Some days lots of people want to buy toys, and the prices go up. Other days the prices go down. This week the prices of shares in London went down a lot. On Friday they went up a tiny bit.\nThe government also borrows money, a bit like borrowing sweets from a friend. You pay your friend back with a little extra. This week the government had to give a bigger extra. That is a worry for grown-ups, because the government has lots to pay for.\nThe person who looks after the country's money is called the Chancellor. His name is John Healey. On 28 October he will tell everyone his plan for money. He might ask grown-ups to pay a bit more tax.",
+    "why": "It could change how much tax grown-ups pay."
    }
   ]
  },
@@ -600,8 +600,83 @@
   ]
  },
  {
-  "id": "us-treasury-yields-fed",
+  "id": "us-jobs-september-weak",
   "order": 9,
+  "topic": "Economy",
+  "region": "United States",
+  "source": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/economy/articles/september-2026-jobs-report-payrolls-123334753.html",
+  "headline": "US employers add only 29,000 jobs in September, far below forecasts, as unemployment rises to 4.2%",
+  "terms": [
+   {
+    "term": "Payrolls",
+    "meaning": "The number of paid jobs in the economy, counted each month"
+   },
+   {
+    "term": "Federal Reserve",
+    "meaning": "The central bank of the United States, which sets its main interest rate"
+   },
+   {
+    "term": "Participation rate",
+    "meaning": "The share of adults who are working or looking for work"
+   }
+  ],
+  "levels": [
+   {
+    "headline": "US employers add only 29,000 jobs in September, far below forecasts, as unemployment rises to 4.2%",
+    "body": "US employers added just 29,000 jobs in September, well below the 84,000 economists had expected, according to figures published on Friday 2 October. That is a sharp slowdown from August, when 162,000 jobs were first reported.\nThe figures were also revised. August was cut to 133,000, and July changed from a gain to a loss of 10,000 jobs, so revisions removed 60,000 jobs in total. The unemployment rate rose to 4.2%, largely because more people joined the labour force, and participation reached a four-month high of 61.8%. Average hourly earnings rose only 0.1% on the month and 3% on a year earlier, the slowest annual pace since 2021.\nFinancial markets reacted at once. S&P 500 futures rose, while Treasury yields and the dollar fell, as traders trimmed bets that the Federal Reserve will raise interest rates again this year. The Fed raised its main rate on 16 September, its first rise since July 2023, as oil prices pushed inflation up.",
+    "why": "US job figures steer interest rates, and US rates influence borrowing costs around the world."
+   },
+   {
+    "headline": "US job growth slows sharply in September as unemployment rises to 4.2%",
+    "body": "The US economy added only 29,000 jobs in September, far fewer than the 84,000 forecast, the government said on Friday 2 October. In August the first estimate had been 162,000.\nEarlier months were revised down as well. August is now 133,000 and July became a fall of 10,000, which together take 60,000 jobs off the previous total. Unemployment rose to 4.2%, mainly because more people were looking for work. Pay is growing slowly: hourly earnings were up 0.1% on the month and 3% on the year, the weakest annual rise since 2021.\nMarkets took it as a sign that the Federal Reserve may not need to raise rates again soon. US stock futures rose and the dollar and Treasury yields fell. The Fed raised rates on 16 September for the first time since 2023 because oil was pushing up prices.",
+    "why": "A weaker jobs market makes more rate rises less likely, which affects borrowing costs everywhere."
+   },
+   {
+    "headline": "US employers hire far fewer people than expected in September",
+    "body": "US employers took on only 29,000 more workers in September. Experts had expected about 84,000. The government published the figures on Friday 2 October. In August the first figure had been 162,000.\nSome earlier numbers were lowered too. August was cut to 133,000 jobs, and July turned into a loss of 10,000. Altogether that is 60,000 fewer jobs than first reported. The unemployment rate went up to 4.2%, mostly because more people started looking for work. Wages grew by just 0.1% in the month and by 3% over the year, the slowest rise since 2021.\nInvestors reacted quickly. Stock futures rose, while the dollar and the interest rate on US government debt fell. Traders now think the Federal Reserve, the US central bank, is less likely to raise its interest rate again this year. It last raised it on 16 September.",
+    "why": "It shows whether the US economy is slowing, and that affects interest rates and prices worldwide."
+   },
+   {
+    "headline": "The US jobs market slows down: only 29,000 new jobs in September",
+    "body": "US employers added 29,000 jobs in September. That is much lower than the 84,000 experts expected. The news came out on Friday 2 October. In August, the first number was 162,000, so this is a big drop.\nSome older numbers were made smaller too. August is now 133,000 jobs. July shows a loss of 10,000 jobs. The share of people without a job went up to 4.2%, partly because more people began looking for work. Pay is rising slowly, up 3% over the year. That is the slowest since 2021.\nThe stock market and the bond market both noticed. Share prices for the big US firms looked set to rise. The dollar and the interest rate on US government debt went down. Investors now think the Federal Reserve, the US central bank, may not raise its interest rate again this year.",
+    "why": "It affects whether US interest rates go up, which changes borrowing costs around the world."
+   },
+   {
+    "headline": "Fewer new jobs in the US than people expected",
+    "body": "The US government counts how many new jobs there are each month. In September there were only 29,000 new ones. Experts had thought there would be about 84,000. The numbers came out on Friday 2 October.\nThe government also changed some earlier numbers to make them smaller. This means the jobs market has been weaker than people thought. The share of people without a job rose to 4.2%. Pay is going up only slowly, by about 3% in a year.\nThis matters to the Federal Reserve, the US central bank. It sets the interest rate, which is the price of borrowing money. It raised the rate on 16 September because prices were rising. Now investors think it may not need to raise it again soon. Share prices rose a little, and the dollar went down.",
+    "why": "Job numbers help decide interest rates, which change what loans cost."
+   },
+   {
+    "headline": "US job growth drops sharply, with only 29,000 new jobs in September",
+    "body": "The US counts how many new jobs are created every month. In September the number was just 29,000. Experts had expected about 84,000, so it was a big disappointment. The figures came out on Friday 2 October.\nSome earlier figures were lowered too, which means the jobs market was weaker than people believed. More people are now without work: 4.2% of those who want a job. Pay is rising slowly, only about 3% over a year, the slowest since 2021.\nThe US central bank, the Federal Reserve, sets the interest rate, which is the price of borrowing money. It raised the rate on 16 September because prices were going up. After this news, investors think it may not raise it again soon. Share prices rose a little and the dollar fell.",
+    "why": "It helps decide whether borrowing gets dearer, in the US and elsewhere."
+   },
+   {
+    "headline": "The US adds far fewer jobs than expected",
+    "body": "Each month, the US counts how many new jobs have been made. In September the number was 29,000. That is small. People who study money had guessed about 84,000. The numbers came out on Friday 2 October.\nSome numbers from earlier months were made smaller too. So the jobs market is weaker than people thought. More people are without a job now: 4.2% of people who want to work. Wages are rising slowly. That means people's pay packets are growing only a little.\nThe US has a central bank called the Federal Reserve. It sets the interest rate, which is the price of borrowing money. It put the rate up on 16 September because prices in shops were rising. Now fewer people think it will go up again soon. Share prices rose a little on the news.",
+    "why": "Fewer jobs can mean the central bank holds off on putting up interest rates."
+   },
+   {
+    "headline": "Not many new jobs were made in the US last month",
+    "body": "Every month, the US counts the new jobs that were made. Last month there were only 29,000. That is far fewer than people expected. A job is when someone is paid to work. The count came out on Friday 2 October.\nThe US also made some old numbers smaller. This shows the jobs market is not as strong as people thought. A few more people are without a job now. Pay is going up slowly, so shopping money does not stretch much further.\nThe US has a big bank for the whole country, called the Federal Reserve. It decides how dear it is to borrow money. It made borrowing dearer on 16 September, because prices in shops were going up. After this news, people think it will not do that again soon. Share prices went up a little.",
+    "why": "It helps decide whether borrowing gets dearer or cheaper."
+   },
+   {
+    "headline": "Fewer new jobs than people hoped for in the US",
+    "body": "Last month, only 29,000 new jobs were made in the US. People had thought there would be many more. A job is work that you get paid for. The news came out on Friday 2 October.\nIt means some workplaces are not hiring as many people as before. Pay is going up only slowly too. A few more people are looking for work and cannot find it yet.\nThe country has a big bank that sets the price of borrowing money. It is called the Federal Reserve. Last month it made borrowing a bit dearer, because things in shops cost more. Now people think it may wait. If it waits, borrowing may stop getting dearer. Share prices went up a little when people heard the news.",
+    "why": "It may stop borrowing from getting dearer."
+   },
+   {
+    "headline": "There were not many new jobs last month",
+    "body": "Imagine a town where some shops want to hire helpers. Last month, far fewer shops hired helpers than people hoped. This happened in the US, which is a very big country. A new job means a new helper who gets paid.\nBecause fewer shops hired, a few more people are looking for a job. Pay is also growing slowly, like pocket money that goes up by just a few pence.\nThe country has a big bank that decides how dear it is to borrow money. Last month it made it a bit dearer, because prices in shops were going up. Now people think it may wait and not make it dearer again. Some grown-ups who buy and sell shares felt happy about that, and share prices went up a little.",
+    "why": "It could stop borrowing money from getting dearer."
+   }
+  ]
+ },
+ {
+  "id": "us-treasury-yields-fed",
+  "order": 10,
   "topic": "Economy",
   "region": "United States",
   "source": "TheStreet",
@@ -676,7 +751,7 @@
  },
  {
   "id": "eurozone-inflation-ecb",
-  "order": 10,
+  "order": 11,
   "topic": "Economy",
   "region": "Europe",
   "source": "Eurostat",
@@ -751,7 +826,7 @@
  },
  {
   "id": "kyiv-school-drone",
-  "order": 11,
+  "order": 12,
   "topic": "Politics",
   "region": "Europe",
   "source": "Washington Times (AP)",
@@ -826,7 +901,7 @@
  },
  {
   "id": "greece-asylum-suspension",
-  "order": 12,
+  "order": 13,
   "topic": "Politics",
   "region": "Europe",
   "source": "Euronews",
@@ -901,7 +976,7 @@
  },
  {
   "id": "russia-expels-hungarian-diplomats",
-  "order": 13,
+  "order": 14,
   "topic": "Politics",
   "region": "Europe",
   "source": "The Moscow Times",
@@ -976,7 +1051,7 @@
  },
  {
   "id": "bosnia-general-election-preview",
-  "order": 14,
+  "order": 15,
   "topic": "Politics",
   "region": "Europe",
   "source": "European Western Balkans",
