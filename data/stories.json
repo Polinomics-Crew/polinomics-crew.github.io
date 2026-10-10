@@ -1,20 +1,19 @@
 [
  {
-  "id": "burnham-social-contract",
-  "order": 1,
-  "topic": "Politics",
+  "id": "gilt-yields-six-percent",
+  "topic": "Economy",
   "region": "United Kingdom",
-  "source": "Al Jazeera",
-  "url": "https://www.aljazeera.com/news/2026/9/29/new-path-uks-burnham-promises-huge-expansion-of-public-services",
-  "headline": "Burnham uses first conference speech as PM to promise a 'new social contract' and voting reform",
+  "source": "City AM",
+  "url": "https://www.cityam.com/global-bond-sell-off-headache-for-healey-as-gilt-yields-top-six-per-cent/",
+  "headline": "UK 30-year borrowing costs hit highest level since 1998 ahead of Healey's Budget",
   "terms": [
    {
-    "term": "Social contract",
-    "meaning": "An unwritten deal about what citizens give the state and what the state provides in return."
+    "term": "Gilts",
+    "meaning": "UK government bonds, the IOUs the Treasury sells to raise money."
    },
    {
-    "term": "Proportional representation",
-    "meaning": "A voting system where seats in Parliament roughly match each party's share of the vote."
+    "term": "Yield",
+    "meaning": "The annual return an investor gets on a bond; it rises when the price falls and is a measure of the government's borrowing cost."
    },
    {
     "term": "Fiscal rules",
@@ -23,56 +22,57 @@
   ],
   "levels": [
    {
-    "headline": "Burnham uses first conference speech as PM to promise a 'new social contract' and voting reform",
-    "body": "Prime Minister Andy Burnham used his first Labour conference speech as party leader, delivered in Liverpool on 29 September 2026, to promise a 'new social contract for the 21st century' and a large expansion of public services.\nHe proposed a state pension that rises every year, an end to care charges and a National Care Service that would be free at the point of use and paid for through taxation, in principle like the NHS. He also pledged that low-income pensioners would not be pulled into paying income tax during this Parliament.\nBurnham said Labour would fight the next general election on a promise to replace the winner-takes-all system with a form of proportional representation, though the details have not been set. He also promised a reset of relations with European neighbours.\nHe accepted there would be costs and trade-offs. He warned that difficult decisions on welfare and pension spending would be needed, said the government would stick to its fiscal rules to bring borrowing and debt down, and acknowledged that some plans would take longer than one Parliament to deliver.\nBurnham became Prime Minister on 20 July 2026, after Keir Starmer stood down. The speech was his main chance to set out how his government differs from its predecessor, while the Budget on 28 October will show how much of it can be paid for.",
-    "why": "It shows the new Prime Minister's priorities, and how far they can be funded within strict borrowing limits."
+    "headline": "UK 30-year borrowing costs hit highest level since 1998 ahead of Healey's Budget",
+    "body": "The yield on 30-year UK government bonds, known as gilts, rose by 13 basis points to 6.036% on 7 October 2026, its highest level since January 1998, as a global bond sell-off pushed up the cost of government borrowing. The 10-year gilt yield also climbed, reaching about 5.53% during the day, the highest since 2007.\nReports tie the move to a worldwide sell-off in government debt, with oil prices above $100 a barrel and investor anxiety over the geopolitical crisis and what it means for inflation. Some reports said the jump fuelled concerns that both the Bank of England and the US Federal Reserve could be forced to raise interest rates.\nBank of England Governor Andrew Bailey has warned that if markets begin to doubt the government's fiscal trajectory, bond yields can rise further. Analysts quoted in the coverage said higher rates could cut about £9bn from the Chancellor's fiscal headroom, the gap between planned borrowing and his own limits, and some suggested John Healey could be pushed towards a tougher package.\nThe Treasury said Healey stressed the importance of fiscal credibility and reaffirmed the government's fiscal rules. His first Budget is due on 28 October 2026.",
+    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
    },
    {
-    "headline": "Burnham pledges a 'new social contract' and electoral reform at Labour conference",
-    "body": "Andy Burnham, who became Prime Minister on 20 July 2026, used his first Labour conference speech as leader on 29 September in Liverpool to promise a 'new social contract for the 21st century'.\nHis headline offers were for older people and carers: a state pension that rises every year, an end to care charges, and a National Care Service free at the point of use and funded from general taxation. He said low-income pensioners would not be dragged into paying income tax in this Parliament.\nHe also said Labour would go into the next election promising to replace first past the post with a form of proportional representation, without saying which form. A reset of ties with Europe was part of the package too.\nBurnham was open about the price. Some welfare and pension spending decisions would be hard, the government would keep to its fiscal rules on borrowing and debt, and some reforms would take more than one Parliament.\nThe speech sets expectations ahead of the Budget on 28 October, when the Chancellor must show how the promises are paid for.",
-    "why": "It sets the political agenda for the new government and raises questions about how it will be paid for."
+    "headline": "UK 30-year gilt yield reaches 6.036%, the highest since 1998",
+    "body": "The yield on 30-year UK government bonds, called gilts, rose by 13 basis points to 6.036% on 7 October 2026. That is the highest since January 1998. The 10-year yield also rose, reaching around 5.53%, the highest since 2007.\nThe rise is part of a global sell-off in government bonds. Oil prices have topped $100 a barrel and investors are worried about the geopolitical crisis and what it could do to inflation. Some reports said the jump raised fears that the Bank of England and the US Federal Reserve might have to raise interest rates.\nBank of England Governor Andrew Bailey has warned that yields can rise further if markets start to doubt the government's plans for its finances. Analysts say the higher rates could take about £9bn off the Chancellor's headroom, the margin he has against his own borrowing rules.\nThe Treasury says Chancellor John Healey has stressed the importance of fiscal credibility and kept to the government's fiscal rules. His first Budget is on 28 October 2026.",
+    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
    },
    {
-    "headline": "Burnham promises a new deal on care and pensions, and a fairer voting system",
-    "body": "In his first conference speech as Labour leader and Prime Minister, delivered in Liverpool on 29 September, Andy Burnham promised a 'new social contract' between the state and the public.\nThe main ideas were a state pension that goes up every year, no more care charges, and a National Care Service that would be free when people use it and paid for by taxes, much like the NHS. Low-income pensioners would not have to pay income tax during this Parliament.\nHe also said Labour would fight the next election on changing how MPs are elected, moving to a form of proportional representation, where a party's share of seats is closer to its share of votes. He promised closer ties with Europe as well.\nBurnham admitted that this would cost money and some choices would be difficult, including on welfare and pensions. He said the government would still obey its fiscal rules, which limit borrowing, and that some changes would take longer than one Parliament.\nHe took over as Prime Minister on 20 July 2026, so this was his chance to explain his plans to the party.",
-    "why": "It tells voters what the new Prime Minister wants to do and how he plans to pay for it."
+    "headline": "Government borrowing costs jump to a 28-year high at the 30-year mark",
+    "body": "The cost of long-term UK government borrowing has jumped. The yield on 30-year bonds, known as gilts, went up by 13 basis points to 6.036% on 7 October 2026, the highest level since January 1998. The yield on 10-year gilts reached about 5.53%, the highest since 2007.\nInvestors have been selling government bonds around the world. Oil above $100 a barrel is raising worries about inflation, and the crisis in the Middle East is making investors nervous. That has led some to wonder whether the Bank of England and the US Federal Reserve will need to raise interest rates again.\nGovernor Andrew Bailey of the Bank of England has said yields could go higher if markets lose faith in the government's finances. Analysts estimate the extra cost could remove about £9bn from the Chancellor's room for manoeuvre, and some think Healey may need a tougher Budget.\nThe Treasury says John Healey is committed to fiscal credibility and to the government's rules. He delivers his first Budget on 28 October 2026.",
+    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
    },
    {
-    "headline": "Burnham sets out his plans for care, pensions and elections",
-    "body": "Andy Burnham gave his first speech to the Labour conference as Prime Minister in Liverpool on 29 September. He called his plan a 'new social contract'. That means a fresh understanding of what people put in and what the state gives back.\nHe said the state pension would rise every year, care charges would end and a National Care Service would be set up. It would be free to use and paid for through taxes. He also said that poorer pensioners would not pay income tax in this Parliament.\nHe said Labour would ask voters at the next election to back proportional representation. Under this system the number of seats a party wins matches its share of the vote more closely than it does now. He also wants better relations with Europe.\nBurnham said the plans have a cost. Some decisions on welfare and pensions will be hard, and the government will stay within its rules on borrowing. He added that some changes will take longer than one Parliament.\nHe has been Prime Minister since 20 July 2026, after Keir Starmer stepped down.",
-    "why": "It shows what the government wants to change, and why people will watch to see if it can afford it."
+    "headline": "UK borrowing costs hit highest level in decades as bond markets sell off",
+    "body": "The price the UK government pays to borrow money for 30 years has reached its highest level since 1998. On 7 October 2026 the yield on 30-year government bonds, called gilts, rose to 6.036%. The 10-year yield reached about 5.53%, the highest since 2007.\nBond markets around the world have been falling. Oil prices above $100 a barrel have raised fears that prices in the shops will keep rising, and the crisis in the Middle East has added to investors' nerves. Some think the Bank of England and the US Federal Reserve may have to put interest rates up.\nBank of England Governor Andrew Bailey has warned that borrowing costs can rise further if investors start to doubt the government's plans. Analysts say this could cut about £9bn from the Chancellor's spare room under his own rules.\nThe Treasury says Chancellor John Healey wants to keep trust in the government's finances. He will deliver his first Budget on 28 October.",
+    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
    },
    {
-    "headline": "The Prime Minister promises more help with care and pensions, and a change to voting",
-    "body": "The Prime Minister, Andy Burnham, made a big speech to his party in Liverpool on 29 September. It was his first conference speech as leader. He talked about a 'new social contract', which means a fresh deal between the government and the public about who gives what and who gets what.\nHe made several promises. The state pension would go up every year. People would stop paying charges for care. There would be a National Care Service, free to use and paid for out of taxes, a bit like the NHS. Pensioners on low incomes would not have to pay income tax while this Parliament lasts.\nHe also said Labour would fight the next election on changing the voting system. The new system would be a form of proportional representation, which gives each party seats in line with its share of votes.\nBurnham said it would not be easy. Some choices on benefits and pensions would be hard, and the government would stick to its rules on borrowing. Some of the changes would take years.",
-    "why": "It affects older people, carers and voters, and shows how the government plans to spend."
+    "headline": "UK government's borrowing costs rise to a level not seen since 1998",
+    "body": "The UK government has to pay more to borrow money. Bonds called gilts are how it borrows. A yield is the interest rate it pays on them. On 7 October 2026 the yield on 30-year gilts went up to 6.036%, the highest since 1998. The 10-year yield went up to about 5.53%, the highest since 2007.\nThis is happening in many countries at once. Oil costs more than $100 a barrel, which pushes up prices, and investors are worried about the crisis in the Middle East. When people expect higher prices, they ask for higher returns, and some think interest rates may have to rise.\nAndrew Bailey, who runs the Bank of England, has warned that yields could climb further if investors lose faith in the government's plans. Experts say this might remove about £9bn from the Chancellor's spare money.\nThe Treasury says Chancellor John Healey will stick to the government's rules on borrowing. His first Budget is on 28 October 2026.",
+    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
    },
    {
-    "headline": "The Prime Minister has made big promises about care, pensions and voting",
-    "body": "Andy Burnham is the Prime Minister. He has led the country since 20 July 2026. On 29 September he gave a big speech to his party, Labour, in the city of Liverpool.\nHe said he wants a 'new social contract'. This is a way of saying a new deal between the people and the government. He promised that the state pension, the money older people get from the government, would go up every year. He said people would no longer pay charges for care. Care means help with things like washing and dressing for people who cannot manage alone. He wants a National Care Service that is free to use and paid for by taxes. Poorer pensioners would not pay income tax.\nHe also wants to change how people vote. Today, whoever wins the most votes in an area wins the seat. Burnham wants a system called proportional representation, where parties get seats in line with the votes they get.\nHe said some of this will be hard to pay for, and it will take time.",
-    "why": "It could change how older people are looked after and how elections work."
+    "headline": "The government has to pay more to borrow money",
+    "body": "When the government wants to spend more than it collects in tax, it borrows. It does this by selling bonds, called gilts, to investors. The government then pays them interest. The interest rate is called the yield.\nOn 7 October 2026 the yield on 30-year gilts rose to 6.036%. That is the highest it has been since 1998. The yield on 10-year gilts rose to about 5.53%, the highest since 2007. It means borrowing has become more expensive.\nPrices are rising around the world. Oil costs more than $100 a barrel and there is worrying news from the Middle East. Investors want more interest when they think prices may keep going up. Andrew Bailey, who runs the Bank of England, said costs could rise even more if investors stop trusting the government's plans.\nThe Chancellor, John Healey, says he will keep to the government's rules on borrowing. He will explain his plans for tax and spending in his Budget on 28 October.",
+    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
    },
    {
-    "headline": "The Prime Minister wants to change how care, pensions and voting work",
-    "body": "Andy Burnham is the Prime Minister. On 29 September he made a long speech to the Labour Party in Liverpool. He wants the government to make a new deal with the public.\nHe made some promises. Older people would get a bigger state pension every year. The state pension is money the government pays to people who are older. People would not have to pay charges for care. Care is help for people who cannot look after themselves. The government would start a new service for care, and it would be free to use. Taxes would pay for it. Taxes are the money we all pay to the government. Some pensioners with small incomes would not pay income tax.\nHe also said he would like to change how MPs are chosen. MPs are the people we vote for to run the country. At the moment, one person wins in each area. He wants a fairer way, where each party gets seats to match its votes.\nHe said it will cost money, and some jobs will take a long time.",
-    "why": "It shows what the person running the country plans to do next."
+    "headline": "The government is paying more to borrow money",
+    "body": "Governments sometimes borrow money, just as families borrow for a house. The government sells bonds, called gilts. People who buy them get paid interest. The interest rate on a bond is called its yield.\nThis week the yield on a 30-year gilt went up to 6.036%. That is higher than at any time since 1998. This means the government has to pay more interest than before. It is like a bank asking you to pay more to borrow.\nOil now costs more than $100 a barrel. That makes many things cost more. There is also trouble in the Middle East. Investors worry about this, so they ask for more interest. The head of the Bank of England, Andrew Bailey, warned that it could go up again.\nThe Chancellor is called John Healey. He decides how the government spends and collects money. He says he will keep to the rules. He will share his plans on 28 October.",
+    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
    },
    {
-    "headline": "The Prime Minister has a plan to change how we look after older people",
-    "body": "Andy Burnham is the Prime Minister, which means he is the person in charge of the government. On 29 September he gave a big speech to his party, Labour, in a city called Liverpool.\nHe said he wants a 'new social contract'. That just means a new deal between the government and everyone else. He promised that the state pension would go up every year. The state pension is money the government pays to older people. He also said people should stop paying charges for care, which is help for people who cannot manage everyday jobs by themselves. A new National Care Service would be free to use, and taxes would pay for it. Taxes are the money people pay to the government.\nHe said he wants to change how MPs are chosen, so that each party gets a fair number of seats for the votes it wins. MPs are the people who work in Parliament to make the rules.\nHe said it will cost money and take time, so some choices will be hard.",
-    "why": "It shows the changes the leader of the country wants to make."
+    "headline": "The government has to pay more to borrow",
+    "body": "Imagine the government is a big family that sometimes needs to borrow money. It borrows from people by selling them bonds. These bonds are called gilts. The government promises to pay the people back with extra money, called interest.\nThis week the extra money the government must pay got bigger. For a 30-year bond it is now 6.036 for every 100 borrowed each year. That is the most since 1998. It is a bit like a shop putting its prices up.\nWhy has this happened? Oil, which is used for fuel, now costs more than $100 a barrel. Things in shops can cost more when fuel costs more. There is also fighting in the Middle East. People who lend money get nervous, so they want more extra money for lending.\nThe person in charge of the government's money is called the Chancellor. He is John Healey. He says he will be careful. He will tell everyone his plans on 28 October.",
+    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
    },
    {
-    "headline": "The leader of the country has some big plans",
-    "body": "Andy Burnham is the Prime Minister. He is the person in charge of the country's government. He gave a big speech on 29 September in a city called Liverpool.\nHe told people about his plans. He wants older people to get a bit more money from the government each year. This is called the state pension. He wants people who need help looking after someone to stop paying for it. He also wants a new care service. It would help people who cannot look after themselves. It would not cost them anything when they use it. We would all pay for it with our taxes. Taxes are money we give to the government to pay for things like schools and hospitals.\nHe also wants to change how we choose MPs. MPs are the people who help make the rules. He wants the choosing to be fairer.\nHe said it will cost a lot. Some plans will take a long time, and some will be hard to do.",
-    "why": "It tells us what the leader wants to change to help people."
+    "headline": "The government has to pay more to borrow money",
+    "body": "Sometimes the government needs more money than it has. So it borrows. It asks people to lend it money and promises to pay them back with a little extra. The extra is called interest.\nThis week the extra went up. It is now the biggest it has been for many years. This means that borrowing costs the government more than before. It is like having to pay more pocket money back to a friend who lent you some.\nWhy? Oil is the stuff that makes cars and lorries go. It has become more expensive. There is also fighting far away. People who lend money get worried when things cost more, so they ask for more back.\nA kind man called John Healey looks after the government's money. He is called the Chancellor. He says he will be careful with it. He will tell us his plan on 28 October.",
+    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
    },
    {
-    "headline": "A leader makes a promise to help older people",
-    "body": "Imagine your school had a new head teacher. On a big day, she stands up and tells everyone what she plans to do. That is a bit like what happened here. The new leader of the country is called the Prime Minister. His name is Andy Burnham.\nHe stood up in front of lots of people and said what he wants to do. He wants to help older people. They would get a little more pocket money from the government each year. He also wants to help people who need looking after, like people who are too poorly or too old to cook or get dressed on their own. That help would be free when they need it.\nHe also wants to change how grown-ups vote, to make it fairer, a bit like making sure everyone gets a fair turn in a playground game.\nBut he said it will cost lots of money, so it will take time.",
-    "why": "It is a leader saying how he hopes to make life kinder for older people."
+    "headline": "The government needs to pay more to borrow",
+    "body": "Think about the school tuck shop. Say it borrows money from you to buy sweets, and it promises to give you back a bit extra. That extra is the price of borrowing.\nThis week the price of borrowing went up for the government. It is now the highest it has been for a very long time. That is like the tuck shop having to give back more sweets than before.\nWhy? Fuel for cars costs more. There are also worries from far away. People who lend get a bit nervous and ask for more back.\nThe person who looks after the government's money is called the Chancellor. His name is John Healey. He wants to keep things safe. He will share his plan on 28 October.",
+    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
    }
-  ]
+  ],
+  "order": 1
  },
  {
   "id": "healey-budget-28-october",
@@ -150,77 +150,77 @@
   ]
  },
  {
-  "id": "boe-holds-3-75-split-vote",
+  "id": "burnham-social-contract",
   "order": 3,
-  "topic": "Economy",
+  "topic": "Politics",
   "region": "United Kingdom",
-  "source": "Bank of England",
-  "url": "https://www.bankofengland.co.uk/explainers/current-interest-rate",
-  "headline": "Bank of England holds Bank Rate at 3.75% as three members vote to raise it",
+  "source": "Al Jazeera",
+  "url": "https://www.aljazeera.com/news/2026/9/29/new-path-uks-burnham-promises-huge-expansion-of-public-services",
+  "headline": "Burnham uses first conference speech as PM to promise a 'new social contract' and voting reform",
   "terms": [
    {
-    "term": "Bank Rate",
-    "meaning": "The interest rate set by the Bank of England, which influences mortgage, loan and savings rates."
+    "term": "Social contract",
+    "meaning": "An unwritten deal about what citizens give the state and what the state provides in return."
    },
    {
-    "term": "MPC",
-    "meaning": "The Monetary Policy Committee, the nine people who vote on Bank Rate."
+    "term": "Proportional representation",
+    "meaning": "A voting system where seats in Parliament roughly match each party's share of the vote."
    },
    {
-    "term": "Inflation",
-    "meaning": "The rate at which prices rise over time."
+    "term": "Fiscal rules",
+    "meaning": "Limits a government sets on how much it can borrow and spend."
    }
   ],
   "levels": [
    {
-    "headline": "Bank of England holds Bank Rate at 3.75% as three members vote to raise it",
-    "body": "The Bank of England's Monetary Policy Committee held Bank Rate at 3.75% on 17 September 2026, but the vote was split 6 to 3. Megan Greene, Catherine Mann and Huw Pill voted for a quarter-point rise to 4%.\nThe committee said the risks to inflation are tilted to the upside and that it stands ready to act. It blamed the rise in inflation on the prolonged conflict in the Middle East, which has pushed up energy prices, and said further increases are expected in coming quarters.\nThe majority judged that waiting was the better option. UK consumer price inflation reached 3.1% in the year to August, well above the 2% target, with energy and especially motor fuels accounting for much of the overshoot. Core inflation, which excludes energy, food, alcohol and tobacco, was 2.6%.\nBank Rate was last cut in December 2025 to 3.75% and has since been held. The next decision is on 5 November, alongside the November Monetary Policy Report. Markets and mortgage commentators are watching closely for a possible rise, which would push up the cost of variable-rate mortgages and loans.",
-    "why": "Bank Rate sets the cost of borrowing across the economy, so a move towards a rise matters to borrowers and savers."
+    "headline": "Burnham uses first conference speech as PM to promise a 'new social contract' and voting reform",
+    "body": "Prime Minister Andy Burnham used his first Labour conference speech as party leader, delivered in Liverpool on 29 September 2026, to promise a 'new social contract for the 21st century' and a large expansion of public services.\nHe proposed a state pension that rises every year, an end to care charges and a National Care Service that would be free at the point of use and paid for through taxation, in principle like the NHS. He also pledged that low-income pensioners would not be pulled into paying income tax during this Parliament.\nBurnham said Labour would fight the next general election on a promise to replace the winner-takes-all system with a form of proportional representation, though the details have not been set. He also promised a reset of relations with European neighbours.\nHe accepted there would be costs and trade-offs. He warned that difficult decisions on welfare and pension spending would be needed, said the government would stick to its fiscal rules to bring borrowing and debt down, and acknowledged that some plans would take longer than one Parliament to deliver.\nBurnham became Prime Minister on 20 July 2026, after Keir Starmer stood down. The speech was his main chance to set out how his government differs from its predecessor, while the Budget on 28 October will show how much of it can be paid for.",
+    "why": "It shows the new Prime Minister's priorities, and how far they can be funded within strict borrowing limits."
    },
    {
-    "headline": "Bank of England keeps rates at 3.75% but three policymakers want a rise",
-    "body": "The Bank of England kept Bank Rate at 3.75% on 17 September 2026, with the Monetary Policy Committee voting 6 to 3. Megan Greene, Catherine Mann and Huw Pill wanted a rise to 4%.\nThe committee said risks to inflation lean to the upside and that it is ready to act. It said the Middle East conflict has lifted energy prices and that more increases are expected in the coming quarters.\nThe majority believed it was better to wait. Inflation was 3.1% in August against a 2% target, with motor fuel a big factor, while core inflation was 2.6%.\nRates have been at 3.75% since a cut in December 2025. The next decision is on 5 November, together with a new Monetary Policy Report, and some forecasters think a rise is increasingly likely if energy prices stay high.\nA rise would raise costs for people on variable-rate mortgages and loans, and reward savers.",
-    "why": "It signals that interest rates could rise soon, which would affect mortgages, loans and savings."
+    "headline": "Burnham pledges a 'new social contract' and electoral reform at Labour conference",
+    "body": "Andy Burnham, who became Prime Minister on 20 July 2026, used his first Labour conference speech as leader on 29 September in Liverpool to promise a 'new social contract for the 21st century'.\nHis headline offers were for older people and carers: a state pension that rises every year, an end to care charges, and a National Care Service free at the point of use and funded from general taxation. He said low-income pensioners would not be dragged into paying income tax in this Parliament.\nHe also said Labour would go into the next election promising to replace first past the post with a form of proportional representation, without saying which form. A reset of ties with Europe was part of the package too.\nBurnham was open about the price. Some welfare and pension spending decisions would be hard, the government would keep to its fiscal rules on borrowing and debt, and some reforms would take more than one Parliament.\nThe speech sets expectations ahead of the Budget on 28 October, when the Chancellor must show how the promises are paid for.",
+    "why": "It sets the political agenda for the new government and raises questions about how it will be paid for."
    },
    {
-    "headline": "Bank of England leaves interest rates at 3.75%, but the vote is close",
-    "body": "The Bank of England decided on 17 September to keep its main interest rate, Bank Rate, at 3.75%. Six members of the Monetary Policy Committee voted to hold. Three, Megan Greene, Catherine Mann and Huw Pill, wanted to raise it to 4%.\nThe committee warned that the risks to inflation are on the upside and said it is ready to act if needed. It said the conflict in the Middle East has pushed up energy prices and that prices may rise further in the coming months.\nInflation, the rate at which prices go up, was 3.1% in August. The Bank aims for 2%. Much of the gap comes from energy, especially petrol and diesel. Without energy, food, alcohol and tobacco, inflation was 2.6%.\nThe next decision is on 5 November. If rates go up, people with variable mortgages and loans would pay more, while savers could earn a little more.",
-    "why": "It affects how much people pay on mortgages and loans, and what savers earn."
+    "headline": "Burnham promises a new deal on care and pensions, and a fairer voting system",
+    "body": "In his first conference speech as Labour leader and Prime Minister, delivered in Liverpool on 29 September, Andy Burnham promised a 'new social contract' between the state and the public.\nThe main ideas were a state pension that goes up every year, no more care charges, and a National Care Service that would be free when people use it and paid for by taxes, much like the NHS. Low-income pensioners would not have to pay income tax during this Parliament.\nHe also said Labour would fight the next election on changing how MPs are elected, moving to a form of proportional representation, where a party's share of seats is closer to its share of votes. He promised closer ties with Europe as well.\nBurnham admitted that this would cost money and some choices would be difficult, including on welfare and pensions. He said the government would still obey its fiscal rules, which limit borrowing, and that some changes would take longer than one Parliament.\nHe took over as Prime Minister on 20 July 2026, so this was his chance to explain his plans to the party.",
+    "why": "It tells voters what the new Prime Minister wants to do and how he plans to pay for it."
    },
    {
-    "headline": "Interest rates stay at 3.75%, but some Bank of England members wanted a rise",
-    "body": "The Bank of England has kept its main interest rate at 3.75%. The decision was made on 17 September. Nine people on the Monetary Policy Committee vote on it. Six wanted no change. Three wanted to raise the rate to 4%.\nThe Bank said prices could rise faster than it hopes, and that it is ready to act. It said the war in the Middle East has made energy more expensive, and that this may push prices up further.\nIn August, prices were 3.1% higher than a year before. The Bank wants this number to be 2%. Without energy, food, alcohol and tobacco, the number was lower, at 2.6%.\nThe Bank will decide again on 5 November. If it raises the rate, borrowing gets dearer. People with mortgages that change with the rate would pay more each month. People with savings could earn a little more.",
-    "why": "Interest rates change what households pay on debt and earn on savings."
+    "headline": "Burnham sets out his plans for care, pensions and elections",
+    "body": "Andy Burnham gave his first speech to the Labour conference as Prime Minister in Liverpool on 29 September. He called his plan a 'new social contract'. That means a fresh understanding of what people put in and what the state gives back.\nHe said the state pension would rise every year, care charges would end and a National Care Service would be set up. It would be free to use and paid for through taxes. He also said that poorer pensioners would not pay income tax in this Parliament.\nHe said Labour would ask voters at the next election to back proportional representation. Under this system the number of seats a party wins matches its share of the vote more closely than it does now. He also wants better relations with Europe.\nBurnham said the plans have a cost. Some decisions on welfare and pensions will be hard, and the government will stay within its rules on borrowing. He added that some changes will take longer than one Parliament.\nHe has been Prime Minister since 20 July 2026, after Keir Starmer stepped down.",
+    "why": "It shows what the government wants to change, and why people will watch to see if it can afford it."
    },
    {
-    "headline": "The Bank of England has not changed its interest rate, but some members wanted to",
-    "body": "The Bank of England is the bank that looks after the country's money system. It sets an interest rate called Bank Rate. This rate affects how much it costs to borrow money and how much savers earn. On 17 September the Bank kept the rate at 3.75%.\nNine people vote on the rate. Six voted to leave it alone. Three voted to put it up to 4%. They are Megan Greene, Catherine Mann and Huw Pill.\nThe Bank is worried because prices are going up faster than it wants. Prices were 3.1% higher in August than a year earlier. The Bank wants prices to rise by about 2%. A big reason is that energy, like petrol, costs more because of the war in the Middle East.\nThe Bank will decide again on 5 November. If the rate goes up, loans and some mortgages would cost more.",
-    "why": "It could change how much families pay each month on loans and mortgages."
+    "headline": "The Prime Minister promises more help with care and pensions, and a change to voting",
+    "body": "The Prime Minister, Andy Burnham, made a big speech to his party in Liverpool on 29 September. It was his first conference speech as leader. He talked about a 'new social contract', which means a fresh deal between the government and the public about who gives what and who gets what.\nHe made several promises. The state pension would go up every year. People would stop paying charges for care. There would be a National Care Service, free to use and paid for out of taxes, a bit like the NHS. Pensioners on low incomes would not have to pay income tax while this Parliament lasts.\nHe also said Labour would fight the next election on changing the voting system. The new system would be a form of proportional representation, which gives each party seats in line with its share of votes.\nBurnham said it would not be easy. Some choices on benefits and pensions would be hard, and the government would stick to its rules on borrowing. Some of the changes would take years.",
+    "why": "It affects older people, carers and voters, and shows how the government plans to spend."
    },
    {
-    "headline": "Interest rates stay the same for now, but they may go up",
-    "body": "The Bank of England is in charge of one very important number. It is called Bank Rate. It is the interest rate that helps decide how much it costs to borrow money. Interest is the extra money you pay back when you borrow. On 17 September the Bank said the rate would stay at 3.75%.\nNine people voted. Six said keep it the same. Three said make it higher. The Bank is worried about inflation. Inflation means prices going up. In August, prices were 3.1% higher than a year before. The Bank wants them to go up by only 2%.\nPrices are going up mostly because of energy. Petrol, diesel and gas cost more because of fighting in the Middle East.\nThe Bank will choose again on 5 November. If it makes the rate higher, people who have loans or some mortgages would pay more. People with savings in a bank might get a little extra.",
-    "why": "It shows prices are still rising too fast, which could make borrowing dearer."
+    "headline": "The Prime Minister has made big promises about care, pensions and voting",
+    "body": "Andy Burnham is the Prime Minister. He has led the country since 20 July 2026. On 29 September he gave a big speech to his party, Labour, in the city of Liverpool.\nHe said he wants a 'new social contract'. This is a way of saying a new deal between the people and the government. He promised that the state pension, the money older people get from the government, would go up every year. He said people would no longer pay charges for care. Care means help with things like washing and dressing for people who cannot manage alone. He wants a National Care Service that is free to use and paid for by taxes. Poorer pensioners would not pay income tax.\nHe also wants to change how people vote. Today, whoever wins the most votes in an area wins the seat. Burnham wants a system called proportional representation, where parties get seats in line with the votes they get.\nHe said some of this will be hard to pay for, and it will take time.",
+    "why": "It could change how older people are looked after and how elections work."
    },
    {
-    "headline": "The Bank of England has kept its rate the same, but may raise it later",
-    "body": "The Bank of England looks after the money in our country. It chooses an interest rate. Interest is the extra money you pay when you borrow money. It is also the extra money a bank pays you when you save. On 17 September the Bank decided to keep the rate at 3.75%.\nNine people had a say. Six wanted to keep the rate where it was. Three wanted to make it bigger.\nThe Bank is worried because prices are going up. This is called inflation. In August, things cost 3.1% more than a year earlier. The Bank would like that number to be 2%. Petrol and gas cost more because of the fighting in the Middle East.\nThe Bank will decide again on 5 November. If it makes the rate bigger, then borrowing money will cost more. That could be hard for families who have loans or a mortgage. A mortgage is a loan to buy a house.",
-    "why": "It affects how much families pay when they borrow money."
+    "headline": "The Prime Minister wants to change how care, pensions and voting work",
+    "body": "Andy Burnham is the Prime Minister. On 29 September he made a long speech to the Labour Party in Liverpool. He wants the government to make a new deal with the public.\nHe made some promises. Older people would get a bigger state pension every year. The state pension is money the government pays to people who are older. People would not have to pay charges for care. Care is help for people who cannot look after themselves. The government would start a new service for care, and it would be free to use. Taxes would pay for it. Taxes are the money we all pay to the government. Some pensioners with small incomes would not pay income tax.\nHe also said he would like to change how MPs are chosen. MPs are the people we vote for to run the country. At the moment, one person wins in each area. He wants a fairer way, where each party gets seats to match its votes.\nHe said it will cost money, and some jobs will take a long time.",
+    "why": "It shows what the person running the country plans to do next."
    },
    {
-    "headline": "The Bank of England kept its rate the same, but some members want it higher",
-    "body": "The Bank of England is the bank that looks after the country's money. It sets an interest rate called Bank Rate. Interest is the extra money you pay back when you borrow, and the extra money a bank gives you when you save. On 17 September, the Bank decided to keep the rate at 3.75%.\nNine people vote on the rate. Six voted to keep it the same. Three voted to raise it to 4%.\nThey are worried about inflation, which means prices going up. In August, prices were 3.1% higher than a year earlier. The Bank wants prices to rise by only about 2%. Energy, like petrol and gas, has become more expensive because of the war in the Middle East.\nThe Bank will choose again on 5 November. If the rate goes up, loans and some mortgages will cost more each month. A mortgage is a loan used to buy a home.",
-    "why": "It could change how much families pay on loans and mortgages."
+    "headline": "The Prime Minister has a plan to change how we look after older people",
+    "body": "Andy Burnham is the Prime Minister, which means he is the person in charge of the government. On 29 September he gave a big speech to his party, Labour, in a city called Liverpool.\nHe said he wants a 'new social contract'. That just means a new deal between the government and everyone else. He promised that the state pension would go up every year. The state pension is money the government pays to older people. He also said people should stop paying charges for care, which is help for people who cannot manage everyday jobs by themselves. A new National Care Service would be free to use, and taxes would pay for it. Taxes are the money people pay to the government.\nHe said he wants to change how MPs are chosen, so that each party gets a fair number of seats for the votes it wins. MPs are the people who work in Parliament to make the rules.\nHe said it will cost money and take time, so some choices will be hard.",
+    "why": "It shows the changes the leader of the country wants to make."
    },
    {
-    "headline": "The Bank has left the rate alone, for now",
-    "body": "The Bank of England is a very big bank for the whole country. It decides on a number called the interest rate. Think of it as the price of borrowing money. If you borrow money, you pay a bit extra back. That extra bit is called interest.\nOn 17 September, the Bank said it would leave the rate at 3.75%. Nine people voted. Six said leave it. Three said make it higher.\nWhy might it go higher? Because prices are rising. Things in the shops cost more now than they did a year ago. In August, they cost 3.1% more. The Bank wants prices to go up by just 2%. Petrol and gas cost more because of fighting far away.\nThe Bank will choose again on 5 November. If the rate goes up, people who borrowed money will have to pay back more each month. Saving money could pay a little more.",
-    "why": "It matters because it changes how much people pay on loans and what savers earn."
+    "headline": "The leader of the country has some big plans",
+    "body": "Andy Burnham is the Prime Minister. He is the person in charge of the country's government. He gave a big speech on 29 September in a city called Liverpool.\nHe told people about his plans. He wants older people to get a bit more money from the government each year. This is called the state pension. He wants people who need help looking after someone to stop paying for it. He also wants a new care service. It would help people who cannot look after themselves. It would not cost them anything when they use it. We would all pay for it with our taxes. Taxes are money we give to the government to pay for things like schools and hospitals.\nHe also wants to change how we choose MPs. MPs are the people who help make the rules. He wants the choosing to be fairer.\nHe said it will cost a lot. Some plans will take a long time, and some will be hard to do.",
+    "why": "It tells us what the leader wants to change to help people."
    },
    {
-    "headline": "Why the Bank is watching prices closely",
-    "body": "Imagine you get pocket money every week. Then your favourite sweets start to cost more. Your money buys less than before. That is called inflation, and it is what the Bank of England is worried about.\nThe Bank of England is a special bank that looks after the country's money. It picks a number called the interest rate. When grown-ups borrow money, they pay extra back, and the interest rate decides how much extra. On 17 September, the Bank kept the number at 3.75%.\nNine people voted. Six said keep it the same. Three said make it a bit bigger, to help stop prices going up too fast.\nPrices have gone up more than the Bank would like. Petrol and gas cost more because of fighting far away.\nThe Bank will choose again on 5 November. If it makes the number bigger, borrowing money costs more.",
-    "why": "It is about stopping the things we buy from costing more and more."
+    "headline": "A leader makes a promise to help older people",
+    "body": "Imagine your school had a new head teacher. On a big day, she stands up and tells everyone what she plans to do. That is a bit like what happened here. The new leader of the country is called the Prime Minister. His name is Andy Burnham.\nHe stood up in front of lots of people and said what he wants to do. He wants to help older people. They would get a little more pocket money from the government each year. He also wants to help people who need looking after, like people who are too poorly or too old to cook or get dressed on their own. That help would be free when they need it.\nHe also wants to change how grown-ups vote, to make it fairer, a bit like making sure everyone gets a fair turn in a playground game.\nBut he said it will cost lots of money, so it will take time.",
+    "why": "It is a leader saying how he hopes to make life kinder for older people."
    }
   ]
  },
@@ -300,83 +300,8 @@
   ]
  },
  {
-  "id": "inflation-3-1-energy-cap-rise",
-  "order": 5,
-  "topic": "Economy",
-  "region": "United Kingdom",
-  "source": "Uswitch",
-  "url": "https://www.uswitch.com/gas-electricity/news/october-energy-price-cap-to-increase-by-four-percent/",
-  "headline": "UK inflation rises to 3.1% and the energy price cap goes up 4% from October",
-  "terms": [
-   {
-    "term": "Inflation",
-    "meaning": "The rate at which prices rise over time."
-   },
-   {
-    "term": "Price cap",
-    "meaning": "Ofgem's limit on the price per unit of gas and electricity that suppliers can charge."
-   },
-   {
-    "term": "Core inflation",
-    "meaning": "Inflation leaving out energy, food, alcohol and tobacco."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "UK inflation rises to 3.1% and the energy price cap goes up 4% from October",
-    "body": "UK consumer price inflation rose to 3.1% in the 12 months to August 2026, from 2.9% in July, the highest in five months and in line with market expectations. Transport was the biggest upward pressure, with transport inflation rising to 4.6% from 3.6%, driven particularly by motor fuels. Core inflation, which leaves out energy, food, alcohol and tobacco, held at 2.6% for a second month.\nOn 26 August Ofgem announced that its price cap would rise by 4% for 1 October to 31 December. The typical dual-fuel bill goes from £1,663 to £1,723 a year, about £5 a month more. The rise is driven almost entirely by gas, which is up 8%, while electricity is broadly stable because of a government decision to remove VAT on domestic electricity bills. Part of the headline reflects a change to Ofgem's assumptions about typical use.\nThe Bank of England blames the rise in inflation on the Middle East conflict and its effect on energy prices. The next cap, covering January to March 2027, will be announced on 25 November. Cornwall Insight has forecast a rise, with one projection putting the cap at £1,872. September inflation figures are due on 21 October.",
-    "why": "Rising bills and prices squeeze household budgets and feed into decisions on interest rates and benefits."
-   },
-   {
-    "headline": "Inflation hits 3.1% and the October energy cap rises by 4%",
-    "body": "UK inflation rose to 3.1% in the year to August 2026, up from 2.9% in July. It was the highest rate in five months and matched forecasts. Transport costs pushed it up most, with transport inflation at 4.6% compared with 3.6% in July, mainly because of motor fuels. Core inflation, which excludes energy, food, alcohol and tobacco, stayed at 2.6%.\nOfgem said on 26 August that the energy price cap would rise by 4% from 1 October to 31 December. A typical dual-fuel bill rises from £1,663 to £1,723 a year, about £5 a month. Gas costs are up 8%, but electricity is steady because VAT on domestic electricity was removed. Some of the headline change comes from new assumptions about typical household use.\nThe Bank of England says the Middle East conflict has raised energy prices and inflation. The next cap will be announced on 25 November, and forecasters at Cornwall Insight expect it to rise. The September inflation figure is due on 21 October.",
-    "why": "Higher energy bills and prices reduce what households can spend and shape interest rate decisions."
-   },
-   {
-    "headline": "Prices are rising faster, and energy bills go up again in October",
-    "body": "UK inflation, the rate at which prices rise, was 3.1% in the year to August 2026. In July it was 2.9%. This was the highest level for five months. Transport costs rose fastest, mainly because of petrol and diesel. Without energy, food, alcohol and tobacco, inflation was 2.6%, the same as the month before.\nThe regulator Ofgem has raised its energy price cap by 4% for October to December. The price cap limits what suppliers can charge per unit of energy. A typical household will pay £1,723 a year instead of £1,663, which is about £5 a month more. Gas is 8% dearer, while electricity prices are steady because the government took VAT off domestic electricity bills.\nThe Bank of England says the conflict in the Middle East has pushed up energy prices. The next price cap will be announced on 25 November and forecasters expect another rise. The next inflation figure comes on 21 October.",
-    "why": "It affects what families pay for fuel, food and heating this winter."
-   },
-   {
-    "headline": "Prices rose 3.1% in a year and energy bills are going up",
-    "body": "Prices in the UK were 3.1% higher in August than a year earlier. This is called inflation. In July it was 2.9%, so it has gone up. It is the highest in five months. Petrol and diesel were a big reason. If you leave out energy, food, alcohol and tobacco, prices rose 2.6%.\nEnergy bills are going up too. The energy price cap is a limit set by a regulator called Ofgem on what companies can charge for each unit of gas and electricity. From 1 October the cap rose by 4%. A typical home will pay £1,723 a year, up from £1,663. That is about £5 a month more. Gas costs more, but electricity does not because the government took VAT off it.\nThe Bank of England says the war in the Middle East is making energy dearer. The cap will change again in January, and experts think it will rise. The next list of prices comes out on 21 October.",
-    "why": "Many families will find food, fuel and heating more expensive."
-   },
-   {
-    "headline": "Things cost more, and heating bills are going up",
-    "body": "Prices in the UK went up by 3.1% over the year to August. When prices rise like this, it is called inflation. In July the figure was 2.9%, so it is higher now. Petrol and diesel were a big reason.\nEnergy bills are rising too. There is a limit on how much energy companies can charge for each unit of gas or electricity. It is called the price cap. A regulator called Ofgem sets it. From 1 October the cap went up by 4%. A normal home will now pay about £1,723 a year for energy. Before it was £1,663. That is about £5 more a month. Gas costs more. Electricity costs about the same, because the government took a tax called VAT off it.\nThe Bank of England says fighting in the Middle East has made energy dearer around the world. The cap will change again in January. Experts think it could go up. We will see the next price figures on 21 October.",
-    "why": "Families have to find more money for the same things."
-   },
-   {
-    "headline": "Prices keep going up, and so do energy bills",
-    "body": "Prices in the shops are going up. In the year to August, they went up by 3.1%. This is called inflation. In July it was 2.9%, so the number has grown. Petrol and diesel cost a lot more, and this is a big reason.\nEnergy bills are going up too. Energy companies cannot charge as much as they like. A group called Ofgem puts a limit on what they can charge. This is called the price cap. From 1 October the limit went up by 4%. A normal home will pay about £1,723 a year for gas and electricity. It used to be £1,663. That is around £5 more each month.\nGas is more expensive. Electricity costs about the same because the government took off a tax called VAT.\nThe Bank of England says fighting in the Middle East is making energy dear all over the world. The cap will change again in January, and it may go up again.",
-    "why": "It means a bit less money is left over for other things."
-   },
-   {
-    "headline": "Why things in the shops cost more now",
-    "body": "Prices go up over time, but this year they have gone up faster. In August, things cost 3.1% more than they did a year before. This is called inflation. So something that cost £10 last year would now cost about £10.31.\nOne big reason is energy. Energy means things like petrol for cars and gas to heat homes. Fighting in the Middle East has made energy cost more all over the world.\nHeating bills are going up too. A group called Ofgem decides how much energy companies can charge. This is the price cap. From 1 October it went up by 4%. A normal home will pay about £5 more each month for gas and electricity. Gas costs more. Electricity costs about the same, because the government took off a tax.\nNext time the cap will change is in January. Experts think it could go up again.",
-    "why": "Higher prices mean families can buy less with the same money."
-   },
-   {
-    "headline": "Prices are going up faster and energy bills are rising",
-    "body": "Prices in the shops are going up. In the year to August they rose by 3.1%. This is called inflation. It was 2.9% in July, so it has gone up. Petrol and diesel were a big part of the reason.\nEnergy bills are rising too. A regulator called Ofgem sets a limit on what energy companies can charge for each unit of gas or electricity. This is called the price cap. From 1 October the cap went up by 4%. A normal home will pay about £1,723 a year for gas and electricity, instead of £1,663. That is about £5 more each month.\nGas costs more. Electricity costs about the same, because the government took off a tax called VAT.\nThe Bank of England says the fighting in the Middle East is making energy dearer around the world. The cap will change again in January.",
-    "why": "It means families can buy a little less with the same money."
-   },
-   {
-    "headline": "Things in the shops cost a bit more than before",
-    "body": "Do you remember when a bar of chocolate cost less? Over the last year, most things have got a little more expensive. In August, things cost 3.1% more than a year ago. That is about 3 pence more for every pound. We call this inflation.\nPetrol for cars costs more. Gas that keeps houses warm costs more too. This is because there is fighting a long way away, in a part of the world called the Middle East. A lot of the world's energy comes from there.\nThere is a limit on how much companies can charge for energy at home. This limit is going up a little from October. A normal family will pay about £5 more each month.\nGrown-ups are worried about this, because their money does not go as far. People who decide things are watching closely.",
-    "why": "It makes grown-ups' money go less far."
-   },
-   {
-    "headline": "Why your family might feel the pinch",
-    "body": "Imagine your pocket money stays the same, but sweets cost a bit more each month. You can buy less. That is what grown-ups are feeling. Prices of lots of things have gone up a little over the last year. About 3 pence more for every pound. The grown-up word for this is inflation.\nOne reason is that energy costs more. Energy is what makes cars go and keeps houses warm. There is fighting far away, and that makes energy dearer.\nThere is a limit on how much energy companies can charge. It has gone up a bit too. A normal family will pay about £5 more each month to heat their home.\nThat is not a lot, but it adds up. People in charge are watching to see if prices keep rising.",
-    "why": "It is like sweets costing more when your pocket money stays the same."
-   }
-  ]
- },
- {
   "id": "uk-unemployment-4-9",
-  "order": 6,
+  "order": 5,
   "topic": "Economy",
   "region": "United Kingdom",
   "source": "Office for National Statistics",
@@ -450,453 +375,378 @@
   ]
  },
  {
-  "id": "russia-strikes-ukraine-pryluky",
-  "order": 7,
-  "topic": "Politics",
-  "region": "Europe",
-  "source": "Kyiv Independent",
-  "url": "https://kyivindependent.com/russia-slams-kyiv-in-mass-missile-drone-attack-on-putins-74th-birthday/",
-  "headline": "Russian missile and drone barrage kills at least 30 across Ukraine, including 22 in Pryluky",
-  "terms": [
-   {
-    "term": "Cruise missile",
-    "meaning": "A guided missile that flies low and can travel a long way to hit a target."
-   },
-   {
-    "term": "Energy infrastructure",
-    "meaning": "Power stations, grids and gas systems that supply electricity and heat."
-   },
-   {
-    "term": "Blackout",
-    "meaning": "A loss of electric power across an area."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Russian missile and drone barrage kills at least 30 across Ukraine, including 22 in Pryluky",
-    "body": "Russia launched a large missile and drone attack on Ukraine overnight into 7 October 2026, killing at least 30 people and injuring more than 100, according to Ukrainian officials. The strikes fell on Vladimir Putin's 74th birthday.\nPresident Volodymyr Zelensky said Russia fired about 70 missiles along with drones, and the Ukrainian air force counted around 130 drones, including decoys. Energy infrastructure was among the main targets. Russia's Defence Ministry said it hit Ukraine's defence industry.\nThe deadliest single strike hit Pryluky, a city in the Chernihiv region, where a cruise missile destroyed a five-storey apartment block. The regional governor put the death toll there at 22, including five children, with more than 50 injured, and warned people could still be trapped in the rubble. Figures were still changing.\nOvernight into 8 October, drones hit districts of Kyiv and killed four people, according to NPR and the Associated Press. Blackouts have worsened in the capital. Zelensky warned that missile and drone attacks are likely to intensify as winter approaches, as Russia targets the power system that provides heat and light.",
-    "why": "Attacks on homes and power supplies put civilians at risk and show the war is still intensifying before winter."
-   },
-   {
-    "headline": "Russia hits Ukraine with about 70 missiles and 130 drones, killing at least 30",
-    "body": "Russia attacked Ukraine overnight into 7 October 2026 with about 70 missiles and some 130 drones, including decoys, according to President Zelensky and the Ukrainian air force. At least 30 people were killed and more than 100 injured, the Kyiv Independent reported. The date was Vladimir Putin's 74th birthday.\nIn Pryluky, in the Chernihiv region, a cruise missile destroyed a five-storey apartment block. The governor said 22 people died, including five children, and more than 50 were hurt. Rescuers feared more people were trapped.\nRussia's Defence Ministry said it targeted Ukraine's defence industry, while Zelensky said energy infrastructure was among the main targets. Overnight into 8 October, drones hit Kyiv and killed four people, NPR and AP reported.\nBlackouts in Kyiv have worsened. Zelensky warned that attacks will probably grow as winter nears.",
-    "why": "Civilian deaths and damage to power networks matter for Ukraine's winter and for peace efforts."
-   },
-   {
-    "headline": "Russian strikes kill at least 30 in Ukraine, 22 of them in one apartment block",
-    "body": "Ukrainian officials say a Russian attack overnight into 7 October killed at least 30 people across Ukraine and injured over 100. Russia used around 70 missiles and about 130 drones, many of them decoys. It happened on Vladimir Putin's 74th birthday.\nThe worst damage was in Pryluky, a city in the Chernihiv region. A cruise missile hit a five-storey block of flats. The regional governor said 22 people died, five of them children, and more than 50 were injured. People were feared to be still under the rubble.\nRussia said it was hitting Ukraine's defence industry. President Zelensky said power stations and other energy sites were among the main targets. Drones also struck Kyiv overnight into 8 October and killed four people.\nPower cuts are getting worse in the capital, and Zelensky has warned that attacks are likely to get heavier as winter comes.",
-    "why": "It shows how the war is hurting ordinary people and the power system before the cold months."
-   },
-   {
-    "headline": "Russian attack kills at least 30 across Ukraine",
-    "body": "A Russian air attack killed at least 30 people in Ukraine overnight into 7 October, Ukrainian officials said. Moscow fired around 70 missiles and some 130 drones on Vladimir Putin's 74th birthday.\nIn Pryluky, in the north of the country, a cruise missile destroyed an apartment building. The governor said 22 people died, including five children, and more than 50 were injured. Rescue teams were searching for others.\nPresident Zelensky said energy sites were a main target. Russia said it was attacking Ukraine's defence industry. Four more people died when drones struck Kyiv overnight into 8 October.\nPower cuts have become worse in Kyiv. Zelensky has warned that the missile and drone attacks will probably increase as winter approaches.",
-    "why": "The attacks could leave millions short of heat and light this winter."
-   },
-   {
-    "headline": "Russia attacks Ukraine with missiles and drones, killing at least 30 people",
-    "body": "Russia attacked Ukraine overnight into 7 October with about 70 missiles and 130 drones. Ukrainian officials say at least 30 people died and more than 100 were hurt. It happened on Vladimir Putin's birthday.\nThe worst hit place was Pryluky, a city in northern Ukraine. A missile destroyed a five-storey block of flats. The local governor said 22 people died, five of them children. More than 50 were injured and some people may still be under the rubble.\nRussia says it hits military and defence sites. Ukraine's president, Volodymyr Zelensky, says power stations and energy sites were a main target. Four more people died in Kyiv on the next night when drones hit the city.\nPeople in Kyiv are facing longer power cuts. Zelensky says the attacks will probably get worse as winter gets closer.",
-    "why": "People may face cold and darkness this winter, and more families are losing loved ones."
-   },
-   {
-    "headline": "Russian missiles and drones kill at least 30 people in Ukraine",
-    "body": "Russia sent about 70 missiles and 130 drones at Ukraine overnight into 7 October. At least 30 people died and more than 100 were hurt, according to Ukrainian officials. It was Vladimir Putin's birthday.\nIn the city of Pryluky, a missile hit a block of flats five floors high. The governor said 22 people died, including five children. More than 50 people were hurt, and rescuers feared that others were stuck under the rubble.\nRussia says it was attacking Ukraine's defence factories. Ukraine's leader, Volodymyr Zelensky, says it was also aiming at power sites. The next night, drones hit Kyiv and four more people died.\nThere are already longer power cuts in Kyiv. Mr Zelensky says the attacks are likely to get worse as the weather gets colder.",
-    "why": "It shows how the war is hurting families and power supplies as winter comes."
-   },
-   {
-    "headline": "Russia attacks Ukraine and at least 30 people die",
-    "body": "Russia attacked Ukraine in the night before 7 October. It used about 70 missiles and 130 drones. A drone is a small aircraft with no pilot. Ukrainian officials say at least 30 people died and more than 100 were hurt. It was Vladimir Putin's birthday. He is the president of Russia.\nThe worst place was Pryluky, a city in the north. A missile hit a block of flats. The governor said 22 people died, and five of them were children. Many more were hurt. Rescuers feared some people were still under the broken building.\nRussia said it was aiming at places that make weapons. Ukraine says power stations were also hit. Next night, drones hit Kyiv and killed four more people.\nPeople in Kyiv have longer power cuts. The Ukrainian leader, Volodymyr Zelensky, says more attacks will come as winter gets closer.",
-    "why": "People may be left without heat and light, and many families are grieving."
-   },
-   {
-    "headline": "Russia fires missiles and drones at Ukraine and many people die",
-    "body": "Ukraine and Russia have been at war for a long time. In the night before 7 October, Russia fired about 70 missiles and 130 drones at Ukraine. A drone is a small aircraft with no pilot on board. At least 30 people died and over 100 were hurt. That was on the birthday of Russia's president, Vladimir Putin.\nThe worst place was a city called Pryluky. A missile hit a block of flats. The governor said 22 people died. Five of them were children. Rescue workers were looking for more people under the broken building.\nRussia says it was hitting places that make weapons. Ukraine says power stations were also hit. Power stations make the electricity for homes. The next night, drones hit the capital city, Kyiv, and four more people died.\nWinter is coming, and homes need heat. Ukraine's leader, Volodymyr Zelensky, says the attacks may get worse.",
-    "why": "If power stations are damaged, homes can lose heat and light in the cold."
-   },
-   {
-    "headline": "Missiles and drones hit Ukraine and people were killed",
-    "body": "There is a war between Russia and Ukraine. Russia is the bigger country. Ukraine is next to it. In the night before 7 October, Russia sent many missiles and drones to Ukraine. A missile is a big flying bomb. A drone is a small plane with no pilot.\nAt least 30 people died. Many more were hurt. In a city called Pryluky, a missile hit a block of flats. People live in flats, like in a big house with many homes. Twenty-two people died there. Five of them were children. Workers looked for more people under the broken building.\nThe next night, drones hit the big city of Kyiv. Four more people died.\nRussia says it was hitting places that make weapons. Ukraine says it hit power stations too. Power stations make electricity. Winter is coming, and people need heat. Ukraine's leader says it may get worse.",
-    "why": "It is very sad, and it could make winter harder for people in Ukraine."
-   },
-   {
-    "headline": "A war in a faraway country is hurting families",
-    "body": "There is a war between two countries called Russia and Ukraine. A war is a very big fight. Ukraine is where lots of families live, just like yours. One night this week, bombs and flying machines hit Ukraine. Many people were hurt and some died. That is very sad.\nIn one town, a bomb hit a block of flats. It is a big building where lots of families live, each in their own home. Some of the people who died were children. Rescue workers worked hard to look for anyone who needed help.\nPeople there are also worried about winter. Power stations, which make the electricity for lights and heaters, were hit too. Winter is cold. If heaters stop working, it is hard to stay warm.\nGrown-ups all over the world are talking about how to stop the fighting and keep people safe.",
-    "why": "It matters because everyone deserves to be safe and warm at home."
-   }
-  ]
- },
- {
-  "id": "lithuania-nuclear-ban-first-vote",
-  "order": 8,
-  "topic": "Politics",
-  "region": "Europe",
-  "source": "Reuters",
-  "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/06/kremlin-warns-lithuania-that-its-move-to-lift-a-nuclear-arms-ban-risks-further-escalation",
-  "headline": "Lithuania's parliament backs lifting ban on hosting nuclear weapons at first vote; Kremlin warns of escalation",
-  "terms": [
-   {
-    "term": "NATO",
-    "meaning": "A military alliance of 32 countries, including the UK, US and Lithuania, that agree to defend each other."
-   },
-   {
-    "term": "Constitutional ban",
-    "meaning": "A rule written into a country's constitution that can only be changed by a special vote."
-   },
-   {
-    "term": "Escalation",
-    "meaning": "A step-by-step increase in tension or conflict."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Lithuania's parliament backs lifting ban on hosting nuclear weapons at first vote; Kremlin warns of escalation",
-    "body": "Lithuania's parliament took a first step on 6 October 2026 towards removing a constitutional ban on hosting nuclear weapons on its territory, passing the first reading of the bill by 106 votes to 18. The Kremlin responded the same day, with spokesman Dmitry Peskov saying the move could lead to a new round of escalation in the region.\nThe bill needs a second vote after a mandatory three-month wait. That final vote is tentatively scheduled for 12 January 2027 and requires a two-thirds majority, meaning at least 94 of the 141 members. Lithuania is a member of NATO and borders Russia's Kaliningrad region and Belarus.\nLithuanian officials stress that changing the law does not mean weapons will be deployed. Vilnius has said there are currently no plans to station them.\nPeskov linked the vote to a proposal floated this month by US President Donald Trump to build an American military base in Lithuania. He said that if NATO military infrastructure moves closer to Russia's borders it cannot be seen as anything but a step towards escalating tensions, and that Russia would take all necessary measures to ensure its own security. Earlier Russian warnings had been harsher; Kyiv Post described his latest remarks as milder.",
-    "why": "It shows how nuclear weapons are re-entering debates in Europe as tensions with Russia grow."
-   },
-   {
-    "headline": "Lithuanian MPs back first step to lift nuclear weapons ban, Kremlin warns of escalation",
-    "body": "Lithuania's parliament voted 106 to 18 on 6 October 2026 in the first reading of a bill to remove the constitutional ban on hosting nuclear weapons. The Kremlin said the same day that the move risked a new round of escalation.\nA final vote must wait three months and is tentatively set for 12 January 2027. It needs a two-thirds majority, at least 94 votes. Lithuania is a NATO member bordering Russia's Kaliningrad region and Belarus.\nOfficials in Vilnius say the change would not mean weapons are deployed and that there are no current plans to station them.\nKremlin spokesman Dmitry Peskov also referred to a proposal by President Trump this month to build a US military base in Lithuania. He said bringing NATO infrastructure closer to Russia's border increases tension and that Russia would take all necessary measures for its security. Kyiv Post said his remarks were milder than earlier Russian threats.",
-    "why": "Nuclear policy on NATO's eastern edge affects security across Europe, including the UK."
-   },
-   {
-    "headline": "Lithuania moves to lift its ban on nuclear weapons; Russia warns of escalation",
-    "body": "Lithuania's parliament has passed the first stage of a plan to remove a ban on nuclear weapons from its constitution. The vote on 6 October was 106 to 18. The Kremlin warned the same day that this could lead to more tension.\nThe law needs one more vote after a three-month wait. That vote is expected on 12 January 2027 and needs at least 94 members, two thirds of parliament, to agree. Lithuania is in NATO and borders Russia's Kaliningrad region and its ally Belarus.\nLithuanian officials say changing the rule does not mean weapons are coming and that there are no plans to put any there.\nRussian spokesman Dmitry Peskov also mentioned an idea from President Trump for a US military base in Lithuania. He said moving NATO forces closer to Russia's borders is a step towards more tension and that Russia would take whatever steps it needed to stay safe.",
-    "why": "It shows how tension between NATO and Russia is shaping decisions in countries near Russia."
-   },
-   {
-    "headline": "Lithuania takes first step to allow nuclear weapons on its soil",
-    "body": "Lithuania's parliament voted by 106 to 18 on 6 October to begin removing a constitutional ban on hosting nuclear weapons. The Kremlin responded that the step could lead to further escalation.\nA second and final vote is tentatively planned for 12 January 2027 after a mandatory three-month wait. It needs the support of two thirds of MPs, or at least 94 votes. Lithuania, a NATO member, borders Russia's Kaliningrad region and Belarus.\nLithuanian officials say the change would not mean weapons arrive and that there are no plans to deploy them.\nKremlin spokesman Dmitry Peskov linked the vote to a proposal by President Trump for a US base in Lithuania. He said NATO building up closer to Russia's border could only increase tension, and that Russia would take whatever steps were needed to protect itself.",
-    "why": "The row adds to tension between Russia and NATO in Eastern Europe."
-   },
-   {
-    "headline": "Lithuania votes to start lifting its ban on nuclear weapons",
-    "body": "Lithuania's parliament voted on 6 October to begin removing a ban on nuclear weapons from its constitution. The vote was 106 to 18. The Kremlin said this could lead to more tension.\nThere has to be another vote after three months. It is expected on 12 January 2027. For the change to pass, at least 94 MPs must vote yes. Lithuania is a member of NATO, the alliance of countries that protect each other. It shares borders with Belarus and with a part of Russia called Kaliningrad.\nLithuanian officials say that this does not mean nuclear weapons are about to arrive. They say there are no plans to put any there.\nA Kremlin spokesman said that if NATO moves closer to Russia's borders, tension will rise. He also mentioned an idea from US President Donald Trump to build a US base in Lithuania.",
-    "why": "It is part of a wider argument between Russia and NATO that could affect the safety of Europe."
-   },
-   {
-    "headline": "Lithuania moves towards allowing nuclear weapons on its land",
-    "body": "Lithuania's parliament voted on 6 October to start taking a ban on nuclear weapons out of the country's constitution. The vote was 106 to 18. Russia's government said it could lead to more tension.\nThere must be another vote in three months, around 12 January 2027. At least 94 members of parliament must vote yes. Lithuania is in NATO, a group of countries that help to defend each other. It has borders with Belarus and with a small piece of Russia called Kaliningrad.\nLithuania's officials say they do not plan to bring nuclear weapons in. They say it only changes the rules.\nA Russian spokesman said it would only make things tense if NATO builds up near Russia. He also mentioned a plan from US President Donald Trump for a US base in Lithuania.",
-    "why": "It shows how worried countries near Russia are, and how Russia reacts."
-   },
-   {
-    "headline": "Lithuania votes to remove its ban on nuclear weapons",
-    "body": "Lithuania is a small country in Europe. It is next to Russia and Belarus. On 6 October its parliament voted to begin taking out a rule that stops nuclear weapons being kept there. The vote was 106 to 18. A nuclear weapon is a very powerful bomb.\nThere will be another vote after three months, around 12 January 2027. For it to pass, at least 94 members of parliament must say yes.\nLithuania is in NATO. This is a group of countries that promise to help each other if they are attacked. Lithuanian leaders say they have no plans to bring nuclear weapons in. They say the change just keeps the option open.\nRussia says this could make things more tense. A Russian spokesman said Russia would take whatever steps it needs to stay safe.",
-    "why": "It could make neighbouring countries feel less safe, so leaders are watching closely."
-   },
-   {
-    "headline": "A small country wants to be allowed to keep nuclear weapons",
-    "body": "Lithuania is a small country in Europe. It is next to Russia. On 6 October, the people who make its laws, in a group called parliament, voted on a change. At the moment, Lithuania has a rule that says nuclear weapons cannot be kept there. Nuclear weapons are the most powerful bombs in the world. The vote was to start taking that rule away.\nThere will be another vote in three months. Lithuania's leaders say they do not plan to bring any weapons in. They say they want the choice.\nLithuania is in a group called NATO, where countries promise to help each other if one is attacked. The United States is the biggest member.\nRussia said the change could make things more tense. A Russian spokesman said Russia would do what it needs to do to keep itself safe.",
-    "why": "Leaders are worried that talk of nuclear weapons could lead to more danger."
-   },
-   {
-    "headline": "A country votes to change a rule about very powerful bombs",
-    "body": "Lithuania is a small country in Europe, and it is next to a much bigger country called Russia. Every country has rules called laws. Lithuania had a rule that said nobody could keep nuclear weapons there. Nuclear weapons are the biggest and most dangerous bombs of all.\nOn 6 October, the people who make the laws voted to start taking that rule away. Most of them voted yes. There will be one more vote in three months.\nLithuania's leaders say they do not plan to bring the bombs in. They just want to be able to if they ever need to.\nLithuania is part of a team of countries called NATO. They promise to help each other if one is attacked.\nRussia said this could make things more tense. It said it would do whatever it needed to keep itself safe.",
-    "why": "It matters because very powerful bombs can be dangerous, so people want to stay calm."
-   },
-   {
-    "headline": "A country is thinking about changing a rule to feel safer",
-    "body": "Imagine a small classroom next to a much bigger classroom. The bigger class sometimes shouts and gets cross. The small class might want to ask for help from their friends, so they feel safe.\nLithuania is a bit like that small classroom. It is a small country next to a big one called Russia. Lithuania has a rule that says it cannot keep the biggest and most dangerous bombs. This week, the grown-ups who make its rules voted to start changing that rule. They say they do not plan to bring any bombs in. They just want the choice.\nRussia did not like the idea. It said it could make things more tense and that it would do what it needs to keep itself safe.\nGrown-ups in many countries are talking, and they hope everyone stays calm.",
-    "why": "Grown-ups want everyone to stay calm and safe."
-   }
-  ]
- },
- {
-  "id": "hormuz-shipping-attacks-talks-stalled",
-  "order": 9,
+  "id": "hormuz-traffic-talks",
   "topic": "Politics",
   "region": "Middle East",
-  "source": "Bloomberg",
-  "url": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal",
-  "headline": "Fresh Iranian attacks on tankers deepen Hormuz crisis as US-Iran diplomacy remains stalled",
+  "source": "Al Jazeera",
+  "url": "https://www.aljazeera.com/amp/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait",
+  "headline": "Hormuz shipping falls to a two-month low as US and Iran trade positions on nuclear talks",
   "terms": [
    {
     "term": "Strait of Hormuz",
-    "meaning": "A narrow waterway between Iran and Oman through which about a fifth of the world's oil and gas normally passes."
+    "meaning": "A narrow sea passage between Iran and Oman through which a large share of the world's oil is shipped."
+   },
+   {
+    "term": "Enrichment",
+    "meaning": "Processing uranium to a higher purity; at high levels it can be used for nuclear power or weapons."
    },
    {
     "term": "Blockade",
-    "meaning": "Stopping ships from entering or leaving a port or area."
-   },
-   {
-    "term": "Revolutionary Guard",
-    "meaning": "Iran's powerful military force, also called the IRGC."
+    "meaning": "Using ships to stop others from entering or leaving ports."
    }
   ],
   "levels": [
    {
-    "headline": "Fresh Iranian attacks on tankers deepen Hormuz crisis as US-Iran diplomacy remains stalled",
-    "body": "Attacks on shipping around the Strait of Hormuz have continued into October 2026, deepening a crisis that has run for about six months and kept diplomacy between the United States and Iran stalled.\nBloomberg reported on 7 October that fresh tanker attacks by Iran were threatening a recent recovery in Middle East oil flows. UK Maritime Trade Operations had reported at least nine attacks in the waterway so far in October. Shipments through the strait had risen in recent weeks, but the pace of Iranian strikes on ships has also increased.\nThe diplomatic picture is difficult. On 18 August, President Trump said there were no talks planned with Iran and that the US naval blockade of Iranian ports remained in full force. Iran has said the strait will not reopen until Washington ends the blockade, and it has held talks with Oman about a temporary shipping corridor. The Revolutionary Guard has been turning back vessels that use routes it has not approved, and Iran wants control of the strait, including the right to charge fees, which Washington rejects.\nAbout a fifth of the world's oil and gas normally passes through the strait, so the dispute affects energy prices around the world, including UK fuel and gas bills.",
-    "why": "The standoff keeps oil and gas prices high, which feeds into inflation and household bills in the UK."
+    "headline": "Hormuz shipping falls to a two-month low as US and Iran trade positions on nuclear talks",
+    "body": "Vessel traffic through the Strait of Hormuz has fallen to its lowest level in more than two months, Reuters reported, citing shipping data. The UK Maritime Trade Operations office recorded nine attacks on tankers in October up to 7 October, according to Al Jazeera's live coverage of the Iran war on 9 October 2026.\nUS Secretary of State Marco Rubio said on 7 October that Iran had lost complete control of the strait, while an adviser to Iran's Revolutionary Guard said the force would soon block what he called illegal routes.\nOn diplomacy, Vice President Vance told Reuters the United States would accept a meaningful reduction in Iran's enrichment capacity, and Qatar said indirect talks continue. An Iranian official said American nuclear demands were at odds with Iran's and that the blockade of Iranian ports must end first.\nThe reports describe a stand-off: shipping through a key oil route is thinning while each side sets conditions for talks that have not produced a deal.",
+    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
    },
    {
-    "headline": "Iran keeps attacking ships near Hormuz as talks with the US remain stuck",
-    "body": "Shipping attacks near the Strait of Hormuz have continued into October 2026, in a crisis now about six months old. Bloomberg reported on 7 October that new Iranian attacks on tankers threatened a recent rise in Middle East oil flows, and that UK Maritime Trade Operations had logged at least nine attacks in the waterway so far this month.\nDiplomacy has made little progress. On 18 August, President Trump said no talks were planned with Iran and that the US blockade of Iranian ports remained in force. Iran says the strait will stay closed to normal traffic until the blockade ends. It has been talking with Oman about a temporary corridor.\nThe Revolutionary Guard has turned back ships using routes it has not approved. Iran wants control of the strait and the right to charge fees, which the US rejects.\nAround a fifth of the world's oil and gas normally passes through the strait.",
-    "why": "Energy supplies and prices around the world depend on this narrow waterway."
+    "headline": "Shipping through Hormuz drops to a two-month low as talks continue",
+    "body": "Traffic through the Strait of Hormuz has dropped to its lowest level in more than two months, Reuters reported, based on shipping data. The UK Maritime Trade Operations office counted nine attacks on tankers in October up to the 7th, Al Jazeera's live coverage of 9 October 2026 said.\nUS Secretary of State Marco Rubio said on 7 October that Iran had lost complete control of the strait. An adviser to Iran's Revolutionary Guard said the force would soon block what he called illegal routes.\nVice President Vance told Reuters the US would accept a meaningful cut in Iran's capacity to enrich uranium, and Qatar said indirect talks are continuing. An Iranian official said US demands on nuclear issues clash with Iran's, and that the blockade of Iranian ports must end first.\nSo far there is no deal, and a key oil route is seeing fewer ships.",
+    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
    },
    {
-    "headline": "Attacks on ships continue near the Strait of Hormuz and talks are stuck",
-    "body": "Attacks on ships near the Strait of Hormuz have carried on into October 2026. The crisis is about six months old. Bloomberg reported on 7 October that new Iranian attacks on oil tankers threatened a recent recovery in oil flows from the Middle East. A shipping monitor run by the UK navy, UK Maritime Trade Operations, had recorded at least nine attacks in the strait this month.\nTalks between the US and Iran have not got far. On 18 August, President Trump said no talks were planned and that the US blockade of Iranian ports would stay. Iran has said it will not reopen the strait until the blockade ends. It has also discussed a temporary shipping route with Oman.\nIran's Revolutionary Guard has been turning back ships that do not use its chosen route. Iran wants control of the waterway and the right to charge fees, but the US refuses.\nAround a fifth of the world's oil and gas normally goes through the strait.",
-    "why": "It affects the price of oil, petrol and gas for people in the UK and around the world."
+    "headline": "Fewer ships use the Strait of Hormuz as tanker attacks continue",
+    "body": "The number of ships passing through the Strait of Hormuz has fallen to its lowest in over two months, Reuters reported, using shipping data. A UK body that monitors shipping counted nine attacks on tankers in October up to the 7th, according to Al Jazeera's live coverage on 9 October 2026.\nUS Secretary of State Marco Rubio said Iran had lost complete control of the strait. An adviser to Iran's Revolutionary Guard, its elite military force, said it would soon block what he called illegal routes.\nVice President Vance told Reuters the US would accept a meaningful cut in Iran's ability to enrich uranium. Qatar said indirect talks go on. An Iranian official said the US and Iran want different things on nuclear matters, and that the US blockade of Iranian ports must end first.\nNo agreement has been reached, and the oil route is getting quieter.",
+    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
    },
    {
-    "headline": "Ship attacks near Hormuz continue as US-Iran talks remain stalled",
-    "body": "Attacks on shipping near the Strait of Hormuz have continued into October, six months into a crisis that has disrupted oil and gas supplies. Bloomberg reported on 7 October that fresh Iranian attacks on tankers threatened a recovery in flows, and the UK Maritime Trade Operations monitor has counted at least nine attacks in the strait this month.\nDiplomacy is stuck. On 18 August President Trump said no talks were planned with Iran and that the US blockade of Iranian ports remained in force. Iran says the strait will not reopen while the blockade lasts, and has held talks with Oman about a temporary shipping corridor.\nIran's Revolutionary Guard has been turning back ships that do not follow its approved route. Tehran wants control over the waterway, including the right to charge fees, which Washington rejects.\nAbout a fifth of the world's oil and gas normally passes through the strait.",
-    "why": "The dispute is a main reason for high fuel prices and rising inflation."
+    "headline": "Ships avoid the Strait of Hormuz as the US and Iran disagree in talks",
+    "body": "Fewer ships are sailing through the Strait of Hormuz than at any time in more than two months, according to shipping data reported by Reuters. A UK shipping monitor counted nine attacks on tankers in October up to the 7th, Al Jazeera reported on 9 October 2026.\nUS Secretary of State Marco Rubio said Iran had lost complete control of the strait. An adviser to Iran's Revolutionary Guard said the force would soon block what he called illegal routes.\nVice President Vance told Reuters the US would accept a meaningful cut in Iran's ability to make enriched uranium, which can be used for nuclear power or weapons. Qatar said indirect talks continue. An Iranian official said the two sides want different things and that the US blockade of Iran's ports must end first.\nThere is no deal yet, and the oil route is quieter than before.",
+    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
    },
    {
-    "headline": "Ships are still being attacked near Hormuz and talks are going nowhere",
-    "body": "Ships near the Strait of Hormuz are still being attacked. The crisis between Iran and the United States is about six months old. The strait is a narrow stretch of sea that about a fifth of the world's oil and gas normally travels through.\nOn 7 October, Bloomberg reported that new Iranian attacks on oil tankers were putting at risk a recent recovery in oil shipments. A UK navy-run monitoring group had counted at least nine attacks in the strait so far this month.\nThe two sides are not making progress. In August, President Trump said no talks were planned and that the US would keep blocking Iranian ports. Iran says it will not open the strait properly until the blockade ends. It has talked to Oman about a temporary route.\nIran's Revolutionary Guard turns back ships that use routes it has not approved. Iran wants to control the strait and charge fees. The US says no.",
-    "why": "It keeps energy prices high, which makes life more expensive for ordinary people."
+    "headline": "Fewer ships sail through a key oil route as the US and Iran argue",
+    "body": "The Strait of Hormuz is a narrow stretch of sea where a lot of the world's oil travels. Now fewer ships are using it than at any time in more than two months. A UK shipping monitor says there were nine attacks on tankers in October up to the 7th.\nThe US and Iran are in a stand-off. US Secretary of State Marco Rubio said Iran has lost control of the strait. An adviser to Iran's military force, the Revolutionary Guard, said it will soon block some routes.\nTalks are going on through go-betweens, with Qatar's help. Vice President Vance said the US would accept a big cut in Iran's ability to enrich uranium, which can be used to make nuclear fuel or weapons. An Iranian official said the US blockade of Iran's ports must stop first.\nNo deal has been made. If ships keep avoiding the strait, oil could cost even more.",
+    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
    },
    {
-    "headline": "Attacks on ships near Iran continue and there is no deal",
-    "body": "Ships are still being attacked near the Strait of Hormuz. This is a narrow stretch of sea next to Iran. About a fifth of the world's oil and gas usually passes through it. The problem between Iran and the United States has lasted about six months.\nOn 7 October, news reports said new Iranian attacks on oil tankers might spoil a recent recovery in oil deliveries. A group run by the UK navy had counted at least nine attacks in the strait so far in October.\nThe two sides are not talking much. In August, President Trump said there were no talks planned. The US is stopping ships from entering Iranian ports. Iran says it will not open the strait properly until that ends. It has talked to Oman about a temporary route.\nIran's Revolutionary Guard, a powerful part of its army, turns back ships that use the wrong route. Iran wants to run the strait and charge fees. The US says no.",
-    "why": "It can push up the price of fuel and energy for people all over the world."
+    "headline": "Fewer ships are using a key oil route while the US and Iran hold talks",
+    "body": "The Strait of Hormuz is a narrow sea passage that a big share of the world's oil goes through. This week, fewer ships used it than at any time in more than two months. A UK shipping monitor counted nine attacks on tankers in October up to the 7th.\nThe United States and Iran are in a stand-off. US Secretary of State Marco Rubio said Iran had lost control of the strait. An adviser to Iran's Revolutionary Guard, its elite military force, said it would soon block some routes.\nTalks are going on through go-betweens, with Qatar's help. US Vice President Vance said the US would accept a big cut in Iran's ability to enrich uranium. An Iranian official said the US blockade of Iranian ports must end first.\nNo deal has been made yet. If ships keep avoiding the strait, oil and fuel could cost more.",
+    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
    },
    {
-    "headline": "Ships are still being attacked near Iran, and there is no deal",
-    "body": "There is a narrow sea passage called the Strait of Hormuz. It is next to Iran. About a fifth of the world's oil and gas usually goes through it. For about six months, Iran and the United States have been in a dispute over it.\nIn October, ships there have been attacked again. News reports said Iran hit more oil tankers on 7 October. A group run by the UK navy had counted at least nine attacks so far this month.\nThe two countries are not agreeing. The US stops ships going in and out of Iranian ports. This is called a blockade. In August, President Trump said no talks were planned. Iran says it will not fully open the sea passage until the blockade ends.\nIran also wants to run the passage and charge ships a fee. The US will not accept that.",
-    "why": "Fighting over the passage makes oil and gas more expensive."
+    "headline": "Fewer ships are using a key sea route for oil",
+    "body": "The Strait of Hormuz is a narrow stretch of water. A lot of the world's oil goes through it on big ships called tankers. This week fewer ships went through than at any time in over two months. A group that watches shipping counted nine attacks on tankers in October up to the 7th.\nThe United States and Iran do not agree. The US leader of foreign affairs, Marco Rubio, said Iran has lost control of the strait. A man who advises Iran's army said they would soon close some routes.\nThe two sides are talking, but not face to face. Qatar is helping to pass messages. The US says it would accept Iran making less nuclear fuel. Iran says the US must first stop blocking its ports.\nNobody has agreed yet. If ships stay away, oil may cost more and so may petrol.",
+    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
    },
    {
-    "headline": "A dispute over a narrow sea is making energy more expensive",
-    "body": "The Strait of Hormuz is a narrow stretch of sea next to Iran. A lot of the world's oil and gas goes through it on ships. Oil is used to make petrol, and gas is used to heat homes. About a fifth of the world's supply goes this way.\nFor about six months, Iran and the United States have been in a dispute over it. In October, ships there were attacked again. Iran hit more oil tankers on 7 October. A group run by the UK navy counted at least nine attacks this month.\nThe US has stopped ships going in and out of Iranian ports. In August, President Trump said no talks were planned. Iran says it will not fully open the sea passage until that stops.\nIran also wants to run the passage and charge ships a fee. The US says no.\nBecause oil is harder to get, it costs more.",
-    "why": "It is one of the reasons petrol and heating cost more."
+    "headline": "Fewer ships are sailing through an important sea route",
+    "body": "Oil is the stuff used to make petrol. A lot of it travels on huge ships through a narrow piece of sea called the Strait of Hormuz. This week, fewer ships went through than for over two months. Some oil ships were attacked.\nTwo countries, the United States and Iran, are having a big argument. Each says the other should do something first. The US says it will accept some of what Iran wants. Iran says the US must stop blocking its ports.\nThey are trying to talk, but not in the same room. A country called Qatar is helping them pass messages to each other, like a go-between in the playground.\nThey have not agreed yet. If ships keep staying away, oil could get more expensive. That could make petrol cost more.",
+    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
    },
    {
-    "headline": "A fight over a narrow sea makes energy cost more",
-    "body": "There is a narrow bit of sea called the Strait of Hormuz. It is next to a country called Iran. A lot of the world's oil and gas goes through it on big ships. We use oil to make petrol for cars. We use gas to heat houses.\nIran and the United States have been arguing about this sea for six months. This month, ships were attacked again. Iran hit more oil ships on 7 October.\nThe United States is stopping ships from going to Iran's ports. In August, its president said he was not going to talk to Iran. Iran says it will not let ships go through the sea properly until that stops.\nIran also wants to charge ships money to use the sea. The United States says no.\nBecause fewer ships get through, oil and gas cost more.",
-    "why": "This is why petrol and heating can cost more for families."
+    "headline": "Fewer ships are going through a busy sea road",
+    "body": "Think of a very narrow road that lots of big lorries use. Here the road is the sea and the lorries are ships carrying oil. This week fewer ships used the road than for a long time. Some ships were attacked, so some are staying away.\nTwo countries, the United States and Iran, have fallen out. Each wants the other to do something first. It is like two friends who both say, you say sorry first.\nThey are trying to talk. A friendly country called Qatar is passing messages between them. So far they have not made friends again.\nIf ships keep staying away, oil might cost more. Oil is used for things like petrol, so that could make things cost more for families.",
+    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
    },
    {
-    "headline": "A traffic jam in the sea",
-    "body": "Imagine a very narrow road that lots of lorries need to use to bring food to shops. If two people argue and block the road, the lorries cannot get through. The shops run low and things cost more.\nThere is a narrow bit of sea like that. It is called the Strait of Hormuz. Big ships bring oil and gas through it. We use oil to make petrol for cars, and gas to keep houses warm.\nTwo countries, Iran and the United States, are arguing about it. This month, some ships were attacked. The two countries have not been able to agree.\nBecause fewer ships get through, oil and gas cost more. That means petrol and heating can cost families more money.\nGrown-ups are working hard to try to sort out the problem.",
-    "why": "It is like a blocked road that makes things in the shops cost more."
-   }
-  ]
- },
- {
-  "id": "brent-above-100-iran-tanker-attacks",
-  "order": 10,
-  "topic": "Economy",
-  "region": "Middle East",
-  "source": "Bloomberg",
-  "url": "https://www.bloomberg.com/news/articles/2026-10-07/latest-oil-market-news-and-analysis-for-date",
-  "headline": "Oil jumps back above $100 as fresh Iranian tanker attacks threaten supply",
-  "terms": [
-   {
-    "term": "Brent crude",
-    "meaning": "The main international benchmark price for a barrel of oil."
-   },
-   {
-    "term": "Barrel",
-    "meaning": "The standard unit for selling oil, about 159 litres."
-   },
-   {
-    "term": "Freight rates",
-    "meaning": "The price of shipping goods by sea."
+    "headline": "Fewer ships are using a very busy sea road",
+    "body": "Imagine a very narrow road where lots of lorries need to go past each other. In this story the road is made of water and the lorries are big ships carrying oil. This week not so many ships used it.\nTwo countries have had an argument. Their names are the United States and Iran. Each one wants the other to go first, like in a playground when two children both say, you start.\nSome grown-ups from another country are helping them talk to each other. They have not made friends yet.\nIf the ships keep staying away, there might be less oil. Then things like petrol could cost more.",
+    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
    }
   ],
-  "levels": [
-   {
-    "headline": "Oil jumps back above $100 as fresh Iranian tanker attacks threaten supply",
-    "body": "Oil prices jumped on 7 October 2026 after new attacks on tankers by Iran, with Brent crude climbing as much as 5.7%, its biggest intraday rise in nearly a month. Bloomberg reported the price topping $105 a barrel at the peak, though other price trackers showed Brent a little above $100 later in the day.\nBrent had settled near $101 on 6 October, while the US benchmark West Texas Intermediate traded below $90 after a volatile session.\nTwo factors drove the rise. Shipments through the Strait of Hormuz had increased in recent weeks, but the pace of Iranian strikes on ships rose too. UK Maritime Trade Operations has reported at least nine attacks in the waterway this month. Separately, the first Atlantic hurricane of the year cut oil production in the US Gulf, and soaring freight rates are adding to the cost of moving oil.\nPrices were about $70 before the Middle East war began, and reached around $115 in early May. For the UK, higher oil prices feed through to petrol and diesel prices and to inflation, which the Bank of England says is being driven by energy costs.",
-    "why": "Oil prices influence petrol costs, inflation and interest rates, so they affect nearly every household."
-   },
-   {
-    "headline": "Brent crude surges as much as 5.7% on renewed Iranian attacks on tankers",
-    "body": "Brent crude rose as much as 5.7% on 7 October 2026, its biggest intraday gain in almost a month, as new Iranian attacks on tankers threatened Middle East supply. Bloomberg reported a peak above $105 a barrel. Other trackers put Brent a little over $100 for the day.\nBrent had settled near $101 on 6 October, and US crude was below $90.\nThe attacks came as flows through the Strait of Hormuz had been recovering. UK Maritime Trade Operations has recorded at least nine attacks in the strait this month. The first Atlantic hurricane of the season also cut US Gulf production, and rising shipping costs are adding to prices.\nOil was about $70 before the war began and peaked near $115 in early May. The Bank of England has blamed energy prices for much of UK inflation, which was 3.1% in August.",
-    "why": "Higher oil prices push up costs for drivers, businesses and central banks worried about inflation."
-   },
-   {
-    "headline": "Oil prices jump as Iran attacks more tankers",
-    "body": "The price of oil rose sharply on 7 October 2026. Brent crude, the main international price, climbed by as much as 5.7%, the biggest jump within a day for almost a month. Bloomberg said it went above $105 a barrel at its highest, though other trackers showed it a little over $100.\nOn the day before, Brent closed near $101 and US crude was below $90.\nThe rise followed new Iranian attacks on tankers. Shipments through the Strait of Hormuz had been increasing, but UK Maritime Trade Operations has counted at least nine attacks in the waterway this month. A hurricane in the US Gulf of Mexico also cut oil output, and the cost of shipping is going up.\nBefore the Middle East war began, oil cost around $70 a barrel. It reached about $115 in early May. Higher oil prices are one reason UK inflation reached 3.1% in August.",
-    "why": "Dearer oil raises petrol prices and can keep interest rates higher for longer."
-   },
-   {
-    "headline": "Oil jumps above $100 after fresh Iranian tanker attacks",
-    "body": "Oil prices surged on 7 October after fresh Iranian attacks on tankers. Brent crude rose by as much as 5.7%, the biggest daily jump in nearly a month. Bloomberg said it passed $105 a barrel at its peak, while other price trackers had it a little above $100.\nBrent had closed near $101 the day before, with US crude below $90.\nOil flows through the Strait of Hormuz had been improving, but attacks on ships in the strait have increased, with at least nine recorded this month. A hurricane in the US Gulf cut some oil production, and shipping costs are rising.\nOil cost about $70 before the Middle East war began and reached around $115 in May. The Bank of England has said energy costs are a main reason UK inflation rose to 3.1% in August.",
-    "why": "It could push up petrol prices and keep inflation high."
-   },
-   {
-    "headline": "Oil price jumps again after Iran attacks more ships",
-    "body": "The price of oil jumped on 7 October after Iran attacked more tankers. Brent crude, the main world price, went up by as much as 5.7%. That was the biggest rise in a single day for nearly a month. At its highest it passed $105 a barrel, said Bloomberg. Other trackers had it a little above $100.\nThe day before, Brent cost about $101. US oil cost less than $90.\nShips had begun to move through the Strait of Hormuz more easily. But attacks on ships have increased. A UK navy-run group counted at least nine in October. A storm in the US Gulf also cut oil production, and it costs more to ship goods by sea.\nOil cost around $70 before the war in the Middle East started. In May it hit about $115.\nWhen oil costs more, petrol costs more, and prices rise.",
-    "why": "Dearer oil makes petrol and many other goods cost more."
-   },
-   {
-    "headline": "Oil gets dearer again after attacks on ships near Iran",
-    "body": "The price of oil jumped on 7 October. Iran attacked more oil tankers, and traders worried that less oil would get through. Brent crude is the main world price. It rose by as much as 5.7%, the biggest rise in a day for almost a month. At its highest it was above $105 a barrel, according to Bloomberg.\nThe day before, a barrel of Brent cost about $101. US oil cost less than $90.\nShips were beginning to travel more easily through a narrow sea passage called the Strait of Hormuz. But attacks have gone up there. A storm in the US also stopped some oil being pumped, and it costs more to ship things by sea.\nOil cost about $70 before the war in the Middle East began. In May it reached about $115.\nWhen oil costs more, petrol costs more too.",
-    "why": "It makes petrol, heating and many goods cost more."
-   },
-   {
-    "headline": "Oil costs more after Iran attacks more ships",
-    "body": "The price of oil went up a lot on 7 October. Iran attacked more oil ships, and people were worried there would not be enough oil. Brent is the main world price for oil. It went up by as much as 5.7% in one day. At its highest it was above $105 for a barrel. A barrel is a big container that holds about 159 litres.\nThe day before, it cost about $101. Oil made in the US cost less than $90.\nShips had started to move through a narrow sea called the Strait of Hormuz more easily. Then the attacks went up. A storm in the US also stopped some oil being made, and sending things by sea costs more.\nBefore the war in the Middle East began, oil cost about $70. In May it reached about $115.\nWhen oil costs more, petrol costs more.",
-    "why": "Dearer oil means dearer petrol, and shops pay more to move goods."
-   },
-   {
-    "headline": "The price of oil jumps after more ships are attacked",
-    "body": "Oil is a thick, dark liquid that we use to make petrol and diesel. It is sold by the barrel. A barrel is a big container. On 7 October, the price of oil jumped. Iran attacked more oil ships near a narrow sea called the Strait of Hormuz. People worried there would not be enough oil.\nBrent is the main world price for oil. It rose by as much as 5.7% in a day. At its highest it was above $105 a barrel. The day before it was about $101.\nA storm in the United States also stopped some oil being made, and it costs more to send things by sea.\nBefore the war in the Middle East, oil cost about $70 a barrel. In May it reached about $115.\nWhen oil costs more, petrol costs more, and so do lots of things that are moved by lorries.",
-    "why": "It is one reason why things in shops can cost more."
-   },
-   {
-    "headline": "Oil costs more because of fighting far away",
-    "body": "Oil is a thick, dark liquid. We use it to make petrol for cars and buses. Oil is sold in big barrels. This week, the price of oil went up a lot.\nThis happened because a country called Iran attacked some ships that carry oil. The ships were near a narrow bit of sea that lots of oil ships use. People worried that not enough oil would get to the places that need it. So the price went up.\nOn 7 October, a barrel cost more than $100. Before the war in the Middle East began, it cost about $70. A storm in the United States also stopped some oil being made.\nWhen oil costs more, petrol costs more. Lorries need petrol to bring food to shops, so many things can cost a bit more.",
-    "why": "It is one reason why things in shops and petrol cost more."
-   },
-   {
-    "headline": "Why fuel is costing more",
-    "body": "Imagine a sweet shop. If the sweets cannot get to the shop, there are fewer to sell. The shop might put the price up, because the sweets are harder to get.\nOil is like that. Oil is a dark liquid. We use it to make petrol for cars and buses. A lot of oil is carried on big ships near a place called Iran. This week, some of those ships were attacked. People worried there would not be enough oil. So the price of oil went up.\nWhen oil costs more, petrol costs more. Lorries need petrol to bring food to shops. So lots of things can cost a little more.\nGrown-ups all over the world are watching to see what happens.",
-    "why": "When something is harder to get, it usually costs more."
-   }
-  ]
+  "order": 6
  },
  {
-  "id": "us-10-year-yield-highest-since-2002",
-  "order": 11,
+  "id": "us-yields-24-year-high",
   "topic": "Economy",
   "region": "United States",
   "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
-  "headline": "US 10-year Treasury yield hits highest level since 2002 on inflation and deficit worries",
+  "url": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
+  "headline": "US 10-year Treasury yield hits its highest level since 2002, then eases as stocks end the week higher",
   "terms": [
    {
     "term": "Treasury yield",
-    "meaning": "The interest rate the US government pays to borrow money, which sets a benchmark for other borrowing costs."
+    "meaning": "The interest rate the US government pays to borrow; it moves up when bond prices fall."
    },
    {
-    "term": "Bond",
-    "meaning": "A loan to a government or company that pays interest and is repaid later."
+    "term": "Basis point",
+    "meaning": "One hundredth of a percentage point."
    },
    {
-    "term": "Auction",
-    "meaning": "A sale where the government offers new bonds to investors, who bid to buy them."
+    "term": "CME FedWatch",
+    "meaning": "A tool that shows what traders expect the US central bank to do with interest rates."
    }
   ],
   "levels": [
    {
-    "headline": "US 10-year Treasury yield hits highest level since 2002 on inflation and deficit worries",
-    "body": "The yield on the US 10-year Treasury note rose to its highest level since 2002 on 7 October 2026, with reports putting the peak at about 5.34% to 5.36% before it eased later in the day. The 30-year yield also reached a multi-decade high, near 5.70%, earlier in the week.\nA yield is the return investors demand for lending to the government, and it rises when bond prices fall. The move reflects worries about inflation, which has been pushed up by higher energy prices linked to the conflict with Iran, and about government borrowing. Forbes cited a projected federal deficit of $1.9 trillion, alongside heavy borrowing by technology firms for artificial intelligence.\nMarkets were also waiting for a $39 billion auction of 10-year notes on 7 October, seen as a test of investor demand, and for minutes of the Federal Reserve's September meeting.\nThe 10-year yield is a benchmark for borrowing costs across the economy. Forbes reported that the average 30-year fixed US mortgage rate rose from 7.30% to 7.49%. Because US yields influence global markets, they also affect UK government borrowing costs and the Chancellor's room for manoeuvre ahead of the Budget.",
-    "why": "US borrowing costs set the tone for mortgages and loans worldwide, including in the UK."
+    "headline": "US 10-year Treasury yield hits its highest level since 2002, then eases as stocks end the week higher",
+    "body": "The yield on the 10-year US Treasury touched about 5.36% on Wednesday 7 October 2026, its highest level in 24 years, according to Benzinga, while the 30-year yield reached around 5.73% midweek. CNBC reported the 10-year had hit its highest since April 2002 at the start of the week. By Thursday it had eased to about 5.229%, down more than 4 basis points, as traders weighed a 30-year bond auction.\nYields steadied after President Donald Trump pledged not to attack Iran until after the midterm elections. Oil prices and the conflict were the main headwinds for markets, along with hawkish signals from the Federal Reserve.\nMinutes of the Fed's September meeting showed most officials expect another interest-rate rise by the end of the year. CME FedWatch put the chance of a hike at the 27 to 28 October meeting at around 18%, with a December hike priced at about 69%.\nDespite the pressure from bond markets, US stocks ended the week higher. Benzinga reported that the S&P 500 closed above 7,800 for the first time on Tuesday.",
+    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
    },
    {
-    "headline": "US 10-year Treasury yield reaches 24-year high above 5.3%",
-    "body": "The yield on the US 10-year Treasury rose to about 5.34% to 5.36% on 7 October 2026, the highest since 2002, before easing later in the day. The 30-year yield had earlier in the week climbed to around 5.70%, also the highest in decades.\nThe yield is what investors demand to lend to the US government. It rises when bond prices fall. Analysts linked the move to inflation fears, partly driven by energy prices during the conflict with Iran, and to concerns over borrowing. Forbes pointed to a projected federal deficit of $1.9 trillion and heavy borrowing by technology firms for AI.\nInvestors were watching a $39 billion 10-year note auction and the minutes of the Fed's September meeting.\nThe average 30-year US mortgage rate rose from 7.30% to 7.49%, according to Forbes. US yields also influence government borrowing costs elsewhere, including the UK.",
-    "why": "Rising yields make mortgages and business loans dearer and affect governments' borrowing costs everywhere."
+    "headline": "US 10-year Treasury yield reaches a 24-year high, then falls back",
+    "body": "The yield on the 10-year US Treasury rose to about 5.36% on Wednesday 7 October 2026, the highest in 24 years. The 30-year yield reached around 5.73%. CNBC reported that the 10-year had hit its highest level since April 2002 at the start of the week. On Thursday it eased to about 5.23% as traders looked at a bond auction.\nYields steadied after President Donald Trump promised not to attack Iran until after the midterm elections. Oil prices and the Iran conflict had been the main worries for markets, along with signs from the Federal Reserve that it could keep raising rates.\nMinutes from the Fed's September meeting showed most officials expect another rate rise by the end of the year. Traders saw about an 18% chance of a rise at the 27 to 28 October meeting and about 69% for December.\nUS stocks still finished the week higher. The S&P 500 closed above 7,800 for the first time on Tuesday, Benzinga reported.",
+    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
    },
    {
-    "headline": "US borrowing costs hit their highest level in more than 20 years",
-    "body": "The interest rate on 10-year US government bonds rose to about 5.34% to 5.36% on 7 October 2026. That is the highest since 2002. It fell back a little later in the day. The 30-year rate also hit a level not seen for decades, near 5.70%, earlier in the week.\nThis rate is called the yield. It is what investors want in return for lending to the government. It goes up when bond prices fall. Analysts said investors are worried about inflation, which has been pushed up by higher energy prices during the conflict with Iran, and about how much the government borrows. Forbes noted a projected deficit of $1.9 trillion and heavy borrowing by tech firms for AI.\nInvestors were waiting for a $39 billion bond sale and for the Fed's meeting minutes.\nMortgage rates have risen too. The average 30-year fixed US mortgage rate went from 7.30% to 7.49%.",
-    "why": "It makes borrowing dearer for homebuyers and businesses, and it affects other countries' borrowing costs."
+    "headline": "US borrowing costs hit a 24-year high before easing",
+    "body": "The interest rate on 10-year US government bonds, called the yield, rose to about 5.36% on 7 October 2026. That is the highest for 24 years. The yield on 30-year bonds hit around 5.73%. By Thursday the 10-year had come back down to about 5.23% as traders looked at a bond auction.\nThings calmed a little after President Donald Trump said he would not attack Iran until after the midterm elections. Oil prices and the conflict had been worrying investors, and so had signals from the Federal Reserve, the US central bank, that it may keep raising interest rates.\nNotes from the Fed's September meeting show most officials expect another rate rise by the end of the year. Traders think a rise at the 27 to 28 October meeting is unlikely, at about 18%, but they see a December rise as likely, at about 69%.\nEven so, US shares ended the week higher, and the S&P 500 closed above 7,800 for the first time on Tuesday.",
+    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
    },
    {
-    "headline": "US 10-year yield rises to highest since 2002",
-    "body": "The yield on 10-year US Treasury bonds climbed to around 5.34% to 5.36% on 7 October, the highest since 2002, before easing later in the day. The 30-year yield reached around 5.70% earlier in the week, also a multi-decade high.\nBond yields rise when investors sell bonds. Analysts blamed fears about inflation, partly caused by high energy prices during the Iran conflict, and concern about government borrowing. Forbes cited a projected federal deficit of $1.9 trillion and heavy borrowing by tech companies for artificial intelligence.\nInvestors were waiting for a $39 billion sale of 10-year bonds and minutes from the Federal Reserve's latest meeting.\nThe average 30-year fixed mortgage rate in the US rose from 7.30% to 7.49%, Forbes reported.",
-    "why": "Rising US yields push up borrowing costs around the world."
+    "headline": "US government borrowing costs reach their highest level since 2002",
+    "body": "What the US government pays to borrow for ten years rose this week to its highest level since 2002. The rate, called the yield, hit about 5.36% on Wednesday 7 October 2026. For 30-year borrowing it was about 5.73%. On Thursday the 10-year rate fell back to about 5.23%.\nPart of the reason is worry about oil prices and the conflict with Iran. Things eased after President Donald Trump promised not to attack Iran until after the midterm elections. Investors are also watching the Federal Reserve, which sets US interest rates.\nThe Fed's notes from its September meeting say most officials expect another rate rise before the end of the year. Traders think a rise at the next meeting on 27 to 28 October is unlikely, at about 18%, but they put the chance of one in December at about 69%.\nShares still ended the week higher, and the S&P 500 closed above 7,800 for the first time on Tuesday.",
+    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
    },
    {
-    "headline": "The cost of borrowing for the US government is the highest in over 20 years",
-    "body": "The interest rate on US government 10-year bonds rose to about 5.35% on 7 October. This is the highest it has been since 2002. It dropped back a little later in the day. The rate on 30-year bonds also rose to about 5.70% earlier in the week.\nThis rate is called a yield. A bond is a loan that investors make to the government. The yield is the interest they earn. It goes up when investors do not want to buy the bonds.\nAnalysts say investors are worried about prices rising, partly because energy costs more during the conflict with Iran. They are also worried about how much the government is borrowing. Forbes said the deficit could be $1.9 trillion this year.\nHome loans cost more too. The average 30-year fixed mortgage rate in the US rose from 7.30% to 7.49%.",
-    "why": "It makes loans and mortgages dearer and can affect other countries too."
+    "headline": "US government borrowing costs hit a level not seen since 2002",
+    "body": "The US government borrows by selling bonds. The interest it pays on them is called the yield. This week the yield on a 10-year bond reached about 5.36%. That is the highest in 24 years. It dropped back to about 5.23% on Thursday.\nInvestors have been worried. Oil costs a lot and there is a conflict with Iran, which can push prices up everywhere. Things calmed a bit when President Donald Trump said he would not attack Iran until after the midterm elections.\nThe Federal Reserve is the US central bank and it sets interest rates. Notes from its last meeting show that most officials think rates will go up again before the end of the year. Traders think this is unlikely at the next meeting on 27 to 28 October but likely in December.\nUS shares still finished the week higher. This matters to people in the UK too, because US rates help set borrowing costs around the world.",
+    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
    },
    {
-    "headline": "US government borrowing costs hit a 24-year high",
-    "body": "The cost of borrowing for the US government hit its highest level since 2002 on 7 October. The rate on 10-year bonds reached about 5.35% before falling back a bit. The rate on 30-year bonds also reached about 5.70% earlier in the week.\nA bond is a loan to the government. When you buy a bond, you lend the government money and it pays you interest. The yield is that interest. It goes up when fewer people want to buy bonds.\nSome experts say investors are worried that prices will keep rising, partly because energy costs more because of the Iran conflict. They are also worried about how much money the government is borrowing. One report said the deficit might be $1.9 trillion.\nHome loans in the US cost more as a result. The average 30-year fixed mortgage rate rose from 7.30% to 7.49%.",
-    "why": "It means loans cost more, and it also affects other countries."
+    "headline": "The US government is paying more to borrow money",
+    "body": "The US government borrows money by selling bonds. It pays interest on them. The rate of interest is called the yield. This week the yield on a 10-year bond went up to its highest level in 24 years, about 5.36%. Later it came down a little.\nOne reason is that oil is expensive and there is a conflict with Iran. When things cost more, lenders want more interest. President Donald Trump said he would not attack Iran until after the midterm elections, and that helped things calm down.\nThe US has a central bank called the Federal Reserve. It sets interest rates for the whole country. Most of its officials think rates will go up again before the end of the year. Traders think this is likely in December.\nShares in companies still ended the week higher. What happens in the US matters in the UK too, because it can change what banks charge us for loans.",
+    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
    },
    {
-    "headline": "It costs the US government more to borrow money",
-    "body": "When a government wants more money, it can borrow from people and companies. It sells them something called a bond. A bond is a promise to pay the money back later with extra on top. The extra is called interest. The yield is the rate of interest.\nOn 7 October, the yield on 10-year US bonds hit about 5.35%. That is the highest since 2002. It fell back a little later in the day. The yield on 30-year bonds also reached about 5.70% earlier in the week.\nYields go up when fewer people want to buy bonds. Some experts say people are worried about prices rising, partly because energy costs more. They also worry that the government is borrowing a lot.\nHome loans cost more too. The average 30-year fixed mortgage rate in the US went from 7.30% to 7.49%.",
-    "why": "It makes loans dearer for families and firms, and other countries feel it too."
+    "headline": "The US is paying more to borrow money",
+    "body": "The United States is a very big country and it borrows lots of money. People lend it money and it pays them interest. This week it had to pay more interest than at any time for 24 years.\nThe rate went up to about 5.36% on Wednesday. That means for every 100 dollars borrowed, about 5 dollars and 36 cents is paid each year. On Thursday it dropped a little.\nWhy did it go up? Oil costs a lot, and there is trouble with a country called Iran. The US president, Donald Trump, said he would not attack Iran until after some elections. That helped calm things down.\nThe US has a bank for the whole country called the Federal Reserve. It decides how much interest costs. Most of its leaders think interest may go up again by the end of the year. People who own shares in companies still saw prices rise by the end of the week.",
+    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
    },
    {
-    "headline": "The US government has to pay more to borrow money",
-    "body": "Sometimes a government needs more money than it has. So it borrows. It sells something called a bond to people and companies. A bond is a promise to pay the money back later, with some extra. The extra is called interest.\nOn 7 October, the extra the US government had to pay to borrow for 10 years hit about 5.35%. That is the highest it has been since 2002. It is called the yield.\nWhy is it going up? Some experts say people are worried that prices will keep rising, partly because oil and gas cost more because of the Iran conflict. Others say the government is borrowing a very large amount.\nThis affects ordinary people. Loans to buy homes in the US cost more. The usual mortgage rate went from 7.30% to 7.49%.",
-    "why": "When the government pays more to borrow, banks charge families more too."
+    "headline": "The US government is paying more to borrow money",
+    "body": "Every government borrows money. The US government does it by selling bonds, and it pays interest on them. This week the interest rate on a 10-year bond reached about 5.36%. That is the highest in 24 years. Later in the week it dropped a little, to about 5.23%.\nWhy? Oil is expensive and there is a conflict with Iran. This makes lenders worry that prices will keep rising. President Donald Trump said he would not attack Iran until after the midterm elections. That helped things calm down.\nThe US has a central bank called the Federal Reserve. It sets interest rates. Most of its officials think rates will go up again before the end of the year. Traders think that is more likely in December than at the next meeting.\nShares in companies still ended the week higher. This matters in the UK too, because US rates can change what banks charge us.",
+    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
    },
    {
-    "headline": "It costs more for a big country to borrow money",
-    "body": "Sometimes a country needs more money than it has. So it borrows money from people. It gives them a promise to pay the money back later, with some extra on top. The extra is called interest.\nThe United States is the biggest country economy in the world. This week, the extra it has to pay for borrowing went up. It is the highest it has been for more than 20 years.\nWhy? Some people are worried that things in shops will keep getting dearer. Oil and gas cost more because of fighting in the Middle East. Other people are worried that the country is borrowing a lot of money.\nThis matters to ordinary families. People who want to buy a house in the United States have to pay more extra on their home loans too.",
-    "why": "Families have to pay more when borrowing money for a house."
+    "headline": "The US is paying more to borrow money",
+    "body": "The United States is a very big country. Sometimes it borrows money, like a family would. It pays back a little extra, called interest. This week it had to pay the most extra it has paid for a very long time.\nA few days later, the extra went down a little bit. It is a bit like a price in a shop that goes up one day and drops again a few days later.\nWhy did it go up? Oil, which makes cars go, costs lots. There is also trouble far away with a country called Iran. The president of the US, Donald Trump, said he would not attack Iran for now. That helped everyone feel calmer.\nThere is a special bank for the whole of the US. It decides how much extra people pay. Its leaders think it might go up again before the end of the year. Shares in companies still went up by the end of the week.",
+    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
    },
    {
-    "headline": "When borrowing gets dearer",
-    "body": "Imagine you borrow £10 from a friend. You say you will give back £11 next week. The extra £1 is the friend's reward for waiting. In grown-up words, the extra is called interest.\nCountries borrow money too, from lots of people. This week, the biggest country in the world, the United States, had to promise to pay back a lot more extra than it has for over 20 years. That is because people are worried. They think things in shops might keep getting dearer, and they see that the country is borrowing a lot.\nThis matters for families. Grown-ups who want to buy a house borrow money too. When borrowing costs more, they have to pay back more.\nGrown-ups all over the world are watching closely.",
-    "why": "When borrowing gets dearer, buying things like houses gets harder."
+    "headline": "America is paying more to borrow money",
+    "body": "Think of a big country as a very big class. Sometimes the class borrows money from the bank to buy things. The class has to pay back the money and a little extra. The extra is called interest.\nThis week the extra got bigger than it has been for many years. Then it got a little smaller again. It is like a price that goes up and down.\nWhy did it go up? Fuel costs more and there is trouble far away. Grown-ups who lend money like to be safe, so they ask for more extra when they are worried.\nThe big bank for the whole of the country might make the extra bigger again soon. Grown-ups who buy little bits of companies saw those bits go up in value by the end of the week.",
+    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
    }
-  ]
+  ],
+  "order": 7
  },
  {
-  "id": "fed-raises-rates-3-75-4-00",
-  "order": 12,
+  "id": "brent-100-range",
   "topic": "Economy",
-  "region": "United States",
-  "source": "Honolulu Star-Advertiser",
-  "url": "https://www.staradvertiser.com/2026/09/16/breaking-news/fed-raises-interest-rates-signals-further-tightening-ahead/",
-  "headline": "Federal Reserve raises interest rates for the first time since 2023 and signals more to come",
+  "region": "Middle East",
+  "source": "MoneyMagPie",
+  "url": "https://www.moneymagpie.com/investment-articles/oil-price-prediction-october-2026",
+  "headline": "Brent crude swings between $100 and $108 a barrel as Hormuz supply fears persist",
   "terms": [
    {
-    "term": "Federal Reserve",
-    "meaning": "The US central bank, which sets the main US interest rate."
+    "term": "Brent crude",
+    "meaning": "The main international benchmark price for oil, quoted per barrel."
    },
    {
-    "term": "Rate hike",
-    "meaning": "A rise in the central bank's main interest rate, making borrowing more expensive."
+    "term": "Barrel",
+    "meaning": "The standard unit for oil, about 159 litres."
    },
    {
-    "term": "Midterm elections",
-    "meaning": "Elections held halfway through a US president's term, to choose Congress."
+    "term": "Pipeline",
+    "meaning": "A long pipe used to move oil or gas across land."
    }
   ],
   "levels": [
    {
-    "headline": "Federal Reserve raises interest rates for the first time since 2023 and signals more to come",
-    "body": "The US Federal Reserve raised its main interest rate by a quarter of a percentage point on 16 September 2026, to a range of 3.75% to 4.00%. The decision of the Federal Open Market Committee was unanimous, and it was the Fed's first rate rise since 2023.\nThe move defied President Donald Trump, who had demanded cuts. Chair Kevin Warsh described the decision as serious and responsible, and an analysis from MUFG said he framed it as removing accommodation rather than tightening policy. The rise was widely expected after a hot August inflation reading.\nThe Fed also signalled that more increases may follow. Its projections show the policy rate rising to a range of 4.00% to 4.25% by the end of the year, and markets were pricing roughly a 90% chance of another quarter-point rise by then. The next decision is due on 28 October.\nInflation has been pushed up by energy prices linked to the conflict with Iran. The decision came less than two months before the US midterm elections, and comes as US government bond yields have risen to their highest levels since 2002. Minutes from the September meeting were due on 7 October.",
-    "why": "The Fed's decisions affect borrowing costs and markets worldwide, including the Bank of England's choices."
+    "headline": "Brent crude swings between $100 and $108 a barrel as Hormuz supply fears persist",
+    "body": "Brent crude traded around $102.60 a barrel on 5 October 2026, after dipping to about $97.70 a few days earlier. One later report said Brent had swung between roughly $100 and $108 over the past week. I could not confirm a closing price for 9 October.\nAnalysts quoted in the coverage describe the Strait of Hormuz as structurally impaired, meaning the route carrying a large share of the world's seaborne oil is no longer working normally because of attacks on tankers and the wider Iran conflict.\nSupply is also being pulled in other directions. Saudi Arabia has restarted its East-West pipeline, which lets some oil reach the Red Sea without passing through Hormuz.\nHigher oil prices feed into inflation, because fuel, transport and energy costs affect most goods. They have also been cited as one reason for the recent sell-off in government bond markets, which has pushed up borrowing costs in the UK and the US.",
+    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
    },
    {
-    "headline": "Fed raises rates to 3.75%-4.00%, its first rise since 2023",
-    "body": "The Federal Reserve raised its main interest rate by 0.25 percentage points to a range of 3.75% to 4.00% on 16 September 2026. The vote was unanimous and it was the Fed's first increase since 2023.\nThe decision went against President Trump's call for cuts. Chair Kevin Warsh called the move serious and responsible. The hike was expected after a hot reading for August inflation.\nThe Fed signalled further increases. Its projections show the rate reaching 4.00% to 4.25% by the end of the year, and markets saw about a 90% chance of another quarter-point rise by then. The next meeting ends on 28 October.\nEnergy prices linked to the Iran conflict have pushed inflation up. The decision came less than two months before the midterm elections. Minutes of the September meeting were due out on 7 October.",
-    "why": "Higher US rates raise borrowing costs globally and shape central banks' choices elsewhere."
+    "headline": "Brent crude stays above $100 as Hormuz problems continue",
+    "body": "Brent crude traded at around $102.60 a barrel on 5 October 2026, after dipping to about $97.70 a few days before. A later report said Brent had moved between roughly $100 and $108 over the past week. No confirmed closing price for 9 October was available.\nAnalysts describe the Strait of Hormuz as structurally impaired. That means the route, which carries a large share of the world's oil by sea, is not working normally because of attacks on tankers and the Iran conflict.\nOil supply is also being rerouted. Saudi Arabia has restarted its East-West pipeline, which lets some oil reach the Red Sea without going through Hormuz.\nHigher oil prices push up fuel, transport and energy costs, which feeds into inflation. They have also been blamed for part of the recent sell-off in government bonds.",
+    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
    },
    {
-    "headline": "US Federal Reserve raises interest rates for the first time in almost three years",
-    "body": "The US Federal Reserve raised its main interest rate on 16 September 2026 by 0.25 percentage points, to a range of 3.75% to 4.00%. All members voted for it. It was the first rise since 2023.\nPresident Donald Trump had asked for lower rates, so the decision went against him. The Fed's chair, Kevin Warsh, called it a serious and responsible decision. The rise was largely expected after a high inflation figure for August.\nThe Fed said more rises may follow. Its forecasts show the rate going up to between 4.00% and 4.25% by the end of the year. Investors thought there was about a 90% chance of another rise by then. The next decision is on 28 October.\nPrices have been pushed up by energy costs linked to the conflict with Iran. The decision came less than two months before US midterm elections.",
-    "why": "It affects the cost of loans and mortgages and puts pressure on other central banks."
+    "headline": "Oil prices stay near $100 a barrel",
+    "body": "The price of Brent crude, the main international benchmark for oil, was around $102.60 a barrel on 5 October 2026. A few days earlier it had dipped to about $97.70. One report said it had moved between about $100 and $108 over the past week. A confirmed closing price for 9 October was not available.\nAnalysts say the Strait of Hormuz is structurally impaired. This means the sea route that carries a large share of the world's oil is still not working normally, because of attacks on tankers and the wider conflict with Iran.\nSaudi Arabia has restarted its East-West pipeline, which carries some oil to the Red Sea so it does not have to pass through Hormuz.\nWhen oil costs more, so do petrol, transport and energy, which pushes up inflation. This has also helped to unsettle government bond markets.",
+    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
    },
    {
-    "headline": "Fed raises interest rates for first time since 2023",
-    "body": "The Federal Reserve raised US interest rates by a quarter of a percentage point on 16 September, to a range of 3.75% to 4.00%. All the voting members agreed. It was the first increase since 2023.\nThe move went against President Donald Trump, who has demanded lower rates. Fed chair Kevin Warsh called the decision serious and responsible. It followed a hot inflation reading for August.\nThe Fed signalled more rises to come. Its projections show rates reaching between 4.00% and 4.25% by the end of the year, and markets put the chance of another rise at about 90%. The next decision is on 28 October.\nEnergy prices pushed up by the Iran conflict have fed inflation. The vote came less than two months before the midterm elections.",
-    "why": "It shapes global borrowing costs and could influence the Bank of England."
+    "headline": "Oil costs more than $100 a barrel as shipping problems continue",
+    "body": "Oil is still expensive. Brent crude, the main international price, was about $102.60 a barrel on 5 October 2026. It had dipped to about $97.70 a few days earlier, and one report said it moved between about $100 and $108 over the past week. A confirmed price for 9 October was not available.\nExperts say the Strait of Hormuz, a sea route that a large share of the world's oil passes through, is still not working normally. Tankers have been attacked and the wider conflict with Iran continues.\nSaudi Arabia has started up an oil pipeline running east to west. It lets some oil reach the Red Sea without going through Hormuz.\nDearer oil makes petrol, transport and energy cost more, which pushes up prices in general. It is also one of the reasons investors have been selling government bonds.",
+    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
    },
    {
-    "headline": "The US central bank puts up interest rates",
-    "body": "The US Federal Reserve, the country's central bank, put up its main interest rate on 16 September. It rose by a quarter of a percentage point, to between 3.75% and 4.00%. Everyone who voted agreed. This is the first rise since 2023.\nPresident Donald Trump wanted rates to come down, so the decision went against him. The Fed's chair is Kevin Warsh. He called the decision serious and responsible. The rise was expected, because prices went up quickly in August.\nThe Fed said more rises could follow. It thinks rates could reach between 4.00% and 4.25% by the end of the year. Investors thought this was about 90% likely. The next decision is on 28 October.\nPrices have been rising partly because oil and gas cost more because of the Iran conflict.",
-    "why": "Higher rates make loans dearer in the US and can affect borrowing costs in other countries."
+    "headline": "Oil stays above $100 a barrel",
+    "body": "Oil is a liquid used to make petrol and other fuels. It is sold by the barrel. The main international price, called Brent, was about $102.60 on 5 October 2026. A few days before, it was about $97.70. One report said it has moved between about $100 and $108 this past week.\nExperts say a key sea route called the Strait of Hormuz is still not working properly. A lot of the world's oil travels through it. Some oil ships have been attacked, and there is a wider conflict with Iran.\nSaudi Arabia has restarted a pipeline across its land. This lets some oil get to the Red Sea without passing through the strait.\nWhen oil costs more, petrol, transport and energy cost more too. That pushes up prices in the shops. It has also made investors nervous about government borrowing.",
+    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
    },
    {
-    "headline": "America's central bank raises its interest rate",
-    "body": "The Federal Reserve is the central bank of the United States. On 16 September it raised its main interest rate by a quarter of a percentage point. The new rate is between 3.75% and 4.00%. Everyone who voted agreed. It is the first rise since 2023.\nPresident Donald Trump wanted lower rates, so he was not happy. The head of the Fed, Kevin Warsh, said the decision was serious and responsible. The Fed did it because prices were going up fast in August.\nThe Fed thinks it may raise rates again before the end of the year, to between 4.00% and 4.25%. Investors thought that was about 90% likely. The next decision is on 28 October.\nPrices have been going up partly because oil and gas cost more due to the Iran conflict.",
-    "why": "Higher interest rates can make loans and mortgages cost more."
+    "headline": "Oil stays above $100 a barrel as ships avoid a key sea route",
+    "body": "Oil costs a lot right now. Brent, the main international price, was about $102.60 a barrel on 5 October 2026. A few days earlier it dipped to about $97.70, and one report said it moved between about $100 and $108 this week. We do not have a confirmed price for 9 October.\nThe reason is a narrow sea route called the Strait of Hormuz. A big share of the world's oil goes through it. Ships have been attacked there and experts say the route is still not working properly.\nSaudi Arabia has switched on a pipeline that carries some oil across its land to the Red Sea. That means this oil does not need to go through the strait.\nWhen oil costs more, petrol and energy bills can go up, and so can the price of many things in the shops.",
+    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
    },
    {
-    "headline": "The US puts up its interest rate for the first time since 2023",
-    "body": "The Federal Reserve is the US central bank. It sets the main interest rate for the United States. Interest is the extra money you pay back when you borrow. On 16 September the Fed raised the rate by a quarter of a percentage point, to between 3.75% and 4.00%. Everyone who voted said yes. It is the first rise since 2023.\nThe US president, Donald Trump, wanted the rate to go down, so he did not like it. The head of the Fed, Kevin Warsh, said it was a serious and responsible choice. The Fed raised the rate because prices were going up too fast.\nThe Fed said it might raise rates again before the end of the year. The next decision is on 28 October.\nPrices have been rising partly because oil and gas cost more.",
-    "why": "It makes borrowing cost more in the US."
+    "headline": "Oil still costs more than $100 a barrel",
+    "body": "Oil is used to make petrol. It is sold in barrels. The price has been high this week. On 5 October it was about $102.60 a barrel. A few days earlier it was lower, at about $97.70. One report says the price has been between about $100 and $108 this week.\nWhy is it so high? A sea route called the Strait of Hormuz carries a lot of the world's oil. Ships have been attacked there, and the route is not working well. There is also trouble with Iran.\nSaudi Arabia has started up a long pipe that carries oil across its land to the Red Sea. This helps a little, because the oil does not have to go through the strait.\nWhen oil costs more, petrol and bills cost more too. Shops pay more to move things around, so prices can go up.",
+    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
    },
    {
-    "headline": "The US raises its interest rate to slow down rising prices",
-    "body": "Every country has a central bank. It looks after the money system. The one in the United States is called the Federal Reserve. It chooses a number called the interest rate. Interest is the extra money you pay back when you borrow. On 16 September the Fed raised its rate for the first time since 2023. It went up a little, to between 3.75% and 4.00%.\nWhy? Prices have been rising fast. Raising the rate makes borrowing cost more. People then spend less, and that helps stop prices going up so quickly.\nThe US president, Donald Trump, wanted rates to go down. The head of the Fed, Kevin Warsh, said the choice was serious and responsible.\nThe Fed said it might raise rates again before the end of the year. The next decision is on 28 October.",
-    "why": "Higher rates can slow rising prices, but they make loans cost more."
+    "headline": "Oil is very expensive at the moment",
+    "body": "Oil is what makes petrol. Lots of people and shops need it. Right now oil is expensive. A barrel of it costs more than 100 dollars. Last week it cost a little less. This week it has gone up and down.\nWhy? Most oil comes by ship. Many ships go through a narrow bit of sea called the Strait of Hormuz. Some ships have been attacked there, so it is not safe for everyone.\nSaudi Arabia has switched on a long pipe to carry oil another way. That helps a little.\nWhen oil costs more, petrol costs more. Lorries cost more to run, too. So things in the shop can cost more.",
+    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
    },
    {
-    "headline": "The central bank of the US puts up its interest rate",
-    "body": "A central bank is a special bank that looks after the money for a whole country. The one in the United States is called the Federal Reserve. It chooses a number called the interest rate. Interest is the extra money you give back when you borrow money.\nOn 16 September the Fed made the number a little bigger. It had not done that since 2023. Now it is between 3.75% and 4.00%.\nWhy did it do that? Prices in the shops have been rising fast. When borrowing costs more, people spend less. Then prices stop going up so fast.\nThe US president did not like it. He wanted the number to go down. The head of the Fed said it was a serious and responsible choice.\nThe Fed might raise the number again before the end of the year.",
-    "why": "It is a way to try to stop prices from rising too fast."
+    "headline": "Oil costs a lot at the moment",
+    "body": "Oil is what cars and lorries use to go along the road. This week it cost a lot of money. A big barrel of it cost over 100 dollars. That is more than normal.\nMost oil goes on big ships. Some of them go through a narrow bit of sea. Some ships have been hurt there, so fewer want to go. When there is less oil about, it costs more.\nA country called Saudi Arabia has switched on a long pipe. The pipe takes oil another way. This helps a little.\nWhen oil costs more, petrol costs more. Things in shops can cost more too, because lorries need oil.",
+    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
    },
    {
-    "headline": "A bank tries to slow down rising prices",
-    "body": "Imagine everyone in your school wants the same toy. The shop sees this, and raises the price. That makes the toy cost more. Grown-ups call this prices going up.\nCountries have a special bank that tries to stop prices rising too fast. In the United States it is called the Federal Reserve. One of the things it can do is make borrowing cost more. Borrowing is when you take money and promise to give it back later with a little extra.\nThis month, the Fed made the extra a little bigger. It had not done that for a few years. When borrowing costs more, people buy fewer things. Then prices stop going up so fast.\nThe Fed said it might do it again before the end of the year.",
-    "why": "It is a way to try to stop prices from rising too fast."
+    "headline": "Oil is very expensive right now",
+    "body": "Oil is what makes petrol. Petrol makes cars and lorries go. Right now oil costs a lot. It is like when your favourite sweets cost more at the shop.\nMost oil travels on big ships. There is a narrow bit of sea where lots of the ships go. Some have been in trouble there, so fewer ships go.\nWith fewer ships, there is less oil to go around. When something is hard to get, it costs more. A country called Saudi Arabia has turned on a long pipe to help.\nWhen oil costs more, the things we buy can cost a little more too.",
+    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
    }
-  ]
+  ],
+  "order": 8
+ },
+ {
+  "id": "russia-diesel-trump-putin",
+  "topic": "Politics",
+  "region": "Europe",
+  "source": "Al Jazeera",
+  "url": "https://www.aljazeera.com/amp/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait",
+  "headline": "Trump says Russia will supply over 300,000 tonnes of diesel; Ukraine warns of more attacks",
+  "terms": [
+   {
+    "term": "Diesel",
+    "meaning": "A fuel used in lorries, trains, farm machinery and some cars."
+   },
+   {
+    "term": "Kremlin",
+    "meaning": "The Russian presidency and government, often used to mean its official spokespeople."
+   },
+   {
+    "term": "Concessions",
+    "meaning": "Things one side gives up or agrees to in order to win a deal."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Trump says Russia will supply over 300,000 tonnes of diesel; Ukraine warns of more attacks",
+    "body": "US President Donald Trump said Russia has agreed to supply more than 300,000 tonnes of diesel to global markets, after he and Russian President Vladimir Putin spoke. The Kremlin confirmed the two leaders also discussed Iran, according to Al Jazeera's live coverage on 9 October 2026.\nUkraine reacted sharply. It warned that Russia would repay the diesel concessions with more terrorism, a reference to Russian missile and drone attacks on Ukrainian cities.\nSeparately, Putin was scheduled to meet Iran's president, Masoud Pezeshkian, on 9 October in Turkmenistan.\nDiesel is a key fuel for freight, farming and public transport, and supplies have been squeezed by the disruption around the Strait of Hormuz. The reports give no detail on how or when the diesel would be delivered, and I could not confirm that independently.",
+    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+   },
+   {
+    "headline": "Trump says Russia will supply 300,000 tonnes of diesel; Kyiv warns of retaliation",
+    "body": "President Donald Trump said Russia has agreed to supply more than 300,000 tonnes of diesel to global markets after he spoke with Vladimir Putin. The Kremlin said the two leaders also discussed Iran, Al Jazeera reported on 9 October 2026.\nUkraine responded that Russia would repay the diesel concessions with more terrorism, meaning more missile and drone attacks on Ukrainian cities.\nPutin was also due to meet Iran's president, Masoud Pezeshkian, on 9 October in Turkmenistan.\nDiesel is vital for freight, farming and public transport, and supplies have been squeezed by the disruption at the Strait of Hormuz. The reports do not say how or when the diesel would be delivered, and this has not been confirmed independently.",
+    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+   },
+   {
+    "headline": "Trump says Russia will provide diesel; Ukraine fears it will lead to more attacks",
+    "body": "President Donald Trump has said Russia agreed to supply more than 300,000 tonnes of diesel to world markets after he spoke to Vladimir Putin. The Kremlin said they also talked about Iran. Al Jazeera reported this on 9 October 2026.\nUkraine said Russia would repay the concessions on diesel with more terrorism. By this it means more missile and drone attacks on its cities.\nPutin was also expected to meet Iran's president, Masoud Pezeshkian, on 9 October in Turkmenistan.\nDiesel is important for lorries, farms and buses, and supplies have been tight because of problems around the Strait of Hormuz. There are no details yet on how or when the diesel would arrive, and the claim has not been independently confirmed.",
+    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+   },
+   {
+    "headline": "Trump says Russia will sell more diesel to the world; Ukraine is worried",
+    "body": "US President Donald Trump says Russia has agreed to supply more than 300,000 tonnes of diesel to world markets. He spoke with Russian leader Vladimir Putin first. The Kremlin, which speaks for the Russian government, said they also talked about Iran. This was reported on 9 October 2026.\nUkraine is worried. It said Russia would pay back the diesel concessions with more terrorism. This means more missile and drone attacks on Ukrainian towns and cities.\nPutin was also due to meet the president of Iran, Masoud Pezeshkian, on 9 October in Turkmenistan.\nDiesel is a fuel for lorries, farm machines and buses. Supplies are tight because of trouble around the Strait of Hormuz. We do not yet know how or when the diesel would arrive.",
+    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+   },
+   {
+    "headline": "Russia may supply more diesel, Trump says, but Ukraine is not happy",
+    "body": "Donald Trump is the US president. He says Russia has agreed to supply more than 300,000 tonnes of diesel to the world. Diesel is a fuel used by lorries, buses and farm machines. He said this after talking to Russia's leader, Vladimir Putin. The Russian government said they also talked about Iran.\nUkraine is not happy. Russia is fighting a war against Ukraine. Ukraine said that Russia would make up for this deal with more attacks on its cities.\nPutin was also meant to meet the president of Iran, Masoud Pezeshkian, on 9 October in Turkmenistan.\nDiesel has been hard to get because ships are having trouble in the Strait of Hormuz. We do not know yet how the diesel would be delivered.",
+    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+   },
+   {
+    "headline": "Trump says Russia will send more diesel; Ukraine says it will bring more attacks",
+    "body": "US President Donald Trump says Russia has agreed to supply more than 300,000 tonnes of diesel to the world. Diesel is a fuel used by lorries, buses and farm machines. He said this after speaking to Russian leader Vladimir Putin. Russia's government said they also talked about Iran.\nUkraine is not happy. Russia is fighting a war against it. Ukraine said Russia would use the deal as a chance to carry out more attacks on its cities.\nPutin was also meant to meet Iran's president, Masoud Pezeshkian, on 9 October in Turkmenistan.\nDiesel has been hard to get because ships have had trouble on a key sea route. We do not yet know how or when the diesel would be delivered.",
+    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+   },
+   {
+    "headline": "Trump says Russia will send more diesel; Ukraine is upset",
+    "body": "Donald Trump is the president of the United States. He talked to Vladimir Putin, the leader of Russia. Afterwards he said Russia will send more diesel to countries around the world. Diesel is a fuel for lorries and buses.\nUkraine is not happy about this. Russia is fighting a war against Ukraine. Ukraine said Russia would use the deal to attack it even more.\nThe leaders also talked about Iran. Putin was going to meet Iran's president too.\nDiesel has been hard to get lately, because ships have had trouble on a key sea route. We do not know yet how the diesel will get to people.",
+    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+   },
+   {
+    "headline": "A deal about fuel is making Ukraine worried",
+    "body": "Two leaders talked on the phone. They were Donald Trump, who leads the United States, and Vladimir Putin, who leads Russia. Afterwards Mr Trump said Russia will send a lot of diesel to other countries. Diesel is a fuel that lorries use.\nRussia is fighting a war with Ukraine. Ukraine was not happy about the fuel deal. It thinks Russia will hurt it more.\nFuel has been hard to get lately. Ships have had trouble on a busy sea road, so there is not as much to go around.\nWe do not know yet how the fuel will get to people. Grown-ups are still working that out.",
+    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+   },
+   {
+    "headline": "Two leaders talk about fuel, and one country is worried",
+    "body": "Two grown-up leaders spoke on the phone. One leads America and one leads Russia. The American one said Russia will send more fuel to other countries. The fuel is called diesel. Lorries and buses use it.\nRussia is fighting a war with a country next door, called Ukraine. Ukraine does not like the deal. It is worried Russia will be unkind to it again.\nFuel has been hard to get lately. It is like when there are not enough crayons for everyone in the class.\nNobody knows yet how the fuel will get to everyone. Grown-ups are still working on it.",
+    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+   },
+   {
+    "headline": "Leaders talk about fuel, and one country is worried",
+    "body": "Fuel is what makes lorries and buses go. This week, two leaders talked on the phone about it. One is the leader of America and one is the leader of Russia.\nThe American leader said Russia will send more fuel to the world. That could help when there is not much to go around, like sharing out snacks in class.\nBut Russia is fighting a war with a country called Ukraine. Ukraine is worried. It thinks Russia might be unkind to it again.\nNobody knows yet how it will work. Grown-ups are still talking about it.",
+    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+   }
+  ],
+  "order": 9
+ },
+ {
+  "id": "japan-real-wages",
+  "topic": "Economy",
+  "region": "Asia",
+  "source": "The Japan Times",
+  "url": "https://www.japantimes.co.jp/business/economy/",
+  "headline": "Japan's real wages rise 1.5% in August; Bank of Japan said to be nearing 2% inflation call",
+  "terms": [
+   {
+    "term": "Real earnings",
+    "meaning": "Pay after taking account of rising prices, so it shows what wages can actually buy."
+   },
+   {
+    "term": "Underlying inflation",
+    "meaning": "Price rises with short-term swings, such as food and energy, smoothed out."
+   },
+   {
+    "term": "Bank of Japan",
+    "meaning": "Japan's central bank, which sets interest rates."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Japan's real wages rise 1.5% in August; Bank of Japan said to be nearing 2% inflation call",
+    "body": "Japan's inflation-adjusted cash earnings, excluding rents, rose 1.5% in August 2026 from a year earlier, according to Japan Times headlines from early October. The newspaper ties the rise to relief measures introduced by Prime Minister Takaichi.\nReal earnings matter because they show whether pay is keeping up with prices. A positive figure means that, on average, workers could buy more with their pay than a year before.\nThe Bank of Japan is also reportedly preparing to say in its next quarterly report that underlying inflation has reached 2%, its long-standing target. That report is expected as early as 30 October.\nJapan spent decades with prices flat or falling, so a sustained 2% would be a milestone for the central bank. The reports I found were headlines only, so details of the data and the bank's plans are limited and should be treated with caution.",
+    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
+   },
+   {
+    "headline": "Japan's real earnings up 1.5% in August as central bank nears 2% inflation",
+    "body": "Japan's inflation-adjusted cash earnings, not counting rents, were 1.5% higher in August 2026 than a year earlier, according to Japan Times headlines from early October. The paper links the rise to relief measures from Prime Minister Takaichi.\nReal earnings show whether pay is keeping up with prices. A positive number means workers could, on average, buy more than a year before.\nThe Bank of Japan is reportedly getting ready to say in its next quarterly report that underlying inflation has reached its 2% target. That report is expected as early as 30 October.\nJapan went through decades of flat or falling prices, so a lasting 2% would be a milestone. The reports were headlines only, so detail is limited.",
+    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
+   },
+   {
+    "headline": "Japanese workers' pay beats price rises by 1.5%",
+    "body": "Pay in Japan rose faster than prices in August 2026. Cash earnings, adjusted for inflation and not counting rents, were 1.5% higher than a year before. The Japan Times links this to relief measures from Prime Minister Takaichi.\nThis matters because it shows if workers can buy more than before. A rise in real earnings means pay is growing faster than prices.\nThe Bank of Japan, the country's central bank, is reportedly set to say in its next quarterly report that underlying inflation has reached 2%. That is its target. The report is expected as early as 30 October.\nFor decades Japan had prices that barely moved or even fell, so reaching 2% would be an important moment. Only headlines were available, so details are limited.",
+    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
+   },
+   {
+    "headline": "Pay in Japan is rising faster than prices",
+    "body": "Workers in Japan are doing a little better. Their pay, after taking away the effect of rising prices, was 1.5% higher in August 2026 than a year earlier. The Japan Times says Prime Minister Takaichi's relief measures helped.\nThis number is called real earnings. It tells us what pay can actually buy. If it goes up, people can afford more than before.\nJapan's central bank, the Bank of Japan, is reported to be getting ready to say that underlying prices are rising by 2% a year. That is the rate the bank aims for. It could say so as early as 30 October.\nFor many years prices in Japan hardly rose at all, so this would be a big change. We only saw headlines, so there are few details.",
+    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
+   },
+   {
+    "headline": "Workers in Japan can buy a little more than a year ago",
+    "body": "Pay in Japan has grown faster than prices. In August 2026, workers' pay, after allowing for rising prices, was 1.5% higher than a year before. A newspaper called the Japan Times says new help from Prime Minister Takaichi played a part.\nThis matters because it means people can buy a little more with their wages than they could last year.\nJapan's central bank, the Bank of Japan, may soon say that prices are rising at its target of 2% a year. It might say this on 30 October.\nFor many years, prices in Japan did not rise much. So this would be a big change. We only had headlines to go on, so we do not know all the details.",
+    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
+   },
+   {
+    "headline": "Pay in Japan is growing faster than prices, and the central bank may soon hit its target",
+    "body": "Workers in Japan are doing a little better. Their pay, once we take away the effect of rising prices, was 1.5% higher in August 2026 than a year earlier. The Japan Times says Prime Minister Takaichi's relief measures helped.\nThis number is called real earnings. It shows what pay can really buy. If it goes up, people can afford a bit more than before.\nJapan's central bank, the Bank of Japan, is reported to be getting ready to say that underlying prices are rising by 2% a year. That is the rate it aims for. It could say so as early as 30 October.\nFor many years prices in Japan hardly rose, so this would be a big change. We only saw headlines, so there are few details.",
+    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
+   },
+   {
+    "headline": "People in Japan can buy a bit more with their pay",
+    "body": "In Japan, people's pay has been going up by more than prices. In August 2026 it was 1.5% higher than a year before, once we take away the price rises. A newspaper says the prime minister's help for families played a part.\nThis is good news for workers. It means they can buy a little more than before. Last year the same pay would have bought less.\nJapan has a bank for the whole country called the Bank of Japan. It wants prices to go up by about 2% each year. It may soon say that this has happened. It could say so on 30 October.\nFor many years prices in Japan did not go up. So this would be a big change.",
+    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
+   },
+   {
+    "headline": "People in Japan can buy a little more",
+    "body": "Japan is a country far away. People there get paid for their work, just like grown-ups here. This year their pay went up by more than the prices in the shops. That means they can buy a bit more than before.\nIt is like getting more pocket money, while the sweets at the shop cost the same. You would be able to buy more.\nThe country has a big bank that tries to keep prices rising slowly, by about 2% each year. It may soon say it has done this.\nFor a long time prices in Japan did not go up. So this is quite new.",
+    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
+   },
+   {
+    "headline": "People in Japan can buy a little more",
+    "body": "Japan is a country far away. People there go to work and get paid. This year their pay went up. It went up by more than the prices in the shops did.\nImagine you got a bit more pocket money, and the sweets still cost the same. Now you could buy a few more sweets. That is what has happened to workers in Japan.\nThe country has a big bank. It tries to make sure prices go up slowly, a little each year. It might soon say it has done this.\nFor a long time, prices in Japan did not go up at all. So this is new.",
+    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
+   },
+   {
+    "headline": "Grown-ups in Japan can buy a bit more",
+    "body": "Japan is a country far across the world. Grown-ups there go to work and get paid. This year they got a little bit more pay.\nTheir pay went up by more than the price of things in the shops. It is like getting more pocket money while sweets stay the same price. Then you can buy more sweets.\nThe country has a big bank that looks after money. It wants prices to go up slowly, which is normal. It may soon say that this is happening.\nThat would be new, because for a long time prices there did not go up.",
+    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
+   }
+  ],
+  "order": 10
  }
 ]
