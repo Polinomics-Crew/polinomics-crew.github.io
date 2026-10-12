@@ -1,752 +1,286 @@
 [
  {
-  "id": "gilt-yields-six-percent",
+  "id": "uk-economy-grew-faster-q2",
+  "order": 1,
   "topic": "Economy",
   "region": "United Kingdom",
-  "source": "City AM",
-  "url": "https://www.cityam.com/global-bond-sell-off-headache-for-healey-as-gilt-yields-top-six-per-cent/",
-  "headline": "UK 30-year borrowing costs hit highest level since 1998 ahead of Healey's Budget",
-  "terms": [
-   {
-    "term": "Gilts",
-    "meaning": "UK government bonds, the IOUs the Treasury sells to raise money."
-   },
-   {
-    "term": "Yield",
-    "meaning": "The annual return an investor gets on a bond; it rises when the price falls and is a measure of the government's borrowing cost."
-   },
-   {
-    "term": "Fiscal rules",
-    "meaning": "Limits a government sets on how much it can borrow and spend."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "UK 30-year borrowing costs hit highest level since 1998 ahead of Healey's Budget",
-    "body": "The yield on 30-year UK government bonds, known as gilts, rose by 13 basis points to 6.036% on 7 October 2026, its highest level since January 1998, as a global bond sell-off pushed up the cost of government borrowing. The 10-year gilt yield also climbed, reaching about 5.53% during the day, the highest since 2007.\nReports tie the move to a worldwide sell-off in government debt, with oil prices above $100 a barrel and investor anxiety over the geopolitical crisis and what it means for inflation. Some reports said the jump fuelled concerns that both the Bank of England and the US Federal Reserve could be forced to raise interest rates.\nBank of England Governor Andrew Bailey has warned that if markets begin to doubt the government's fiscal trajectory, bond yields can rise further. Analysts quoted in the coverage said higher rates could cut about £9bn from the Chancellor's fiscal headroom, the gap between planned borrowing and his own limits, and some suggested John Healey could be pushed towards a tougher package.\nThe Treasury said Healey stressed the importance of fiscal credibility and reaffirmed the government's fiscal rules. His first Budget is due on 28 October 2026.",
-    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
-   },
-   {
-    "headline": "UK 30-year gilt yield reaches 6.036%, the highest since 1998",
-    "body": "The yield on 30-year UK government bonds, called gilts, rose by 13 basis points to 6.036% on 7 October 2026. That is the highest since January 1998. The 10-year yield also rose, reaching around 5.53%, the highest since 2007.\nThe rise is part of a global sell-off in government bonds. Oil prices have topped $100 a barrel and investors are worried about the geopolitical crisis and what it could do to inflation. Some reports said the jump raised fears that the Bank of England and the US Federal Reserve might have to raise interest rates.\nBank of England Governor Andrew Bailey has warned that yields can rise further if markets start to doubt the government's plans for its finances. Analysts say the higher rates could take about £9bn off the Chancellor's headroom, the margin he has against his own borrowing rules.\nThe Treasury says Chancellor John Healey has stressed the importance of fiscal credibility and kept to the government's fiscal rules. His first Budget is on 28 October 2026.",
-    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
-   },
-   {
-    "headline": "Government borrowing costs jump to a 28-year high at the 30-year mark",
-    "body": "The cost of long-term UK government borrowing has jumped. The yield on 30-year bonds, known as gilts, went up by 13 basis points to 6.036% on 7 October 2026, the highest level since January 1998. The yield on 10-year gilts reached about 5.53%, the highest since 2007.\nInvestors have been selling government bonds around the world. Oil above $100 a barrel is raising worries about inflation, and the crisis in the Middle East is making investors nervous. That has led some to wonder whether the Bank of England and the US Federal Reserve will need to raise interest rates again.\nGovernor Andrew Bailey of the Bank of England has said yields could go higher if markets lose faith in the government's finances. Analysts estimate the extra cost could remove about £9bn from the Chancellor's room for manoeuvre, and some think Healey may need a tougher Budget.\nThe Treasury says John Healey is committed to fiscal credibility and to the government's rules. He delivers his first Budget on 28 October 2026.",
-    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
-   },
-   {
-    "headline": "UK borrowing costs hit highest level in decades as bond markets sell off",
-    "body": "The price the UK government pays to borrow money for 30 years has reached its highest level since 1998. On 7 October 2026 the yield on 30-year government bonds, called gilts, rose to 6.036%. The 10-year yield reached about 5.53%, the highest since 2007.\nBond markets around the world have been falling. Oil prices above $100 a barrel have raised fears that prices in the shops will keep rising, and the crisis in the Middle East has added to investors' nerves. Some think the Bank of England and the US Federal Reserve may have to put interest rates up.\nBank of England Governor Andrew Bailey has warned that borrowing costs can rise further if investors start to doubt the government's plans. Analysts say this could cut about £9bn from the Chancellor's spare room under his own rules.\nThe Treasury says Chancellor John Healey wants to keep trust in the government's finances. He will deliver his first Budget on 28 October.",
-    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
-   },
-   {
-    "headline": "UK government's borrowing costs rise to a level not seen since 1998",
-    "body": "The UK government has to pay more to borrow money. Bonds called gilts are how it borrows. A yield is the interest rate it pays on them. On 7 October 2026 the yield on 30-year gilts went up to 6.036%, the highest since 1998. The 10-year yield went up to about 5.53%, the highest since 2007.\nThis is happening in many countries at once. Oil costs more than $100 a barrel, which pushes up prices, and investors are worried about the crisis in the Middle East. When people expect higher prices, they ask for higher returns, and some think interest rates may have to rise.\nAndrew Bailey, who runs the Bank of England, has warned that yields could climb further if investors lose faith in the government's plans. Experts say this might remove about £9bn from the Chancellor's spare money.\nThe Treasury says Chancellor John Healey will stick to the government's rules on borrowing. His first Budget is on 28 October 2026.",
-    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
-   },
-   {
-    "headline": "The government has to pay more to borrow money",
-    "body": "When the government wants to spend more than it collects in tax, it borrows. It does this by selling bonds, called gilts, to investors. The government then pays them interest. The interest rate is called the yield.\nOn 7 October 2026 the yield on 30-year gilts rose to 6.036%. That is the highest it has been since 1998. The yield on 10-year gilts rose to about 5.53%, the highest since 2007. It means borrowing has become more expensive.\nPrices are rising around the world. Oil costs more than $100 a barrel and there is worrying news from the Middle East. Investors want more interest when they think prices may keep going up. Andrew Bailey, who runs the Bank of England, said costs could rise even more if investors stop trusting the government's plans.\nThe Chancellor, John Healey, says he will keep to the government's rules on borrowing. He will explain his plans for tax and spending in his Budget on 28 October.",
-    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
-   },
-   {
-    "headline": "The government is paying more to borrow money",
-    "body": "Governments sometimes borrow money, just as families borrow for a house. The government sells bonds, called gilts. People who buy them get paid interest. The interest rate on a bond is called its yield.\nThis week the yield on a 30-year gilt went up to 6.036%. That is higher than at any time since 1998. This means the government has to pay more interest than before. It is like a bank asking you to pay more to borrow.\nOil now costs more than $100 a barrel. That makes many things cost more. There is also trouble in the Middle East. Investors worry about this, so they ask for more interest. The head of the Bank of England, Andrew Bailey, warned that it could go up again.\nThe Chancellor is called John Healey. He decides how the government spends and collects money. He says he will keep to the rules. He will share his plans on 28 October.",
-    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
-   },
-   {
-    "headline": "The government has to pay more to borrow",
-    "body": "Imagine the government is a big family that sometimes needs to borrow money. It borrows from people by selling them bonds. These bonds are called gilts. The government promises to pay the people back with extra money, called interest.\nThis week the extra money the government must pay got bigger. For a 30-year bond it is now 6.036 for every 100 borrowed each year. That is the most since 1998. It is a bit like a shop putting its prices up.\nWhy has this happened? Oil, which is used for fuel, now costs more than $100 a barrel. Things in shops can cost more when fuel costs more. There is also fighting in the Middle East. People who lend money get nervous, so they want more extra money for lending.\nThe person in charge of the government's money is called the Chancellor. He is John Healey. He says he will be careful. He will tell everyone his plans on 28 October.",
-    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
-   },
-   {
-    "headline": "The government has to pay more to borrow money",
-    "body": "Sometimes the government needs more money than it has. So it borrows. It asks people to lend it money and promises to pay them back with a little extra. The extra is called interest.\nThis week the extra went up. It is now the biggest it has been for many years. This means that borrowing costs the government more than before. It is like having to pay more pocket money back to a friend who lent you some.\nWhy? Oil is the stuff that makes cars and lorries go. It has become more expensive. There is also fighting far away. People who lend money get worried when things cost more, so they ask for more back.\nA kind man called John Healey looks after the government's money. He is called the Chancellor. He says he will be careful with it. He will tell us his plan on 28 October.",
-    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
-   },
-   {
-    "headline": "The government needs to pay more to borrow",
-    "body": "Think about the school tuck shop. Say it borrows money from you to buy sweets, and it promises to give you back a bit extra. That extra is the price of borrowing.\nThis week the price of borrowing went up for the government. It is now the highest it has been for a very long time. That is like the tuck shop having to give back more sweets than before.\nWhy? Fuel for cars costs more. There are also worries from far away. People who lend get a bit nervous and ask for more back.\nThe person who looks after the government's money is called the Chancellor. His name is John Healey. He wants to keep things safe. He will share his plan on 28 October.",
-    "why": "Higher borrowing costs for the government can mean tax rises or spending cuts, and they feed through to mortgages and loans."
-   }
-  ],
-  "order": 1
- },
- {
-  "id": "healey-budget-28-october",
-  "order": 2,
-  "topic": "Politics",
-  "region": "United Kingdom",
-  "source": "Institute for Government",
-  "url": "https://www.instituteforgovernment.org.uk/publication/john-healey-tax-budget-2026",
-  "headline": "Chancellor John Healey sets 28 October for his first Budget, promising fiscal discipline",
-  "terms": [
-   {
-    "term": "Budget",
-    "meaning": "The Chancellor's yearly statement setting out tax and spending plans."
-   },
-   {
-    "term": "OBR",
-    "meaning": "The Office for Budget Responsibility, the independent body that forecasts the economy and public finances."
-   },
-   {
-    "term": "Fiscal rules",
-    "meaning": "Limits a government sets on how much it can borrow and spend."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Chancellor John Healey sets 28 October for his first Budget, promising fiscal discipline",
-    "body": "Chancellor John Healey will deliver his first Budget on Wednesday 28 October 2026, about three months after the Burnham government took office.\nHealey confirmed the date in a video message and, according to reports, in a letter to the Treasury Select Committee on 31 July. He asked the Office for Budget Responsibility to publish its economic and fiscal forecast on the same day.\nHealey has said the Budget will be built on fiscal discipline and will meet the government's fiscal rules. He has also described a Budget that moves money and power out of Westminster and into every postcode in Britain.\nDetails of tax and spending changes have not been announced. The Institute for Government says the Chancellor will need to set a clear course for the rest of the Parliament, reassure financial markets, and show a convincing story on growth and on how extra spending would be funded.\nThe date also falls within a tense economic backdrop, with inflation at 3.1% in August, Bank Rate at 3.75% and the Bank of England's next decision due on 5 November. Prime Minister Andy Burnham has promised large public service reforms that will have to be paid for.",
-    "why": "The Budget will decide taxes and spending for millions of people and test whether the government's promises add up."
-   },
-   {
-    "headline": "Healey will deliver his first Budget on 28 October",
-    "body": "John Healey, the Chancellor, will deliver his first Budget on Wednesday 28 October 2026, roughly three months into the Burnham government.\nHe announced the date in a video message and reportedly told the Treasury Select Committee in a letter dated 31 July. The independent Office for Budget Responsibility will publish its economic and fiscal forecast on the same day.\nHealey says the Budget will be based on fiscal discipline and will meet the government's fiscal rules, which limit borrowing and debt. He has also said it will move money and power away from Westminster to every part of Britain.\nNo tax or spending decisions have been revealed. The Institute for Government says Healey must set a course for the rest of the Parliament, reassure bond markets and show a credible plan for growth and for funding extra spending.\nThe Budget comes with inflation at 3.1%, Bank Rate at 3.75%, and new promises from the Prime Minister on care and pensions to be funded.",
-    "why": "It will show whether the government's spending promises can be paid for within its own rules."
-   },
-   {
-    "headline": "The Chancellor has set the date for his first Budget: 28 October",
-    "body": "John Healey, the Chancellor, will present his first Budget on Wednesday 28 October 2026. This is about three months after Andy Burnham's government came into office.\nHe confirmed the date in a video message. The Office for Budget Responsibility, an independent group that predicts how the economy will do, will publish its forecast on the same day.\nHealey says the plan will be based on fiscal discipline and will meet the government's fiscal rules, the limits on how much it can borrow. He also says it will move money and power out of Westminster and spread it around the country.\nWe do not yet know what will happen to taxes or spending. The Institute for Government, a think tank, says the Chancellor needs to give a clear plan for the rest of the Parliament, reassure investors and explain how he will fund new spending.\nPrices are rising by 3.1% a year, and the Prime Minister has promised bigger help for pensioners and carers, so the sums matter.",
-    "why": "Budget decisions affect taxes, public services and the cost of borrowing for everyone."
-   },
-   {
-    "headline": "Chancellor announces his first Budget will be on 28 October",
-    "body": "The Chancellor, John Healey, will give his first Budget on Wednesday 28 October 2026. The Budget is the big yearly statement where the government says how it will raise money through taxes and how it will spend it. It comes about three months after the new government under Andy Burnham started work.\nThe Office for Budget Responsibility, which gives independent forecasts for the economy, will publish its predictions on the same day.\nHealey says he will be careful with the public finances and stay within the government's own rules on borrowing. He also wants to move money and power out of London to every part of Britain.\nNothing has been said yet about which taxes might change. The Institute for Government says he needs a clear plan for the next few years, must keep investors calm, and must show how he will grow the economy and pay for new promises.\nPrices are rising at 3.1% a year, which makes the choices harder.",
-    "why": "It will affect what people pay in tax and what the government can afford to do."
-   },
-   {
-    "headline": "The Chancellor will say how the government plans to spend money on 28 October",
-    "body": "The Chancellor is the minister in charge of the government's money. His name is John Healey, and he will give his first Budget on Wednesday 28 October 2026. A Budget is a big speech where the Chancellor says how much tax people will pay and what the government will spend it on.\nA group called the Office for Budget Responsibility will share its own forecast that day. It is independent, which means the government does not tell it what to say. It tries to guess how the economy will do.\nHealey says he will be careful with money and follow the government's rules on borrowing. He also says he wants more money and power to go to places all around the country, not just London.\nWe do not know yet what will change. Experts say he must have a clear plan, keep people who lend money to the government feeling safe, and say how he will pay for new ideas.\nPrices are going up by 3.1% a year, so money is tight.",
-    "why": "It could change taxes and public services that people use every day."
-   },
-   {
-    "headline": "The person in charge of the country's money has picked a date for his big speech",
-    "body": "The Chancellor is the government minister who looks after the country's money. This Chancellor is called John Healey. On Wednesday 28 October 2026 he will give a big speech called the Budget. In it, he explains how much tax people and businesses will pay, and what the government will spend money on, like schools, hospitals and roads.\nOn the same day, a group called the Office for Budget Responsibility will say how it thinks the economy will go. It is independent, so it does not take orders from the government.\nMr Healey says he will be careful and follow the rules the government has set about borrowing. Borrowing means taking money now and paying it back later. He also wants to share money and power with towns and cities across Britain.\nNobody knows yet what he will say. Some experts say he needs a clear plan and must show how new ideas will be paid for. Prices are rising, so this is not easy.",
-    "why": "The Budget decides how the government gets and spends money that affects everyone."
-   },
-   {
-    "headline": "A big speech about money is coming on 28 October",
-    "body": "The Chancellor looks after the money for the whole country. His name is John Healey. He will make a big speech called the Budget on 28 October. In it he says how the government will get money and how it will spend it.\nThe government gets most of its money from taxes. Taxes are small amounts that people and businesses pay. The government uses the money for things like schools, hospitals and roads.\nA team of experts called the OBR will also say what it thinks will happen to the economy. The economy is all the buying, selling and working that goes on in the country. The OBR is independent, so it can tell the truth even if the government may not like it.\nMr Healey says he will be careful with money. He will not borrow too much. He also wants to share out more money and power to places all over the country.\nNo one knows what he will say yet. Prices are going up, so it will be tricky.",
-    "why": "It will decide how much money there is for things we all use."
-   },
-   {
-    "headline": "The Chancellor will explain how the government will get and spend money",
-    "body": "The Chancellor is the minister in charge of the government's money. He is called John Healey. On Wednesday 28 October he will give a speech called the Budget. In it he will say how much tax people and businesses must pay, and what the government will spend money on, such as schools, hospitals and roads.\nOn the same day, a group called the Office for Budget Responsibility will say how it thinks the economy will do. The government does not tell it what to say, which is why people trust it.\nMr Healey says he will be careful and keep to the rules about borrowing. Borrowing means getting money now and paying it back later. He also says he wants more money and power to go to towns and cities around the country, not only London.\nNo one knows what he will say yet. Prices are rising by 3.1% a year, so the choices will be tricky.",
-    "why": "The Budget decides taxes and spending that affect families, schools and hospitals."
-   },
-   {
-    "headline": "The Chancellor will tell us how the country's money will be used",
-    "body": "The Chancellor is the person who looks after the country's money. His name is John Healey. On 28 October he will give a big talk called the Budget. He will say how the government will collect money and how it will use it.\nThe government collects money from taxes. Taxes are money that grown-ups give to the government from their wages and when they buy things. The government uses this money to pay for schools, hospitals and roads.\nSome clever people called the OBR will say how they think the country's money will go. They do not work for the government, so they can say what they really think.\nMr Healey says he will be careful. He will try not to borrow too much. Borrowing is when you take money and promise to give it back later. He also wants to share more money and power with places all across the country.\nWe do not know what he will say yet. Things in shops cost more now, so it will not be easy.",
-    "why": "What he decides will change what the government can pay for."
-   },
-   {
-    "headline": "A big day is coming for the country's money",
-    "body": "Think about how your family decides what to spend its money on. Mum or Dad might say, 'We can pay for the holiday but not a new car.' The country does something like this too. The person who decides is called the Chancellor. His name is John Healey.\nOn 28 October, he will give a big talk called the Budget. He will say how much money the government will collect from taxes, which is money grown-ups pay. He will also say what it will spend the money on, like schools and hospitals.\nHe says he will be careful, like someone who does not want to spend more than they have. He also wants to share money with towns and cities everywhere, not only the capital.\nNobody knows yet what he will say. Some things in shops cost more than before, so he has to choose carefully.",
-    "why": "It is like a family deciding what it can afford, but for a whole country."
-   }
-  ]
- },
- {
-  "id": "burnham-social-contract",
-  "order": 3,
-  "topic": "Politics",
-  "region": "United Kingdom",
-  "source": "Al Jazeera",
-  "url": "https://www.aljazeera.com/news/2026/9/29/new-path-uks-burnham-promises-huge-expansion-of-public-services",
-  "headline": "Burnham uses first conference speech as PM to promise a 'new social contract' and voting reform",
-  "terms": [
-   {
-    "term": "Social contract",
-    "meaning": "An unwritten deal about what citizens give the state and what the state provides in return."
-   },
-   {
-    "term": "Proportional representation",
-    "meaning": "A voting system where seats in Parliament roughly match each party's share of the vote."
-   },
-   {
-    "term": "Fiscal rules",
-    "meaning": "Limits a government sets on how much it can borrow and spend."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Burnham uses first conference speech as PM to promise a 'new social contract' and voting reform",
-    "body": "Prime Minister Andy Burnham used his first Labour conference speech as party leader, delivered in Liverpool on 29 September 2026, to promise a 'new social contract for the 21st century' and a large expansion of public services.\nHe proposed a state pension that rises every year, an end to care charges and a National Care Service that would be free at the point of use and paid for through taxation, in principle like the NHS. He also pledged that low-income pensioners would not be pulled into paying income tax during this Parliament.\nBurnham said Labour would fight the next general election on a promise to replace the winner-takes-all system with a form of proportional representation, though the details have not been set. He also promised a reset of relations with European neighbours.\nHe accepted there would be costs and trade-offs. He warned that difficult decisions on welfare and pension spending would be needed, said the government would stick to its fiscal rules to bring borrowing and debt down, and acknowledged that some plans would take longer than one Parliament to deliver.\nBurnham became Prime Minister on 20 July 2026, after Keir Starmer stood down. The speech was his main chance to set out how his government differs from its predecessor, while the Budget on 28 October will show how much of it can be paid for.",
-    "why": "It shows the new Prime Minister's priorities, and how far they can be funded within strict borrowing limits."
-   },
-   {
-    "headline": "Burnham pledges a 'new social contract' and electoral reform at Labour conference",
-    "body": "Andy Burnham, who became Prime Minister on 20 July 2026, used his first Labour conference speech as leader on 29 September in Liverpool to promise a 'new social contract for the 21st century'.\nHis headline offers were for older people and carers: a state pension that rises every year, an end to care charges, and a National Care Service free at the point of use and funded from general taxation. He said low-income pensioners would not be dragged into paying income tax in this Parliament.\nHe also said Labour would go into the next election promising to replace first past the post with a form of proportional representation, without saying which form. A reset of ties with Europe was part of the package too.\nBurnham was open about the price. Some welfare and pension spending decisions would be hard, the government would keep to its fiscal rules on borrowing and debt, and some reforms would take more than one Parliament.\nThe speech sets expectations ahead of the Budget on 28 October, when the Chancellor must show how the promises are paid for.",
-    "why": "It sets the political agenda for the new government and raises questions about how it will be paid for."
-   },
-   {
-    "headline": "Burnham promises a new deal on care and pensions, and a fairer voting system",
-    "body": "In his first conference speech as Labour leader and Prime Minister, delivered in Liverpool on 29 September, Andy Burnham promised a 'new social contract' between the state and the public.\nThe main ideas were a state pension that goes up every year, no more care charges, and a National Care Service that would be free when people use it and paid for by taxes, much like the NHS. Low-income pensioners would not have to pay income tax during this Parliament.\nHe also said Labour would fight the next election on changing how MPs are elected, moving to a form of proportional representation, where a party's share of seats is closer to its share of votes. He promised closer ties with Europe as well.\nBurnham admitted that this would cost money and some choices would be difficult, including on welfare and pensions. He said the government would still obey its fiscal rules, which limit borrowing, and that some changes would take longer than one Parliament.\nHe took over as Prime Minister on 20 July 2026, so this was his chance to explain his plans to the party.",
-    "why": "It tells voters what the new Prime Minister wants to do and how he plans to pay for it."
-   },
-   {
-    "headline": "Burnham sets out his plans for care, pensions and elections",
-    "body": "Andy Burnham gave his first speech to the Labour conference as Prime Minister in Liverpool on 29 September. He called his plan a 'new social contract'. That means a fresh understanding of what people put in and what the state gives back.\nHe said the state pension would rise every year, care charges would end and a National Care Service would be set up. It would be free to use and paid for through taxes. He also said that poorer pensioners would not pay income tax in this Parliament.\nHe said Labour would ask voters at the next election to back proportional representation. Under this system the number of seats a party wins matches its share of the vote more closely than it does now. He also wants better relations with Europe.\nBurnham said the plans have a cost. Some decisions on welfare and pensions will be hard, and the government will stay within its rules on borrowing. He added that some changes will take longer than one Parliament.\nHe has been Prime Minister since 20 July 2026, after Keir Starmer stepped down.",
-    "why": "It shows what the government wants to change, and why people will watch to see if it can afford it."
-   },
-   {
-    "headline": "The Prime Minister promises more help with care and pensions, and a change to voting",
-    "body": "The Prime Minister, Andy Burnham, made a big speech to his party in Liverpool on 29 September. It was his first conference speech as leader. He talked about a 'new social contract', which means a fresh deal between the government and the public about who gives what and who gets what.\nHe made several promises. The state pension would go up every year. People would stop paying charges for care. There would be a National Care Service, free to use and paid for out of taxes, a bit like the NHS. Pensioners on low incomes would not have to pay income tax while this Parliament lasts.\nHe also said Labour would fight the next election on changing the voting system. The new system would be a form of proportional representation, which gives each party seats in line with its share of votes.\nBurnham said it would not be easy. Some choices on benefits and pensions would be hard, and the government would stick to its rules on borrowing. Some of the changes would take years.",
-    "why": "It affects older people, carers and voters, and shows how the government plans to spend."
-   },
-   {
-    "headline": "The Prime Minister has made big promises about care, pensions and voting",
-    "body": "Andy Burnham is the Prime Minister. He has led the country since 20 July 2026. On 29 September he gave a big speech to his party, Labour, in the city of Liverpool.\nHe said he wants a 'new social contract'. This is a way of saying a new deal between the people and the government. He promised that the state pension, the money older people get from the government, would go up every year. He said people would no longer pay charges for care. Care means help with things like washing and dressing for people who cannot manage alone. He wants a National Care Service that is free to use and paid for by taxes. Poorer pensioners would not pay income tax.\nHe also wants to change how people vote. Today, whoever wins the most votes in an area wins the seat. Burnham wants a system called proportional representation, where parties get seats in line with the votes they get.\nHe said some of this will be hard to pay for, and it will take time.",
-    "why": "It could change how older people are looked after and how elections work."
-   },
-   {
-    "headline": "The Prime Minister wants to change how care, pensions and voting work",
-    "body": "Andy Burnham is the Prime Minister. On 29 September he made a long speech to the Labour Party in Liverpool. He wants the government to make a new deal with the public.\nHe made some promises. Older people would get a bigger state pension every year. The state pension is money the government pays to people who are older. People would not have to pay charges for care. Care is help for people who cannot look after themselves. The government would start a new service for care, and it would be free to use. Taxes would pay for it. Taxes are the money we all pay to the government. Some pensioners with small incomes would not pay income tax.\nHe also said he would like to change how MPs are chosen. MPs are the people we vote for to run the country. At the moment, one person wins in each area. He wants a fairer way, where each party gets seats to match its votes.\nHe said it will cost money, and some jobs will take a long time.",
-    "why": "It shows what the person running the country plans to do next."
-   },
-   {
-    "headline": "The Prime Minister has a plan to change how we look after older people",
-    "body": "Andy Burnham is the Prime Minister, which means he is the person in charge of the government. On 29 September he gave a big speech to his party, Labour, in a city called Liverpool.\nHe said he wants a 'new social contract'. That just means a new deal between the government and everyone else. He promised that the state pension would go up every year. The state pension is money the government pays to older people. He also said people should stop paying charges for care, which is help for people who cannot manage everyday jobs by themselves. A new National Care Service would be free to use, and taxes would pay for it. Taxes are the money people pay to the government.\nHe said he wants to change how MPs are chosen, so that each party gets a fair number of seats for the votes it wins. MPs are the people who work in Parliament to make the rules.\nHe said it will cost money and take time, so some choices will be hard.",
-    "why": "It shows the changes the leader of the country wants to make."
-   },
-   {
-    "headline": "The leader of the country has some big plans",
-    "body": "Andy Burnham is the Prime Minister. He is the person in charge of the country's government. He gave a big speech on 29 September in a city called Liverpool.\nHe told people about his plans. He wants older people to get a bit more money from the government each year. This is called the state pension. He wants people who need help looking after someone to stop paying for it. He also wants a new care service. It would help people who cannot look after themselves. It would not cost them anything when they use it. We would all pay for it with our taxes. Taxes are money we give to the government to pay for things like schools and hospitals.\nHe also wants to change how we choose MPs. MPs are the people who help make the rules. He wants the choosing to be fairer.\nHe said it will cost a lot. Some plans will take a long time, and some will be hard to do.",
-    "why": "It tells us what the leader wants to change to help people."
-   },
-   {
-    "headline": "A leader makes a promise to help older people",
-    "body": "Imagine your school had a new head teacher. On a big day, she stands up and tells everyone what she plans to do. That is a bit like what happened here. The new leader of the country is called the Prime Minister. His name is Andy Burnham.\nHe stood up in front of lots of people and said what he wants to do. He wants to help older people. They would get a little more pocket money from the government each year. He also wants to help people who need looking after, like people who are too poorly or too old to cook or get dressed on their own. That help would be free when they need it.\nHe also wants to change how grown-ups vote, to make it fairer, a bit like making sure everyone gets a fair turn in a playground game.\nBut he said it will cost lots of money, so it will take time.",
-    "why": "It is a leader saying how he hopes to make life kinder for older people."
-   }
-  ]
- },
- {
-  "id": "uk-gdp-revised-up-q2",
-  "order": 4,
-  "topic": "Economy",
-  "region": "United Kingdom",
-  "source": "Office for National Statistics",
-  "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/apriltojune2026",
-  "headline": "UK economy grew 0.5% in the second quarter, revised up from 0.4%, leading the G7 in the first half",
+  "source": "Reuters via Zawya",
+  "url": "https://www.zawya.com/en/world/uk-economy-grew-faster-than-thought-in-second-quarter-cementing-g7-lead-1451480",
+  "headline": "UK economy grew faster than first thought in the second quarter",
   "terms": [
    {
     "term": "GDP",
-    "meaning": "Gross domestic product, the total value of goods and services a country produces."
-   },
-   {
-    "term": "Services sector",
-    "meaning": "Businesses that sell services rather than goods, such as shops, banks, restaurants and care."
+    "meaning": "The total value of goods and services an economy produces."
    },
    {
     "term": "G7",
-    "meaning": "A group of seven large advanced economies, including the UK, US, Japan and Germany."
+    "meaning": "A group of seven large advanced economies."
+   },
+   {
+    "term": "Business investment",
+    "meaning": "Money firms spend on things like machinery and buildings."
    }
   ],
   "levels": [
    {
-    "headline": "UK economy grew 0.5% in the second quarter, revised up from 0.4%, leading the G7 in the first half",
-    "body": "The Office for National Statistics revised UK economic growth for April to June 2026 up to 0.5%, from a first estimate of 0.4%, in its quarterly national accounts published on 30 September.\nGrowth in the first quarter was left unchanged at 0.6%, which means the UK was the fastest growing of the G7 large advanced economies in the first half of the year. Output in the second quarter was 1.4% higher than a year earlier, up from an initial estimate of 1.2%.\nServices drove the upgrade. ONS statistics director Liz McKeown said stronger service-sector growth meant the economy is slightly larger than previously thought. Construction grew 0.8% while production fell 0.1%. Business investment growth was revised up to an annual rate of 5.2% from 0.8%, and real household disposable income per head rose 1.0%.\nEconomists said the figures suggest the economy has been more resilient to higher energy prices than expected, though they warned that inflation pressures from energy and geopolitical conflicts could slow growth in the second half. The next quarterly accounts are due on 12 November, a fortnight after the Budget.",
-    "why": "Stronger growth means more tax revenue and jobs, and gives the Chancellor more room ahead of the Budget."
+    "headline": "UK economy grew faster than first thought in the second quarter",
+    "body": "Britain's economy grew by 0.5% in the second quarter of 2026, the April to June period, a stronger result than first estimated. Output was 1.4% higher than a year earlier, according to the revised figures, which were reported as cementing the UK's lead among G7 economies.\nBusiness investment was also revised up, to an annual rate of 5.2%. GDP per head, which measures output per person and so strips out the effect of population growth, rose by 1.1% over the first half of 2026. That was reported as the largest increase since late 2017, leaving aside the swings caused by the pandemic.\nThe picture ahead is less certain. Commentators such as PwC have pointed to uncertainty over the Budget and a sustained rise in energy prices as the weather turns colder as risks to growth.\nThe figures matter because growth affects jobs, wages and the money the government has available to spend.",
+    "why": "Growth affects jobs, wages and the money the government has to spend."
    },
    {
-    "headline": "UK growth revised up to 0.5% for April to June",
-    "body": "The Office for National Statistics said on 30 September that the UK economy grew by 0.5% in April to June 2026, up from its first estimate of 0.4%.\nFirst-quarter growth stayed at 0.6%, so the UK grew faster than any other G7 economy in the first half of 2026. Output was 1.4% higher than a year earlier, compared with an earlier estimate of 1.2%.\nThe revision came mainly from services. Liz McKeown of the ONS said the economy is slightly bigger than previously estimated. Construction rose 0.8% and production fell 0.1%. Business investment growth was revised to an annual 5.2% from 0.8%, and real household disposable income per head grew 1.0%.\nOne economist quoted by Reuters said the economy had been more resilient to energy price rises than thought. Others warned that energy costs and geopolitical conflicts could slow growth later in the year.\nThe ONS will publish its next quarterly figures on 12 November.",
-    "why": "It shows the economy is stronger than first thought, although risks remain for the second half of the year."
+    "headline": "UK growth revised up for the second quarter, keeping Britain ahead in the G7",
+    "body": "The UK economy expanded by 0.5% between April and June 2026, more than first estimated, and was 1.4% larger than a year earlier. The revision was reported as cementing Britain's lead among G7 economies.\nBusiness investment was revised up to a 5.2% annual rate. GDP per head, a measure of output per person, grew by 1.1% in the first half of 2026, the biggest rise since late 2017 once the pandemic's distortions are set aside.\nLooking forward, PwC has flagged Budget uncertainty and rising energy prices as winter approaches as risks to the recovery.\nGrowth matters because it influences employment, pay and how much room the government has for tax and spending decisions.",
+    "why": "Growth affects jobs, wages and the money the government has to spend."
    },
    {
-    "headline": "The UK economy grew faster than first thought in spring",
-    "body": "The UK economy grew by 0.5% between April and June 2026, according to new figures from the Office for National Statistics. The first estimate had been 0.4%.\nGrowth in the first three months of the year was 0.6%. That made the UK the fastest growing of the G7 group of big rich economies over the first half of the year. Compared with a year earlier, the economy was 1.4% bigger.\nMost of the extra growth came from services, such as shops, banks and restaurants. The ONS said the economy is slightly larger than it had thought. Building work grew 0.8%, while factories and other production fell 0.1%. Companies also invested more than first estimated, and the average person's income after tax and prices rose 1.0%.\nEconomists said the economy handled high energy prices better than expected, but warned that conflict and energy costs could slow it in the second half.\nThe next update is on 12 November.",
-    "why": "A growing economy supports jobs, wages and the public finances."
+    "headline": "UK economy grew 0.5% in the spring, more than first thought",
+    "body": "Britain's economy grew by 0.5% between April and June 2026, after revised figures showed it did better than first estimated. It was 1.4% bigger than a year before, and the result was reported as keeping the UK ahead of other G7 economies.\nBusiness investment was revised up to an annual rate of 5.2%. Output per person, known as GDP per head, rose 1.1% in the first half of the year, the largest increase since late 2017 apart from pandemic swings.\nThere are worries about what comes next. PwC has pointed to uncertainty about the Budget and to energy prices rising as the weather gets colder.\nStronger growth can help create jobs and raise wages, and it gives the government more money from taxes to spend.",
+    "why": "Growth affects jobs, wages and the money the government has to spend."
    },
    {
-    "headline": "UK economy grew 0.5% in spring, up from first estimate of 0.4%",
-    "body": "The UK economy grew by 0.5% between April and June 2026, according to revised figures from the Office for National Statistics published on 30 September. The first estimate was 0.4%.\nGrowth was 0.6% in the first three months of the year, which made Britain the fastest growing G7 economy in the first half. Output was 1.4% higher than a year earlier.\nThe upgrade came mainly from services. Construction grew by 0.8%, while production fell by 0.1%. Business investment was revised up sharply, and household income per head rose by 1.0% after inflation.\nEconomists said the economy had coped better with high energy prices than expected, but they warned that inflation pressures from energy and conflict could slow growth in the second half of the year. The next set of figures is due on 12 November.",
-    "why": "It shows the economy is doing better than first thought, which helps jobs, wages and tax income."
+    "headline": "Britain's economy did better than expected this spring",
+    "body": "Britain's economy grew by 0.5% between April and June 2026. That is more than experts first thought. It was also 1.4% bigger than a year earlier. Reports said this keeps the UK ahead of the other G7 countries, a group of large rich economies.\nMoney spent by firms on things like machines and buildings, called business investment, was also revised up. GDP per head, which means the amount the economy produces for each person, rose 1.1% in the first half of the year. That is the biggest rise since late 2017, not counting the odd years of the pandemic.\nThere are some worries about the months ahead. PwC, a firm of experts, pointed to uncertainty over the Budget and to energy prices going up as it gets colder.\nA growing economy can mean more jobs and better pay for people.",
+    "why": "Growth affects jobs, wages and the money the government has to spend."
    },
    {
-    "headline": "The UK economy grew a little more than thought in the spring",
-    "body": "New figures show the UK economy grew by 0.5% from April to June 2026. Earlier, the official number was 0.4%. The Office for National Statistics, which counts these things, changed it on 30 September.\nThe economy grew 0.6% in the first three months of the year. Across the first six months, the UK grew faster than any other country in the G7, a group of seven large, rich countries. Compared with a year ago, the economy is 1.4% bigger.\nMost of the extra growth came from services. These are businesses that do jobs for people, like shops, banks and restaurants. Building work grew by 0.8%, but factories made 0.1% less. Businesses also spent more on things like machines and buildings, and the money people had left to spend grew by 1.0% per person.\nSome experts said the economy dealt well with higher energy costs. Others warned that things could slow down later in the year.",
-    "why": "It shows whether the country is getting richer, which affects jobs and wages."
+    "headline": "UK economy grew 0.5% in spring, more than first estimated",
+    "body": "Britain's economy grew by 0.5% between April and June 2026, after revised figures showed it had done better than first thought. It was 1.4% bigger than a year earlier, and reports said this keeps the UK ahead of other G7 economies, the group of large rich countries.\nCompanies also invested more in things like machinery and buildings, at an annual rate of 5.2%. The amount produced for each person, called GDP per head, rose 1.1% in the first half of the year, the biggest rise since late 2017 apart from pandemic swings.\nThere are risks ahead. PwC has pointed to doubts about the Budget, the government's plan for tax and spending, and to energy prices rising as the weather turns colder.\nStronger growth can mean more jobs and better pay, and it brings the government more money from taxes.",
+    "why": "Growth affects jobs, wages and the money the government has to spend."
    },
    {
-    "headline": "Britain's economy grew by a bit more than people first said",
-    "body": "The economy is all the things people make, sell and buy in a country. Experts measure how much it grows. They looked at April to June 2026 and found the economy grew by 0.5%. They had first said 0.4%, so it was a little better.\nIn the first three months it grew by 0.6%. That means the UK grew faster than any of the other big rich countries in a group called the G7, over the first half of the year. Over a whole year, it grew by 1.4%.\nMost of the growth came from services. Services are jobs where people do things for other people, like shops, banks and cafes. Building grew by 0.8%. Factories made a bit less than before. Businesses spent more on new machines and buildings, and families had a little more money to spend.\nSome experts say the economy did better than expected, even with energy costing more. Others think growth might slow down later this year.",
-    "why": "A bigger economy usually means more jobs and more money for public services."
+    "headline": "The UK economy grew more than people thought",
+    "body": "The UK economy grew by 0.5% between April and June 2026. When experts looked again at the numbers, they found it had done better than they first said. It was also 1.4% bigger than a year before. News reports said the UK is doing better than the other G7 countries, which are seven big rich countries.\nFirms also spent more on machines and buildings than first thought. The amount of goods and services made for each person went up by 1.1% in the first half of the year. That is the biggest rise since late 2017, apart from the strange pandemic years.\nExperts at PwC say there are some risks ahead. People do not yet know what will be in the Budget, and energy prices are rising as winter comes.\nWhen the economy grows, it can mean more jobs and higher pay.",
+    "why": "Growth affects jobs, wages and the money the government has to spend."
    },
    {
-    "headline": "The country is making and selling a bit more than before",
-    "body": "Every country has an economy. That means all the work people do, and all the things they make, sell and buy. When the economy gets bigger, we say it grows. A team of experts counted how much the UK grew from April to June this year. They found it grew by 0.5%. At first they thought it was 0.4%, so they changed the number.\nThis was good news. The UK grew faster than any other big, rich country in a group called the G7 in the first half of the year.\nMost of the extra growth came from services. Services are jobs where people help other people, like in shops, banks and restaurants. Building grew too. Factories made a little less.\nPeople also had a bit more money to spend after paying their bills.\nSome experts said the economy did well even though energy costs more. Others said it might slow down later this year.",
-    "why": "When the economy grows, there can be more jobs and more money to spend."
+    "headline": "The UK made more than expected this spring",
+    "body": "The UK economy grew by 0.5% between April and June 2026. The economy is all the things a country makes and sells, like food, cars and services. Experts looked at the numbers again and found it had grown more than they thought. It was 1.4% bigger than a year before.\nReports said this is better than the other G7 countries, which are seven big rich countries. Firms also spent more on machines and buildings. The amount made for each person went up by 1.1% in the first half of the year, the most since late 2017, not counting the pandemic years.\nSome experts are still careful. They say people do not know yet what the government will do in the Budget, and that energy costs are going up as it gets cold.\nA growing economy can mean more jobs and more pay.",
+    "why": "Growth affects jobs, wages and the money the government has to spend."
    },
    {
-    "headline": "The UK economy grew a bit more than experts first said",
-    "body": "The economy is everything that people make, sell and buy in a country. When it gets bigger, we say it has grown. Experts checked how much the UK economy grew from April to June 2026. They found it grew by 0.5%. At first they had said 0.4%, so they changed the number.\nIn the first three months of the year it grew by 0.6%. That means the UK grew faster than any other country in the G7, which is a group of seven big rich countries.\nMost of the new growth came from services. These are jobs where people help other people, like in shops, banks and restaurants. Building work grew too, but factories made a little less than before.\nPeople also had a bit more money to spend.\nSome experts said it did well even with higher energy prices. Others said it could slow down later this year.",
-    "why": "A growing economy can mean more jobs and more money for things like schools and hospitals."
-   },
-   {
-    "headline": "The country's money machine grew a little",
-    "body": "A country has a kind of money machine. It is called the economy. It is all the work people do and all the things they buy and sell. Every few months, experts check if it has got bigger or smaller. This time they found it grew by 0.5% from April to June. They had first said 0.4%.\nThat is a small change, but it is good news. The UK grew faster than any other country in a group of seven big rich countries called the G7.\nMost of the growth came from services. Services are when people do jobs to help other people, like working in a shop, a bank or a cafe. Building grew too. Factories made a little less.\nPeople also had a bit more money in their pockets.\nSome experts say it might not last. Energy costs more now, and there is fighting in the world. That could slow things down later this year.",
-    "why": "A growing economy can mean more jobs and more money for everyone."
+    "headline": "The country made more than expected",
+    "body": "The UK economy grew between April and June this year. An economy is everything a country makes and sells, like food, cars and help from doctors. It grew by 0.5% in those three months. Experts first thought it grew less.\nOver a whole year it grew 1.4%. News reports said this beats other rich countries in a group called the G7. Companies also spent more money on machines and buildings. And each person in the UK, on average, was part of 1.1% more being made in the first half of the year.\nExperts also said to be careful. The government will soon explain its plans for taxes and spending, called the Budget, and no one knows yet what it will say. Heating and energy are also getting dearer as winter comes.\nWhen a country makes more, there can be more jobs and more pay.",
+    "why": "Growth affects jobs, wages and the money the government has to spend."
    },
    {
     "headline": "The country got a bit richer this spring",
-    "body": "Think of the whole country as one big shop and workplace. Everything that people make and sell and all the work they do adds up to something called the economy. Experts check each season to see if it has grown bigger.\nFrom April to June, they said it grew by a small bit: 0.5%. That is tiny, like a plant growing half a centimetre. At first they thought it was a bit smaller, but they checked again.\nThe UK grew faster than other big, rich countries in the first half of the year. That is a bit like finishing first in a race.\nMost of the growth came from people doing jobs for others, like working in shops, banks and cafes. People also had slightly more money to spend.\nSome experts say it could slow down later because energy costs more now. We will see what happens next.",
-    "why": "A growing economy can mean more jobs and money for schools and hospitals."
+    "body": "Think of the whole country as a big shop. Between April and June, the shop sold more than people expected. It sold 0.5% more than before. That is a small step up, like adding one extra sweet to every two hundred.\nOver a whole year, it sold 1.4% more. Reports said this is better than other rich countries. Shops and firms also spent more on machines and buildings. Each person in the country, on average, was part of a little more being made.\nGrown-ups say we should be careful. A big plan about taxes and spending, called the Budget, is coming and nobody knows what is in it. Keeping warm is also getting dearer as winter comes.\nWhen the shop does well, more people can have jobs and bigger pay.",
+    "why": "Growth affects jobs, wages and the money the government has to spend."
+   },
+   {
+    "headline": "How the country did this spring",
+    "body": "Each year, grown-ups count how much the whole country makes and sells. Between April and June, it was a bit more than they first thought. It went up by half of one in every hundred. That is a small step, like a plant growing a tiny bit taller.\nOver a whole year, the country made 1.4% more. Reports said that is better than other rich countries. Firms also spent more on machines and buildings.\nSome grown-ups are still careful. A plan about money, called the Budget, is coming soon. Heating is also getting dearer as the weather gets colder.\nWhen a country grows, more people can get jobs and be paid more. That is why grown-ups watch these numbers.",
+    "why": "Growth affects jobs, wages and the money the government has to spend."
    }
   ]
  },
  {
-  "id": "uk-unemployment-4-9",
-  "order": 5,
-  "topic": "Economy",
-  "region": "United Kingdom",
-  "source": "Office for National Statistics",
-  "url": "https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment",
-  "headline": "UK unemployment holds at 4.9% as payrolled jobs fall over the year",
-  "terms": [
-   {
-    "term": "Unemployment rate",
-    "meaning": "The share of people who are looking for work and available to start, among everyone who is working or looking."
-   },
-   {
-    "term": "Payrolled employees",
-    "meaning": "People recorded as being paid through company payrolls, using tax records."
-   },
-   {
-    "term": "Labour market",
-    "meaning": "The system of jobs, workers and employers in an economy."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "UK unemployment holds at 4.9% as payrolled jobs fall over the year",
-    "body": "The UK unemployment rate for people aged 16 and over was 4.9% in May to July 2026, according to the Office for National Statistics release of 15 September. The ONS put the number of unemployed people at about 1.78 million. The rate was the same as the 4.9% recorded for April to June, so it was flat between the two releases. The male rate was 5.3% and the female rate 4.5%.\nTax records show a weaker picture for employers' payrolls. The number of payrolled employees fell by 101,000, or 0.3%, between July 2025 and July 2026, and by 19,000, or 0.1%, between June and July 2026. Early estimates for August showed payrolled employees down by 145,000, or 0.5%, on the year at 30.2 million, though the ONS warns that early estimates are often revised.\nThe labour market figures matter to the Bank of England, which considers pay and jobs when it sets interest rates. The Treasury's September consensus of forecasters expects unemployment of around 5.1% by the end of the year. The next labour market figures are due on 20 October, eight days before the Budget.",
-    "why": "Jobs data shapes interest rate decisions and shows how secure work feels for ordinary people."
-   },
-   {
-    "headline": "Unemployment steady at 4.9% but payrolled employment is falling",
-    "body": "UK unemployment was 4.9% in the three months from May to July 2026, the ONS reported on 15 September. That is the same as in the April to June period. About 1.78 million people were unemployed. Men had a rate of 5.3% and women 4.5%.\nTax records show falling payrolls. Payrolled employees fell by 101,000, or 0.3%, between July 2025 and July 2026, and by 19,000 between June and July. Early figures for August suggested a drop of 145,000, or 0.5%, over the year, to 30.2 million, but these are often revised.\nThe Bank of England watches jobs and pay closely when it sets interest rates. The Treasury's September survey of forecasters expects unemployment to be around 5.1% by the end of the year.\nThe next figures are due on 20 October, a week before the Budget.",
-    "why": "A weak jobs market affects incomes and also affects whether interest rates rise or fall."
-   },
-   {
-    "headline": "Unemployment stays at 4.9%, but fewer people are on company payrolls",
-    "body": "The UK unemployment rate was 4.9% from May to July 2026, according to the Office for National Statistics. That was the same as the figure for April to June. Around 1.78 million people were out of work and looking for a job. The rate was higher for men, at 5.3%, than for women, at 4.5%.\nTax records show fewer people being paid by employers. The number of payrolled employees fell by 101,000, or 0.3%, between July 2025 and July 2026. It dropped by 19,000 between June and July alone. Early figures for August suggested a bigger fall, but the ONS says these early numbers are often changed later.\nThe Bank of England looks at jobs and wages when it decides on interest rates. Forecasters surveyed by the Treasury expect unemployment of about 5.1% by the end of the year.\nNew figures are due on 20 October.",
-    "why": "It shows how easy it is to find and keep a job."
-   },
-   {
-    "headline": "Around 1.8 million people in the UK are out of work",
-    "body": "The UK unemployment rate was 4.9% from May to July 2026. This means about 5 in every 100 people who want to work could not find a job. Around 1.78 million people were in that position. The rate was 5.3% for men and 4.5% for women. It was the same as the figure for the months before.\nTax records give another picture. They count people who are paid through a company payroll. In July, there were 101,000 fewer than a year earlier. That is a fall of 0.3%. Between June and July, it fell by 19,000.\nThe Bank of England looks at jobs and pay when deciding about interest rates. Forecasters think unemployment will go up a little, to about 5.1%, by the end of the year.\nThe next figures come out on 20 October.",
-    "why": "If jobs are harder to find, people have less money to spend and less security."
-   },
-   {
-    "headline": "About 5 in every 100 people who want a job cannot find one",
-    "body": "In the UK, 4.9% of people who want to work did not have a job from May to July 2026. That is about 5 in every 100 people. It is around 1.78 million people. For men the number was 5.3%. For women it was 4.5%. This was the same as the months before.\nThere is a second way to count jobs. It uses tax records of people paid by companies. This count showed 101,000 fewer people on company payrolls in July than a year earlier. That is a fall of 0.3%.\nThe Bank of England looks at how many people have jobs when it decides how high interest rates should be. Experts think that unemployment could rise a little, to about 5.1%, by the end of the year.\nThe next set of job figures comes on 20 October.",
-    "why": "A job gives people money to live on, so more people without work is worrying."
-   },
-   {
-    "headline": "More than a million and a half people are looking for a job",
-    "body": "A person is counted as unemployed if they do not have a job but want one and are looking for work. In the UK, between May and July, about 5 in every 100 people who wanted to work did not have a job. That is 4.9%. It is about 1.78 million people. It was the same number as before.\nThere is another count too. The government can see how many people are paid by companies through tax records. In July this number was 101,000 lower than a year before. That means fewer people had a paid job with a company.\nThe Bank of England watches this closely. It uses job numbers to decide on interest rates.\nSome experts think that the number of people without jobs could go up a bit by the end of the year, to about 5.1%.\nThe next numbers are due on 20 October.",
-    "why": "More people without jobs means less money in people's homes."
-   },
-   {
-    "headline": "Some grown-ups cannot find work",
-    "body": "Most grown-ups have jobs. A job is work that you do to earn money. But some people cannot find one, even though they want one. These people are called unemployed. Between May and July, about 5 in every 100 grown-ups who wanted to work did not have a job. That is a lot of people. It is about 1.78 million in all.\nThe numbers are about the same as they were a few months ago. But there is another way of counting. The government can look at tax records to see how many people are paid by companies. There were 101,000 fewer people on these lists in July than a year before.\nExperts at the Bank of England keep an eye on jobs. They use the numbers to help decide on interest rates.\nSome experts think the number of people without a job might go up a little by the end of the year.",
-    "why": "People without jobs have less money to spend on food and bills."
-   },
-   {
-    "headline": "About 5 in every 100 people who want a job cannot find one",
-    "body": "A person counts as unemployed if they do not have a job, want one and are looking for work. From May to July, 4.9% of people who wanted to work in the UK did not have a job. That is about 5 in every 100 people, or around 1.78 million people. The number was the same as before.\nThere is another way to count. The government can look at tax records to see how many people are paid by companies. In July there were 101,000 fewer than a year earlier.\nThe Bank of England looks at job numbers when it decides about interest rates. Some experts think the number of people without jobs could go up a little, to about 5.1%, by the end of the year.\nThe next job figures are out on 20 October.",
-    "why": "Jobs give people the money to pay for food and homes."
-   },
-   {
-    "headline": "Some people who want a job cannot find one",
-    "body": "Lots of grown-ups go to work and get paid. That is called having a job. Some grown-ups want a job but cannot find one. They are called unemployed.\nExperts counted them. They found that about 5 out of every 100 grown-ups who wanted to work did not have a job. If you had 100 people in a big hall, about 5 of them would be looking for work. In the whole country, that is a very large number: about 1.78 million people.\nThe number is about the same as it was a few months ago. But companies are paying slightly fewer people than a year ago.\nGrown-ups who decide on money matters keep an eye on this. If more people do not have jobs, they have to think about what to do to help.",
-    "why": "Everyone needs money for food and a home, so jobs matter."
-   },
-   {
-    "headline": "Why grown-ups worry about jobs",
-    "body": "Most grown-ups go to work to earn money. They use the money to buy food and pay for a home. A few grown-ups want to work but cannot find a job. These grown-ups are called unemployed.\nImagine a classroom of 20 grown-ups who all want a job. About 1 of them would not be able to find one. In the whole country, about 1.78 million people are in this position.\nIt is about the same number as a few months ago. But companies are paying a few thousand fewer people than a year ago.\nThe people who look after the country's money watch this carefully. If fewer people have jobs, they think about ways to help.\nThe next numbers come out on 20 October.",
-    "why": "Having a job helps families pay for food and homes."
-   }
-  ]
- },
- {
-  "id": "hormuz-traffic-talks",
+  "id": "burnham-first-months",
+  "order": 2,
   "topic": "Politics",
-  "region": "Middle East",
-  "source": "Al Jazeera",
-  "url": "https://www.aljazeera.com/amp/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait",
-  "headline": "Hormuz shipping falls to a two-month low as US and Iran trade positions on nuclear talks",
+  "region": "United Kingdom",
+  "source": "Reporting summarised from GZERO Media and others",
+  "url": "https://www.gzeromedia.com/amp/uks-new-prime-minister-faces-an-uphill-battle-2677253764",
+  "headline": "Andy Burnham settles into Downing Street as Labour tensions surface",
   "terms": [
    {
-    "term": "Strait of Hormuz",
-    "meaning": "A narrow sea passage between Iran and Oman through which a large share of the world's oil is shipped."
+    "term": "Cabinet",
+    "meaning": "The group of senior ministers who lead the government."
    },
    {
-    "term": "Enrichment",
-    "meaning": "Processing uranium to a higher purity; at high levels it can be used for nuclear power or weapons."
-   },
-   {
-    "term": "Blockade",
-    "meaning": "Using ships to stop others from entering or leaving ports."
+    "term": "Triple lock",
+    "meaning": "A rule that raises the state pension each year by the highest of inflation, wage growth or 2.5%."
    }
   ],
   "levels": [
    {
-    "headline": "Hormuz shipping falls to a two-month low as US and Iran trade positions on nuclear talks",
-    "body": "Vessel traffic through the Strait of Hormuz has fallen to its lowest level in more than two months, Reuters reported, citing shipping data. The UK Maritime Trade Operations office recorded nine attacks on tankers in October up to 7 October, according to Al Jazeera's live coverage of the Iran war on 9 October 2026.\nUS Secretary of State Marco Rubio said on 7 October that Iran had lost complete control of the strait, while an adviser to Iran's Revolutionary Guard said the force would soon block what he called illegal routes.\nOn diplomacy, Vice President Vance told Reuters the United States would accept a meaningful reduction in Iran's enrichment capacity, and Qatar said indirect talks continue. An Iranian official said American nuclear demands were at odds with Iran's and that the blockade of Iranian ports must end first.\nThe reports describe a stand-off: shipping through a key oil route is thinning while each side sets conditions for talks that have not produced a deal.",
-    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
+    "headline": "Andy Burnham settles into Downing Street as Labour tensions surface",
+    "body": "Andy Burnham became Prime Minister in July 2026 after Keir Starmer resigned, making him Britain's seventh prime minister in a decade. He had stood down as Mayor of Greater Manchester in June and entered Parliament as MP for Makerfield that same month.\nRachel Reeves left government in July, saying she would support Burnham's Labour government. Early October reports described a cabinet revolt over a proposed overhaul of the voting system, and calls from Labour MPs to scrap the family farm tax. Commentators also warned about a reported plan to scrap the pension triple lock, which guarantees yearly rises in the state pension.\nThe Conservatives, led by Kemi Badenoch, held their annual party conference in early October.\nThe first months of a new prime minister shape how much support a government keeps, both in Parliament and with voters.",
+    "why": "A new prime minister's early decisions shape party unity and public trust."
    },
    {
-    "headline": "Shipping through Hormuz drops to a two-month low as talks continue",
-    "body": "Traffic through the Strait of Hormuz has dropped to its lowest level in more than two months, Reuters reported, based on shipping data. The UK Maritime Trade Operations office counted nine attacks on tankers in October up to the 7th, Al Jazeera's live coverage of 9 October 2026 said.\nUS Secretary of State Marco Rubio said on 7 October that Iran had lost complete control of the strait. An adviser to Iran's Revolutionary Guard said the force would soon block what he called illegal routes.\nVice President Vance told Reuters the US would accept a meaningful cut in Iran's capacity to enrich uranium, and Qatar said indirect talks are continuing. An Iranian official said US demands on nuclear issues clash with Iran's, and that the blockade of Iranian ports must end first.\nSo far there is no deal, and a key oil route is seeing fewer ships.",
-    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
+    "headline": "Burnham's government faces early divisions over policy",
+    "body": "Andy Burnham has been Prime Minister since July 2026, when Keir Starmer resigned. Burnham is the seventh prime minister in a decade. He left his role as Mayor of Greater Manchester in June and became MP for Makerfield that month.\nRachel Reeves left government in July and said she would back the new Labour government. Reports in early October described a cabinet revolt over a voting system overhaul, and Labour MPs calling for the family farm tax to be scrapped. Commentators also raised concerns about a reported plan to end the triple lock on pensions.\nMeanwhile the Conservatives, under Kemi Badenoch, prepared for their annual conference in early October.\nA new leader's early decisions affect party unity and public trust.",
+    "why": "A new prime minister's early decisions shape party unity and public trust."
    },
    {
-    "headline": "Fewer ships use the Strait of Hormuz as tanker attacks continue",
-    "body": "The number of ships passing through the Strait of Hormuz has fallen to its lowest in over two months, Reuters reported, using shipping data. A UK body that monitors shipping counted nine attacks on tankers in October up to the 7th, according to Al Jazeera's live coverage on 9 October 2026.\nUS Secretary of State Marco Rubio said Iran had lost complete control of the strait. An adviser to Iran's Revolutionary Guard, its elite military force, said it would soon block what he called illegal routes.\nVice President Vance told Reuters the US would accept a meaningful cut in Iran's ability to enrich uranium. Qatar said indirect talks go on. An Iranian official said the US and Iran want different things on nuclear matters, and that the US blockade of Iranian ports must end first.\nNo agreement has been reached, and the oil route is getting quieter.",
-    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
+    "headline": "Burnham's first months as Prime Minister",
+    "body": "Andy Burnham took over as Prime Minister in July 2026 after Keir Starmer resigned, the seventh prime minister in ten years. He had quit as Mayor of Greater Manchester in June and won a seat in Parliament as MP for Makerfield.\nChancellor Rachel Reeves left the government in July but said she would support Burnham. In early October, reports spoke of a cabinet revolt over changes to the voting system and of Labour MPs wanting the family farm tax dropped. Commentators warned about a reported plan to scrap the pension triple lock.\nThe Conservatives, led by Kemi Badenoch, were getting ready for their annual conference.\nHow a new prime minister handles disputes in their own party can decide how long they last.",
+    "why": "A new prime minister's early decisions shape party unity and public trust."
    },
    {
-    "headline": "Ships avoid the Strait of Hormuz as the US and Iran disagree in talks",
-    "body": "Fewer ships are sailing through the Strait of Hormuz than at any time in more than two months, according to shipping data reported by Reuters. A UK shipping monitor counted nine attacks on tankers in October up to the 7th, Al Jazeera reported on 9 October 2026.\nUS Secretary of State Marco Rubio said Iran had lost complete control of the strait. An adviser to Iran's Revolutionary Guard said the force would soon block what he called illegal routes.\nVice President Vance told Reuters the US would accept a meaningful cut in Iran's ability to make enriched uranium, which can be used for nuclear power or weapons. Qatar said indirect talks continue. An Iranian official said the two sides want different things and that the US blockade of Iran's ports must end first.\nThere is no deal yet, and the oil route is quieter than before.",
-    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
+    "headline": "Andy Burnham is Prime Minister, but his party is not all agreed",
+    "body": "Andy Burnham became Prime Minister in July 2026 after Keir Starmer resigned. He is the seventh prime minister the UK has had in ten years. Before that he was Mayor of Greater Manchester, and he became an MP in June.\nRachel Reeves left the government in July. She said she would still support the new Labour government. In early October, news reports described a row in the cabinet, the group of senior ministers, about changing how people vote. Some Labour MPs also want the family farm tax scrapped. There is also talk of ending the triple lock, a rule that makes the state pension rise every year.\nThe Conservative Party, led by Kemi Badenoch, was getting ready for its yearly conference.\nIf a governing party argues in public, it can find it harder to pass laws.",
+    "why": "A new prime minister's early decisions shape party unity and public trust."
    },
    {
-    "headline": "Fewer ships sail through a key oil route as the US and Iran argue",
-    "body": "The Strait of Hormuz is a narrow stretch of sea where a lot of the world's oil travels. Now fewer ships are using it than at any time in more than two months. A UK shipping monitor says there were nine attacks on tankers in October up to the 7th.\nThe US and Iran are in a stand-off. US Secretary of State Marco Rubio said Iran has lost control of the strait. An adviser to Iran's military force, the Revolutionary Guard, said it will soon block some routes.\nTalks are going on through go-betweens, with Qatar's help. Vice President Vance said the US would accept a big cut in Iran's ability to enrich uranium, which can be used to make nuclear fuel or weapons. An Iranian official said the US blockade of Iran's ports must stop first.\nNo deal has been made. If ships keep avoiding the strait, oil could cost even more.",
-    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
+    "headline": "Andy Burnham is Prime Minister but Labour is not united",
+    "body": "Andy Burnham became Prime Minister in July 2026 after Keir Starmer resigned. He is the seventh prime minister in ten years. He had been Mayor of Greater Manchester and became MP for Makerfield in June.\nRachel Reeves left the government in July but said she would back it. In early October, reports described a row among senior ministers over changing the voting system, and Labour MPs asking for the family farm tax to be scrapped. There was also concern over a reported plan to end the triple lock, which makes the state pension rise each year.\nThe Conservatives, led by Kemi Badenoch, held their yearly conference.\nWhen a governing party argues in public, it can find it harder to pass its plans.",
+    "why": "A new prime minister's early decisions shape party unity and public trust."
    },
    {
-    "headline": "Fewer ships are using a key oil route while the US and Iran hold talks",
-    "body": "The Strait of Hormuz is a narrow sea passage that a big share of the world's oil goes through. This week, fewer ships used it than at any time in more than two months. A UK shipping monitor counted nine attacks on tankers in October up to the 7th.\nThe United States and Iran are in a stand-off. US Secretary of State Marco Rubio said Iran had lost control of the strait. An adviser to Iran's Revolutionary Guard, its elite military force, said it would soon block some routes.\nTalks are going on through go-betweens, with Qatar's help. US Vice President Vance said the US would accept a big cut in Iran's ability to enrich uranium. An Iranian official said the US blockade of Iranian ports must end first.\nNo deal has been made yet. If ships keep avoiding the strait, oil and fuel could cost more.",
-    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
+    "headline": "A new Prime Minister faces arguments in his own party",
+    "body": "Andy Burnham became Prime Minister in July 2026, after Keir Starmer stepped down. He is the seventh person to hold the job in ten years. Before this he was the Mayor of Greater Manchester, and he joined Parliament as an MP in June.\nRachel Reeves left the government in July but said she still backs it. In early October, reports said senior ministers were arguing about changing the voting system. Some Labour MPs also want a tax on family farms to be dropped. People are also talking about a reported plan to end the triple lock, which makes the state pension go up each year.\nThe Conservatives, led by Kemi Badenoch, held their yearly conference.\nWhen a party in government disagrees with itself, it can be harder to get plans done.",
+    "why": "A new prime minister's early decisions shape party unity and public trust."
    },
    {
-    "headline": "Fewer ships are using a key sea route for oil",
-    "body": "The Strait of Hormuz is a narrow stretch of water. A lot of the world's oil goes through it on big ships called tankers. This week fewer ships went through than at any time in over two months. A group that watches shipping counted nine attacks on tankers in October up to the 7th.\nThe United States and Iran do not agree. The US leader of foreign affairs, Marco Rubio, said Iran has lost control of the strait. A man who advises Iran's army said they would soon close some routes.\nThe two sides are talking, but not face to face. Qatar is helping to pass messages. The US says it would accept Iran making less nuclear fuel. Iran says the US must first stop blocking its ports.\nNobody has agreed yet. If ships stay away, oil may cost more and so may petrol.",
-    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
+    "headline": "The UK has a new Prime Minister and some disagreements",
+    "body": "Andy Burnham became the UK's Prime Minister in July 2026. The last one, Keir Starmer, stepped down. The UK has now had seven prime ministers in ten years. Mr Burnham used to be the Mayor of Greater Manchester. In June he became an MP, which is a person chosen to speak for an area in Parliament.\nRachel Reeves, who had looked after the country's money, left the government in July. She said she still supports it. In October, reports said some top ministers were arguing about changing how people vote. Some MPs want a tax on family farms to be dropped. There is also talk of ending the triple lock, a rule that makes the state pension go up every year.\nThe Conservative Party, led by Kemi Badenoch, was getting ready for its yearly meeting.\nA government that argues a lot can find it harder to get things done.",
+    "why": "A new prime minister's early decisions shape party unity and public trust."
    },
    {
-    "headline": "Fewer ships are sailing through an important sea route",
-    "body": "Oil is the stuff used to make petrol. A lot of it travels on huge ships through a narrow piece of sea called the Strait of Hormuz. This week, fewer ships went through than for over two months. Some oil ships were attacked.\nTwo countries, the United States and Iran, are having a big argument. Each says the other should do something first. The US says it will accept some of what Iran wants. Iran says the US must stop blocking its ports.\nThey are trying to talk, but not in the same room. A country called Qatar is helping them pass messages to each other, like a go-between in the playground.\nThey have not agreed yet. If ships keep staying away, oil could get more expensive. That could make petrol cost more.",
-    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
+    "headline": "A new leader and some arguments",
+    "body": "The UK has a new Prime Minister. His name is Andy Burnham. He took over in July 2026 when the last one, Keir Starmer, stepped down. The Prime Minister is the person who leads the government. The UK has had seven in ten years, which is a lot.\nMr Burnham was a mayor in Manchester before this. Then he became an MP, a person who speaks for an area in Parliament. In October, news reports said some of his top team were arguing about changing how people vote. Some MPs also want a tax on family farms to stop. People are also talking about the triple lock, a rule that makes the state pension go up every year.\nAnother party, the Conservatives, led by Kemi Badenoch, held its yearly meeting.\nWhen a team argues, it is harder for it to get anything done.",
+    "why": "A new prime minister's early decisions shape party unity and public trust."
    },
    {
-    "headline": "Fewer ships are going through a busy sea road",
-    "body": "Think of a very narrow road that lots of big lorries use. Here the road is the sea and the lorries are ships carrying oil. This week fewer ships used the road than for a long time. Some ships were attacked, so some are staying away.\nTwo countries, the United States and Iran, have fallen out. Each wants the other to do something first. It is like two friends who both say, you say sorry first.\nThey are trying to talk. A friendly country called Qatar is passing messages between them. So far they have not made friends again.\nIf ships keep staying away, oil might cost more. Oil is used for things like petrol, so that could make things cost more for families.",
-    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
+    "headline": "A new leader for the country",
+    "body": "The UK has a new Prime Minister called Andy Burnham. A Prime Minister is the person in charge of the government, like a head teacher for the whole country. He started in July 2026 when the last one, Keir Starmer, stepped down.\nBefore this, Mr Burnham was a mayor in Manchester. He then became an MP, a person chosen to speak for their area. In October, reports said some of his team did not agree about some plans. They were arguing about how people vote, and about a tax on farms.\nAnother group of politicians, the Conservatives, held their yearly meeting too. Their leader is Kemi Badenoch.\nWhen people on the same team do not agree, it is harder to get a plan done.",
+    "why": "A new prime minister's early decisions shape party unity and public trust."
    },
    {
-    "headline": "Fewer ships are using a very busy sea road",
-    "body": "Imagine a very narrow road where lots of lorries need to go past each other. In this story the road is made of water and the lorries are big ships carrying oil. This week not so many ships used it.\nTwo countries have had an argument. Their names are the United States and Iran. Each one wants the other to go first, like in a playground when two children both say, you start.\nSome grown-ups from another country are helping them talk to each other. They have not made friends yet.\nIf the ships keep staying away, there might be less oil. Then things like petrol could cost more.",
-    "why": "The Strait of Hormuz carries a large share of the world's oil, so trouble there raises fuel prices and bills far away."
+    "headline": "Who is in charge of the country",
+    "body": "Every country needs someone in charge. In the UK, that person is called the Prime Minister. In July, a man called Andy Burnham got the job. The last one, Keir Starmer, stepped down. It is a bit like a new captain of a football team.\nMr Burnham used to be a mayor in Manchester. His team is called the Labour party. In October, grown-ups said some people in his team did not agree about some plans. It is like when friends in a team argue about the rules of a game.\nAnother team of politicians, called the Conservatives, also had a big yearly meeting.\nWhen a team argues a lot, it is harder for them to win the game together.",
+    "why": "A new prime minister's early decisions shape party unity and public trust."
    }
-  ],
-  "order": 6
+  ]
  },
  {
-  "id": "us-yields-24-year-high",
+  "id": "oil-hormuz-tanker-attacks",
+  "order": 3,
   "topic": "Economy",
-  "region": "United States",
+  "region": "Middle East",
   "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
-  "headline": "US 10-year Treasury yield hits its highest level since 2002, then eases as stocks end the week higher",
-  "terms": [
-   {
-    "term": "Treasury yield",
-    "meaning": "The interest rate the US government pays to borrow; it moves up when bond prices fall."
-   },
-   {
-    "term": "Basis point",
-    "meaning": "One hundredth of a percentage point."
-   },
-   {
-    "term": "CME FedWatch",
-    "meaning": "A tool that shows what traders expect the US central bank to do with interest rates."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "US 10-year Treasury yield hits its highest level since 2002, then eases as stocks end the week higher",
-    "body": "The yield on the 10-year US Treasury touched about 5.36% on Wednesday 7 October 2026, its highest level in 24 years, according to Benzinga, while the 30-year yield reached around 5.73% midweek. CNBC reported the 10-year had hit its highest since April 2002 at the start of the week. By Thursday it had eased to about 5.229%, down more than 4 basis points, as traders weighed a 30-year bond auction.\nYields steadied after President Donald Trump pledged not to attack Iran until after the midterm elections. Oil prices and the conflict were the main headwinds for markets, along with hawkish signals from the Federal Reserve.\nMinutes of the Fed's September meeting showed most officials expect another interest-rate rise by the end of the year. CME FedWatch put the chance of a hike at the 27 to 28 October meeting at around 18%, with a December hike priced at about 69%.\nDespite the pressure from bond markets, US stocks ended the week higher. Benzinga reported that the S&P 500 closed above 7,800 for the first time on Tuesday.",
-    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
-   },
-   {
-    "headline": "US 10-year Treasury yield reaches a 24-year high, then falls back",
-    "body": "The yield on the 10-year US Treasury rose to about 5.36% on Wednesday 7 October 2026, the highest in 24 years. The 30-year yield reached around 5.73%. CNBC reported that the 10-year had hit its highest level since April 2002 at the start of the week. On Thursday it eased to about 5.23% as traders looked at a bond auction.\nYields steadied after President Donald Trump promised not to attack Iran until after the midterm elections. Oil prices and the Iran conflict had been the main worries for markets, along with signs from the Federal Reserve that it could keep raising rates.\nMinutes from the Fed's September meeting showed most officials expect another rate rise by the end of the year. Traders saw about an 18% chance of a rise at the 27 to 28 October meeting and about 69% for December.\nUS stocks still finished the week higher. The S&P 500 closed above 7,800 for the first time on Tuesday, Benzinga reported.",
-    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
-   },
-   {
-    "headline": "US borrowing costs hit a 24-year high before easing",
-    "body": "The interest rate on 10-year US government bonds, called the yield, rose to about 5.36% on 7 October 2026. That is the highest for 24 years. The yield on 30-year bonds hit around 5.73%. By Thursday the 10-year had come back down to about 5.23% as traders looked at a bond auction.\nThings calmed a little after President Donald Trump said he would not attack Iran until after the midterm elections. Oil prices and the conflict had been worrying investors, and so had signals from the Federal Reserve, the US central bank, that it may keep raising interest rates.\nNotes from the Fed's September meeting show most officials expect another rate rise by the end of the year. Traders think a rise at the 27 to 28 October meeting is unlikely, at about 18%, but they see a December rise as likely, at about 69%.\nEven so, US shares ended the week higher, and the S&P 500 closed above 7,800 for the first time on Tuesday.",
-    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
-   },
-   {
-    "headline": "US government borrowing costs reach their highest level since 2002",
-    "body": "What the US government pays to borrow for ten years rose this week to its highest level since 2002. The rate, called the yield, hit about 5.36% on Wednesday 7 October 2026. For 30-year borrowing it was about 5.73%. On Thursday the 10-year rate fell back to about 5.23%.\nPart of the reason is worry about oil prices and the conflict with Iran. Things eased after President Donald Trump promised not to attack Iran until after the midterm elections. Investors are also watching the Federal Reserve, which sets US interest rates.\nThe Fed's notes from its September meeting say most officials expect another rate rise before the end of the year. Traders think a rise at the next meeting on 27 to 28 October is unlikely, at about 18%, but they put the chance of one in December at about 69%.\nShares still ended the week higher, and the S&P 500 closed above 7,800 for the first time on Tuesday.",
-    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
-   },
-   {
-    "headline": "US government borrowing costs hit a level not seen since 2002",
-    "body": "The US government borrows by selling bonds. The interest it pays on them is called the yield. This week the yield on a 10-year bond reached about 5.36%. That is the highest in 24 years. It dropped back to about 5.23% on Thursday.\nInvestors have been worried. Oil costs a lot and there is a conflict with Iran, which can push prices up everywhere. Things calmed a bit when President Donald Trump said he would not attack Iran until after the midterm elections.\nThe Federal Reserve is the US central bank and it sets interest rates. Notes from its last meeting show that most officials think rates will go up again before the end of the year. Traders think this is unlikely at the next meeting on 27 to 28 October but likely in December.\nUS shares still finished the week higher. This matters to people in the UK too, because US rates help set borrowing costs around the world.",
-    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
-   },
-   {
-    "headline": "The US government is paying more to borrow money",
-    "body": "The US government borrows money by selling bonds. It pays interest on them. The rate of interest is called the yield. This week the yield on a 10-year bond went up to its highest level in 24 years, about 5.36%. Later it came down a little.\nOne reason is that oil is expensive and there is a conflict with Iran. When things cost more, lenders want more interest. President Donald Trump said he would not attack Iran until after the midterm elections, and that helped things calm down.\nThe US has a central bank called the Federal Reserve. It sets interest rates for the whole country. Most of its officials think rates will go up again before the end of the year. Traders think this is likely in December.\nShares in companies still ended the week higher. What happens in the US matters in the UK too, because it can change what banks charge us for loans.",
-    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
-   },
-   {
-    "headline": "The US is paying more to borrow money",
-    "body": "The United States is a very big country and it borrows lots of money. People lend it money and it pays them interest. This week it had to pay more interest than at any time for 24 years.\nThe rate went up to about 5.36% on Wednesday. That means for every 100 dollars borrowed, about 5 dollars and 36 cents is paid each year. On Thursday it dropped a little.\nWhy did it go up? Oil costs a lot, and there is trouble with a country called Iran. The US president, Donald Trump, said he would not attack Iran until after some elections. That helped calm things down.\nThe US has a bank for the whole country called the Federal Reserve. It decides how much interest costs. Most of its leaders think interest may go up again by the end of the year. People who own shares in companies still saw prices rise by the end of the week.",
-    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
-   },
-   {
-    "headline": "The US government is paying more to borrow money",
-    "body": "Every government borrows money. The US government does it by selling bonds, and it pays interest on them. This week the interest rate on a 10-year bond reached about 5.36%. That is the highest in 24 years. Later in the week it dropped a little, to about 5.23%.\nWhy? Oil is expensive and there is a conflict with Iran. This makes lenders worry that prices will keep rising. President Donald Trump said he would not attack Iran until after the midterm elections. That helped things calm down.\nThe US has a central bank called the Federal Reserve. It sets interest rates. Most of its officials think rates will go up again before the end of the year. Traders think that is more likely in December than at the next meeting.\nShares in companies still ended the week higher. This matters in the UK too, because US rates can change what banks charge us.",
-    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
-   },
-   {
-    "headline": "The US is paying more to borrow money",
-    "body": "The United States is a very big country. Sometimes it borrows money, like a family would. It pays back a little extra, called interest. This week it had to pay the most extra it has paid for a very long time.\nA few days later, the extra went down a little bit. It is a bit like a price in a shop that goes up one day and drops again a few days later.\nWhy did it go up? Oil, which makes cars go, costs lots. There is also trouble far away with a country called Iran. The president of the US, Donald Trump, said he would not attack Iran for now. That helped everyone feel calmer.\nThere is a special bank for the whole of the US. It decides how much extra people pay. Its leaders think it might go up again before the end of the year. Shares in companies still went up by the end of the week.",
-    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
-   },
-   {
-    "headline": "America is paying more to borrow money",
-    "body": "Think of a big country as a very big class. Sometimes the class borrows money from the bank to buy things. The class has to pay back the money and a little extra. The extra is called interest.\nThis week the extra got bigger than it has been for many years. Then it got a little smaller again. It is like a price that goes up and down.\nWhy did it go up? Fuel costs more and there is trouble far away. Grown-ups who lend money like to be safe, so they ask for more extra when they are worried.\nThe big bank for the whole of the country might make the extra bigger again soon. Grown-ups who buy little bits of companies saw those bits go up in value by the end of the week.",
-    "why": "US borrowing costs help set interest rates around the world, including the cost of mortgages and loans in the UK."
-   }
-  ],
-  "order": 7
- },
- {
-  "id": "brent-100-range",
-  "topic": "Economy",
-  "region": "Middle East",
-  "source": "MoneyMagPie",
-  "url": "https://www.moneymagpie.com/investment-articles/oil-price-prediction-october-2026",
-  "headline": "Brent crude swings between $100 and $108 a barrel as Hormuz supply fears persist",
+  "url": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+  "headline": "Oil climbs as record tanker attacks near the Strait of Hormuz cut shipping",
   "terms": [
    {
     "term": "Brent crude",
-    "meaning": "The main international benchmark price for oil, quoted per barrel."
+    "meaning": "The main international benchmark price for oil."
    },
    {
-    "term": "Barrel",
-    "meaning": "The standard unit for oil, about 159 litres."
-   },
-   {
-    "term": "Pipeline",
-    "meaning": "A long pipe used to move oil or gas across land."
+    "term": "Strait of Hormuz",
+    "meaning": "A narrow waterway between Iran and Oman used to ship much of the world's oil."
    }
   ],
   "levels": [
    {
-    "headline": "Brent crude swings between $100 and $108 a barrel as Hormuz supply fears persist",
-    "body": "Brent crude traded around $102.60 a barrel on 5 October 2026, after dipping to about $97.70 a few days earlier. One later report said Brent had swung between roughly $100 and $108 over the past week. I could not confirm a closing price for 9 October.\nAnalysts quoted in the coverage describe the Strait of Hormuz as structurally impaired, meaning the route carrying a large share of the world's seaborne oil is no longer working normally because of attacks on tankers and the wider Iran conflict.\nSupply is also being pulled in other directions. Saudi Arabia has restarted its East-West pipeline, which lets some oil reach the Red Sea without passing through Hormuz.\nHigher oil prices feed into inflation, because fuel, transport and energy costs affect most goods. They have also been cited as one reason for the recent sell-off in government bond markets, which has pushed up borrowing costs in the UK and the US.",
-    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
+    "headline": "Oil climbs as record tanker attacks near the Strait of Hormuz cut shipping",
+    "body": "Oil prices jumped on Thursday 8 October after a record number of attacks on tankers near the Strait of Hormuz. Brent crude, the main international benchmark, rose 4% to close at $104.28 a barrel. Crossings of the strait fell to a two-month low.\nThe Strait of Hormuz is a narrow waterway between Iran and Oman through which a large share of the world's oil is shipped, so any threat to ships there quickly feeds into prices. Reports blamed Iran for stepping up the attacks.\nA separate supply worry came from the US Gulf of Mexico, where a hurricane led oil companies to shut in about 500,000 barrels a day, roughly 25% of production in the area. Prices came off their highs after President Donald Trump said the United States would not attack Iran before the November midterm elections.\nHigher oil prices tend to push up fuel and transport costs, which can raise inflation and complicate the work of central banks.",
+    "why": "Higher oil prices can raise fuel, transport and shop prices."
    },
    {
-    "headline": "Brent crude stays above $100 as Hormuz problems continue",
-    "body": "Brent crude traded at around $102.60 a barrel on 5 October 2026, after dipping to about $97.70 a few days before. A later report said Brent had moved between roughly $100 and $108 over the past week. No confirmed closing price for 9 October was available.\nAnalysts describe the Strait of Hormuz as structurally impaired. That means the route, which carries a large share of the world's oil by sea, is not working normally because of attacks on tankers and the Iran conflict.\nOil supply is also being rerouted. Saudi Arabia has restarted its East-West pipeline, which lets some oil reach the Red Sea without going through Hormuz.\nHigher oil prices push up fuel, transport and energy costs, which feeds into inflation. They have also been blamed for part of the recent sell-off in government bonds.",
-    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
+    "headline": "Oil rises as tanker attacks near Hormuz hit a record",
+    "body": "Oil prices rose sharply on Thursday 8 October after a record number of attacks on tankers near the Strait of Hormuz. Brent crude, the global benchmark, gained 4% to close at $104.28 a barrel, and ship crossings of the strait dropped to a two-month low.\nThe strait, which lies between Iran and Oman, is one of the most important routes for the world's oil. Reports said Iran had stepped up its attacks on vessels there, which made traders worry about supply.\nAnother pressure came from the US Gulf of Mexico, where companies shut in around 500,000 barrels a day, about a quarter of output in the area, because of a hurricane. Prices eased from their peaks after President Trump said America would not attack Iran before November's midterm elections.\nBecause oil feeds into petrol, diesel and freight costs, a sustained rise can add to inflation and affect interest rate decisions.",
+    "why": "Higher oil prices can raise fuel, transport and shop prices."
    },
    {
-    "headline": "Oil prices stay near $100 a barrel",
-    "body": "The price of Brent crude, the main international benchmark for oil, was around $102.60 a barrel on 5 October 2026. A few days earlier it had dipped to about $97.70. One report said it had moved between about $100 and $108 over the past week. A confirmed closing price for 9 October was not available.\nAnalysts say the Strait of Hormuz is structurally impaired. This means the sea route that carries a large share of the world's oil is still not working normally, because of attacks on tankers and the wider conflict with Iran.\nSaudi Arabia has restarted its East-West pipeline, which carries some oil to the Red Sea so it does not have to pass through Hormuz.\nWhen oil costs more, so do petrol, transport and energy, which pushes up inflation. This has also helped to unsettle government bond markets.",
-    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
+    "headline": "Brent crude jumps 4% after record number of tanker attacks",
+    "body": "Brent crude rose 4% on Thursday 8 October to close at $104.28 a barrel, as a record number of attacks on tankers near the Strait of Hormuz raised fears about oil supplies. Crossings through the strait fell to a two-month low.\nThe strait, between Iran and Oman, is a key shipping route for oil, and reports blamed Iran for stepping up attacks on vessels. Traders add a risk premium to prices when supply routes look unsafe.\nA hurricane added to the pressure by forcing producers to shut in about 500,000 barrels a day in the US Gulf of Mexico, around 25% of production there. Prices then pulled back from their session highs after President Donald Trump said the US would not attack Iran before the November midterm elections.\nOil is a cost for almost every business, so lasting higher prices can lift inflation across the economy.",
+    "why": "Higher oil prices can raise fuel, transport and shop prices."
    },
    {
-    "headline": "Oil costs more than $100 a barrel as shipping problems continue",
-    "body": "Oil is still expensive. Brent crude, the main international price, was about $102.60 a barrel on 5 October 2026. It had dipped to about $97.70 a few days earlier, and one report said it moved between about $100 and $108 over the past week. A confirmed price for 9 October was not available.\nExperts say the Strait of Hormuz, a sea route that a large share of the world's oil passes through, is still not working normally. Tankers have been attacked and the wider conflict with Iran continues.\nSaudi Arabia has started up an oil pipeline running east to west. It lets some oil reach the Red Sea without going through Hormuz.\nDearer oil makes petrol, transport and energy cost more, which pushes up prices in general. It is also one of the reasons investors have been selling government bonds.",
-    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
+    "headline": "Oil prices jump after tanker attacks near a key shipping route",
+    "body": "Oil prices jumped on 8 October because ships carrying oil were attacked near the Strait of Hormuz. It was a record number of attacks. The main international price, Brent crude, rose 4% to $104.28 a barrel.\nThe Strait of Hormuz is a narrow stretch of sea between Iran and Oman. A lot of the world's oil travels through it. Fewer ships are now crossing, and the number is at its lowest for two months. Reports blamed Iran for stepping up the attacks.\nA hurricane also hit oil production in the Gulf of Mexico, where companies stopped about 500,000 barrels a day. That is about a quarter of the production there. Prices fell back a little after President Trump said the US would not attack Iran before the November midterm elections.\nWhen oil costs more, petrol, diesel and the cost of moving goods can all go up, and that can make everyday things dearer.",
+    "why": "Higher oil prices can raise fuel, transport and shop prices."
    },
    {
-    "headline": "Oil stays above $100 a barrel",
-    "body": "Oil is a liquid used to make petrol and other fuels. It is sold by the barrel. The main international price, called Brent, was about $102.60 on 5 October 2026. A few days before, it was about $97.70. One report said it has moved between about $100 and $108 this past week.\nExperts say a key sea route called the Strait of Hormuz is still not working properly. A lot of the world's oil travels through it. Some oil ships have been attacked, and there is a wider conflict with Iran.\nSaudi Arabia has restarted a pipeline across its land. This lets some oil get to the Red Sea without passing through the strait.\nWhen oil costs more, petrol, transport and energy cost more too. That pushes up prices in the shops. It has also made investors nervous about government borrowing.",
-    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
+    "headline": "Oil gets dearer as ships are attacked near a key sea route",
+    "body": "Oil prices rose on 8 October after a record number of attacks on tankers near the Strait of Hormuz. Brent crude, the main international price, went up 4% to $104.28 a barrel.\nThe strait is a narrow waterway between Iran and Oman that a big share of the world's oil passes through. Fewer ships are crossing, at a two-month low. Reports blamed Iran for stepping up the attacks, and when supply looks at risk, buyers pay more.\nA hurricane also stopped about 500,000 barrels a day in the US Gulf of Mexico, around 25% of production there. Prices eased after President Trump said the US would not attack Iran before the November midterm elections.\nDearer oil can lift the cost of petrol, diesel and transport, and so push up prices in the shops.",
+    "why": "Higher oil prices can raise fuel, transport and shop prices."
    },
    {
-    "headline": "Oil stays above $100 a barrel as ships avoid a key sea route",
-    "body": "Oil costs a lot right now. Brent, the main international price, was about $102.60 a barrel on 5 October 2026. A few days earlier it dipped to about $97.70, and one report said it moved between about $100 and $108 this week. We do not have a confirmed price for 9 October.\nThe reason is a narrow sea route called the Strait of Hormuz. A big share of the world's oil goes through it. Ships have been attacked there and experts say the route is still not working properly.\nSaudi Arabia has switched on a pipeline that carries some oil across its land to the Red Sea. That means this oil does not need to go through the strait.\nWhen oil costs more, petrol and energy bills can go up, and so can the price of many things in the shops.",
-    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
+    "headline": "Oil gets more expensive after attacks on ships near a key sea route",
+    "body": "The price of oil went up on 8 October after more ships carrying oil were attacked than ever before near the Strait of Hormuz. The main world price, called Brent crude, rose by 4% to $104.28 a barrel.\nThe strait is a narrow stretch of sea between Iran and Oman. A big share of the world's oil is sent by ship through it. Fewer ships are going through now, the lowest number in two months. News reports said Iran was behind more of the attacks.\nOil also faced a problem in the United States. A hurricane meant companies stopped pumping about 500,000 barrels a day in the Gulf of Mexico, around a quarter of what the area normally produces. The price dipped after President Donald Trump said the US would not attack Iran before the elections in November.\nIf oil stays expensive, it can push up the cost of fuel and of moving goods, and so the price of many things in shops.",
+    "why": "Higher oil prices can raise fuel, transport and shop prices."
    },
    {
-    "headline": "Oil still costs more than $100 a barrel",
-    "body": "Oil is used to make petrol. It is sold in barrels. The price has been high this week. On 5 October it was about $102.60 a barrel. A few days earlier it was lower, at about $97.70. One report says the price has been between about $100 and $108 this week.\nWhy is it so high? A sea route called the Strait of Hormuz carries a lot of the world's oil. Ships have been attacked there, and the route is not working well. There is also trouble with Iran.\nSaudi Arabia has started up a long pipe that carries oil across its land to the Red Sea. This helps a little, because the oil does not have to go through the strait.\nWhen oil costs more, petrol and bills cost more too. Shops pay more to move things around, so prices can go up.",
-    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
+    "headline": "Oil prices rise because ships have been attacked",
+    "body": "The price of oil went up on 8 October. Ships carrying oil were attacked near a narrow stretch of sea called the Strait of Hormuz. There were more attacks than ever before. The main price, called Brent, went up 4% to $104.28 for a barrel.\nThe strait lies between Iran and Oman. Lots of the world's oil goes through it by ship. Now fewer ships are going through. News reports said Iran was behind more of the attacks. When oil might be harder to get, buyers pay more.\nA storm also hurt oil making in the United States. Firms stopped about 500,000 barrels a day in the Gulf of Mexico. That is about a quarter of the oil made there. The price fell a little when President Trump said the US would not attack Iran before the November elections.\nDearer oil can make petrol and transport cost more, and that can make shop prices rise.",
+    "why": "Higher oil prices can raise fuel, transport and shop prices."
    },
    {
-    "headline": "Oil is very expensive at the moment",
-    "body": "Oil is what makes petrol. Lots of people and shops need it. Right now oil is expensive. A barrel of it costs more than 100 dollars. Last week it cost a little less. This week it has gone up and down.\nWhy? Most oil comes by ship. Many ships go through a narrow bit of sea called the Strait of Hormuz. Some ships have been attacked there, so it is not safe for everyone.\nSaudi Arabia has switched on a long pipe to carry oil another way. That helps a little.\nWhen oil costs more, petrol costs more. Lorries cost more to run, too. So things in the shop can cost more.",
-    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
+    "headline": "Oil costs more after ships are attacked at sea",
+    "body": "Oil got more expensive on 8 October. Ships that carry oil were attacked near a narrow sea route called the Strait of Hormuz. It was the most attacks ever counted. A barrel of the main kind of oil, called Brent, cost $104.28 at the end of the day. That was 4% more than before.\nOil is the thick liquid that is turned into petrol and diesel. A lot of it travels by ship through the strait, which lies between Iran and Oman. Fewer ships are going through now. News reports said Iran was behind more of the attacks. If supply may be short, people pay more.\nA big storm made things worse. It stopped about a quarter of the oil being pumped in the Gulf of Mexico. The price fell back a little when US President Donald Trump said the US would not attack Iran before elections in November.\nIf petrol and transport cost more, things in shops can cost more too.",
+    "why": "Higher oil prices can raise fuel, transport and shop prices."
    },
    {
-    "headline": "Oil costs a lot at the moment",
-    "body": "Oil is what cars and lorries use to go along the road. This week it cost a lot of money. A big barrel of it cost over 100 dollars. That is more than normal.\nMost oil goes on big ships. Some of them go through a narrow bit of sea. Some ships have been hurt there, so fewer want to go. When there is less oil about, it costs more.\nA country called Saudi Arabia has switched on a long pipe. The pipe takes oil another way. This helps a little.\nWhen oil costs more, petrol costs more. Things in shops can cost more too, because lorries need oil.",
-    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
+    "headline": "Oil costs more because ships have been attacked",
+    "body": "The price of oil went up on 8 October. Some ships that carry oil were attacked at sea. This is the most attacks ever counted. The attacks were near a narrow sea route called the Strait of Hormuz. A barrel of oil cost $104.28 at the end of the day.\nOil is used to make petrol for cars. Lots of it goes on big ships through that sea route. Now fewer ships are going. News reports said the country of Iran was behind more of the attacks. When oil is harder to get, it costs more, like when a toy is hard to find in the shops.\nA big storm also stopped some oil being pumped in the United States. The price dropped a little when the US leader, President Trump, said the US would not attack Iran before elections in November.\nThis matters because when oil costs more, petrol and the things that are driven to shops can cost more too.",
+    "why": "Higher oil prices can raise fuel, transport and shop prices."
    },
    {
-    "headline": "Oil is very expensive right now",
-    "body": "Oil is what makes petrol. Petrol makes cars and lorries go. Right now oil costs a lot. It is like when your favourite sweets cost more at the shop.\nMost oil travels on big ships. There is a narrow bit of sea where lots of the ships go. Some have been in trouble there, so fewer ships go.\nWith fewer ships, there is less oil to go around. When something is hard to get, it costs more. A country called Saudi Arabia has turned on a long pipe to help.\nWhen oil costs more, the things we buy can cost a little more too.",
-    "why": "Oil prices feed into petrol, heating and the cost of moving goods, so they help set inflation."
+    "headline": "Why oil got more expensive",
+    "body": "Imagine a lot of the fuel for the whole world has to travel along one small road. Last week, trucks on that road were attacked. Now fewer trucks go, and fuel costs more. That is what happened with oil on 8 October.\nThe small road is a narrow bit of sea called the Strait of Hormuz. Ships carry oil through it. There were more attacks on the ships than ever. Fewer ships are going now. A barrel of oil cost $104.28, which is 4% more than before.\nA storm also stopped some of the oil being pumped in America. The price went down a little when President Trump said America would not attack Iran before the elections in November.\nWhen oil costs more, it can cost more to drive cars and to bring food to the shops. Grown-ups pay close attention to that.",
+    "why": "Higher oil prices can raise fuel, transport and shop prices."
    }
-  ],
-  "order": 8
+  ]
  },
  {
-  "id": "russia-diesel-trump-putin",
+  "id": "trump-no-iran-attack-before-midterms",
+  "order": 4,
   "topic": "Politics",
-  "region": "Europe",
-  "source": "Al Jazeera",
-  "url": "https://www.aljazeera.com/amp/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait",
-  "headline": "Trump says Russia will supply over 300,000 tonnes of diesel; Ukraine warns of more attacks",
+  "region": "United States",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+  "headline": "Trump says US will not attack Iran before November midterm elections",
   "terms": [
    {
-    "term": "Diesel",
-    "meaning": "A fuel used in lorries, trains, farm machinery and some cars."
-   },
-   {
-    "term": "Kremlin",
-    "meaning": "The Russian presidency and government, often used to mean its official spokespeople."
-   },
-   {
-    "term": "Concessions",
-    "meaning": "Things one side gives up or agrees to in order to win a deal."
+    "term": "Midterm elections",
+    "meaning": "US elections held halfway through a president's term to choose members of Congress."
    }
   ],
   "levels": [
    {
-    "headline": "Trump says Russia will supply over 300,000 tonnes of diesel; Ukraine warns of more attacks",
-    "body": "US President Donald Trump said Russia has agreed to supply more than 300,000 tonnes of diesel to global markets, after he and Russian President Vladimir Putin spoke. The Kremlin confirmed the two leaders also discussed Iran, according to Al Jazeera's live coverage on 9 October 2026.\nUkraine reacted sharply. It warned that Russia would repay the diesel concessions with more terrorism, a reference to Russian missile and drone attacks on Ukrainian cities.\nSeparately, Putin was scheduled to meet Iran's president, Masoud Pezeshkian, on 9 October in Turkmenistan.\nDiesel is a key fuel for freight, farming and public transport, and supplies have been squeezed by the disruption around the Strait of Hormuz. The reports give no detail on how or when the diesel would be delivered, and I could not confirm that independently.",
-    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+    "headline": "Trump says US will not attack Iran before November midterm elections",
+    "body": "President Donald Trump said on Thursday 8 October that the United States would not attack Iran before the November midterm elections. The remark came as oil prices climbed on a record number of tanker attacks near the Strait of Hormuz, and it helped prices come off their session highs.\nReports have blamed Iran for stepping up attacks on tankers in the area. The midterms are the elections held halfway through a US presidential term, in which voters choose all of the House of Representatives and part of the Senate.\nThe statement does not settle the tensions around the strait, and oil traders were also watching the impact of a hurricane on US Gulf production.\nIt matters because a possible military clash with Iran would raise risks for shipping, energy prices and the wider world economy.",
+    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
    },
    {
-    "headline": "Trump says Russia will supply 300,000 tonnes of diesel; Kyiv warns of retaliation",
-    "body": "President Donald Trump said Russia has agreed to supply more than 300,000 tonnes of diesel to global markets after he spoke with Vladimir Putin. The Kremlin said the two leaders also discussed Iran, Al Jazeera reported on 9 October 2026.\nUkraine responded that Russia would repay the diesel concessions with more terrorism, meaning more missile and drone attacks on Ukrainian cities.\nPutin was also due to meet Iran's president, Masoud Pezeshkian, on 9 October in Turkmenistan.\nDiesel is vital for freight, farming and public transport, and supplies have been squeezed by the disruption at the Strait of Hormuz. The reports do not say how or when the diesel would be delivered, and this has not been confirmed independently.",
-    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+    "headline": "Trump rules out attack on Iran until after the midterms",
+    "body": "President Donald Trump said on 8 October that the United States would not attack Iran before the November midterm elections. Oil prices, which had jumped on a record number of tanker attacks near the Strait of Hormuz, eased from their highs after his comment.\nReports blamed Iran for stepping up attacks on ships. The midterms are held halfway through a presidential term, when Americans vote for the whole House of Representatives and a share of the Senate.\nThe comment leaves open what happens after the vote, and tensions around the strait remain, with traders also watching a hurricane that hit US Gulf production.\nAny clash with Iran could disrupt shipping and raise energy prices worldwide.",
+    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
    },
    {
-    "headline": "Trump says Russia will provide diesel; Ukraine fears it will lead to more attacks",
-    "body": "President Donald Trump has said Russia agreed to supply more than 300,000 tonnes of diesel to world markets after he spoke to Vladimir Putin. The Kremlin said they also talked about Iran. Al Jazeera reported this on 9 October 2026.\nUkraine said Russia would repay the concessions on diesel with more terrorism. By this it means more missile and drone attacks on its cities.\nPutin was also expected to meet Iran's president, Masoud Pezeshkian, on 9 October in Turkmenistan.\nDiesel is important for lorries, farms and buses, and supplies have been tight because of problems around the Strait of Hormuz. There are no details yet on how or when the diesel would arrive, and the claim has not been independently confirmed.",
-    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+    "headline": "Trump says no US strike on Iran before November",
+    "body": "President Donald Trump said on 8 October that the US would not attack Iran before the midterm elections in November. Oil prices had risen sharply after a record number of tanker attacks near the Strait of Hormuz and came off their highs after the remark.\nReports blamed Iran for stepping up the attacks. The midterms take place halfway through a president's term and decide who controls Congress.\nThe pledge covers only the period before the vote. Tensions in the area remain, and markets were also watching a hurricane's effect on US Gulf oil output.\nA military clash could threaten shipping lanes and push up energy costs around the world.",
+    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
    },
    {
-    "headline": "Trump says Russia will sell more diesel to the world; Ukraine is worried",
-    "body": "US President Donald Trump says Russia has agreed to supply more than 300,000 tonnes of diesel to world markets. He spoke with Russian leader Vladimir Putin first. The Kremlin, which speaks for the Russian government, said they also talked about Iran. This was reported on 9 October 2026.\nUkraine is worried. It said Russia would pay back the diesel concessions with more terrorism. This means more missile and drone attacks on Ukrainian towns and cities.\nPutin was also due to meet the president of Iran, Masoud Pezeshkian, on 9 October in Turkmenistan.\nDiesel is a fuel for lorries, farm machines and buses. Supplies are tight because of trouble around the Strait of Hormuz. We do not yet know how or when the diesel would arrive.",
-    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+    "headline": "Trump says the US will not attack Iran before November",
+    "body": "US President Donald Trump said on 8 October that the United States would not attack Iran before the midterm elections in November. Oil prices had jumped because of a record number of attacks on tankers near the Strait of Hormuz. They fell back from their highest levels after he spoke.\nNews reports blamed Iran for stepping up the attacks. The midterms are elections held halfway through a president's four-year term. They decide who controls Congress, the part of the US government that makes laws.\nHis words only cover the time until the vote. Worries remain about the shipping route, and traders were also watching a hurricane that hit oil production in the US.\nA fight with Iran could make shipping unsafe and push up the price of fuel around the world.",
+    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
    },
    {
-    "headline": "Russia may supply more diesel, Trump says, but Ukraine is not happy",
-    "body": "Donald Trump is the US president. He says Russia has agreed to supply more than 300,000 tonnes of diesel to the world. Diesel is a fuel used by lorries, buses and farm machines. He said this after talking to Russia's leader, Vladimir Putin. The Russian government said they also talked about Iran.\nUkraine is not happy. Russia is fighting a war against Ukraine. Ukraine said that Russia would make up for this deal with more attacks on its cities.\nPutin was also meant to meet the president of Iran, Masoud Pezeshkian, on 9 October in Turkmenistan.\nDiesel has been hard to get because ships are having trouble in the Strait of Hormuz. We do not know yet how the diesel would be delivered.",
-    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+    "headline": "Trump says no US attack on Iran before the midterm elections",
+    "body": "President Donald Trump said on 8 October that the United States would not attack Iran before the midterm elections in November. Oil prices had jumped on a record number of tanker attacks near the Strait of Hormuz, and they eased after his comment.\nReports blamed Iran for stepping up the attacks. The midterms are elections held halfway through a president's term, when voters choose who sits in Congress, the part of government that makes US laws.\nThe comment covers only the time before the vote, so worries about shipping remain. Traders were also watching a hurricane that hit oil production in the US Gulf.\nA clash with Iran could make shipping unsafe and push fuel prices up around the world.",
+    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
    },
    {
-    "headline": "Trump says Russia will send more diesel; Ukraine says it will bring more attacks",
-    "body": "US President Donald Trump says Russia has agreed to supply more than 300,000 tonnes of diesel to the world. Diesel is a fuel used by lorries, buses and farm machines. He said this after speaking to Russian leader Vladimir Putin. Russia's government said they also talked about Iran.\nUkraine is not happy. Russia is fighting a war against it. Ukraine said Russia would use the deal as a chance to carry out more attacks on its cities.\nPutin was also meant to meet Iran's president, Masoud Pezeshkian, on 9 October in Turkmenistan.\nDiesel has been hard to get because ships have had trouble on a key sea route. We do not yet know how or when the diesel would be delivered.",
-    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+    "headline": "Trump says America will not attack Iran before the elections",
+    "body": "President Donald Trump of the United States said on 8 October that his country would not attack Iran before elections in November. On the same day, oil had become more expensive because of a record number of attacks on ships near the Strait of Hormuz. After he spoke, the oil price fell back a little.\nReports said Iran was behind more of the attacks. The November elections are called the midterms. They take place halfway through a president's time in office, and they decide who controls Congress, the group that makes the country's laws.\nHe only talked about the time before the vote. People are still worried about ships at sea, and a hurricane has also hurt oil making in the US.\nA fight with Iran could make oil much dearer for people everywhere.",
+    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
    },
    {
-    "headline": "Trump says Russia will send more diesel; Ukraine is upset",
-    "body": "Donald Trump is the president of the United States. He talked to Vladimir Putin, the leader of Russia. Afterwards he said Russia will send more diesel to countries around the world. Diesel is a fuel for lorries and buses.\nUkraine is not happy about this. Russia is fighting a war against Ukraine. Ukraine said Russia would use the deal to attack it even more.\nThe leaders also talked about Iran. Putin was going to meet Iran's president too.\nDiesel has been hard to get lately, because ships have had trouble on a key sea route. We do not know yet how the diesel will get to people.",
-    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+    "headline": "The US leader says no attack on Iran for now",
+    "body": "The leader of the United States, President Donald Trump, said on 8 October that his country would not attack Iran before elections in November. That day, oil had become dearer because ships had been attacked near the Strait of Hormuz. The price dropped a little after he spoke.\nNews reports said Iran was behind more of the attacks. The November elections are called the midterms. They happen halfway through a president's time in the job. People vote for who will sit in Congress, the group that makes laws in the US.\nHe only talked about the time until the vote. People are still worried about the ships. A storm also hurt oil making in the US.\nIf there was a fight, oil could get much dearer, and that would affect people far away.",
+    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
    },
    {
-    "headline": "A deal about fuel is making Ukraine worried",
-    "body": "Two leaders talked on the phone. They were Donald Trump, who leads the United States, and Vladimir Putin, who leads Russia. Afterwards Mr Trump said Russia will send a lot of diesel to other countries. Diesel is a fuel that lorries use.\nRussia is fighting a war with Ukraine. Ukraine was not happy about the fuel deal. It thinks Russia will hurt it more.\nFuel has been hard to get lately. Ships have had trouble on a busy sea road, so there is not as much to go around.\nWe do not know yet how the fuel will get to people. Grown-ups are still working that out.",
-    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+    "headline": "A promise about a possible fight",
+    "body": "The leader of the United States, President Donald Trump, said that his country would not attack another country, Iran, before big elections in November. Elections are when people vote to choose who will make decisions. He said this on 8 October.\nWhy did people care? Ships carrying oil had been attacked near a narrow stretch of sea, and news reports said Iran was behind more of the attacks. Oil had become dearer. After he spoke, the price fell back a little.\nHe only promised for the time until the vote. People are still worried about the ships.\nIf countries fight, ships can be unsafe and oil can cost much more everywhere.",
+    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
    },
    {
-    "headline": "Two leaders talk about fuel, and one country is worried",
-    "body": "Two grown-up leaders spoke on the phone. One leads America and one leads Russia. The American one said Russia will send more fuel to other countries. The fuel is called diesel. Lorries and buses use it.\nRussia is fighting a war with a country next door, called Ukraine. Ukraine does not like the deal. It is worried Russia will be unkind to it again.\nFuel has been hard to get lately. It is like when there are not enough crayons for everyone in the class.\nNobody knows yet how the fuel will get to everyone. Grown-ups are still working on it.",
-    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+    "headline": "A promise from the leader of America",
+    "body": "The leader of America, President Trump, made a promise on 8 October. He said America would not attack the country of Iran until after some big votes in November. A vote is when people choose who will lead them.\nMany people were listening. Ships that carry oil had been attacked near a narrow sea route. News reports said Iran was behind more of the attacks. Oil had become dearer. After the promise, the price came down a little, like when everyone calms down after a shout.\nThe promise only lasts until the votes.\nIf countries argue and fight, many people can be affected, even far away.",
+    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
    },
    {
-    "headline": "Leaders talk about fuel, and one country is worried",
-    "body": "Fuel is what makes lorries and buses go. This week, two leaders talked on the phone about it. One is the leader of America and one is the leader of Russia.\nThe American leader said Russia will send more fuel to the world. That could help when there is not much to go around, like sharing out snacks in class.\nBut Russia is fighting a war with a country called Ukraine. Ukraine is worried. It thinks Russia might be unkind to it again.\nNobody knows yet how it will work. Grown-ups are still talking about it.",
-    "why": "It shows how the Iran conflict, fuel supply and the war in Ukraine are now tied together in diplomacy."
+    "headline": "When leaders promise not to fight",
+    "body": "Sometimes leaders of countries argue, a bit like children in a playground. The leader of America, President Trump, said on 8 October that America would not start a fight with Iran until after some big votes in November.\nPeople listened closely. Some ships carrying oil had been attacked at sea, and oil had become dearer. When he made his promise, the price came down a little. It was like a teacher saying 'let's all calm down'.\nThe promise only lasts until the votes. Grown-ups are still worried about the ships.\nWhen countries fight, many people can be affected, even those far away.",
+    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
    }
-  ],
-  "order": 9
- },
- {
-  "id": "japan-real-wages",
-  "topic": "Economy",
-  "region": "Asia",
-  "source": "The Japan Times",
-  "url": "https://www.japantimes.co.jp/business/economy/",
-  "headline": "Japan's real wages rise 1.5% in August; Bank of Japan said to be nearing 2% inflation call",
-  "terms": [
-   {
-    "term": "Real earnings",
-    "meaning": "Pay after taking account of rising prices, so it shows what wages can actually buy."
-   },
-   {
-    "term": "Underlying inflation",
-    "meaning": "Price rises with short-term swings, such as food and energy, smoothed out."
-   },
-   {
-    "term": "Bank of Japan",
-    "meaning": "Japan's central bank, which sets interest rates."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Japan's real wages rise 1.5% in August; Bank of Japan said to be nearing 2% inflation call",
-    "body": "Japan's inflation-adjusted cash earnings, excluding rents, rose 1.5% in August 2026 from a year earlier, according to Japan Times headlines from early October. The newspaper ties the rise to relief measures introduced by Prime Minister Takaichi.\nReal earnings matter because they show whether pay is keeping up with prices. A positive figure means that, on average, workers could buy more with their pay than a year before.\nThe Bank of Japan is also reportedly preparing to say in its next quarterly report that underlying inflation has reached 2%, its long-standing target. That report is expected as early as 30 October.\nJapan spent decades with prices flat or falling, so a sustained 2% would be a milestone for the central bank. The reports I found were headlines only, so details of the data and the bank's plans are limited and should be treated with caution.",
-    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
-   },
-   {
-    "headline": "Japan's real earnings up 1.5% in August as central bank nears 2% inflation",
-    "body": "Japan's inflation-adjusted cash earnings, not counting rents, were 1.5% higher in August 2026 than a year earlier, according to Japan Times headlines from early October. The paper links the rise to relief measures from Prime Minister Takaichi.\nReal earnings show whether pay is keeping up with prices. A positive number means workers could, on average, buy more than a year before.\nThe Bank of Japan is reportedly getting ready to say in its next quarterly report that underlying inflation has reached its 2% target. That report is expected as early as 30 October.\nJapan went through decades of flat or falling prices, so a lasting 2% would be a milestone. The reports were headlines only, so detail is limited.",
-    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
-   },
-   {
-    "headline": "Japanese workers' pay beats price rises by 1.5%",
-    "body": "Pay in Japan rose faster than prices in August 2026. Cash earnings, adjusted for inflation and not counting rents, were 1.5% higher than a year before. The Japan Times links this to relief measures from Prime Minister Takaichi.\nThis matters because it shows if workers can buy more than before. A rise in real earnings means pay is growing faster than prices.\nThe Bank of Japan, the country's central bank, is reportedly set to say in its next quarterly report that underlying inflation has reached 2%. That is its target. The report is expected as early as 30 October.\nFor decades Japan had prices that barely moved or even fell, so reaching 2% would be an important moment. Only headlines were available, so details are limited.",
-    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
-   },
-   {
-    "headline": "Pay in Japan is rising faster than prices",
-    "body": "Workers in Japan are doing a little better. Their pay, after taking away the effect of rising prices, was 1.5% higher in August 2026 than a year earlier. The Japan Times says Prime Minister Takaichi's relief measures helped.\nThis number is called real earnings. It tells us what pay can actually buy. If it goes up, people can afford more than before.\nJapan's central bank, the Bank of Japan, is reported to be getting ready to say that underlying prices are rising by 2% a year. That is the rate the bank aims for. It could say so as early as 30 October.\nFor many years prices in Japan hardly rose at all, so this would be a big change. We only saw headlines, so there are few details.",
-    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
-   },
-   {
-    "headline": "Workers in Japan can buy a little more than a year ago",
-    "body": "Pay in Japan has grown faster than prices. In August 2026, workers' pay, after allowing for rising prices, was 1.5% higher than a year before. A newspaper called the Japan Times says new help from Prime Minister Takaichi played a part.\nThis matters because it means people can buy a little more with their wages than they could last year.\nJapan's central bank, the Bank of Japan, may soon say that prices are rising at its target of 2% a year. It might say this on 30 October.\nFor many years, prices in Japan did not rise much. So this would be a big change. We only had headlines to go on, so we do not know all the details.",
-    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
-   },
-   {
-    "headline": "Pay in Japan is growing faster than prices, and the central bank may soon hit its target",
-    "body": "Workers in Japan are doing a little better. Their pay, once we take away the effect of rising prices, was 1.5% higher in August 2026 than a year earlier. The Japan Times says Prime Minister Takaichi's relief measures helped.\nThis number is called real earnings. It shows what pay can really buy. If it goes up, people can afford a bit more than before.\nJapan's central bank, the Bank of Japan, is reported to be getting ready to say that underlying prices are rising by 2% a year. That is the rate it aims for. It could say so as early as 30 October.\nFor many years prices in Japan hardly rose, so this would be a big change. We only saw headlines, so there are few details.",
-    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
-   },
-   {
-    "headline": "People in Japan can buy a bit more with their pay",
-    "body": "In Japan, people's pay has been going up by more than prices. In August 2026 it was 1.5% higher than a year before, once we take away the price rises. A newspaper says the prime minister's help for families played a part.\nThis is good news for workers. It means they can buy a little more than before. Last year the same pay would have bought less.\nJapan has a bank for the whole country called the Bank of Japan. It wants prices to go up by about 2% each year. It may soon say that this has happened. It could say so on 30 October.\nFor many years prices in Japan did not go up. So this would be a big change.",
-    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
-   },
-   {
-    "headline": "People in Japan can buy a little more",
-    "body": "Japan is a country far away. People there get paid for their work, just like grown-ups here. This year their pay went up by more than the prices in the shops. That means they can buy a bit more than before.\nIt is like getting more pocket money, while the sweets at the shop cost the same. You would be able to buy more.\nThe country has a big bank that tries to keep prices rising slowly, by about 2% each year. It may soon say it has done this.\nFor a long time prices in Japan did not go up. So this is quite new.",
-    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
-   },
-   {
-    "headline": "People in Japan can buy a little more",
-    "body": "Japan is a country far away. People there go to work and get paid. This year their pay went up. It went up by more than the prices in the shops did.\nImagine you got a bit more pocket money, and the sweets still cost the same. Now you could buy a few more sweets. That is what has happened to workers in Japan.\nThe country has a big bank. It tries to make sure prices go up slowly, a little each year. It might soon say it has done this.\nFor a long time, prices in Japan did not go up at all. So this is new.",
-    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
-   },
-   {
-    "headline": "Grown-ups in Japan can buy a bit more",
-    "body": "Japan is a country far across the world. Grown-ups there go to work and get paid. This year they got a little bit more pay.\nTheir pay went up by more than the price of things in the shops. It is like getting more pocket money while sweets stay the same price. Then you can buy more sweets.\nThe country has a big bank that looks after money. It wants prices to go up slowly, which is normal. It may soon say that this is happening.\nThat would be new, because for a long time prices there did not go up.",
-    "why": "It shows how wages and prices are moving in the world's fourth-largest economy, which affects interest rates and trade."
-   }
-  ],
-  "order": 10
+  ]
  }
 ]
