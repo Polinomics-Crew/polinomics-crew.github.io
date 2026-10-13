@@ -1,285 +1,751 @@
 [
  {
-  "id": "uk-economy-grew-faster-q2",
+  "id": "autumn-budget-headroom",
   "order": 1,
   "topic": "Economy",
   "region": "United Kingdom",
-  "source": "Reuters via Zawya",
-  "url": "https://www.zawya.com/en/world/uk-economy-grew-faster-than-thought-in-second-quarter-cementing-g7-lead-1451480",
-  "headline": "UK economy grew faster than first thought in the second quarter",
+  "source": "PwC / Which?",
+  "url": "https://www.pwc.co.uk/press-room/press-releases/research-commentary/2026/pwc-previews-the-uk-autumn-budget-2026.html",
+  "headline": "Chancellor Healey faces halved buffer ahead of 28 October Budget",
   "terms": [
    {
-    "term": "GDP",
-    "meaning": "The total value of goods and services an economy produces."
+    "term": "Headroom",
+    "meaning": "The gap between what the government plans to borrow and the limit it has set itself."
    },
    {
-    "term": "G7",
-    "meaning": "A group of seven large advanced economies."
+    "term": "Gilts",
+    "meaning": "Bonds the UK government sells to borrow money."
    },
    {
-    "term": "Business investment",
-    "meaning": "Money firms spend on things like machinery and buildings."
+    "term": "OBR",
+    "meaning": "The Office for Budget Responsibility, the independent body that forecasts the public finances."
    }
   ],
   "levels": [
    {
-    "headline": "UK economy grew faster than first thought in the second quarter",
-    "body": "Britain's economy grew by 0.5% in the second quarter of 2026, the April to June period, a stronger result than first estimated. Output was 1.4% higher than a year earlier, according to the revised figures, which were reported as cementing the UK's lead among G7 economies.\nBusiness investment was also revised up, to an annual rate of 5.2%. GDP per head, which measures output per person and so strips out the effect of population growth, rose by 1.1% over the first half of 2026. That was reported as the largest increase since late 2017, leaving aside the swings caused by the pandemic.\nThe picture ahead is less certain. Commentators such as PwC have pointed to uncertainty over the Budget and a sustained rise in energy prices as the weather turns colder as risks to growth.\nThe figures matter because growth affects jobs, wages and the money the government has available to spend.",
-    "why": "Growth affects jobs, wages and the money the government has to spend."
+    "headline": "Chancellor Healey faces halved buffer ahead of 28 October Budget",
+    "body": "The Autumn Budget will be delivered on Wednesday 28 October 2026 by Chancellor John Healey, who took the job a little over three months ago under Prime Minister Andy Burnham. The Office for Budget Responsibility (OBR), the independent forecaster, will publish its updated economic and fiscal forecast on the same day. Mr Healey confirmed the date in a letter to the Treasury Select Committee published on 31 July.\nPwC estimates that movements in government bond yields and interest rates have roughly halved the Chancellor's fiscal headroom, the buffer between his plans and his own borrowing rules, to about £14 billion. Higher yields mean the government pays more to borrow, which eats into that buffer.\nThe government has repeated its manifesto promise not to raise income tax rates, and income tax thresholds are already frozen until April 2031. Commentators therefore expect attention to fall on other taxes, such as capital gains tax, while large-company corporation tax is expected to stay at 25%. Coverage also expects a roadmap giving mayors a bigger share of locally raised revenue, starting with business rates.",
+    "why": "It shows how higher borrowing costs limit what the government can spend or cut, and so what taxes may do."
    },
    {
-    "headline": "UK growth revised up for the second quarter, keeping Britain ahead in the G7",
-    "body": "The UK economy expanded by 0.5% between April and June 2026, more than first estimated, and was 1.4% larger than a year earlier. The revision was reported as cementing Britain's lead among G7 economies.\nBusiness investment was revised up to a 5.2% annual rate. GDP per head, a measure of output per person, grew by 1.1% in the first half of 2026, the biggest rise since late 2017 once the pandemic's distortions are set aside.\nLooking forward, PwC has flagged Budget uncertainty and rising energy prices as winter approaches as risks to the recovery.\nGrowth matters because it influences employment, pay and how much room the government has for tax and spending decisions.",
-    "why": "Growth affects jobs, wages and the money the government has to spend."
+    "headline": "Chancellor Healey's fiscal buffer halves before the Autumn Budget",
+    "body": "The Autumn Budget is due on Wednesday 28 October, and the Chancellor, John Healey, has less room to manoeuvre than expected. He took the job a little over three months ago under Prime Minister Andy Burnham. The OBR, the official forecaster, will publish new forecasts on the same day.\nPwC estimates that changes in bond yields and interest rates have roughly halved his fiscal headroom, the cushion between his plans and his borrowing rules, to about £14 billion. When yields rise, the cost of government borrowing goes up with them.\nMinisters have repeated their pledge not to raise income tax rates, and thresholds stay frozen until April 2031. Analysts therefore point to capital gains tax as a possible target, while corporation tax for large firms is expected to stay at 25%. A plan for mayors to keep more local revenue, beginning with business rates, is also expected.",
+    "why": "It shows how rising borrowing costs squeeze the choices open to the Chancellor."
    },
    {
-    "headline": "UK economy grew 0.5% in the spring, more than first thought",
-    "body": "Britain's economy grew by 0.5% between April and June 2026, after revised figures showed it did better than first estimated. It was 1.4% bigger than a year before, and the result was reported as keeping the UK ahead of other G7 economies.\nBusiness investment was revised up to an annual rate of 5.2%. Output per person, known as GDP per head, rose 1.1% in the first half of the year, the largest increase since late 2017 apart from pandemic swings.\nThere are worries about what comes next. PwC has pointed to uncertainty about the Budget and to energy prices rising as the weather gets colder.\nStronger growth can help create jobs and raise wages, and it gives the government more money from taxes to spend.",
-    "why": "Growth affects jobs, wages and the money the government has to spend."
+    "headline": "Budget buffer shrinks as borrowing costs rise",
+    "body": "Chancellor John Healey will deliver the Autumn Budget on Wednesday 28 October. He has been in the job for a little over three months, serving under Prime Minister Andy Burnham. The independent Office for Budget Responsibility will publish fresh forecasts at the same time.\nAccording to PwC, rising bond yields and interest rates have roughly halved the government's headroom, the margin by which it meets its own borrowing rules, to around £14 billion. Put simply, borrowing has become more expensive, so there is less spare money.\nThe government says it will not raise income tax rates, and the thresholds at which people start paying tax are frozen until April 2031. That leaves other taxes in the spotlight, including capital gains tax. Large companies are expected to keep paying corporation tax at 25%. A plan to let mayors keep more of the money raised in their areas is also expected.",
+    "why": "Higher borrowing costs can shape taxes and spending that affect households."
    },
    {
-    "headline": "Britain's economy did better than expected this spring",
-    "body": "Britain's economy grew by 0.5% between April and June 2026. That is more than experts first thought. It was also 1.4% bigger than a year earlier. Reports said this keeps the UK ahead of the other G7 countries, a group of large rich economies.\nMoney spent by firms on things like machines and buildings, called business investment, was also revised up. GDP per head, which means the amount the economy produces for each person, rose 1.1% in the first half of the year. That is the biggest rise since late 2017, not counting the odd years of the pandemic.\nThere are some worries about the months ahead. PwC, a firm of experts, pointed to uncertainty over the Budget and to energy prices going up as it gets colder.\nA growing economy can mean more jobs and better pay for people.",
-    "why": "Growth affects jobs, wages and the money the government has to spend."
+    "headline": "Chancellor has less room for manoeuvre before Budget",
+    "body": "Chancellor John Healey will present the Autumn Budget on Wednesday 28 October, just over three months after taking the job under Prime Minister Andy Burnham. The official forecaster, the Office for Budget Responsibility, will publish new predictions the same day.\nPwC estimates that the government's financial cushion, known as headroom, has roughly halved to about £14 billion. The reason is that the interest the government pays on its borrowing has risen as bond yields have gone up.\nMinisters have repeated their promise not to raise income tax rates, and the thresholds for paying it stay frozen until April 2031. Analysts expect attention to turn to other taxes, such as capital gains tax, while corporation tax for large firms should stay at 25%. Mayors may also be offered a bigger share of the tax raised locally.",
+    "why": "It affects what the Budget can offer and who may pay more tax."
    },
    {
-    "headline": "UK economy grew 0.5% in spring, more than first estimated",
-    "body": "Britain's economy grew by 0.5% between April and June 2026, after revised figures showed it had done better than first thought. It was 1.4% bigger than a year earlier, and reports said this keeps the UK ahead of other G7 economies, the group of large rich countries.\nCompanies also invested more in things like machinery and buildings, at an annual rate of 5.2%. The amount produced for each person, called GDP per head, rose 1.1% in the first half of the year, the biggest rise since late 2017 apart from pandemic swings.\nThere are risks ahead. PwC has pointed to doubts about the Budget, the government's plan for tax and spending, and to energy prices rising as the weather turns colder.\nStronger growth can mean more jobs and better pay, and it brings the government more money from taxes.",
-    "why": "Growth affects jobs, wages and the money the government has to spend."
+    "headline": "The Chancellor has less spare money before the Budget",
+    "body": "Chancellor John Healey will give the Autumn Budget on Wednesday 28 October. He has held the job for a little over three months, working for Prime Minister Andy Burnham. On the same day, an independent group called the Office for Budget Responsibility will share its forecasts for the economy.\nThe firm PwC says the government's spare room for borrowing, called headroom, has roughly halved to about £14 billion. This is because the interest the government pays on its loans has gone up. Think of it as a household whose monthly bills have grown, leaving less to spend freely.\nThe government says it will not put up income tax rates, and the levels at which people start paying tax are frozen until April 2031. So experts think other taxes, like capital gains tax, could be looked at. Big companies should keep paying 25% corporation tax, which is tax on their profits.",
+    "why": "It could affect your taxes, public services and prices."
    },
    {
-    "headline": "The UK economy grew more than people thought",
-    "body": "The UK economy grew by 0.5% between April and June 2026. When experts looked again at the numbers, they found it had done better than they first said. It was also 1.4% bigger than a year before. News reports said the UK is doing better than the other G7 countries, which are seven big rich countries.\nFirms also spent more on machines and buildings than first thought. The amount of goods and services made for each person went up by 1.1% in the first half of the year. That is the biggest rise since late 2017, apart from the strange pandemic years.\nExperts at PwC say there are some risks ahead. People do not yet know what will be in the Budget, and energy prices are rising as winter comes.\nWhen the economy grows, it can mean more jobs and higher pay.",
-    "why": "Growth affects jobs, wages and the money the government has to spend."
+    "headline": "The Budget is coming and the government has less spare cash",
+    "body": "The Chancellor, John Healey, will give the Autumn Budget on Wednesday 28 October. This is the government's yearly plan for taxes and spending. He has held the job for a little over three months. An independent group called the OBR will share its forecasts for the economy on the same day.\nThe company PwC says the government now has less spare room for borrowing. This is called headroom. It has roughly halved to about £14 billion. The reason is that the interest the government pays on what it borrows has gone up, so more of its money goes on bills.\nThe government says it will not raise income tax rates, and the point at which people start paying tax is frozen until April 2031. So experts think other taxes, such as capital gains tax, could change. Capital gains tax is paid on the profit from selling things like shares. Large companies should keep paying 25% on their profits.",
+    "why": "It affects taxes, public services and what the government can afford."
    },
    {
-    "headline": "The UK made more than expected this spring",
-    "body": "The UK economy grew by 0.5% between April and June 2026. The economy is all the things a country makes and sells, like food, cars and services. Experts looked at the numbers again and found it had grown more than they thought. It was 1.4% bigger than a year before.\nReports said this is better than the other G7 countries, which are seven big rich countries. Firms also spent more on machines and buildings. The amount made for each person went up by 1.1% in the first half of the year, the most since late 2017, not counting the pandemic years.\nSome experts are still careful. They say people do not know yet what the government will do in the Budget, and that energy costs are going up as it gets cold.\nA growing economy can mean more jobs and more pay.",
-    "why": "Growth affects jobs, wages and the money the government has to spend."
+    "headline": "The Budget is on 28 October and there is less spare money",
+    "body": "The Chancellor, John Healey, will give the Autumn Budget on Wednesday 28 October. A Budget is when the government says how it will raise money through tax and how it will spend it. He started the job a little over three months ago. An independent team, the OBR, will share new forecasts that day.\nThe firm PwC says the government's safety cushion has shrunk. This cushion, called headroom, is the gap between what the government plans to borrow and the limit it has set itself. It has roughly halved to about £14 billion. The reason is that borrowing now costs more in interest.\nThe government says it will not raise income tax rates. The point at which people start paying tax is also frozen until April 2031. Experts think other taxes, such as capital gains tax, may go up instead. That is tax on the profit when you sell something like shares. Large companies should keep paying 25% tax on their profits.",
+    "why": "It matters because Budgets decide how much tax people pay."
    },
    {
-    "headline": "The country made more than expected",
-    "body": "The UK economy grew between April and June this year. An economy is everything a country makes and sells, like food, cars and help from doctors. It grew by 0.5% in those three months. Experts first thought it grew less.\nOver a whole year it grew 1.4%. News reports said this beats other rich countries in a group called the G7. Companies also spent more money on machines and buildings. And each person in the UK, on average, was part of 1.1% more being made in the first half of the year.\nExperts also said to be careful. The government will soon explain its plans for taxes and spending, called the Budget, and no one knows yet what it will say. Heating and energy are also getting dearer as winter comes.\nWhen a country makes more, there can be more jobs and more pay.",
-    "why": "Growth affects jobs, wages and the money the government has to spend."
+    "headline": "The Chancellor has less money to play with before the Budget",
+    "body": "On Wednesday 28 October, the Chancellor will give the Budget. The Chancellor is the minister in charge of the country's money. His name is John Healey. A Budget is a big speech about taxes and spending. A group of experts called the OBR will also give its forecasts.\nA company called PwC says the government now has less spare money. Experts call this spare money headroom. It is about £14 billion, which is about half what it was. The government borrows money by selling bonds, and it must pay interest on them. Lately that interest has gone up.\nThe government says it will not raise income tax. This is the tax taken from people's pay. The level at which people start paying it is frozen until April 2031. Experts think other taxes may rise, like tax on the profit made from selling shares. Big firms should keep paying 25% on their profits.",
+    "why": "It matters because the Budget decides how money is shared out."
    },
    {
-    "headline": "The country got a bit richer this spring",
-    "body": "Think of the whole country as a big shop. Between April and June, the shop sold more than people expected. It sold 0.5% more than before. That is a small step up, like adding one extra sweet to every two hundred.\nOver a whole year, it sold 1.4% more. Reports said this is better than other rich countries. Shops and firms also spent more on machines and buildings. Each person in the country, on average, was part of a little more being made.\nGrown-ups say we should be careful. A big plan about taxes and spending, called the Budget, is coming and nobody knows what is in it. Keeping warm is also getting dearer as winter comes.\nWhen the shop does well, more people can have jobs and bigger pay.",
-    "why": "Growth affects jobs, wages and the money the government has to spend."
+    "headline": "Why the Budget is a worry this month",
+    "body": "The Chancellor will give a big speech on 28 October. It is called the Budget. The Chancellor is the person in charge of the country's money. His name is John Healey. In the speech he says what taxes will be and how money will be spent. Taxes are money people pay to the government.\nThe government has less spare money than before. Spare money means the money left over after it has made its plans. A company called PwC says it is now about £14 billion. That is about half as much as before. The government borrows money, and it pays extra, called interest. That extra has got bigger.\nThe government says it will not make income tax bigger. Income tax is the money taken from people's pay. People start paying it above a set amount, and that amount will stay the same until 2031. Experts think some other taxes could go up. Big companies will keep paying the same tax.",
+    "why": "It matters because the Budget affects how much families pay and get."
    },
    {
-    "headline": "How the country did this spring",
-    "body": "Each year, grown-ups count how much the whole country makes and sells. Between April and June, it was a bit more than they first thought. It went up by half of one in every hundred. That is a small step, like a plant growing a tiny bit taller.\nOver a whole year, the country made 1.4% more. Reports said that is better than other rich countries. Firms also spent more on machines and buildings.\nSome grown-ups are still careful. A plan about money, called the Budget, is coming soon. Heating is also getting dearer as the weather gets colder.\nWhen a country grows, more people can get jobs and be paid more. That is why grown-ups watch these numbers.",
-    "why": "Growth affects jobs, wages and the money the government has to spend."
+    "headline": "A grown-up has less spare pocket money",
+    "body": "Imagine a country has a big money jar. Once in a while, the leader of the money, called the Chancellor, tells everyone how the jar will be filled and spent. His name is John Healey. That big talk is called the Budget, and it happens on 28 October.\nThis time the jar has less spare money in it. Think of pocket money. If you borrowed some from a friend, you would have to pay back a little extra. The government borrowed money too, and the little extra has grown. So there is less left over to spend on nice things.\nThe government has said it will not take more money from people's wages. Some other taxes might change, though. Grown-ups will be listening closely to the speech. It matters because taxes pay for things like schools, hospitals and roads.",
+    "why": "It shows that even a government has to be careful with money."
    }
   ]
  },
  {
-  "id": "burnham-first-months",
+  "id": "bank-of-england-holds-3-75",
   "order": 2,
-  "topic": "Politics",
+  "topic": "Economy",
   "region": "United Kingdom",
-  "source": "Reporting summarised from GZERO Media and others",
-  "url": "https://www.gzeromedia.com/amp/uks-new-prime-minister-faces-an-uphill-battle-2677253764",
-  "headline": "Andy Burnham settles into Downing Street as Labour tensions surface",
+  "source": "Bank of England",
+  "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate",
+  "headline": "Bank of England holds Bank Rate at 3.75% as three members vote to raise it",
   "terms": [
    {
-    "term": "Cabinet",
-    "meaning": "The group of senior ministers who lead the government."
+    "term": "Bank Rate",
+    "meaning": "The interest rate set by the Bank of England, which influences what banks charge and pay."
    },
    {
-    "term": "Triple lock",
-    "meaning": "A rule that raises the state pension each year by the highest of inflation, wage growth or 2.5%."
+    "term": "Monetary Policy Committee",
+    "meaning": "The nine-member group that votes on interest rates."
+   },
+   {
+    "term": "Inflation",
+    "meaning": "The rate at which prices rise over time."
    }
   ],
   "levels": [
    {
-    "headline": "Andy Burnham settles into Downing Street as Labour tensions surface",
-    "body": "Andy Burnham became Prime Minister in July 2026 after Keir Starmer resigned, making him Britain's seventh prime minister in a decade. He had stood down as Mayor of Greater Manchester in June and entered Parliament as MP for Makerfield that same month.\nRachel Reeves left government in July, saying she would support Burnham's Labour government. Early October reports described a cabinet revolt over a proposed overhaul of the voting system, and calls from Labour MPs to scrap the family farm tax. Commentators also warned about a reported plan to scrap the pension triple lock, which guarantees yearly rises in the state pension.\nThe Conservatives, led by Kemi Badenoch, held their annual party conference in early October.\nThe first months of a new prime minister shape how much support a government keeps, both in Parliament and with voters.",
-    "why": "A new prime minister's early decisions shape party unity and public trust."
+    "headline": "Bank of England holds Bank Rate at 3.75% as three members vote to raise it",
+    "body": "The Bank of England's Monetary Policy Committee voted 6-3 on 17 September 2026 to hold Bank Rate at 3.75%. Three members, Megan Greene, Catherine Mann and Huw Pill, wanted a quarter-point rise to 4%. The other six, including Governor Andrew Bailey, Sarah Breeden, Swati Dhingra, Clare Lombardelli, Dave Ramsden and Alan Taylor, voted to hold.\nBank Rate has not moved since a quarter-point cut from 4% on 18 December 2025. The Bank said energy prices remain volatile because of the conflict in the Middle East, and that this means inflation, currently 3.1%, will rise further.\nThe next decision is due on Thursday 5 November 2026, alongside a new Monetary Policy Report. Commentators say a rise is becoming increasingly likely if energy prices stay high. Bank Rate influences the cost of mortgages and loans and the return on savings, so any move matters to millions of households.",
+    "why": "It sets the price of borrowing for mortgages and loans, and three votes for a rise hint that rates could go up on 5 November."
    },
    {
-    "headline": "Burnham's government faces early divisions over policy",
-    "body": "Andy Burnham has been Prime Minister since July 2026, when Keir Starmer resigned. Burnham is the seventh prime minister in a decade. He left his role as Mayor of Greater Manchester in June and became MP for Makerfield that month.\nRachel Reeves left government in July and said she would back the new Labour government. Reports in early October described a cabinet revolt over a voting system overhaul, and Labour MPs calling for the family farm tax to be scrapped. Commentators also raised concerns about a reported plan to end the triple lock on pensions.\nMeanwhile the Conservatives, under Kemi Badenoch, prepared for their annual conference in early October.\nA new leader's early decisions affect party unity and public trust.",
-    "why": "A new prime minister's early decisions shape party unity and public trust."
+    "headline": "Bank of England keeps rates at 3.75% despite three votes for a rise",
+    "body": "The Bank of England voted 6-3 on 17 September to keep Bank Rate at 3.75%. Three members of the Monetary Policy Committee, Megan Greene, Catherine Mann and Huw Pill, wanted a quarter-point rise to 4%. Governor Andrew Bailey and five colleagues voted to hold.\nBank Rate has stayed put since a quarter-point cut in December 2025. The Bank said energy prices are still volatile because of the Middle East conflict, and that inflation, now 3.1%, is likely to rise further.\nThe next decision is on Thursday 5 November, when the Bank will also publish a new Monetary Policy Report. Some commentators say a rise is increasingly likely if energy prices stay high. Bank Rate feeds through to mortgage rates, loan costs and the interest paid on savings.",
+    "why": "It signals that rates may rise if energy-driven inflation persists, with the next decision on 5 November."
    },
    {
-    "headline": "Burnham's first months as Prime Minister",
-    "body": "Andy Burnham took over as Prime Minister in July 2026 after Keir Starmer resigned, the seventh prime minister in ten years. He had quit as Mayor of Greater Manchester in June and won a seat in Parliament as MP for Makerfield.\nChancellor Rachel Reeves left the government in July but said she would support Burnham. In early October, reports spoke of a cabinet revolt over changes to the voting system and of Labour MPs wanting the family farm tax dropped. Commentators warned about a reported plan to scrap the pension triple lock.\nThe Conservatives, led by Kemi Badenoch, were getting ready for their annual conference.\nHow a new prime minister handles disputes in their own party can decide how long they last.",
-    "why": "A new prime minister's early decisions shape party unity and public trust."
+    "headline": "Bank of England holds interest rates, but three want a rise",
+    "body": "The Bank of England has left its main interest rate, Bank Rate, at 3.75% after a 6-3 vote on 17 September. Three members of its rate-setting committee, Megan Greene, Catherine Mann and Huw Pill, argued for a rise to 4%, while six others, including Governor Andrew Bailey, wanted to wait.\nThe rate has not changed since a cut in December 2025. The Bank said energy prices remain unpredictable because of the fighting in the Middle East. It expects inflation, currently 3.1%, to climb further because of this.\nThe next decision comes on 5 November, along with a new report on the Bank's forecasts. Some commentators think a rise is increasingly likely if energy stays expensive. Changes to Bank Rate affect mortgage costs, loan costs and what savers earn.",
+    "why": "It affects mortgages, loans and savings, and a rise may be coming."
    },
    {
-    "headline": "Andy Burnham is Prime Minister, but his party is not all agreed",
-    "body": "Andy Burnham became Prime Minister in July 2026 after Keir Starmer resigned. He is the seventh prime minister the UK has had in ten years. Before that he was Mayor of Greater Manchester, and he became an MP in June.\nRachel Reeves left the government in July. She said she would still support the new Labour government. In early October, news reports described a row in the cabinet, the group of senior ministers, about changing how people vote. Some Labour MPs also want the family farm tax scrapped. There is also talk of ending the triple lock, a rule that makes the state pension rise every year.\nThe Conservative Party, led by Kemi Badenoch, was getting ready for its yearly conference.\nIf a governing party argues in public, it can find it harder to pass laws.",
-    "why": "A new prime minister's early decisions shape party unity and public trust."
+    "headline": "Bank of England keeps rates unchanged as energy prices bite",
+    "body": "The Bank of England has decided to keep its main interest rate at 3.75%. The vote on 17 September was 6-3. Three members of the committee that sets rates, Megan Greene, Catherine Mann and Huw Pill, wanted a small rise to 4%. The other six, led by Governor Andrew Bailey, preferred to wait.\nThe rate has stayed the same since a small cut in December 2025. The Bank said energy prices are still jumping around because of the conflict in the Middle East, so it expects inflation, the speed at which prices rise, to go higher than the current 3.1%.\nThe next decision is on 5 November. Some analysts say a rise looks more likely if energy prices stay high. The rate matters because it helps decide what people pay on mortgages and loans and what they earn on savings.",
+    "why": "It affects what people pay on mortgages and earn on savings."
    },
    {
-    "headline": "Andy Burnham is Prime Minister but Labour is not united",
-    "body": "Andy Burnham became Prime Minister in July 2026 after Keir Starmer resigned. He is the seventh prime minister in ten years. He had been Mayor of Greater Manchester and became MP for Makerfield in June.\nRachel Reeves left the government in July but said she would back it. In early October, reports described a row among senior ministers over changing the voting system, and Labour MPs asking for the family farm tax to be scrapped. There was also concern over a reported plan to end the triple lock, which makes the state pension rise each year.\nThe Conservatives, led by Kemi Badenoch, held their yearly conference.\nWhen a governing party argues in public, it can find it harder to pass its plans.",
-    "why": "A new prime minister's early decisions shape party unity and public trust."
+    "headline": "The Bank of England left interest rates where they are",
+    "body": "The Bank of England has kept its main interest rate at 3.75%. This is the rate that guides how much banks charge for loans and pay on savings. The decision was made on 17 September and was not unanimous. Three of the nine people who vote, Megan Greene, Catherine Mann and Huw Pill, wanted to raise it to 4%. The other six wanted to wait.\nThe rate has not changed since a small cut last December. The Bank is worried because energy prices keep jumping around, partly because of the war in the Middle East. Higher energy costs push up prices in shops, so inflation, now 3.1%, is expected to rise.\nThe Bank will decide again on 5 November. Some experts think a rise is quite likely if energy stays expensive. A higher rate would make mortgages and loans cost more, but savers could earn more too.",
+    "why": "It affects mortgage payments and savings returns."
    },
    {
-    "headline": "A new Prime Minister faces arguments in his own party",
-    "body": "Andy Burnham became Prime Minister in July 2026, after Keir Starmer stepped down. He is the seventh person to hold the job in ten years. Before this he was the Mayor of Greater Manchester, and he joined Parliament as an MP in June.\nRachel Reeves left the government in July but said she still backs it. In early October, reports said senior ministers were arguing about changing the voting system. Some Labour MPs also want a tax on family farms to be dropped. People are also talking about a reported plan to end the triple lock, which makes the state pension go up each year.\nThe Conservatives, led by Kemi Badenoch, held their yearly conference.\nWhen a party in government disagrees with itself, it can be harder to get plans done.",
-    "why": "A new prime minister's early decisions shape party unity and public trust."
+    "headline": "The Bank of England has not changed its main interest rate",
+    "body": "The Bank of England has decided not to change its main interest rate, which stays at 3.75%. This rate guides what banks charge on mortgages and loans and what they pay on savings. On 17 September, six of the nine people who vote chose to keep it. Three, Megan Greene, Catherine Mann and Huw Pill, wanted a small rise to 4%.\nPrices are rising partly because energy costs keep jumping, linked to the war in the Middle East. The Bank thinks inflation, now 3.1%, will go higher.\nIt will decide again on 5 November. Some experts think a rise may come then. That would make loans and mortgages cost more, and it could help people who save.",
+    "why": "It affects loans, mortgages and savings."
    },
    {
-    "headline": "The UK has a new Prime Minister and some disagreements",
-    "body": "Andy Burnham became the UK's Prime Minister in July 2026. The last one, Keir Starmer, stepped down. The UK has now had seven prime ministers in ten years. Mr Burnham used to be the Mayor of Greater Manchester. In June he became an MP, which is a person chosen to speak for an area in Parliament.\nRachel Reeves, who had looked after the country's money, left the government in July. She said she still supports it. In October, reports said some top ministers were arguing about changing how people vote. Some MPs want a tax on family farms to be dropped. There is also talk of ending the triple lock, a rule that makes the state pension go up every year.\nThe Conservative Party, led by Kemi Badenoch, was getting ready for its yearly meeting.\nA government that argues a lot can find it harder to get things done.",
-    "why": "A new prime minister's early decisions shape party unity and public trust."
+    "headline": "The Bank of England kept interest rates the same",
+    "body": "The Bank of England has decided to keep interest rates the same at 3.75%. Interest is the extra money you pay when you borrow, or get when you save. The Bank sets a main rate that other banks follow. Nine people vote on it. On 17 September, six voted to keep it. Three wanted to put it up a little, to 4%.\nThe rate has been the same since last December. The Bank is worried about energy, like petrol and gas. Prices for these keep changing, partly because of a war in the Middle East. When energy costs more, shop prices rise too. This is called inflation. It is now 3.1%, and the Bank thinks it will go higher.\nThe Bank will vote again on 5 November. Some experts think the rate might go up then. If it does, loans and mortgages would cost more. People with savings might earn a bit more.",
+    "why": "It matters because interest rates change what loans cost."
    },
    {
-    "headline": "A new leader and some arguments",
-    "body": "The UK has a new Prime Minister. His name is Andy Burnham. He took over in July 2026 when the last one, Keir Starmer, stepped down. The Prime Minister is the person who leads the government. The UK has had seven in ten years, which is a lot.\nMr Burnham was a mayor in Manchester before this. Then he became an MP, a person who speaks for an area in Parliament. In October, news reports said some of his top team were arguing about changing how people vote. Some MPs also want a tax on family farms to stop. People are also talking about the triple lock, a rule that makes the state pension go up every year.\nAnother party, the Conservatives, led by Kemi Badenoch, held its yearly meeting.\nWhen a team argues, it is harder for it to get anything done.",
-    "why": "A new prime minister's early decisions shape party unity and public trust."
+    "headline": "The Bank of England decided not to change interest rates",
+    "body": "The Bank of England has chosen not to change interest rates. The rate stays at 3.75%. Interest is extra money you pay when you borrow money. The Bank of England sets a main rate for the whole country. Nine people at the Bank vote on it. Six voted to keep it the same. Three wanted it to go up a little.\nThe rate has stayed the same since last December. The Bank is worried about the cost of energy, like petrol. It changes a lot because of a war far away. When petrol costs more, other things cost more too. This is called inflation. The Bank thinks prices will rise faster soon.\nThe Bank will vote again on 5 November. Some experts think the rate may go up. If it does, borrowing money will cost more. Families with a mortgage might pay more each month. People who save money might get a little more.",
+    "why": "It matters because interest rates change what borrowing costs."
    },
    {
-    "headline": "A new leader for the country",
-    "body": "The UK has a new Prime Minister called Andy Burnham. A Prime Minister is the person in charge of the government, like a head teacher for the whole country. He started in July 2026 when the last one, Keir Starmer, stepped down.\nBefore this, Mr Burnham was a mayor in Manchester. He then became an MP, a person chosen to speak for their area. In October, reports said some of his team did not agree about some plans. They were arguing about how people vote, and about a tax on farms.\nAnother group of politicians, the Conservatives, held their yearly meeting too. Their leader is Kemi Badenoch.\nWhen people on the same team do not agree, it is harder to get a plan done.",
-    "why": "A new prime minister's early decisions shape party unity and public trust."
+    "headline": "The Bank of England said no to changing interest rates",
+    "body": "The Bank of England is in charge of a big number called the interest rate. It is 3.75%. The Bank looks after the money of the whole country. Interest is extra money you pay if you borrow. If you save, you get a little extra. The Bank chose to keep the number the same. Six people voted to keep it. Three wanted it higher.\nWhy did they wait? Prices are going up. Petrol and gas cost more because of a war far away. When they cost more, many things in shops cost more too. The Bank wants prices to stay steady, so it watches them very closely.\nThe Bank will choose again on 5 November. It might raise the number then. If it did, borrowing would cost more. Many families borrow money to buy their homes. So a small change can matter to a lot of people.",
+    "why": "It matters because it changes how much families pay on loans."
    },
    {
-    "headline": "Who is in charge of the country",
-    "body": "Every country needs someone in charge. In the UK, that person is called the Prime Minister. In July, a man called Andy Burnham got the job. The last one, Keir Starmer, stepped down. It is a bit like a new captain of a football team.\nMr Burnham used to be a mayor in Manchester. His team is called the Labour party. In October, grown-ups said some people in his team did not agree about some plans. It is like when friends in a team argue about the rules of a game.\nAnother team of politicians, called the Conservatives, also had a big yearly meeting.\nWhen a team argues a lot, it is harder for them to win the game together.",
-    "why": "A new prime minister's early decisions shape party unity and public trust."
+    "headline": "The people in charge of money rates chose to wait",
+    "body": "Imagine a big bank that is in charge of how much extra you pay when you borrow. That extra is called interest. It is like a small fee. The Bank of England said it will keep the fee the same for now. Six wise people said keep it. Three said make it a bit bigger.\nWhy are they being careful? Petrol and heating cost more because of a war far away. When those cost more, sweets and toys can cost more too. Grown-ups call this prices going up. The Bank wants prices to calm down.\nThey will talk again on 5 November. They might make the fee bigger. If they do, borrowing costs more for families. It is a bit like if the school tuck shop raised its prices. Everyone would have to think about what to buy.",
+    "why": "It matters because it changes how much loans cost."
    }
   ]
  },
  {
-  "id": "oil-hormuz-tanker-attacks",
+  "id": "uk-inflation-3-1-august",
   "order": 3,
   "topic": "Economy",
+  "region": "United Kingdom",
+  "source": "Office for National Statistics",
+  "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/august2026",
+  "headline": "UK inflation rises to 3.1% in August as fuel prices climb",
+  "terms": [
+   {
+    "term": "CPI",
+    "meaning": "The Consumer Prices Index, the main measure of inflation."
+   },
+   {
+    "term": "Core inflation",
+    "meaning": "Inflation leaving out energy, food, alcohol and tobacco."
+   },
+   {
+    "term": "CPIH",
+    "meaning": "A version of CPI that also counts the cost of owning and running a home."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "UK inflation rises to 3.1% in August as fuel prices climb",
+    "body": "UK consumer price inflation rose to 3.1% in the 12 months to August 2026, up from 2.9% in July, the Office for National Statistics (ONS) said. CPIH, which includes the costs of owning a home, rose to 3.3% from 3.1%. The biggest upward pressure came from petrol and diesel, with diesel prices up 14.2 pence per litre in August to an average of 181.8 pence.\nCore inflation, which strips out energy, food, alcohol and tobacco, was 2.6%, unchanged from July. Services inflation held at 3.4%. Goods prices rose 2.7%, the fastest since September 2025, while food inflation stayed at 1.3%.\nInflation fell in the first half of 2026 to a low of 2.6% in June but has risen in recent months. The Bank of England has said it expects inflation to rise further because of volatile energy prices linked to the Middle East conflict. The ONS publishes September's figures on 21 October.",
+    "why": "It shows how the energy shock is feeding into prices, and may push the Bank of England towards raising rates."
+   },
+   {
+    "headline": "UK inflation rises to 3.1% as petrol and diesel push prices up",
+    "body": "Inflation, the rate at which prices rise, climbed to 3.1% in the year to August 2026, from 2.9% in July, according to the ONS. A wider measure that includes housing costs, CPIH, rose to 3.3%. Petrol and diesel were the biggest drivers: diesel rose 14.2 pence per litre in August to an average of 181.8 pence.\nCore inflation, which leaves out energy, food, alcohol and tobacco, was steady at 2.6%, and services inflation also held at 3.4%. Prices of goods rose 2.7%, the fastest since September 2025. Food inflation stayed at 1.3%.\nThe rate dropped to 2.6% in June but has crept up since. The Bank of England expects it to rise further as energy prices remain volatile because of the Middle East conflict. The next figures, for September, are due on 21 October.",
+    "why": "It shows fuel costs lifting overall inflation and may influence the next interest rate decision."
+   },
+   {
+    "headline": "Inflation edges up to 3.1% as fuel costs rise",
+    "body": "UK inflation rose to 3.1% in the 12 months to August, up from 2.9% in July, official figures show. CPIH, which also counts the cost of housing, was 3.3%. The main cause was fuel. Diesel went up by 14.2 pence a litre in August, reaching an average of 181.8 pence.\nCore inflation, which ignores energy, food, alcohol and tobacco, stayed at 2.6%, and prices for services rose 3.4%, also unchanged. The cost of goods rose 2.7%, the fastest pace since September last year. Food prices rose just 1.3%.\nInflation had dropped to 2.6% in June but has risen since. The Bank of England expects it to go higher still, because energy prices keep jumping around while the Middle East conflict continues. Figures for September come out on 21 October.",
+    "why": "It affects the cost of living and interest-rate decisions."
+   },
+   {
+    "headline": "UK inflation rose to 3.1% in August, driven by fuel",
+    "body": "Prices in the UK rose 3.1% over the year to August, faster than the 2.9% seen in July, the Office for National Statistics reports. Another measure that includes housing costs, called CPIH, was 3.3%. Fuel was the main reason. Diesel went up 14.2 pence a litre in August to an average of 181.8 pence.\nCore inflation, which leaves out the most changeable items such as energy and food, stayed at 2.6%. Services such as haircuts and train fares rose 3.4%. Goods rose 2.7%, the fastest in almost a year. Food prices rose only 1.3%.\nInflation was as low as 2.6% in June, but it has been climbing since. The Bank of England thinks it will keep rising because energy prices are uncertain during the Middle East conflict. The next figures are due on 21 October.",
+    "why": "It affects the cost of living and what interest rates do next."
+   },
+   {
+    "headline": "Prices are rising faster, with fuel the main cause",
+    "body": "UK inflation, the rate at which prices rise, went up to 3.1% in the year to August, from 2.9% in July. The Office for National Statistics says fuel was the main reason: diesel cost 14.2 pence more per litre in August, at an average of 181.8 pence. A wider measure that includes housing costs was 3.3%.\nPrices excluding energy, food, alcohol and tobacco rose 2.6%, the same as in July. Services rose 3.4% and food only 1.3%. Goods rose 2.7%, the fastest since September last year.\nInflation fell to 2.6% in June but has been rising since. The Bank of England expects it to go higher because energy prices are unsteady during the Middle East conflict. The next figures are due on 21 October.",
+    "why": "It means your money buys a little less, and rates could rise."
+   },
+   {
+    "headline": "Prices rose faster in August because of petrol and diesel",
+    "body": "Prices in the UK are rising a little faster. The Office for National Statistics says prices were 3.1% higher in August than a year earlier. In July the figure was 2.9%. This rise in prices is called inflation. A second measure, which also counts the cost of housing, was 3.3%. The main cause was fuel. A litre of diesel cost 14.2 pence more in August, at an average of 181.8 pence.\nIf you leave out things whose prices jump around, like energy and food, inflation was 2.6%, the same as in July. Services, such as haircuts, rose 3.4%. Food prices rose just 1.3%.\nIn June inflation was only 2.6%, so it has been going up since then. The Bank of England thinks it will rise more, because energy prices are unsteady during the war in the Middle East. New figures come out on 21 October.",
+    "why": "It means money buys a little less than before."
+   },
+   {
+    "headline": "Prices went up faster in August, mostly because of fuel",
+    "body": "Prices in the UK are going up a bit faster. This is called inflation. The official number was 3.1% for the year to August. A month before, it was 2.9%. That means something that cost £100 a year ago now costs about £103. The biggest reason was fuel. Diesel went up by 14.2 pence for each litre in August.\nNot everything went up the same. Food prices went up only a little, by 1.3%. Services, like haircuts, went up 3.4%. If you take out fuel, food and some other items, the rise was 2.6%. That was the same as in July.\nIn June, the number was lower, at 2.6%. It has been rising since. The Bank of England thinks it will go higher. This is because fuel prices keep jumping, partly due to a war in the Middle East. The next number comes out on 21 October.",
+    "why": "It matters because rising prices make money go less far."
+   },
+   {
+    "headline": "Prices are going up a bit faster, and petrol is the reason",
+    "body": "Prices in the shops are going up a bit faster. Grown-ups call this inflation. The number was 3.1% for the year to August. That means something that cost £100 last year now costs about £103. The main reason is petrol and diesel. They cost much more than before. A litre of diesel went up by 14.2 pence in one month.\nNot everything went up by the same amount. Food went up only a little. Services, like haircuts, went up a bit more. In June, prices were rising more slowly. Since then they have sped up again.\nThe Bank of England thinks prices may rise even more. Fuel costs keep changing because of a war in the Middle East. When fuel costs more, it costs more to move things to shops. So shop prices go up. New numbers will come out on 21 October.",
+    "why": "It matters because things cost more."
+   },
+   {
+    "headline": "Prices went up faster because fuel costs more",
+    "body": "Prices in the UK are going up faster. The number is called inflation, and it is now 3.1%. A year ago, something that cost £100 would now cost about £103. In July the number was 2.9%. Petrol and diesel were the main reason. A litre of diesel cost 14.2 pence more in August.\nNot everything rose by the same amount. Food rose only 1.3%. Services, like haircuts, rose 3.4%. In June the rise was smaller, at 2.6%.\nThe Bank of England thinks prices will go up faster still, because fuel keeps changing in cost during a war in the Middle East. New numbers come out on 21 October.",
+    "why": "It matters because families have to pay more for things."
+   },
+   {
+    "headline": "Things in the shops cost a bit more, and petrol cost much more",
+    "body": "Prices are going up. Grown-ups call this inflation. This year, things cost a little more than last year. If a toy cost £100 last year, it might cost about £103 now. The number is 3.1%. Last month it was a bit lower. The biggest reason is petrol. Petrol and diesel are what cars and lorries use. They cost much more now.\nWhy does petrol matter? Lorries use it to bring food and toys to shops. If it costs more, the shops pay more, and so we pay more. Some things, like food, have hardly gone up at all. Others, like petrol, have gone up a lot.\nThe Bank of England watches prices. It thinks they may rise some more. Grown-ups will get new numbers on 21 October. It matters because your pocket money buys a little less when prices go up.",
+    "why": "It matters because pocket money buys a little less."
+   }
+  ]
+ },
+ {
+  "id": "uk-unemployment-4-9-youth",
+  "order": 4,
+  "topic": "Economy",
+  "region": "United Kingdom",
+  "source": "Office for National Statistics",
+  "url": "https://www.ons.gov.uk/releases/uklabourmarketoctober2026",
+  "headline": "UK unemployment at 4.9% with youth rate at 16.4% as new figures loom",
+  "terms": [
+   {
+    "term": "Unemployment rate",
+    "meaning": "The share of people looking for work who cannot find a job."
+   },
+   {
+    "term": "Vacancies",
+    "meaning": "Job openings that employers are trying to fill."
+   },
+   {
+    "term": "Inactivity rate",
+    "meaning": "The share of people aged 16 to 64 who are neither working nor looking for work."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "UK unemployment at 4.9% with youth rate at 16.4% as new figures loom",
+    "body": "UK unemployment stood at 4.9% in the three months to July 2026, with 1.78 million people out of work, according to the Office for National Statistics (ONS). That is 83,000 more than a year earlier, when the rate was 4.7%. Among 16-to-24-year-olds the rate was 16.4%, up from 14.3% a year before.\nThe inactivity rate for people aged 16 to 64, meaning those neither working nor looking for work, was 20.9%. Job vacancies fell over the year to 702,000 in June to August 2026, below their level before the pandemic.\nThe ONS will publish the next labour market figures, covering June to August 2026, at 7am on Tuesday 20 October. The numbers matter to the Bank of England, which is weighing inflation against the health of the jobs market, and to the Chancellor ahead of the Autumn Budget on 28 October.",
+    "why": "Weak hiring hits young people hardest, and new figures on 20 October will show whether the trend is worsening."
+   },
+   {
+    "headline": "UK unemployment holds at 4.9% while youth joblessness reaches 16.4%",
+    "body": "Unemployment was 4.9% in the three months to July, according to the ONS, equal to 1.78 million people and 83,000 more than a year earlier, when the rate was 4.7%. For 16-to-24-year-olds the rate was 16.4%, compared with 14.3% a year before.\nSome 20.9% of people aged 16 to 64 were economically inactive, neither working nor seeking work. Vacancies dropped over the year to 702,000 in June to August, which is below the level seen before the pandemic.\nThe next release, covering June to August, is due at 7am on 20 October. It will be watched by the Bank of England, which must balance rising inflation against a softening jobs market, and by the Chancellor ahead of the Budget on 28 October.",
+    "why": "The figures show a weakening labour market ahead of new data on 20 October."
+   },
+   {
+    "headline": "Jobless rate 4.9% as young people struggle to find work",
+    "body": "The unemployment rate was 4.9% in the three months to July, the ONS says. That is 1.78 million people, 83,000 more than a year earlier, when the rate was 4.7%. Young people were hit hardest: 16.4% of 16-to-24-year-olds were unemployed, up from 14.3%.\nAround one in five people aged 16 to 64 were not working and not looking for work, an inactivity rate of 20.9%. Job vacancies fell to 702,000 in June to August, which is lower than before the pandemic.\nThe next figures, covering June to August, are published at 7am on 20 October. The Bank of England will study them as it weighs rising prices against a weakening jobs market, and the Chancellor will do the same ahead of the Budget on 28 October.",
+    "why": "It shows how hard it is becoming to find work, especially for the young."
+   },
+   {
+    "headline": "Unemployment at 4.9% as youth jobless rate climbs",
+    "body": "Unemployment in the UK was 4.9% in the three months to July, the Office for National Statistics reports. That means 1.78 million people were out of work, which is 83,000 more than a year before. The biggest problem is among the young. For people aged 16 to 24, 16.4% were unemployed, up from 14.3%.\nAbout 20.9% of people aged 16 to 64 were not in work and not looking for it. Employers had fewer jobs on offer too. Vacancies fell to 702,000 in June to August, below the level before the pandemic.\nNew figures for June to August arrive at 7am on 20 October. The Bank of England will watch them closely, because it has to weigh rising prices against a weaker jobs market. The Chancellor will also take note before the Budget on 28 October.",
+    "why": "It shows how hard it is to find work, especially for young people."
+   },
+   {
+    "headline": "More people are out of work, especially the young",
+    "body": "Official figures show that 4.9% of people who want a job cannot find one. That is the unemployment rate, for the three months to July. It means about 1.78 million people, which is 83,000 more than a year ago. Young people have found it hardest. Among those aged 16 to 24, 16.4% have no job, compared with 14.3% a year ago.\nMany other adults are not working and not looking for work, for example because they are studying or are unwell. Employers also have fewer jobs on offer. Vacancies, meaning open jobs, dropped to 702,000.\nNew figures come out at 7am on 20 October. They matter because the Bank of England uses them when it decides on interest rates. The Chancellor will also look at them before the Budget on 28 October.",
+    "why": "It matters for young people looking for their first jobs."
+   },
+   {
+    "headline": "Fewer jobs are on offer and more young people are jobless",
+    "body": "Unemployment in the UK has risen. In the three months to July, 4.9% of people who wanted work could not find it. That is about 1.78 million people, 83,000 more than a year earlier. Young people are hit hardest. Among 16 to 24-year-olds, 16.4% are unemployed, compared with 14.3% a year ago.\nEmployers are also offering fewer jobs. Vacancies, meaning job openings, fell to 702,000, below the level before the pandemic. Many other adults are neither working nor looking for work.\nNew figures come out on 20 October. The Bank of England will use them when it decides on interest rates, and the Chancellor will look at them before the Budget on 28 October.",
+    "why": "It matters because jobs affect how families get by."
+   },
+   {
+    "headline": "More people are looking for jobs than a year ago",
+    "body": "More people in the UK are without a job. The unemployment rate is 4.9%. That means about 1.78 million people who want a job cannot find one. A year ago it was 4.7%, so 83,000 more people are now out of work. Young people have had the hardest time. For those aged 16 to 24, 16.4% have no job. A year ago it was 14.3%.\nEmployers are also offering fewer jobs. There are 702,000 jobs open now, which is fewer than before the pandemic. Many people also are not working and are not looking, for example because they are studying or are ill.\nNew numbers come out on 20 October. The Bank of England and the Chancellor will look at them. Both are deciding things that affect money, like interest rates and taxes.",
+    "why": "It matters because people need jobs to pay for things."
+   },
+   {
+    "headline": "More people cannot find a job, and many are young",
+    "body": "More people in the UK cannot find a job. About 5 in every 100 people who want to work have no job. That is the unemployment rate, 4.9%. It is about 1.78 million people. A year ago it was a bit lower. Young people, aged 16 to 24, have the hardest time. About 16 in every 100 of them are looking for work and cannot find it.\nEmployers are also offering fewer jobs. There are 702,000 jobs waiting to be filled. That is fewer than before the pandemic, when many people stayed at home. A job gives people money to pay for food, homes and bills.\nNew numbers will come out on 20 October. The Bank of England will use them to decide about interest rates. The Chancellor will also look at them before the big money speech on 28 October.",
+    "why": "It matters because people need work to earn money."
+   },
+   {
+    "headline": "More people are out of work, and many are young",
+    "body": "Lots of grown-ups go to work to earn money. Some people want a job but cannot find one. This is called unemployment. Right now, about 5 in every 100 people who want to work have no job. That is about 1.78 million people. It is more than last year. Teenagers and young adults find it hardest. About 16 out of every 100 of them have no job.\nOne reason is that fewer jobs are on offer. Companies are hiring fewer people. It is a bit like a school with fewer places on a team. More people want to join than there are spaces.\nNew numbers come out on 20 October. Important people will read them. They will think about how to help people find work. Jobs matter because they help families pay for food and homes.",
+    "why": "It matters because jobs help families buy what they need."
+   },
+   {
+    "headline": "More grown-ups and teenagers cannot find jobs",
+    "body": "Think about a game of musical chairs. When the music stops, some people have no chair. In real life, some people want a job but cannot find one. Grown-ups call this unemployment. Right now about 5 out of every 100 people who want to work have no job. A year ago it was a little less.\nYoung people, like teenagers and those just out of school or college, find it hardest. There are fewer chairs for them. Companies are not hiring as many new people.\nNew numbers come out on 20 October. Important people will study them. Jobs matter because a job gives people money for food, homes and fun things. The people in charge want everyone who wants a job to find one.",
+    "why": "It matters because grown-ups need jobs to look after their families."
+   }
+  ]
+ },
+ {
+  "id": "burnham-commons-statement-germany",
+  "order": 5,
+  "topic": "Politics",
+  "region": "United Kingdom",
+  "source": "GOV.UK",
+  "url": "https://www.gov.uk/government/speeches/pm-statement-to-the-house-of-commons-12-october-2026",
+  "headline": "Burnham tells MPs of Germany partnership on hybrid threats",
+  "terms": [
+   {
+    "term": "Hybrid threats",
+    "meaning": "Attacks that mix tools such as cyber attacks, spying and false information instead of open warfare."
+   },
+   {
+    "term": "Information defence",
+    "meaning": "Protecting people from deliberate false information."
+   },
+   {
+    "term": "PMQs",
+    "meaning": "Prime Minister's Questions, the weekly session where MPs question the PM."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Burnham tells MPs of Germany partnership on hybrid threats",
+    "body": "Prime Minister Andy Burnham made an oral statement to the House of Commons on 12 October 2026 reporting on his trip to the UN General Assembly and related international events. He told MPs about a new partnership with Germany to counter hybrid threats, and about plans for a National Centre for Information Defence.\nHybrid threats are hostile actions that fall short of open war, such as cyber attacks, covert interference and deliberate disinformation. The details in the published statement concern the partnership with Germany and the planned centre, which is intended to strengthen the UK's defences against false information.\nMr Burnham became Prime Minister on 20 July 2026. MPs can question him at Prime Minister's Questions, which the Commons timetable lists for midday on Wednesday 14 October, with the next session on 21 October.",
+    "why": "It shows how the new government is approaching security, and MPs can question the PM at PMQs on 14 October."
+   },
+   {
+    "headline": "Prime Minister reports UN trip and new Germany hybrid-threats partnership",
+    "body": "Prime Minister Andy Burnham updated the Commons on 12 October on his visit to the UN General Assembly and related international events. He announced a new partnership with Germany on hybrid threats and said a National Centre for Information Defence is planned.\nHybrid threats are hostile activities that stop short of open war, including cyber attacks, covert interference and deliberate disinformation. The planned centre is intended to strengthen the UK's defences against false information.\nMr Burnham has been Prime Minister since 20 July 2026. MPs will have the chance to question him at Prime Minister's Questions at midday on Wednesday 14 October. The next session is listed for 21 October.",
+    "why": "It signals the new government's approach to security threats short of open war."
+   },
+   {
+    "headline": "PM announces new Germany partnership and a National Centre for Information Defence",
+    "body": "Prime Minister Andy Burnham told the Commons on 12 October about his trip to the UN General Assembly and other international events. He said the UK has agreed a new partnership with Germany to deal with hybrid threats, and that a National Centre for Information Defence is planned.\nHybrid threats are hostile acts that do not amount to open war, such as cyber attacks, secret interference and deliberate false information. The new centre is meant to help the UK defend itself against false information.\nMr Burnham became Prime Minister on 20 July. MPs can question him at Prime Minister's Questions, which is listed for midday on Wednesday 14 October. The next one will be on 21 October.",
+    "why": "It shows how the UK plans to defend against cyber attacks and false information."
+   },
+   {
+    "headline": "PM updates MPs on UN trip and new defence plans",
+    "body": "Prime Minister Andy Burnham gave MPs an update on 12 October about his trip to the UN General Assembly, a big meeting of world leaders. He said the UK has a new partnership with Germany to deal with hybrid threats. He also said there are plans for a National Centre for Information Defence.\nHybrid threats are attacks that are not full-scale war. They include computer hacking, secret meddling and spreading lies on purpose. The new centre is meant to help protect the UK from false information.\nMr Burnham has been Prime Minister since 20 July. MPs can ask him questions at Prime Minister's Questions, a weekly session in Parliament. The next one is on Wednesday 14 October, at midday. After that there is another on 21 October.",
+    "why": "It is about protecting the UK from hidden attacks and false information."
+   },
+   {
+    "headline": "The Prime Minister told MPs about a new deal with Germany",
+    "body": "Prime Minister Andy Burnham told MPs on 12 October about his trip to the UN General Assembly and other talks with foreign leaders. He said the UK has agreed a new partnership with Germany to deal with hybrid threats, and that a National Centre for Information Defence is planned.\nHybrid threats are hostile acts that fall short of open war, such as cyber attacks, secret interference and deliberately false information. The new centre is meant to help the UK guard against false information.\nMr Burnham became Prime Minister on 20 July. MPs can question him at Prime Minister's Questions, listed for midday on Wednesday 14 October, with another on 21 October.",
+    "why": "It is about keeping the country safe from online tricks."
+   },
+   {
+    "headline": "The Prime Minister told MPs about a plan with Germany to fight online tricks",
+    "body": "Prime Minister Andy Burnham spoke to MPs in Parliament on 12 October. He told them about a trip to the United Nations, where leaders from many countries meet. He said the UK has made a new plan with Germany. The plan is about hybrid threats. These are sneaky attacks that are not open war, such as computer hacking and lies spread on purpose.\nHe also said the UK plans a new centre, called the National Centre for Information Defence. Its job will be to help protect people from false information.\nMr Burnham became Prime Minister on 20 July. MPs can ask him questions every week in a session called Prime Minister's Questions. The next one is at midday on Wednesday 14 October.",
+    "why": "It is about keeping people safe from false information."
+   },
+   {
+    "headline": "The Prime Minister told MPs about a new plan with Germany",
+    "body": "The Prime Minister, Andy Burnham, spoke to MPs on 12 October. MPs are the people chosen to speak for us in Parliament. He told them about a trip to the United Nations, where leaders from many countries meet. He said the UK and Germany will work together. They want to stop sneaky attacks that are not open war. These include computer hacking and lies spread on purpose.\nHe also said there will be a new centre to help stop false information. False information is when people share things that are not true to fool others.\nMr Burnham became Prime Minister on 20 July. Each week, MPs can ask him questions. The next time is Wednesday 14 October at midday. People can watch it on television.",
+    "why": "It matters because it is about keeping people safe from false stories online."
+   },
+   {
+    "headline": "The Prime Minister told MPs about a new team-up with Germany",
+    "body": "The Prime Minister is Andy Burnham. He is the person who leads the government. On 12 October he talked to MPs in Parliament. MPs are people chosen to speak for us. He told them about a trip to meet leaders of other countries. He said the UK and Germany will team up. They want to stop sneaky tricks on computers and lies spread on purpose.\nHe also said there will be a new centre. Its job is to help stop false stories. False stories are things that are not true that people share online.\nMr Burnham became Prime Minister in July. MPs can ask him questions once a week. The next time is Wednesday 14 October. Lots of people like to watch it on television.",
+    "why": "It matters because false stories online can fool people."
+   },
+   {
+    "headline": "The Prime Minister told MPs about a new friendship with Germany",
+    "body": "The Prime Minister, Andy Burnham, is the leader of the government. On 12 October he told MPs about a trip to a big meeting of world leaders. He said the UK and Germany will work together to stop sneaky tricks. These include hackers on computers and lies spread online on purpose.\nHe also said there will be a new centre to help stop false stories. A false story is something untrue that people share to fool others.\nEvery week MPs can ask the Prime Minister questions. The next time is on Wednesday 14 October. After that there is another on 21 October.",
+    "why": "It matters because tricks online can fool people."
+   },
+   {
+    "headline": "The Prime Minister told grown-ups in Parliament about a new plan",
+    "body": "The Prime Minister is the leader of the country. His name is Andy Burnham. This week he went to a big meeting where leaders from many countries talk. Then he told the grown-ups in Parliament about it. He said the UK and Germany will be friends and work together. They want to stop people playing sneaky tricks on computers.\nHe also said there will be a new centre. Its job is to stop false stories. False stories are things that are not true, and people share them to fool others.\nEvery week, the people in Parliament can ask the Prime Minister questions. It is a bit like a class asking the teacher. The next time is on Wednesday 14 October.",
+    "why": "It matters because grown-ups want to stop people being tricked."
+   }
+  ]
+ },
+ {
+  "id": "burnham-cost-of-living-measures",
+  "order": 6,
+  "topic": "Politics",
+  "region": "United Kingdom",
+  "source": "Which? / Osborne Clarke",
+  "url": "https://www.which.co.uk/news/article/autumn-budget-2026-when-is-it-and-what-will-it-contain-aQqC47O24jnl",
+  "headline": "Burnham government trails cost-of-living measures before the Budget",
+  "terms": [
+   {
+    "term": "VAT",
+    "meaning": "Value Added Tax, a tax added to the price of most goods and services."
+   },
+   {
+    "term": "Business rates",
+    "meaning": "A tax paid by firms on non-home buildings such as shops and pubs."
+   },
+   {
+    "term": "Devolution",
+    "meaning": "Passing powers from central government to local areas."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Burnham government trails cost-of-living measures before the Budget",
+    "body": "Ahead of the Autumn Budget on 28 October, several measures have been announced by Prime Minister Andy Burnham's government. Coverage lists a £2 cap on bus fares, the removal of VAT from household electricity bills, and a business rates tax cut for pubs and clubs. A House of Lords Library briefing says the VAT change was planned for October 2026.\nReports say the electricity VAT cut would be funded by scrapping the previous government's planned digital ID scheme. At Labour's conference, Mr Burnham also announced plans to remove the Thatcher-era ban on government ownership of water companies and to give councils more power over rogue landlords and empty homes.\nThe announcements reflect a focus on devolving power to local areas and easing living costs. Budget previews also expect a roadmap letting mayors keep a bigger share of locally raised revenue, starting with business rates. Details of how measures are funded are due at the Budget.",
+    "why": "It shows how Prime Minister Burnham is trying to ease household bills before the Budget on 28 October."
+   },
+   {
+    "headline": "Government trails VAT cut on electricity, £2 bus fares and pub rates relief",
+    "body": "Before the Autumn Budget on 28 October, Prime Minister Andy Burnham's government has set out several cost-of-living measures. These include a £2 cap on bus fares, the removal of VAT from household electricity bills, and lower business rates for pubs and clubs. A Lords Library briefing says the VAT change was planned for October 2026.\nReports say the electricity VAT cut would be paid for by scrapping the planned digital ID scheme. At Labour's conference, Mr Burnham also said he would lift the Thatcher-era ban on public ownership of water companies and give councils more power over rogue landlords and empty homes.\nThe announcements reflect an emphasis on devolution and on easing the cost of living. Budget previews expect a plan to let mayors keep more locally raised revenue, beginning with business rates. Funding details are expected at the Budget.",
+    "why": "It shows the new government's priorities in the run-up to the Budget."
+   },
+   {
+    "headline": "Pre-Budget announcements include VAT off electricity and a £2 bus fare cap",
+    "body": "The government of Prime Minister Andy Burnham has announced a series of measures to ease living costs ahead of the Budget on 28 October. They include a £2 cap on bus fares, the removal of VAT from household electricity bills, and a cut in business rates for pubs and clubs. The VAT change was planned for October 2026.\nReports say the electricity VAT cut would be funded by scrapping the planned digital ID scheme. At Labour's conference, Mr Burnham also promised to end the ban on public ownership of water companies and to give councils more powers over rogue landlords and empty homes.\nThe announcements show an emphasis on handing power to local areas and easing the cost of living. Commentators expect the Budget to include a plan for mayors to keep more of the revenue raised locally, starting with business rates.",
+    "why": "It could lower some everyday costs for households."
+   },
+   {
+    "headline": "Ministers set out cost-of-living help before the Budget",
+    "body": "Before the Budget on 28 October, Prime Minister Andy Burnham's government has announced several ways to ease living costs. These include a £2 limit on bus fares, taking VAT off household electricity bills, and a cut in business rates for pubs and clubs. VAT is a sales tax added to many things we buy. Business rates are a tax on shops and pubs.\nReports say the VAT cut on electricity would be paid for by scrapping the planned digital ID scheme. At Labour's party conference, Mr Burnham also said he wanted to end the ban on the public owning water companies and to give councils more power over bad landlords.\nThe government also wants to give more power to local areas, and the Budget is expected to include a plan for mayors to keep more of the tax raised locally.",
+    "why": "It could make some bills and bus fares cheaper."
+   },
+   {
+    "headline": "The government has promised help with bills before the Budget",
+    "body": "The government has announced several ways to ease living costs before the Budget on 28 October. Bus fares will be capped at £2. VAT, a sales tax, is to be taken off household electricity bills. Pubs and clubs are to get a cut in business rates, a tax on buildings used for business.\nReports say the electricity change would be paid for by dropping the planned digital ID scheme. Prime Minister Andy Burnham has also said he wants to end the ban on public ownership of water companies and give councils more power over rogue landlords.\nThe government also wants local areas to have more say, and mayors may be allowed to keep more of the tax raised locally.",
+    "why": "It could mean lower bills for families."
+   },
+   {
+    "headline": "The government has said it will help with bills and bus fares",
+    "body": "Prime Minister Andy Burnham's government has promised some ways to make life cheaper. The Budget is on 28 October. Before it, the government said bus fares will be capped at £2. It also said VAT will be taken off household electricity bills. VAT is a tax added to the price of many things. Pubs and clubs will also pay less business rates, which is a tax on buildings used for business.\nReports say the government would pay for the electricity change by dropping a plan for digital ID cards. At a party conference, Mr Burnham also said he wants water companies to be allowed to be owned by the public, and councils to have more power over bad landlords.\nThe government also wants local areas to have more say. Local leaders called mayors may be allowed to keep more of the tax raised in their areas.",
+    "why": "It could save families money."
+   },
+   {
+    "headline": "The government has made promises to help with the cost of living",
+    "body": "The government has said it wants to make some things cheaper. The Prime Minister is Andy Burnham. A big speech about money, called the Budget, is on 28 October. Before then, he said bus tickets will cost no more than £2. He also said a tax called VAT will be taken off electricity bills. That is the cost of using lights and heating at home. Pubs and clubs will pay a smaller tax on their buildings.\nReports say the government will pay for this by dropping a plan for digital ID cards. The Prime Minister also said he wants water companies to be run by the public, and councils to have more power over bad landlords.\nHe also wants local leaders to have more say in their own areas. Local leaders called mayors may keep more of the tax raised there.",
+    "why": "It matters because it could save families money."
+   },
+   {
+    "headline": "The government wants to make some bills and bus tickets cheaper",
+    "body": "The Prime Minister is Andy Burnham. He leads the government. The government says it wants to make some things cost less. A big speech about money is on 28 October. Before it, the government made some promises. Bus tickets will cost no more than £2. Electricity bills will have a tax taken off. Electricity is what makes lights and televisions work. Pubs and clubs will pay a smaller tax too.\nThe government says it will pay for this by dropping a plan for digital ID cards. The Prime Minister also talked about water companies and about landlords. A landlord is a person who owns a home and rents it out. He wants councils to be able to deal with landlords who behave badly.\nHe also wants people in local areas to have more say.",
+    "why": "It matters because it could make life cheaper for families."
+   },
+   {
+    "headline": "The government says some things will cost less",
+    "body": "The Prime Minister is the leader of the country. His name is Andy Burnham. He says he wants to make some things cost less. Soon there will be a big speech about money. Before it, he made some promises. A bus ticket will cost no more than £2. The cost of electricity will go down a little, because a tax will be taken off. Electricity is what makes lights work.\nPubs and clubs will pay less tax on their buildings. The government says it will find the money by dropping a plan for a special card. The leader also wants local councils to be able to help people whose landlords are unkind.\nThese promises are meant to help families who find things too expensive.",
+    "why": "It matters because it could help families spend less."
+   },
+   {
+    "headline": "The government says some things will get cheaper",
+    "body": "The leader of the country is called the Prime Minister. His name is Andy Burnham. He wants some things to cost less so that families have more money left over. Soon he will give a big talk about money. Before it, he made some promises. A bus ticket will cost no more than £2. That is like a special price just for bus rides.\nElectricity is what makes lights and televisions work. The Prime Minister says electricity bills will be a bit cheaper. That is because a tax on them will be taken away. Pubs and clubs will also pay less tax on their buildings.\nIt is a bit like a shop having a sale. Everyone hopes it will mean families can keep a little more of their money.",
+    "why": "It matters because it could help families keep more of their money."
+   }
+  ]
+ },
+ {
+  "id": "hormuz-attacks-iran-talks-stall",
+  "order": 7,
+  "topic": "Politics",
   "region": "Middle East",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
-  "headline": "Oil climbs as record tanker attacks near the Strait of Hormuz cut shipping",
+  "source": "Al Jazeera",
+  "url": "https://aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall",
+  "headline": "Hormuz attacks intensify as efforts to end the war on Iran stall",
+  "terms": [
+   {
+    "term": "Strait of Hormuz",
+    "meaning": "A narrow sea passage between Iran and Oman through which much of the world's oil is shipped."
+   },
+   {
+    "term": "Blockade",
+    "meaning": "Stopping ships from entering or leaving a place."
+   },
+   {
+    "term": "Midterms",
+    "meaning": "US elections held halfway through a president's term, on 3 November this year."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Hormuz attacks intensify as efforts to end the war on Iran stall",
+    "body": "Attacks in and around the Strait of Hormuz have intensified while mediated efforts to end the US-Israel war on Iran remain deadlocked, Al Jazeera reported on 11 October. Iran wants a June memorandum of understanding, which has since collapsed, to be restored, along with US backing for an Iran-Oman arrangement on entry and exit routes through the strait. Al Jazeera said no breakthrough is expected in the coming weeks, before the US midterm elections on 3 November.\nShipping has been badly hit. Kpler data cited by CNBC put crude oil transit through the strait for the week ended 7 October about 40 per cent below normal. A tanker was struck in the strait, and Houthi strikes on Saudi Arabia killed people, including an American, according to Jerusalem Post live coverage.\nA war tracker reports that President Donald Trump said on 8 October the US would not attack Iran before the midterms while keeping its blockade in place.",
+    "why": "Disruption to the strait keeps oil prices high, which affects petrol, inflation and interest rates around the world."
+   },
+   {
+    "headline": "Attacks in the Strait of Hormuz rise as peace efforts reach deadlock",
+    "body": "Attacks in the Strait of Hormuz have intensified while mediated efforts to end the US-Israel war on Iran remain stuck, Al Jazeera reported on 11 October. Iran wants a June memorandum of understanding, now collapsed, to be restored, plus US support for an Iran-Oman arrangement on routes through the strait. No breakthrough is expected before the US midterms on 3 November.\nShipping has suffered. Kpler data cited by CNBC showed crude oil passing through the strait in the week to 7 October about 40 per cent below normal. A tanker was struck there, and Houthi strikes on Saudi Arabia killed several people, including an American, according to Jerusalem Post live coverage.\nA war tracker says President Donald Trump said on 8 October that the US would not attack Iran before the midterms but would keep its blockade.",
+    "why": "The deadlock keeps oil prices high, with knock-on effects for inflation and interest rates."
+   },
+   {
+    "headline": "Hormuz attacks rise as talks to end the Iran war stall",
+    "body": "Attacks around the Strait of Hormuz have grown more intense, while efforts to end the war on Iran are stuck, Al Jazeera reported on 11 October. Iran wants a June agreement, which has since collapsed, to be revived. It also wants US support for an Iran-Oman plan on how ships enter and leave the strait. No breakthrough is expected before the US midterm elections on 3 November.\nShip traffic has fallen. Kpler data quoted by CNBC suggested crude oil moving through the strait in the week to 7 October was about 40 per cent below normal. A tanker was hit, and Houthi strikes on Saudi Arabia killed people, including an American.\nA war tracker says President Trump said on 8 October that the US would not attack Iran before the midterms, but would keep its blockade.",
+    "why": "It keeps fuel and energy prices high around the world."
+   },
+   {
+    "headline": "Hormuz attacks continue as Iran war talks stay stuck",
+    "body": "Attacks near the Strait of Hormuz, a narrow sea route for much of the world's oil, have increased. At the same time, talks to end the war on Iran are stuck, Al Jazeera reported on 11 October. Iran wants an agreement from June, which has since fallen apart, to be brought back. It also wants US backing for an Iran-Oman plan about how ships pass through. Nobody expects a breakthrough before US elections on 3 November.\nFewer ships are getting through. Figures quoted by CNBC suggest the amount of crude oil passing through in the week to 7 October was about 40 per cent below normal. A tanker was hit. Houthi strikes on Saudi Arabia also killed people, including an American.\nA war tracker says President Trump said on 8 October that the US would not attack Iran before the election, but would keep its blockade of Iranian shipping.",
+    "why": "It helps explain why petrol and energy cost more."
+   },
+   {
+    "headline": "Attacks at sea are rising and peace talks are stuck",
+    "body": "Attacks are growing near the Strait of Hormuz. This is a narrow stretch of sea that much of the world's oil travels through. At the same time, talks to end the war on Iran are stuck. Al Jazeera reported this on 11 October. Iran wants a deal from June to be brought back. That deal has fallen apart. Iran also wants help from the US with a plan about how ships go through the strait.\nFewer ships are getting through. In one week, about 40% less oil than normal passed through. A tanker was hit by an attack. Other attacks on Saudi Arabia killed people, including an American.\nOne report says President Trump said the US would not attack Iran before US elections on 3 November. The US would still stop ships going to Iran. This is called a blockade. Nobody expects the war to end soon.",
+    "why": "It helps explain why petrol costs more."
+   },
+   {
+    "headline": "Ships are being attacked and talks to end the war are stuck",
+    "body": "Attacks near the Strait of Hormuz have increased, and efforts to end the war on Iran are stuck. The strait is a narrow sea route that a lot of the world's oil passes through. Iran wants a deal from June, which has collapsed, to be brought back, and wants US backing for a plan with Oman about how ships use the strait.\nLess oil is getting through. Figures quoted by CNBC suggest about 40% less crude than normal passed through in the week to 7 October. A tanker was hit, and attacks on Saudi Arabia killed people, including an American.\nA war tracker says President Trump said the US would not attack Iran before its elections on 3 November, but would keep blocking Iranian shipping. No one expects a breakthrough soon.",
+    "why": "It helps explain why fuel costs more."
+   },
+   {
+    "headline": "Attacks on ships go on and talks to end the war are stuck",
+    "body": "There is a war involving Iran. Ships are being attacked near a narrow sea path called the Strait of Hormuz. A lot of the world's oil goes through this path. Oil is used to make petrol. People are trying to talk and end the war, but the talks are stuck. Iran wants an old deal from June brought back. That deal has broken. Iran also wants help from the US with rules for ships.\nFewer ships are getting through. About 40% less oil than normal went through in one week. A tanker was hit. Attacks on Saudi Arabia killed people too.\nOne report says President Trump will not attack Iran before US elections on 3 November. But the US will keep blocking ships going to Iran. No one thinks the war will end soon.",
+    "why": "It matters because it makes fuel cost more."
+   },
+   {
+    "headline": "Ships are still being attacked and the war talks are stuck",
+    "body": "There is a war that involves Iran. Some ships are being attacked at sea. They are near a narrow path of water called the Strait of Hormuz. Lots of oil ships use this path. Oil is used to make petrol for cars. People are trying to end the war by talking. But the talks are stuck. The leaders cannot agree on what to do.\nFewer ships are getting through the path. A tanker, which is a ship that carries oil, was hit. Other attacks killed people in Saudi Arabia.\nAmerica has an election on 3 November. One report says the American President will wait until after it before attacking Iran. Nobody thinks the war will end soon. This matters because less oil makes petrol cost more.",
+    "why": "It matters because it makes petrol cost more."
+   },
+   {
+    "headline": "Ships are being attacked and the leaders cannot agree",
+    "body": "There is a war involving Iran, and it is far away. Ships carrying oil have to use a narrow sea path called the Strait of Hormuz. Some of those ships have been attacked. Leaders are trying to stop the war by talking, but they cannot agree.\nBecause of this, less oil is getting to other countries. Oil is used to make petrol. When there is less oil, it costs more.\nAmerica has an election on 3 November. One report says its President will not attack Iran before then. No one thinks the war will end soon.",
+    "why": "It matters because it makes things cost more."
+   },
+   {
+    "headline": "Ships are in danger and the grown-ups cannot agree",
+    "body": "There is a war far away. Ships that carry oil are being attacked at sea. Oil is used to make petrol for cars. The ships use a narrow path of water called the Strait of Hormuz. Grown-ups from different countries are trying to stop the war by talking. But the talks are stuck. It is a bit like two children who cannot agree on a game, and neither will give in.\nFewer ships are getting through. That means less oil gets to other countries. When there is less of something, it often costs more.\nAmerica has an important vote on 3 November. Some people think nothing will change until after it. This matters because petrol could cost more for families here.",
+    "why": "It matters because it can make things cost more."
+   }
+  ]
+ },
+ {
+  "id": "us-treasury-yields-2002-highs",
+  "order": 8,
+  "topic": "Economy",
+  "region": "United States",
+  "source": "CNBC / Federal Reserve",
+  "url": "https://www.cnbc.com/2026/10/05/treasury-yields-bonds-fed-rates.html",
+  "headline": "US 10-year Treasury yield hits highest since 2002 before easing",
+  "terms": [
+   {
+    "term": "Treasury yield",
+    "meaning": "The interest rate the US government pays to borrow, which moves opposite to bond prices."
+   },
+   {
+    "term": "Federal Reserve",
+    "meaning": "The US central bank."
+   },
+   {
+    "term": "FOMC",
+    "meaning": "The Fed committee that sets US interest rates."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "US 10-year Treasury yield hits highest since 2002 before easing",
+    "body": "The yield on the US 10-year Treasury note rose to its highest level since 2002 at the start of the week beginning 5 October, CNBC reported, before a weak September jobs report pulled yields lower. CNBC said the yield briefly touched 5.70%, although FRED data shows a close of about 5.31% that day. By 9 October the 10-year yield was around 5.24%, the 2-year about 4.80% and the 30-year about 5.60%, according to market data trackers.\nThe Federal Reserve's target range stands at 3.75% to 4.00%. Traders put about an 82% chance on the Fed holding rates at its next meeting, which is on 27 and 28 October, and futures price a rise to about 4.1% by January 2027.\nThe moves follow a period of higher oil prices tied to the conflict around Iran. US inflation data for September is due on Wednesday 14 October, and big banks including JPMorgan report earnings on Tuesday.",
+    "why": "US yields set the pace for borrowing costs worldwide, including UK gilts and mortgages."
+   },
+   {
+    "headline": "US 10-year yield reaches 2002 high, then falls after weak jobs data",
+    "body": "The US 10-year Treasury yield hit its highest since 2002 in the week beginning 5 October, CNBC reported, before a weak September jobs report pulled it back. CNBC said it briefly reached 5.70%, though FRED data shows a close near 5.31% that day. By 9 October the 10-year was around 5.24%, the 2-year near 4.80% and the 30-year around 5.60%, according to market trackers.\nThe Federal Reserve's target range is 3.75% to 4.00%. Traders see about an 82% chance of a hold at its meeting on 27 and 28 October, and futures point to about 4.1% by January 2027.\nThe moves came as oil prices rose with the conflict around Iran. US inflation data for September is due on Wednesday 14 October, and the big banks begin reporting earnings on Tuesday.",
+    "why": "US yields influence borrowing costs worldwide, including in the UK."
+   },
+   {
+    "headline": "US borrowing costs hit multi-decade highs before easing",
+    "body": "The yield on 10-year US government bonds reached its highest level since 2002 at the start of the week of 5 October, according to CNBC, before a weak jobs report for September brought it down. CNBC said it briefly touched 5.70%, though official data show a close of around 5.31% that day. On 9 October it stood near 5.24%.\nThe Federal Reserve's main interest rate range is 3.75% to 4.00%. Traders think there is about an 82% chance the Fed will leave it unchanged at its meeting on 27 and 28 October. Futures suggest it could be about 4.1% by January.\nThe jump in yields came as oil prices climbed because of the conflict around Iran. US inflation figures for September are due on Wednesday 14 October, and big US banks report earnings on Tuesday.",
+    "why": "It affects the cost of borrowing around the world."
+   },
+   {
+    "headline": "US government borrowing costs reach highest level since 2002",
+    "body": "The cost of borrowing for the US government has reached its highest level since 2002. In the week starting 5 October, the interest rate on 10-year US government bonds, called the yield, rose very high. CNBC said it briefly touched 5.70%. Then a weak jobs report for September brought it back down. By 9 October it was about 5.24%.\nThe US central bank, the Federal Reserve, sets its own main rate in a range of 3.75% to 4.00%. Traders think there is about an 82% chance it will leave the rate alone at its meeting on 27 and 28 October.\nYields rose partly because oil prices went up, which can push prices higher. US inflation figures for September come out on Wednesday 14 October. Big banks such as JPMorgan also report their results this week.",
+    "why": "It can push up borrowing costs for people in other countries too."
+   },
+   {
+    "headline": "The cost of US government borrowing hit a 24-year high",
+    "body": "The US government is paying more to borrow money than at any time since 2002. It borrows by selling bonds, and the interest it pays is called the yield. In the week starting 5 October, the yield on 10-year bonds rose to about 5.3%, and CNBC said it briefly touched 5.70%. A weak jobs report then pulled it down, and on 9 October it was about 5.24%.\nThe Federal Reserve, the US central bank, keeps its main rate between 3.75% and 4.00%. Traders think it will probably hold at its meeting on 27 and 28 October.\nOil prices have been rising, which can push up prices. US inflation figures come out on 14 October. Because US rates influence borrowing costs worldwide, people in other countries watch them closely.",
+    "why": "It can make loans cost more elsewhere too."
+   },
+   {
+    "headline": "America's borrowing costs have reached their highest in over 20 years",
+    "body": "The US government has to pay a lot more to borrow money. It borrows by selling bonds. A bond is a loan from investors. The government pays interest on it, called the yield. In the week starting 5 October, the yield on 10-year bonds reached its highest level since 2002. CNBC said it briefly hit 5.70%. Then a weak jobs report pulled it down. On 9 October it was about 5.24%.\nThe Federal Reserve is the US central bank. Its main rate is between 3.75% and 4.00%. Traders think it will probably not change it at its meeting on 27 and 28 October.\nYields went up partly because oil prices rose. That can make prices rise too. New US inflation figures come out on 14 October.",
+    "why": "It can make loans cost more around the world."
+   },
+   {
+    "headline": "The cost of borrowing for the US government is very high",
+    "body": "The US government borrows money. It does this by selling bonds. A bond is like an IOU. The government pays extra money, called interest, to those who lend. This week the interest was the highest since 2002. It reached about 5.7% for a short time. Then a weak report about jobs pulled it back down to about 5.2%.\nThe US also has a central bank, the Federal Reserve. It sets a main rate that guides other rates. The rate is between 3.75% and 4.00%. Most traders think it will stay the same at the next meeting on 27 and 28 October.\nOil prices have gone up lately, which can make prices rise. New figures on US prices come out on 14 October. People around the world watch US rates because they affect other countries.",
+    "why": "It matters because the cost of borrowing can spread to other countries."
+   },
+   {
+    "headline": "The US government is paying more to borrow money",
+    "body": "The US government has to borrow money, just like many families do. It does this by selling bonds. A bond is a promise to pay back with extra money, called interest. This week the extra money was the highest it has been since 2002. It was about 5.2 out of every 100 for a year. For a short time it was even higher.\nThen a report said fewer people had found new jobs. That made the extra money go down a bit. The US has a central bank, called the Federal Reserve. It sets a main rate that guides others. Most people think it will leave the rate alone at the next meeting.\nOil has become more expensive, which can push prices up. People around the world watch the US closely. If it costs more to borrow there, it can cost more elsewhere too.",
+    "why": "It matters because borrowing costs can rise in other places too."
+   },
+   {
+    "headline": "The US government has to pay more to borrow",
+    "body": "America's government needs to borrow money, a bit like a family taking a loan. When it borrows, it pays extra back, called interest. This week the extra was the biggest since 2002. After that, a report showed fewer new jobs, and the extra fell a little.\nThe country has a central bank, the Federal Reserve. It decides a main rate that other rates follow. It will meet on 27 and 28 October, and most people think it will not change the rate.\nOil is costing more, which can make prices rise. People in other countries watch America's rates because they can change what borrowing costs elsewhere.",
+    "why": "It matters because it can make borrowing cost more everywhere."
+   },
+   {
+    "headline": "America has to pay more to borrow money",
+    "body": "A country can borrow money, just like you might borrow a pen from a friend. But when a country borrows, it pays a little extra back. This extra is called interest. This week, America had to pay more extra than at any time since 2002. That is a very long time ago, before many of your teachers were grown up.\nThen some news about jobs came out, and the extra went down a bit. America has a big bank for the whole country. It decides how costly borrowing should be. It will meet at the end of October to decide.\nWhy does this matter to us? When it costs more to borrow in America, it can cost more in other countries too. Grown-ups all over the world watch these numbers closely.",
+    "why": "It matters because it can make borrowing cost more."
+   }
+  ]
+ },
+ {
+  "id": "oil-prices-near-100-hormuz",
+  "order": 9,
+  "topic": "Economy",
+  "region": "Global",
+  "source": "Trading Economics / Databoks",
+  "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+  "headline": "Brent crude trades near $100 a barrel, up about 57% on a year ago",
   "terms": [
    {
     "term": "Brent crude",
     "meaning": "The main international benchmark price for oil."
    },
    {
-    "term": "Strait of Hormuz",
-    "meaning": "A narrow waterway between Iran and Oman used to ship much of the world's oil."
+    "term": "WTI",
+    "meaning": "West Texas Intermediate, the main US oil price benchmark."
+   },
+   {
+    "term": "Barrel",
+    "meaning": "The standard unit for oil, about 159 litres."
    }
   ],
   "levels": [
    {
-    "headline": "Oil climbs as record tanker attacks near the Strait of Hormuz cut shipping",
-    "body": "Oil prices jumped on Thursday 8 October after a record number of attacks on tankers near the Strait of Hormuz. Brent crude, the main international benchmark, rose 4% to close at $104.28 a barrel. Crossings of the strait fell to a two-month low.\nThe Strait of Hormuz is a narrow waterway between Iran and Oman through which a large share of the world's oil is shipped, so any threat to ships there quickly feeds into prices. Reports blamed Iran for stepping up the attacks.\nA separate supply worry came from the US Gulf of Mexico, where a hurricane led oil companies to shut in about 500,000 barrels a day, roughly 25% of production in the area. Prices came off their highs after President Donald Trump said the United States would not attack Iran before the November midterm elections.\nHigher oil prices tend to push up fuel and transport costs, which can raise inflation and complicate the work of central banks.",
-    "why": "Higher oil prices can raise fuel, transport and shop prices."
+    "headline": "Brent crude trades near $100 a barrel, up about 57% on a year ago",
+    "body": "Brent crude, the international oil benchmark, traded around $102.60 a barrel on 5 October 2026, according to Trading Economics, about 57% higher than a year earlier. On 6 October Databoks reported Brent at $100.53 and US benchmark WTI at $89.79 in morning trading.\nAnalysts link the high prices to disruption around the Strait of Hormuz, the narrow passage through which a large share of the world's oil is shipped. Talks to end the war on Iran are stalled, and tankers have been attacked in the strait.\nHigher oil prices feed through to fuel costs. UK diesel rose 14.2 pence per litre in August to an average of 181.8 pence, which was the biggest contributor to inflation rising to 3.1%. The Bank of England has cited volatile energy prices as a reason it expects inflation to rise further.",
+    "why": "Oil prices feed into petrol, diesel and inflation, which is why UK prices and interest rates are being affected."
    },
    {
-    "headline": "Oil rises as tanker attacks near Hormuz hit a record",
-    "body": "Oil prices rose sharply on Thursday 8 October after a record number of attacks on tankers near the Strait of Hormuz. Brent crude, the global benchmark, gained 4% to close at $104.28 a barrel, and ship crossings of the strait dropped to a two-month low.\nThe strait, which lies between Iran and Oman, is one of the most important routes for the world's oil. Reports said Iran had stepped up its attacks on vessels there, which made traders worry about supply.\nAnother pressure came from the US Gulf of Mexico, where companies shut in around 500,000 barrels a day, about a quarter of output in the area, because of a hurricane. Prices eased from their peaks after President Trump said America would not attack Iran before November's midterm elections.\nBecause oil feeds into petrol, diesel and freight costs, a sustained rise can add to inflation and affect interest rate decisions.",
-    "why": "Higher oil prices can raise fuel, transport and shop prices."
+    "headline": "Brent crude hovers around $100 a barrel as Hormuz disruption continues",
+    "body": "Brent crude, the international benchmark, was around $102.60 a barrel on 5 October, about 57% higher than a year earlier, according to Trading Economics. On 6 October Databoks put Brent at $100.53 and the US benchmark, WTI, at $89.79 in morning trading.\nAnalysts tie the high prices to disruption around the Strait of Hormuz, the narrow passage that carries a large share of the world's oil. Talks to end the war on Iran are stalled and tankers have been attacked there.\nThe effect reaches fuel prices. UK diesel rose 14.2 pence per litre in August to an average of 181.8 pence, the largest push behind inflation rising to 3.1%. The Bank of England says volatile energy prices mean inflation will rise further.",
+    "why": "High oil prices feed into fuel costs, inflation and central bank decisions."
    },
    {
-    "headline": "Brent crude jumps 4% after record number of tanker attacks",
-    "body": "Brent crude rose 4% on Thursday 8 October to close at $104.28 a barrel, as a record number of attacks on tankers near the Strait of Hormuz raised fears about oil supplies. Crossings through the strait fell to a two-month low.\nThe strait, between Iran and Oman, is a key shipping route for oil, and reports blamed Iran for stepping up attacks on vessels. Traders add a risk premium to prices when supply routes look unsafe.\nA hurricane added to the pressure by forcing producers to shut in about 500,000 barrels a day in the US Gulf of Mexico, around 25% of production there. Prices then pulled back from their session highs after President Donald Trump said the US would not attack Iran before the November midterm elections.\nOil is a cost for almost every business, so lasting higher prices can lift inflation across the economy.",
-    "why": "Higher oil prices can raise fuel, transport and shop prices."
+    "headline": "Oil prices stay near $100 a barrel on Hormuz disruption",
+    "body": "Brent crude, the main international oil price, was about $102.60 a barrel on 5 October, roughly 57% above a year earlier, Trading Economics says. On 6 October it was $100.53, while the US benchmark, WTI, was $89.79, according to Databoks.\nAnalysts link the high prices to problems in the Strait of Hormuz, a narrow sea route that a lot of the world's oil passes through. Talks to end the war on Iran have stalled and tankers have been attacked.\nThis feeds into the price of fuel. UK diesel rose 14.2 pence a litre in August to an average of 181.8 pence, which was the biggest factor behind inflation rising to 3.1%. The Bank of England expects inflation to rise further because energy prices are unsteady.",
+    "why": "Dearer oil means dearer petrol and higher prices in shops."
    },
    {
-    "headline": "Oil prices jump after tanker attacks near a key shipping route",
-    "body": "Oil prices jumped on 8 October because ships carrying oil were attacked near the Strait of Hormuz. It was a record number of attacks. The main international price, Brent crude, rose 4% to $104.28 a barrel.\nThe Strait of Hormuz is a narrow stretch of sea between Iran and Oman. A lot of the world's oil travels through it. Fewer ships are now crossing, and the number is at its lowest for two months. Reports blamed Iran for stepping up the attacks.\nA hurricane also hit oil production in the Gulf of Mexico, where companies stopped about 500,000 barrels a day. That is about a quarter of the production there. Prices fell back a little after President Trump said the US would not attack Iran before the November midterm elections.\nWhen oil costs more, petrol, diesel and the cost of moving goods can all go up, and that can make everyday things dearer.",
-    "why": "Higher oil prices can raise fuel, transport and shop prices."
+    "headline": "Oil stays near $100 a barrel as Hormuz disruption bites",
+    "body": "The price of Brent crude, the main international measure for oil, was about $102.60 a barrel on 5 October. That is roughly 57% more than a year before, says Trading Economics. On 6 October it was $100.53. The main US measure, WTI, was lower at $89.79. A barrel is the standard unit for oil, about 159 litres.\nAnalysts link the high prices to trouble in the Strait of Hormuz, a narrow sea route used by many oil tankers. Talks to end the war on Iran are stuck, and ships have been attacked there.\nDearer oil means dearer fuel. In the UK, diesel rose 14.2 pence a litre in August to an average of 181.8 pence. That pushed inflation up to 3.1%. The Bank of England thinks inflation will go higher.",
+    "why": "Dearer oil can mean dearer petrol and shop prices."
    },
    {
-    "headline": "Oil gets dearer as ships are attacked near a key sea route",
-    "body": "Oil prices rose on 8 October after a record number of attacks on tankers near the Strait of Hormuz. Brent crude, the main international price, went up 4% to $104.28 a barrel.\nThe strait is a narrow waterway between Iran and Oman that a big share of the world's oil passes through. Fewer ships are crossing, at a two-month low. Reports blamed Iran for stepping up the attacks, and when supply looks at risk, buyers pay more.\nA hurricane also stopped about 500,000 barrels a day in the US Gulf of Mexico, around 25% of production there. Prices eased after President Trump said the US would not attack Iran before the November midterm elections.\nDearer oil can lift the cost of petrol, diesel and transport, and so push up prices in the shops.",
-    "why": "Higher oil prices can raise fuel, transport and shop prices."
+    "headline": "Oil costs about $100 a barrel, far more than last year",
+    "body": "Oil is much more expensive than it was a year ago. The main international price, Brent crude, was about $102.60 a barrel on 5 October, around 57% higher than a year before. A barrel holds about 159 litres. By 6 October the price was about $100.\nAnalysts blame trouble in the Strait of Hormuz, a narrow sea route that many oil tankers use. Talks to end the war on Iran are stuck, and ships have been attacked there, so less oil gets through.\nDearer oil means dearer petrol and diesel. In the UK, diesel rose 14.2 pence a litre in August, which pushed inflation up to 3.1%. The Bank of England expects inflation to rise further.",
+    "why": "It helps explain why petrol and shop prices are rising."
    },
    {
-    "headline": "Oil gets more expensive after attacks on ships near a key sea route",
-    "body": "The price of oil went up on 8 October after more ships carrying oil were attacked than ever before near the Strait of Hormuz. The main world price, called Brent crude, rose by 4% to $104.28 a barrel.\nThe strait is a narrow stretch of sea between Iran and Oman. A big share of the world's oil is sent by ship through it. Fewer ships are going through now, the lowest number in two months. News reports said Iran was behind more of the attacks.\nOil also faced a problem in the United States. A hurricane meant companies stopped pumping about 500,000 barrels a day in the Gulf of Mexico, around a quarter of what the area normally produces. The price dipped after President Donald Trump said the US would not attack Iran before the elections in November.\nIf oil stays expensive, it can push up the cost of fuel and of moving goods, and so the price of many things in shops.",
-    "why": "Higher oil prices can raise fuel, transport and shop prices."
+    "headline": "Oil is very expensive at about $100 a barrel",
+    "body": "Oil is very expensive right now. The main world price, called Brent crude, was about $102.60 for a barrel on 5 October. A barrel holds about 159 litres. A year ago the price was about 57% lower. On 6 October it was about $100.\nWhy is oil so costly? There is a war involving Iran. Ships that carry oil must go through a narrow sea path called the Strait of Hormuz. Ships there have been attacked, and fewer are getting through. When there is less oil to buy, the price goes up.\nOil is used to make petrol and diesel. In the UK, diesel went up by 14.2 pence a litre in August. That made prices in general go up faster. The Bank of England thinks this will continue.",
+    "why": "It helps explain why petrol costs more."
    },
    {
-    "headline": "Oil prices rise because ships have been attacked",
-    "body": "The price of oil went up on 8 October. Ships carrying oil were attacked near a narrow stretch of sea called the Strait of Hormuz. There were more attacks than ever before. The main price, called Brent, went up 4% to $104.28 for a barrel.\nThe strait lies between Iran and Oman. Lots of the world's oil goes through it by ship. Now fewer ships are going through. News reports said Iran was behind more of the attacks. When oil might be harder to get, buyers pay more.\nA storm also hurt oil making in the United States. Firms stopped about 500,000 barrels a day in the Gulf of Mexico. That is about a quarter of the oil made there. The price fell a little when President Trump said the US would not attack Iran before the November elections.\nDearer oil can make petrol and transport cost more, and that can make shop prices rise.",
-    "why": "Higher oil prices can raise fuel, transport and shop prices."
+    "headline": "Oil costs a lot more than it did last year",
+    "body": "Oil is costing a lot of money right now. It is sold in barrels, and one barrel holds about 159 litres. A barrel of the main kind, called Brent, costs about $100. A year ago it cost much less, about 57% less.\nWhy is it so costly? There is a war involving Iran. Ships carrying oil must go through a narrow path of sea. Some ships there have been attacked. So fewer ships get through. When there is less of something that people need, it costs more.\nOil is used to make petrol and diesel. In the UK, diesel cost 14.2 pence more per litre in August. That made many things in shops cost a bit more. Experts think this might go on for some time.",
+    "why": "It matters because petrol costs more."
    },
    {
-    "headline": "Oil costs more after ships are attacked at sea",
-    "body": "Oil got more expensive on 8 October. Ships that carry oil were attacked near a narrow sea route called the Strait of Hormuz. It was the most attacks ever counted. A barrel of the main kind of oil, called Brent, cost $104.28 at the end of the day. That was 4% more than before.\nOil is the thick liquid that is turned into petrol and diesel. A lot of it travels by ship through the strait, which lies between Iran and Oman. Fewer ships are going through now. News reports said Iran was behind more of the attacks. If supply may be short, people pay more.\nA big storm made things worse. It stopped about a quarter of the oil being pumped in the Gulf of Mexico. The price fell back a little when US President Donald Trump said the US would not attack Iran before elections in November.\nIf petrol and transport cost more, things in shops can cost more too.",
-    "why": "Higher oil prices can raise fuel, transport and shop prices."
+    "headline": "Oil costs much more than a year ago",
+    "body": "Oil is what we use to make petrol for cars. Right now oil costs a lot. A barrel is a big container of oil. One barrel now costs about $100. A year ago it cost much less. There is a war involving Iran. Oil ships have to pass through a narrow sea path. Some ships there have been attacked.\nBecause of that, fewer ships get through. There is less oil to buy. When there is less of something, it costs more. This is why petrol and diesel have cost more lately.\nIn the UK, a litre of diesel cost 14.2 pence more in August. When lorries pay more for fuel, shops pay more to get goods. So lots of things cost a bit more.",
+    "why": "It matters because petrol and other things cost more."
    },
    {
-    "headline": "Oil costs more because ships have been attacked",
-    "body": "The price of oil went up on 8 October. Some ships that carry oil were attacked at sea. This is the most attacks ever counted. The attacks were near a narrow sea route called the Strait of Hormuz. A barrel of oil cost $104.28 at the end of the day.\nOil is used to make petrol for cars. Lots of it goes on big ships through that sea route. Now fewer ships are going. News reports said the country of Iran was behind more of the attacks. When oil is harder to get, it costs more, like when a toy is hard to find in the shops.\nA big storm also stopped some oil being pumped in the United States. The price dropped a little when the US leader, President Trump, said the US would not attack Iran before elections in November.\nThis matters because when oil costs more, petrol and the things that are driven to shops can cost more too.",
-    "why": "Higher oil prices can raise fuel, transport and shop prices."
+    "headline": "Oil costs much more than last year",
+    "body": "Oil is a thick black liquid from under the ground. People turn it into petrol for cars. Right now it costs a lot. A year ago it cost much less. The reason is a war far away. Ships that carry oil must go through a narrow path of sea. Some ships there have been attacked.\nSo fewer ships get through. There is less oil to go round. When there is less of something, the price goes up. It is like a rare toy that everyone wants. The fewer there are, the more it costs.\nThis is why petrol costs more. When lorries pay more for petrol, shops pay more to get their goods. Then things in shops cost more too.",
+    "why": "It matters because it makes petrol cost more."
    },
    {
-    "headline": "Why oil got more expensive",
-    "body": "Imagine a lot of the fuel for the whole world has to travel along one small road. Last week, trucks on that road were attacked. Now fewer trucks go, and fuel costs more. That is what happened with oil on 8 October.\nThe small road is a narrow bit of sea called the Strait of Hormuz. Ships carry oil through it. There were more attacks on the ships than ever. Fewer ships are going now. A barrel of oil cost $104.28, which is 4% more than before.\nA storm also stopped some of the oil being pumped in America. The price went down a little when President Trump said America would not attack Iran before the elections in November.\nWhen oil costs more, it can cost more to drive cars and to bring food to the shops. Grown-ups pay close attention to that.",
-    "why": "Higher oil prices can raise fuel, transport and shop prices."
+    "headline": "Oil is costing much more than before",
+    "body": "Oil is a thick black liquid that is found deep under the ground. People use it to make petrol. Petrol makes cars and lorries go. Right now oil costs much more than last year. There is a war far away, and ships that carry oil are in danger.\nFewer ships are getting through. When there is less of something, it costs more. Think of a toy that only a few shops have. It costs more because there are not many left.\nBecause oil costs more, petrol costs more too. Lorries use petrol to bring things to shops. So lots of things in shops now cost a little more. Grown-ups are watching to see what happens next.",
+    "why": "It matters because it makes petrol cost more."
    }
   ]
  },
  {
-  "id": "trump-no-iran-attack-before-midterms",
-  "order": 4,
+  "id": "ukraine-energy-truce-diesel-deal",
+  "order": 10,
   "topic": "Politics",
-  "region": "United States",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
-  "headline": "Trump says US will not attack Iran before November midterm elections",
+  "region": "Europe",
+  "source": "Al Jazeera / CNBC",
+  "url": "https://www.aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar",
+  "headline": "Zelenskyy says Russia broke energy truce as US pushes new peace talks",
   "terms": [
    {
-    "term": "Midterm elections",
-    "meaning": "US elections held halfway through a president's term to choose members of Congress."
+    "term": "Energy truce",
+    "meaning": "An agreement to stop attacks on power and fuel sites."
+   },
+   {
+    "term": "Trilateral talks",
+    "meaning": "Talks between three parties, here the US, Ukraine and Russia."
+   },
+   {
+    "term": "Donetsk",
+    "meaning": "A region in eastern Ukraine where much of the fighting takes place."
    }
   ],
   "levels": [
    {
-    "headline": "Trump says US will not attack Iran before November midterm elections",
-    "body": "President Donald Trump said on Thursday 8 October that the United States would not attack Iran before the November midterm elections. The remark came as oil prices climbed on a record number of tanker attacks near the Strait of Hormuz, and it helped prices come off their session highs.\nReports have blamed Iran for stepping up attacks on tankers in the area. The midterms are the elections held halfway through a US presidential term, in which voters choose all of the House of Representatives and part of the Senate.\nThe statement does not settle the tensions around the strait, and oil traders were also watching the impact of a hurricane on US Gulf production.\nIt matters because a possible military clash with Iran would raise risks for shipping, energy prices and the wider world economy.",
-    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
+    "headline": "Zelenskyy says Russia broke energy truce as US pushes new peace talks",
+    "body": "Ukrainian President Volodymyr Zelenskyy said on 11 October that Russia had violated an energy truce announced by US President Donald Trump, Al Jazeera reported. The claim followed a diesel deal announced by Mr Trump and Russian President Vladimir Putin. Ukraine bombed a Russian fuel site hours after the announcement, and a Republican senator has questioned whether the diesel agreement may be illegal.\nFighting continued. Al Jazeera reported that at least 33 people were killed when a Russian strike hit two civilian buses in a city in the Donetsk region, while a Russian guided aerial bomb attack in Kharkiv killed one person on 11 October. The outlet also reported that Ukrainian forces have pushed Russian troops back in parts of Donetsk.\nMr Zelenskyy said the US has proposed fresh trilateral talks by the end of October, and that Ukraine has responded positively.",
+    "why": "It shows how fragile efforts to end the war are, with US-hosted talks possible by the end of October."
    },
    {
-    "headline": "Trump rules out attack on Iran until after the midterms",
-    "body": "President Donald Trump said on 8 October that the United States would not attack Iran before the November midterm elections. Oil prices, which had jumped on a record number of tanker attacks near the Strait of Hormuz, eased from their highs after his comment.\nReports blamed Iran for stepping up attacks on ships. The midterms are held halfway through a presidential term, when Americans vote for the whole House of Representatives and a share of the Senate.\nThe comment leaves open what happens after the vote, and tensions around the strait remain, with traders also watching a hurricane that hit US Gulf production.\nAny clash with Iran could disrupt shipping and raise energy prices worldwide.",
-    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
+    "headline": "Ukraine says Russia violated energy truce after Trump and Putin diesel deal",
+    "body": "President Volodymyr Zelenskyy said on 11 October that Russia had violated an energy truce announced by US President Donald Trump, Al Jazeera reported. This followed a diesel deal announced by Mr Trump and Russian President Vladimir Putin. Ukraine hit a Russian fuel site hours after the announcement, and a Republican senator has questioned whether the diesel agreement may be illegal.\nThe fighting went on. Al Jazeera reported at least 33 people killed when a Russian strike hit two civilian buses in a city in the Donetsk region, and one person killed by a guided aerial bomb in Kharkiv on 11 October. It also reported that Ukrainian forces have pushed Russian troops back in parts of Donetsk.\nMr Zelenskyy said the US has proposed new trilateral talks by the end of October and that Ukraine has responded positively.",
+    "why": "It shows how fragile efforts to end the war are as new talks are proposed."
    },
    {
-    "headline": "Trump says no US strike on Iran before November",
-    "body": "President Donald Trump said on 8 October that the US would not attack Iran before the midterm elections in November. Oil prices had risen sharply after a record number of tanker attacks near the Strait of Hormuz and came off their highs after the remark.\nReports blamed Iran for stepping up the attacks. The midterms take place halfway through a president's term and decide who controls Congress.\nThe pledge covers only the period before the vote. Tensions in the area remain, and markets were also watching a hurricane's effect on US Gulf oil output.\nA military clash could threaten shipping lanes and push up energy costs around the world.",
-    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
+    "headline": "Zelenskyy accuses Russia of breaking energy truce as strikes continue",
+    "body": "Ukrainian President Volodymyr Zelenskyy said on 11 October that Russia had broken an energy truce announced by US President Donald Trump, Al Jazeera reported. The accusation came after Mr Trump and Russian President Vladimir Putin announced a diesel deal. Hours later, Ukraine bombed a Russian fuel site. A Republican senator has asked whether the diesel agreement may be illegal.\nThe war continued. Al Jazeera reported that at least 33 people died when a Russian strike hit two civilian buses in a city in the Donetsk region. One person was killed by a guided bomb in Kharkiv on 11 October. Ukraine has also pushed Russian forces back in parts of Donetsk.\nMr Zelenskyy said the US has suggested new three-way talks by the end of October, and Ukraine has responded positively.",
+    "why": "It shows how hard it is to end the war."
    },
    {
-    "headline": "Trump says the US will not attack Iran before November",
-    "body": "US President Donald Trump said on 8 October that the United States would not attack Iran before the midterm elections in November. Oil prices had jumped because of a record number of attacks on tankers near the Strait of Hormuz. They fell back from their highest levels after he spoke.\nNews reports blamed Iran for stepping up the attacks. The midterms are elections held halfway through a president's four-year term. They decide who controls Congress, the part of the US government that makes laws.\nHis words only cover the time until the vote. Worries remain about the shipping route, and traders were also watching a hurricane that hit oil production in the US.\nA fight with Iran could make shipping unsafe and push up the price of fuel around the world.",
-    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
+    "headline": "Ukraine accuses Russia of breaking energy truce",
+    "body": "Ukraine's President, Volodymyr Zelenskyy, said on 11 October that Russia broke an energy truce, an agreement to stop attacking power and fuel sites. US President Donald Trump had announced the truce. Mr Trump and Russia's President, Vladimir Putin, had also announced a diesel deal. Hours later Ukraine bombed a Russian fuel site. A Republican senator has asked whether the diesel deal may be illegal.\nThe fighting went on, Al Jazeera reported. At least 33 people died when a Russian strike hit two buses carrying civilians in the Donetsk region. One person was killed by a bomb in Kharkiv on 11 October. Ukraine has also pushed Russian troops back in parts of Donetsk.\nMr Zelenskyy said the US wants new three-way talks by the end of October. Ukraine has said yes.",
+    "why": "It shows how hard it is to end the war in Ukraine."
    },
    {
-    "headline": "Trump says no US attack on Iran before the midterm elections",
-    "body": "President Donald Trump said on 8 October that the United States would not attack Iran before the midterm elections in November. Oil prices had jumped on a record number of tanker attacks near the Strait of Hormuz, and they eased after his comment.\nReports blamed Iran for stepping up the attacks. The midterms are elections held halfway through a president's term, when voters choose who sits in Congress, the part of government that makes US laws.\nThe comment covers only the time before the vote, so worries about shipping remain. Traders were also watching a hurricane that hit oil production in the US Gulf.\nA clash with Iran could make shipping unsafe and push fuel prices up around the world.",
-    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
+    "headline": "Ukraine says Russia broke a promise to stop hitting energy sites",
+    "body": "Ukraine's President, Volodymyr Zelenskyy, said on 11 October that Russia broke a promise. The promise was to stop attacking places that make power and fuel. The US President, Donald Trump, had announced it. Mr Trump and Russia's President, Vladimir Putin, also announced a deal about diesel. Ukraine then bombed a Russian fuel site. One US senator has asked if the diesel deal may be against the law.\nThe fighting went on. At least 33 people died when a Russian strike hit two buses with ordinary people on them. A bomb killed one person in the city of Kharkiv. Ukraine has also pushed Russian soldiers back in one eastern area.\nMr Zelenskyy said the US wants new talks with three sides by the end of October. Ukraine has said yes.",
+    "why": "It shows how hard it is to stop the fighting."
    },
    {
-    "headline": "Trump says America will not attack Iran before the elections",
-    "body": "President Donald Trump of the United States said on 8 October that his country would not attack Iran before elections in November. On the same day, oil had become more expensive because of a record number of attacks on ships near the Strait of Hormuz. After he spoke, the oil price fell back a little.\nReports said Iran was behind more of the attacks. The November elections are called the midterms. They take place halfway through a president's time in office, and they decide who controls Congress, the group that makes the country's laws.\nHe only talked about the time before the vote. People are still worried about ships at sea, and a hurricane has also hurt oil making in the US.\nA fight with Iran could make oil much dearer for people everywhere.",
-    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
+    "headline": "Ukraine says Russia broke a promise about attacks on fuel and power",
+    "body": "Ukraine's President, Volodymyr Zelenskyy, said on 11 October that Russia broke an energy truce, which was a promise to stop attacking power and fuel sites. US President Donald Trump had announced the truce, along with a diesel deal with Russia's Vladimir Putin. Ukraine hit a Russian fuel site soon after.\nThe war went on. At least 33 people died when a Russian strike hit two buses carrying civilians in the Donetsk region. One person was killed by a bomb in Kharkiv. Ukraine says it has pushed Russian forces back in parts of Donetsk.\nMr Zelenskyy said the US wants new three-way talks by the end of October, and Ukraine has agreed.",
+    "why": "It shows how hard it is to stop the fighting."
    },
    {
-    "headline": "The US leader says no attack on Iran for now",
-    "body": "The leader of the United States, President Donald Trump, said on 8 October that his country would not attack Iran before elections in November. That day, oil had become dearer because ships had been attacked near the Strait of Hormuz. The price dropped a little after he spoke.\nNews reports said Iran was behind more of the attacks. The November elections are called the midterms. They happen halfway through a president's time in the job. People vote for who will sit in Congress, the group that makes laws in the US.\nHe only talked about the time until the vote. People are still worried about the ships. A storm also hurt oil making in the US.\nIf there was a fight, oil could get much dearer, and that would affect people far away.",
-    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
+    "headline": "Ukraine says Russia broke a promise to stop some attacks",
+    "body": "Ukraine and Russia have been at war for a long time. On 11 October, Ukraine's leader, Volodymyr Zelenskyy, said Russia broke a promise. The promise was to stop attacking places that make power and fuel. The American President, Donald Trump, had asked for this. Ukraine then hit a Russian fuel site too.\nThe fighting went on. At least 33 people died when a Russian attack hit two buses. The people on the buses were not soldiers. One more person died in a different city. Ukraine also pushed some Russian soldiers back in the east.\nMr Zelenskyy said America wants new talks between America, Ukraine and Russia by the end of October. Ukraine said yes. People hope talks will help stop the war.",
+    "why": "It matters because people are still being hurt in the war."
    },
    {
-    "headline": "A promise about a possible fight",
-    "body": "The leader of the United States, President Donald Trump, said that his country would not attack another country, Iran, before big elections in November. Elections are when people vote to choose who will make decisions. He said this on 8 October.\nWhy did people care? Ships carrying oil had been attacked near a narrow stretch of sea, and news reports said Iran was behind more of the attacks. Oil had become dearer. After he spoke, the price fell back a little.\nHe only promised for the time until the vote. People are still worried about the ships.\nIf countries fight, ships can be unsafe and oil can cost much more everywhere.",
-    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
+    "headline": "Ukraine says Russia broke a promise not to attack some places",
+    "body": "Ukraine and Russia are at war. On 11 October, the leader of Ukraine said Russia broke a promise. The promise was to stop attacking places that make power and fuel. An American leader, Donald Trump, had asked for it. Then Ukraine hit a Russian fuel place too. Now each side says the other did wrong.\nPeople were hurt again. Two buses were hit in the east of Ukraine. At least 33 people died. They were ordinary people, not soldiers. This is very sad.\nAmerica has asked for new talks. Leaders from America, Ukraine and Russia would sit down together. Ukraine said yes. Many people hope this will stop the war.",
+    "why": "It matters because people are still being hurt."
    },
    {
-    "headline": "A promise from the leader of America",
-    "body": "The leader of America, President Trump, made a promise on 8 October. He said America would not attack the country of Iran until after some big votes in November. A vote is when people choose who will lead them.\nMany people were listening. Ships that carry oil had been attacked near a narrow sea route. News reports said Iran was behind more of the attacks. Oil had become dearer. After the promise, the price came down a little, like when everyone calms down after a shout.\nThe promise only lasts until the votes.\nIf countries argue and fight, many people can be affected, even far away.",
-    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
+    "headline": "Ukraine says Russia did not keep a promise",
+    "body": "Two countries, Ukraine and Russia, are at war. They are not getting along. A leader said that one side did not keep a promise. The promise was to stop attacking the places that make power and fuel. Power is what makes lights work. Fuel is what makes cars go.\nSadly, ordinary people have been hurt. A big adult from America has asked everyone to talk instead. Leaders from three countries could sit down together. Ukraine said yes.\nTalking is how people try to stop fights. It is a bit like when a teacher asks two children in a quarrel to sit and talk. Lots of people hope it works.",
+    "why": "It matters because people are still in danger."
    },
    {
-    "headline": "When leaders promise not to fight",
-    "body": "Sometimes leaders of countries argue, a bit like children in a playground. The leader of America, President Trump, said on 8 October that America would not start a fight with Iran until after some big votes in November.\nPeople listened closely. Some ships carrying oil had been attacked at sea, and oil had become dearer. When he made his promise, the price came down a little. It was like a teacher saying 'let's all calm down'.\nThe promise only lasts until the votes. Grown-ups are still worried about the ships.\nWhen countries fight, many people can be affected, even those far away.",
-    "why": "A clash with Iran could disrupt shipping and raise energy prices worldwide."
+    "headline": "Ukraine says Russia broke a promise",
+    "body": "Two countries, Ukraine and Russia, are fighting. This is called a war. The leader of one country said the other did not keep a promise. A promise means you say you will do something and then you do it. This one was to stop attacking places that make power and fuel.\nSadly, people have been hurt. Many grown-ups around the world feel very sad about this.\nA leader from America has asked for a talk. People from three countries could sit together. Talking is the best way to sort out a fight. It is like when a teacher helps two friends who have fallen out. Lots of people hope it works.",
+    "why": "It matters because people are still not safe."
    }
   ]
  }
