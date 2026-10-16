@@ -71,8 +71,79 @@
   ]
  },
  {
-  "id": "uk-economy-grows-august",
+  "id": "sp500-up-thursday",
   "order": 2,
+  "topic": "Economy",
+  "region": "United States",
+  "source": "CNBC",
+  "url": "https://cnbc.com/2026/10/15/stock-market-today-live-updates.html",
+  "headline": "S&P 500 rises 0.33% to 7,744.06 on Thursday as Dow gains more than 1%",
+  "terms": [
+   {
+    "term": "S&P 500",
+    "meaning": "An index that tracks the share prices of 500 large US companies."
+   },
+   {
+    "term": "Dow Jones",
+    "meaning": "An index that tracks 30 large US companies."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "S&P 500 rises 0.33% to 7,744.06 on Thursday as Dow gains more than 1%",
+    "body": "The S&P 500 closed at 7,744.06 on Thursday 15 October, up 0.33% on the day. The Dow Jones Industrial Average added 556.21 points, or 1.08%, to end at 52,177.69, while the Nasdaq Composite edged up about 0.08% to 26,713.03.\nThe rise followed a fall of 1.11% on Wednesday, when the S&P 500 ended at 7,718.94 after a hotter-than-expected inflation report. Thursday's gains were broad rather than led by technology. More than half of S&P 500 stocks were above their 200-day moving averages, up from under 40% at the end of September.\nAI-related shares remain under pressure, with chip stocks heading for their worst week since July. In early trading on Friday, the S&P 500 was little changed to slightly lower, so Friday's final result is not yet known.",
+    "why": "The S&P 500 tracks 500 of America's biggest companies, so its moves affect pensions, savings and confidence worldwide."
+   },
+   {
+    "headline": "Wall Street ends higher on Thursday: S&P 500 up 0.33%, Dow up 1.08%",
+    "body": "The S&P 500 finished Thursday 15 October at 7,744.06, a gain of 0.33%. The Dow rose 556.21 points, or 1.08%, to 52,177.69, and the Nasdaq Composite rose about 0.08% to 26,713.03.\nThe day before, the S&P 500 had fallen 1.11% to 7,718.94 after hotter-than-expected inflation data. Thursday's rise was broad, with more than half of S&P 500 shares above their 200-day averages, compared with under 40% at the end of September.\nChip and other AI-related shares are still weak, and early Friday trading showed the S&P 500 roughly flat to slightly down.",
+    "why": "A rise or fall in the S&P 500 reflects how investors feel about the US economy."
+   },
+   {
+    "headline": "US shares rise on Thursday after a fall the day before",
+    "body": "The S&P 500, an index of 500 large US companies, closed Thursday 15 October at 7,744.06. That was up 0.33%. The Dow Jones index rose 1.08% to 52,177.69, and the Nasdaq rose by about 0.08%.\nOn Wednesday, the S&P 500 had dropped 1.11% after an inflation report showed prices rising faster than expected. Thursday's rise was spread across many companies, not only big technology firms.\nShares in AI and chip companies are still struggling this week. Early Friday trading showed the S&P 500 about flat.",
+    "why": "It shows whether investors are confident or worried about the US economy."
+   },
+   {
+    "headline": "S&P 500 up 0.33% on Thursday",
+    "body": "The S&P 500 index of US companies rose 0.33% on Thursday 15 October, closing at 7,744.06. The Dow Jones Industrial Average gained 1.08% to 52,177.69, and the Nasdaq Composite rose about 0.08%.\nThe gain followed a 1.11% fall on Wednesday after inflation data came in hotter than expected. Thursday's rise was broad, with more than half of S&P 500 shares above their 200-day averages.\nTechnology shares linked to AI remain weak, and the S&P 500 was little changed in early trading on Friday.",
+    "why": "Stock markets influence pensions, savings and company investment."
+   },
+   {
+    "headline": "US shares go up on Thursday",
+    "body": "The S&P 500 is a list of 500 big US companies. Its value is a way to see how the stock market is doing. On Thursday 15 October it closed at 7,744.06, which is up 0.33%. Another index, the Dow Jones, went up by more than 1%.\nThe day before, the S&P 500 went down by 1.11%. That was because prices in the US rose faster than experts expected. On Thursday, many different companies did better.\nShares in companies that make computer chips for AI are still doing badly this week.",
+    "why": "Share prices show how confident investors are, and this can affect pensions and savings."
+   },
+   {
+    "headline": "US share prices go up on Thursday",
+    "body": "The stock market is a place where people buy and sell small pieces of companies. These pieces are called shares. The S&P 500 shows how 500 big US companies are doing. On Thursday 15 October it went up by 0.33%.\nThe day before, it went down by more than 1%. That was because prices in the shops were rising faster than people expected.\nCompanies that make computer chips are still having a bad week. On Friday morning, the S&P 500 was about the same as before.",
+    "why": "Share prices can change how much money pensions and savings are worth."
+   },
+   {
+    "headline": "Share prices rise in the US on Thursday",
+    "body": "Companies can sell small pieces of themselves. These pieces are called shares. People buy them hoping they will be worth more later. The S&P 500 is a way of measuring 500 big US companies. On Thursday 15 October, it went up a little, by 0.33%.\nThe day before, it went down by more than 1%. That was because prices in the shops were going up faster than expected.\nCompanies that make chips for computers and AI are still doing badly this week.",
+    "why": "Share prices can affect how much pensions and savings are worth."
+   },
+   {
+    "headline": "Share prices go up a little",
+    "body": "A share is a tiny piece of a company. People buy and sell shares. The S&P 500 shows how the shares of 500 big US companies are doing together. On Thursday 15 October it went up a little.\nThe day before it went down. People were worried because prices in shops were going up quickly.\nCompanies that make computer chips are still having a bad week. On Friday morning not much had changed.",
+    "why": "It shows if people feel safe or worried about money."
+   },
+   {
+    "headline": "The market goes up on Thursday",
+    "body": "A share is a tiny piece of a company. If you own one, you own a tiny bit of the company. The S&P 500 shows how 500 big companies are doing. On Thursday it went up a little bit.\nThe day before it went down. Some people were worried about prices in the shops.\nSome companies that make computer parts are still having a bad week.",
+    "why": "It shows if people feel safe about money."
+   },
+   {
+    "headline": "The score of the shares went up a little",
+    "body": "Imagine all the big companies in America are in a game. A score tells us how they are doing. The score is called the S&P 500. On Thursday the score went up a little bit. The day before, it went down.\nThe score goes up when people feel happy about the companies. It goes down when people feel worried.\nThis week, some companies that make computer parts have been doing badly.",
+    "why": "The score shows if people feel happy or worried about money."
+   }
+  ]
+ },
+ {
+  "id": "uk-economy-grows-august",
+  "order": 3,
   "topic": "Economy",
   "region": "United Kingdom",
   "source": "CNBC",
@@ -143,7 +214,7 @@
  },
  {
   "id": "gilt-yields-near-2007-highs",
-  "order": 3,
+  "order": 4,
   "topic": "Economy",
   "region": "United Kingdom",
   "source": "Trading Economics",
@@ -214,7 +285,7 @@
  },
  {
   "id": "oil-hormuz-brent-106",
-  "order": 4,
+  "order": 5,
   "topic": "Economy",
   "region": "Middle East",
   "source": "CNBC",
@@ -285,7 +356,7 @@
  },
  {
   "id": "us-yields-fed-hike-odds",
-  "order": 5,
+  "order": 6,
   "topic": "Economy",
   "region": "United States",
   "source": "CNBC",
@@ -356,7 +427,7 @@
  },
  {
   "id": "eu-summit-zelenskyy-70bn",
-  "order": 6,
+  "order": 7,
   "topic": "Politics",
   "region": "Europe",
   "source": "Euronews",
@@ -427,7 +498,7 @@
  },
  {
   "id": "us-russia-diesel-deal-eu-reaction",
-  "order": 7,
+  "order": 8,
   "topic": "Politics",
   "region": "Europe",
   "source": "Euronews",
@@ -498,7 +569,7 @@
  },
  {
   "id": "uk-germany-security-partnership",
-  "order": 8,
+  "order": 9,
   "topic": "Politics",
   "region": "Europe",
   "source": "Euronews",
@@ -569,7 +640,7 @@
  },
  {
   "id": "burnham-iran-raf-fairford",
-  "order": 9,
+  "order": 10,
   "topic": "Politics",
   "region": "United Kingdom",
   "source": "CNBC",
@@ -640,7 +711,7 @@
  },
  {
   "id": "china-exports-us-tariff-cuts",
-  "order": 10,
+  "order": 11,
   "topic": "Economy",
   "region": "Asia",
   "source": "CNBC",
@@ -711,7 +782,7 @@
  },
  {
   "id": "uk-inflation-figures-due",
-  "order": 11,
+  "order": 12,
   "topic": "Economy",
   "region": "United Kingdom",
   "source": "Office for National Statistics",
