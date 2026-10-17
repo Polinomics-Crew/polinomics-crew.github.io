@@ -1,853 +1,723 @@
 [
  {
-  "id": "burnham-eu-reset-summit",
-  "order": 1,
-  "topic": "Politics",
-  "region": "United Kingdom",
-  "source": "Euronews",
-  "url": "https://www.euronews.com/2026/10/12/uk-pm-burnham-says-status-quo-with-brussels-not-good-enough-as-he-details-upcoming-eu-summ",
-  "headline": "Burnham says UK-EU 'status quo' is not good enough and sets 20 November summit",
-  "terms": [
-   {
-    "term": "Status quo",
-    "meaning": "The way things currently are."
-   },
-   {
-    "term": "Manifesto",
-    "meaning": "A document where a party sets out what it will do if elected."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Burnham says UK-EU 'status quo' is not good enough and sets 20 November summit",
-    "body": "Prime Minister Andy Burnham told MPs on 12 October that the current relationship with Brussels is \"not good enough\", and said a UK-EU summit will take place on 20 November. It will focus on boosting growth and controlling illegal immigration.\nOther items on the table include a food and drink agreement, linking energy systems, a deal on emissions trading and a youth experience scheme. Conservative leader Kemi Badenoch accused him of \"unpicking\" the withdrawal agreement. Mr Burnham told the BBC it was \"possible\" that a referendum on rejoining the EU could appear in a future election manifesto, and he has ruled out a snap election.\nMr Burnham became the 59th Prime Minister in July, succeeding Sir Keir Starmer. A general election is not currently expected before 2029.",
-    "why": "The UK's ties with the EU shape trade, prices, travel and migration, and the debate is reopening ten years after the Brexit vote."
-   },
-   {
-    "headline": "Burnham calls UK-EU relationship 'not good enough' ahead of 20 November summit",
-    "body": "Andy Burnham told MPs on 12 October that the present arrangement with Brussels is \"not good enough\" and confirmed a UK-EU summit for 20 November. Growth and curbing illegal immigration will be central.\nThe agenda may include food and drink trade, energy links, emissions trading and a youth experience scheme. Kemi Badenoch, the Conservative leader, said the Prime Minister was \"unpicking\" the withdrawal agreement. Mr Burnham has said a referendum on rejoining could be \"possible\" in a future manifesto, but has ruled out a snap election.\nHe took office in July after Sir Keir Starmer, and no general election is expected before 2029.",
-    "why": "Closer EU ties could change trade and migration, and the Conservatives are already opposing him."
-   },
-   {
-    "headline": "PM says UK's current deal with the EU is not good enough",
-    "body": "Prime Minister Andy Burnham said on 12 October that the UK's current arrangement with the EU is \"not good enough\". He told MPs that a summit with the EU will be held on 20 November.\nThe talks will aim to help growth and tackle illegal immigration. Ideas under discussion include easier trade in food and drink, joining up energy systems, a deal on carbon trading and a youth exchange scheme. Conservative leader Kemi Badenoch said he was \"unpicking\" the Brexit deal.\nMr Burnham also said a vote on rejoining the EU might be put in a future manifesto. He has ruled out an early general election.",
-    "why": "Decisions on the EU affect trade, prices and who can live and work in the UK."
-   },
-   {
-    "headline": "Burnham says UK-EU ties need to improve, summit set for 20 November",
-    "body": "Prime Minister Andy Burnham has said the UK's relationship with the European Union is \"not good enough\" as it stands. He told MPs on 12 October that a summit with the EU will take place on 20 November.\nHe wants it to deliver growth and help to control illegal immigration. Possible topics are a food and drink deal, energy links, carbon trading and a youth scheme. Kemi Badenoch, leader of the Conservatives, accused him of undoing the withdrawal agreement.\nMr Burnham said a referendum on rejoining the EU is \"possible\" in a future manifesto, though he has ruled out a snap election.",
-    "why": "It could change how easily goods and people move between the UK and Europe."
-   },
-   {
-    "headline": "The Prime Minister wants better ties with the EU",
-    "body": "Andy Burnham, the Prime Minister, said on 12 October that how things are with the European Union now is \"not good enough\". He told MPs, the people elected to run the country, that there will be a meeting between the UK and the EU on 20 November.\nHe wants it to help the economy grow and to stop people crossing borders illegally. They might also talk about selling food and drink, sharing electricity links, and a scheme for young people. The Conservative leader, Kemi Badenoch, said he was undoing the Brexit deal.\nHe also said that a vote on rejoining the EU could be included in a future plan for an election. He said there will be no early election.",
-    "why": "How close the UK is to the EU affects what we buy, what it costs and who can travel and work here."
-   },
-   {
-    "headline": "Prime Minister wants to improve UK links with the EU",
-    "body": "The Prime Minister, Andy Burnham, says the way the UK works with the European Union is \"not good enough\". He said this to MPs on 12 October. The UK and the EU will meet on 20 November to talk.\nHe wants more jobs and growth, and fewer people arriving without permission. They may talk about food and drink, energy and a youth scheme. Kemi Badenoch, who leads the Conservative party, says he is undoing the deal made when the UK left the EU.\nMr Burnham said a future election plan could include a vote on rejoining the EU. He said he will not call an election early.",
-    "why": "These talks could change prices, trade and travel for people in the UK."
-   },
-   {
-    "headline": "The Prime Minister wants a better deal with Europe",
-    "body": "Britain left the European Union a few years ago. Now the Prime Minister, Andy Burnham, says the deal we have with it is \"not good enough\". He said so on 12 October. The UK and the EU will meet on 20 November.\nHe wants to help the economy grow. He also wants to stop people coming in illegally. They might talk about food, energy and a scheme for young people. Another politician, Kemi Badenoch, says he is undoing the Brexit deal.\nHe said a vote on rejoining might one day be in his party's plan. But he said there will be no election soon.",
-    "why": "It could change what things cost and how people travel and work between countries."
-   },
-   {
-    "headline": "The Prime Minister wants to be closer friends with Europe",
-    "body": "The UK used to be part of a group of countries called the European Union. It left. Now the Prime Minister, Andy Burnham, says the way we work with them is not good enough. The UK and the EU will meet on 20 November.\nHe wants to help the country make more money. He also wants to stop people from coming in the wrong way. They may talk about food, power lines, and a plan for young people. Another leader says he is undoing the leaving deal.\nHe says a vote on joining again could be a plan for later. He will not have an election soon.",
-    "why": "It could change what we buy and how we travel."
-   },
-   {
-    "headline": "The Prime Minister wants to work more closely with Europe",
-    "body": "The UK left the European Union a few years ago. Now the Prime Minister, Andy Burnham, says the way we get on with it is not good enough. They will meet on 20 November.\nHe wants to help the country grow. He also wants to stop people coming in the wrong way.\nSome politicians do not like this. He says there will be no early election.",
-    "why": "It could change what we buy and how we travel."
-   },
-   {
-    "headline": "Britain's leader wants to work better with Europe",
-    "body": "Our country used to be in a club with lots of other countries in Europe. It left the club. Now the Prime Minister, Andy Burnham, thinks the way we get on with the club is not good enough. They are going to meet on 20 November.\nHe wants to make it easier to sell things to each other, like food and drink. He wants help to stop people sneaking in. Some people do not like this, and one leader says he is breaking the old promise.\nHe says one day people might vote on joining again. But that will not be soon.",
-    "why": "It could change what is in the shops and where you can go on holiday."
-   }
-  ]
- },
- {
-  "id": "sp500-up-thursday",
-  "order": 2,
-  "topic": "Economy",
-  "region": "United States",
-  "source": "CNBC",
-  "url": "https://cnbc.com/2026/10/15/stock-market-today-live-updates.html",
-  "headline": "S&P 500 rises 0.33% to 7,744.06 on Thursday as Dow gains more than 1%",
-  "terms": [
-   {
-    "term": "S&P 500",
-    "meaning": "An index that tracks the share prices of 500 large US companies."
-   },
-   {
-    "term": "Dow Jones",
-    "meaning": "An index that tracks 30 large US companies."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "S&P 500 rises 0.33% to 7,744.06 on Thursday as Dow gains more than 1%",
-    "body": "The S&P 500 closed at 7,744.06 on Thursday 15 October, up 0.33% on the day. The Dow Jones Industrial Average added 556.21 points, or 1.08%, to end at 52,177.69, while the Nasdaq Composite edged up about 0.08% to 26,713.03.\nThe rise followed a fall of 1.11% on Wednesday, when the S&P 500 ended at 7,718.94 after a hotter-than-expected inflation report. Thursday's gains were broad rather than led by technology. More than half of S&P 500 stocks were above their 200-day moving averages, up from under 40% at the end of September.\nAI-related shares remain under pressure, with chip stocks heading for their worst week since July. In early trading on Friday, the S&P 500 was little changed to slightly lower, so Friday's final result is not yet known.",
-    "why": "The S&P 500 tracks 500 of America's biggest companies, so its moves affect pensions, savings and confidence worldwide."
-   },
-   {
-    "headline": "Wall Street ends higher on Thursday: S&P 500 up 0.33%, Dow up 1.08%",
-    "body": "The S&P 500 finished Thursday 15 October at 7,744.06, a gain of 0.33%. The Dow rose 556.21 points, or 1.08%, to 52,177.69, and the Nasdaq Composite rose about 0.08% to 26,713.03.\nThe day before, the S&P 500 had fallen 1.11% to 7,718.94 after hotter-than-expected inflation data. Thursday's rise was broad, with more than half of S&P 500 shares above their 200-day averages, compared with under 40% at the end of September.\nChip and other AI-related shares are still weak, and early Friday trading showed the S&P 500 roughly flat to slightly down.",
-    "why": "A rise or fall in the S&P 500 reflects how investors feel about the US economy."
-   },
-   {
-    "headline": "US shares rise on Thursday after a fall the day before",
-    "body": "The S&P 500, an index of 500 large US companies, closed Thursday 15 October at 7,744.06. That was up 0.33%. The Dow Jones index rose 1.08% to 52,177.69, and the Nasdaq rose by about 0.08%.\nOn Wednesday, the S&P 500 had dropped 1.11% after an inflation report showed prices rising faster than expected. Thursday's rise was spread across many companies, not only big technology firms.\nShares in AI and chip companies are still struggling this week. Early Friday trading showed the S&P 500 about flat.",
-    "why": "It shows whether investors are confident or worried about the US economy."
-   },
-   {
-    "headline": "S&P 500 up 0.33% on Thursday",
-    "body": "The S&P 500 index of US companies rose 0.33% on Thursday 15 October, closing at 7,744.06. The Dow Jones Industrial Average gained 1.08% to 52,177.69, and the Nasdaq Composite rose about 0.08%.\nThe gain followed a 1.11% fall on Wednesday after inflation data came in hotter than expected. Thursday's rise was broad, with more than half of S&P 500 shares above their 200-day averages.\nTechnology shares linked to AI remain weak, and the S&P 500 was little changed in early trading on Friday.",
-    "why": "Stock markets influence pensions, savings and company investment."
-   },
-   {
-    "headline": "US shares go up on Thursday",
-    "body": "The S&P 500 is a list of 500 big US companies. Its value is a way to see how the stock market is doing. On Thursday 15 October it closed at 7,744.06, which is up 0.33%. Another index, the Dow Jones, went up by more than 1%.\nThe day before, the S&P 500 went down by 1.11%. That was because prices in the US rose faster than experts expected. On Thursday, many different companies did better.\nShares in companies that make computer chips for AI are still doing badly this week.",
-    "why": "Share prices show how confident investors are, and this can affect pensions and savings."
-   },
-   {
-    "headline": "US share prices go up on Thursday",
-    "body": "The stock market is a place where people buy and sell small pieces of companies. These pieces are called shares. The S&P 500 shows how 500 big US companies are doing. On Thursday 15 October it went up by 0.33%.\nThe day before, it went down by more than 1%. That was because prices in the shops were rising faster than people expected.\nCompanies that make computer chips are still having a bad week. On Friday morning, the S&P 500 was about the same as before.",
-    "why": "Share prices can change how much money pensions and savings are worth."
-   },
-   {
-    "headline": "Share prices rise in the US on Thursday",
-    "body": "Companies can sell small pieces of themselves. These pieces are called shares. People buy them hoping they will be worth more later. The S&P 500 is a way of measuring 500 big US companies. On Thursday 15 October, it went up a little, by 0.33%.\nThe day before, it went down by more than 1%. That was because prices in the shops were going up faster than expected.\nCompanies that make chips for computers and AI are still doing badly this week.",
-    "why": "Share prices can affect how much pensions and savings are worth."
-   },
-   {
-    "headline": "Share prices go up a little",
-    "body": "A share is a tiny piece of a company. People buy and sell shares. The S&P 500 shows how the shares of 500 big US companies are doing together. On Thursday 15 October it went up a little.\nThe day before it went down. People were worried because prices in shops were going up quickly.\nCompanies that make computer chips are still having a bad week. On Friday morning not much had changed.",
-    "why": "It shows if people feel safe or worried about money."
-   },
-   {
-    "headline": "The market goes up on Thursday",
-    "body": "A share is a tiny piece of a company. If you own one, you own a tiny bit of the company. The S&P 500 shows how 500 big companies are doing. On Thursday it went up a little bit.\nThe day before it went down. Some people were worried about prices in the shops.\nSome companies that make computer parts are still having a bad week.",
-    "why": "It shows if people feel safe about money."
-   },
-   {
-    "headline": "The score of the shares went up a little",
-    "body": "Imagine all the big companies in America are in a game. A score tells us how they are doing. The score is called the S&P 500. On Thursday the score went up a little bit. The day before, it went down.\nThe score goes up when people feel happy about the companies. It goes down when people feel worried.\nThis week, some companies that make computer parts have been doing badly.",
-    "why": "The score shows if people feel happy or worried about money."
-   }
-  ]
- },
- {
   "id": "uk-economy-grows-august",
-  "order": 3,
+  "order": 1,
   "topic": "Economy",
   "region": "United Kingdom",
   "source": "CNBC",
   "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
-  "headline": "UK economy grows 0.1% in August, beating expectations",
+  "headline": "UK economy grows 0.1% in August, beating forecasts of a contraction",
   "terms": [
    {
     "term": "GDP",
-    "meaning": "The total value of everything a country produces in a given period."
+    "meaning": "The total value of goods and services produced in a country; the main measure of the size of the economy."
    },
    {
-    "term": "Gilts",
-    "meaning": "Bonds issued by the UK government to borrow money."
+    "term": "Fiscal headroom",
+    "meaning": "The gap between what the government plans to borrow and the limit its own rules allow."
    }
   ],
   "levels": [
    {
-    "headline": "UK economy grows 0.1% in August, beating expectations",
-    "body": "The UK economy grew by 0.1% in August, more than economists had expected, the Office for National Statistics (ONS) said on Thursday 15 October. Production output rose by 0.8%, services showed no growth and construction fell by 0.2%.\nMarkets reacted at once. The pound rose about 0.4% against the US dollar, while yields on UK government bonds, known as gilts, fell across the curve as investors judged the figures a little less worrying for the public finances. The ONS also said growth in the second quarter had been revised up.\nThe picture is mixed. One economist quoted by CNBC pointed out that HMRC payroll data show about 95,000 fewer jobs over the first eight months of the year, even as output has grown. Growth is modest, and it arrives while energy prices and borrowing costs remain high.",
-    "why": "It shows the economy is still expanding slowly, which affects jobs, tax receipts and interest rates."
+    "headline": "UK economy grows 0.1% in August, beating forecasts of a contraction",
+    "body": "The UK economy grew by 0.1% in August, according to the Office for National Statistics (ONS), beating forecasts that output would shrink. It followed a 0.4% rise in July, so growth slowed from one month to the next.\nOn an annual basis GDP was 2.1% higher than a year earlier, ahead of the 1.7% economists expected. The ONS said this was the strongest year-on-year reading since August 2022.\nThe picture is mixed. Consumer spending fell during the month, and analysts expect inflation to rise towards the end of the year as higher oil and gas prices reach household bills. Nearly three-quarters of businesses (72%) reported some concern about energy prices in late September.\nThe figures matter for the Budget on 28 October, Chancellor John Healey's first. Slower growth tends to reduce tax revenue and so narrows the fiscal headroom he has to work with.",
+    "why": "Growth beat expectations, but the Chancellor still faces a tight Budget on 28 October."
    },
    {
-    "headline": "UK economy edges up 0.1% in August, ahead of forecasts",
-    "body": "Output in the UK economy rose by 0.1% in August, ahead of what forecasters had predicted, according to figures from the ONS on 15 October. Factories, mines and energy producers did well, with production up 0.8%, but services were flat and construction shrank by 0.2%.\nThe pound gained around 0.4% against the dollar after the release, and the interest rate the government pays on its bonds, the gilt yield, dipped. Growth for the April to June quarter was also revised higher.\nEconomists warned that the numbers do not tell the whole story. Payroll records held by HMRC suggest roughly 95,000 fewer jobs so far this year, which sits oddly with rising output. The recovery is real but thin.",
-    "why": "Small gains in output matter because they shape tax income, hiring and the Bank of England's next move."
+    "headline": "UK economy edges up 0.1% in August, beating expectations of a fall",
+    "body": "UK gross domestic product rose 0.1% in August, the ONS said, confounding forecasts of a contraction. July's increase had been a stronger 0.4%, so the monthly pace cooled.\nOver twelve months GDP grew 2.1%, comfortably above the 1.7% economists predicted and the highest annual rate since August 2022.\nThe detail is less cheerful. Household spending fell, and analysts expect inflation to climb later this year as higher oil and gas prices feed through to energy bills. A survey found 72% of businesses were at least somewhat worried about energy costs in late September.\nChancellor John Healey delivers his first Budget on 28 October. A slowing economy tends to bring in less tax, which squeezes the fiscal headroom, the margin by which he can spend more or cut taxes while still meeting the government's own borrowing rules.",
+    "why": "Weaker growth gives the Chancellor less room for manoeuvre in his Budget."
    },
    {
-    "headline": "UK economy grew slightly in August, official figures show",
-    "body": "The UK economy grew by 0.1% in August, a little better than experts expected, the Office for National Statistics reported on 15 October. Production was up 0.8%, services did not grow at all, and building work fell by 0.2%.\nFinancial markets liked the news. The pound strengthened by about 0.4% against the US dollar, and the cost of government borrowing eased slightly. Growth earlier in the summer was also revised upwards.\nNot everyone is cheerful. An economist told CNBC that tax records show about 95,000 fewer people in paid work over the first eight months of the year. So output is up, but fewer jobs are being counted.",
-    "why": "It tells us whether the economy is getting stronger, which affects pay, jobs and prices."
+    "headline": "UK economy grows slightly in August, more than expected",
+    "body": "The UK economy grew by 0.1% in August, the Office for National Statistics reported. Economists had expected it to shrink slightly, so the result was better than predicted. In July, the economy had grown by 0.4%.\nCompared with a year earlier, the economy was 2.1% bigger. That was higher than the 1.7% forecast and the best annual figure since August 2022.\nHowever, people spent less in the shops and elsewhere, and experts think prices will start to rise faster again as oil and gas get more expensive. Most businesses, 72% in one survey, say they are worried about energy prices.\nThis matters because the Chancellor, John Healey, will set out his first Budget on 28 October. When growth is weak, the government collects less tax, leaving less room to spend or cut taxes.",
+    "why": "The figures will shape how much the Chancellor can offer in his Budget."
    },
    {
-    "headline": "UK economy grows by 0.1% in August",
-    "body": "The UK economy grew by 0.1% in August, beating forecasts, official figures showed on Thursday. The Office for National Statistics said production rose 0.8%, services stood still and construction fell 0.2%.\nThe pound rose about 0.4% against the dollar and government bond yields fell. The ONS also raised its estimate of growth for the second quarter of the year.\nHowever, data from HMRC suggest around 95,000 fewer jobs over the first eight months of 2026, a reminder that growth has not yet brought more work. The economy is moving forward, but only slowly.",
-    "why": "Slow growth limits how much the government and households can spend."
+    "headline": "UK economy grew a little in August, beating forecasts",
+    "body": "The UK economy grew by 0.1% in August, official figures show. Experts had thought it would shrink, so this was a pleasant surprise. The month before, growth had been 0.4%.\nOver the past year the economy has grown by 2.1%. That is better than the 1.7% experts predicted, and it is the best yearly figure for more than four years.\nBut there are worries. People spent less money last month, and prices are expected to rise faster by the end of the year because oil and gas cost more. In a recent survey, nearly three in four firms said they were concerned about energy bills.\nThe Chancellor, John Healey, will deliver his first Budget on 28 October. Slower growth means less tax money coming in, which could make his decisions harder.",
+    "why": "A weaker economy can make it harder for the government to spend or cut taxes."
    },
    {
-    "headline": "UK economy grows a little in August, better than expected",
-    "body": "The UK economy, which means everything the country makes and sells, grew by 0.1% in August. That was a bit better than experts had guessed. The figures came from the Office for National Statistics on 15 October.\nFactories and energy firms produced 0.8% more. Shops, banks and other services did not grow, and building work fell by 0.2%. The pound rose against the dollar, and the interest the government pays on its borrowing went down.\nOne expert noted that tax records show about 95,000 fewer jobs this year. So while the economy grew, work has not grown with it.",
-    "why": "A growing economy usually means more jobs and money, but this growth is very small."
+    "headline": "The UK economy grew slightly in August, which surprised experts",
+    "body": "The UK economy grew by 0.1% in August. This was a small rise, but experts had expected a small fall, so it was good news. GDP, the measure of everything the country makes and sells, had risen by 0.4% in July.\nCompared with last year, the economy is 2.1% bigger. That is the best yearly growth since August 2022.\nThere is still some worry. Shoppers spent less, and energy costs are going up, which is likely to push prices higher later this year. Many businesses told researchers they are anxious about their gas and electricity bills.\nThe Chancellor, John Healey, will announce his Budget on 28 October. The Budget is when the government says how it will raise and spend money. With slower growth, it has less spare money, which experts call fiscal headroom.",
+    "why": "Growth affects how much money the government has to spend on public services."
    },
    {
-    "headline": "The UK economy grew a little bit in August",
-    "body": "The UK economy grew by a tiny amount in August, 0.1%. That is a little more than experts expected. The economy is all the things people make and sell in the country, and the official number counters said it grew.\nThings made in factories went up by 0.8%. Services like shops and banks did not grow. Building work went down by 0.2%. The pound became a bit stronger against the US dollar.\nTax records also show about 95,000 fewer jobs than at the start of the year. So the economy is growing slowly, but not everyone is feeling it yet.",
-    "why": "It helps show whether people are likely to find work and whether prices and pay will rise."
+    "headline": "The UK economy grew a bit in August",
+    "body": "The UK economy grew by 0.1% in August. That is a very small rise. But experts thought the economy would shrink, so many people were pleased. The economy is often measured by GDP, which means the total value of all the things made and services sold in the country.\nOver the last year, the economy has grown by 2.1%. This is the best year-on-year result since 2022.\nHowever, people spent less money last month. Oil and gas are getting more expensive too. That means prices in shops and energy bills may go up again soon. Lots of businesses say this worries them.\nOn 28 October the Chancellor, John Healey, will explain how the government plans to use money. If the economy grows slowly, the government gets less tax and has less to spend.",
+    "why": "Slow growth can mean less money for public services or higher taxes."
    },
    {
-    "headline": "UK economy grows slightly in August",
-    "body": "The UK economy grew by a very small amount in August. It grew by 0.1%, which was more than experts thought. The economy means all the goods and services made in the country.\nFactories made more, but shops, banks and other services did not grow. Builders did less work. The pound got a little stronger against the dollar, which makes things bought from abroad slightly cheaper.\nTax records show about 95,000 fewer jobs this year. That means the economy is growing, but only slowly, and fewer people are in paid work.",
-    "why": "It shows how well the country is doing with money and jobs."
+    "headline": "Britain's economy grew a tiny bit last month",
+    "body": "Britain's economy grew a tiny bit in August. It went up by 0.1%. Experts had guessed it would go down, so this was a nice surprise. The economy means all the things people make, buy and sell in a country.\nLooking back over a whole year, the economy is 2.1% bigger. That is the best result for over four years.\nBut people bought less in August. Oil and gas also cost more now. That can make bills and prices rise. Many businesses are worried about this.\nSoon the Chancellor will share a plan called the Budget. He is the person in charge of the country's money. His name is John Healey. When the economy grows slowly, the government collects less tax. Then it has less money to spend on things like hospitals and schools.",
+    "why": "It helps decide whether the government can pay for services without raising taxes."
    },
    {
-    "headline": "The UK economy grew a tiny bit in August",
-    "body": "The UK economy grew a tiny bit in August. The economy is all the things that people in the country make, build and sell. It grew by 0.1%. That is one tenth of one percent. Experts thought it might grow less.\nFactories and energy firms made more. Shops and banks did not make more. Builders did less work. The pound, which is our money, got a little stronger against the American dollar.\nThere are about 95,000 fewer jobs than before. So the economy is growing slowly. Many people may not feel any change.",
-    "why": "When the economy grows, there can be more jobs and money for everyone."
+    "headline": "Britain made and sold a bit more last month than expected",
+    "body": "Last month, Britain made and sold a little more than the month before. The amount went up by 0.1%. We call this the economy. It means all the work people do and all the things they buy and sell.\nGrown-ups who study money had thought the economy would get a little smaller. So this news was better than they hoped. Over the whole year, the economy has grown by 2.1%.\nBut people bought fewer things in shops last month. And oil and gas are getting dearer, so bills might go up. Lots of shops and firms feel nervous about that.\nThe person who looks after the country's money is called the Chancellor. He will share a big plan on 28 October. If the country earns less, there is less to share out.",
+    "why": "It affects how much money there is for schools, hospitals and your family's bills."
    },
    {
-    "headline": "The UK made a little more stuff in August",
-    "body": "Every month, people count how much stuff our country makes and sells. This is called the economy. In August it grew a tiny bit. It was only a little more than the month before.\nFactories made more things. Shops and banks stayed the same. Builders did less building. Our money, the pound, became a bit stronger next to American money.\nSome people lost their jobs this year. About 95,000 fewer people have jobs than before. So the country is growing, but very slowly.",
-    "why": "It tells us if people will have enough work and money."
+    "headline": "Britain's money-making grew a little bit last month",
+    "body": "Last month, Britain's economy grew by a tiny amount, just 0.1%. The economy is all the things that people and businesses make, sell and buy. Grown-ups who study money had thought it would shrink, so this was a happy surprise.\nIf you look at a whole year, Britain is making and selling 2.1% more than it did before. That has not happened this quickly for over four years.\nBut shoppers spent less last month. Oil and gas also cost more, which can make heating bills and food go up in price. Many businesses are worried about it.\nSoon, the Chancellor, who is in charge of the country's money, will share his plan. It is called the Budget. When the economy is slow, the government gets less tax, so it has less money to spend.",
+    "why": "It affects how much money the government has for schools, hospitals and bills."
    },
    {
-    "headline": "Our country made a tiny bit more in August",
-    "body": "Think of the whole country as one big shop and factory. Everyone makes things and sells things. Each month, grown-ups count how much was made. In August, a little bit more was made than before.\nThe factories did well. The shops and banks did about the same as before. The builders did a bit less. The pound, which is the money we use, got a little stronger.\nBut there are fewer jobs than there were. That is a worry. The country is growing like a small plant that is only just getting taller.",
-    "why": "It helps show whether the grown-ups around you will have jobs and money."
+    "headline": "Britain's pocket money pot grew a tiny bit",
+    "body": "Think of Britain as a big family with a pot of money. Everyone earns some money by working and spends some money in shops. Last month, the pot grew just a tiny bit. It was only a very small growth, but the grown-ups had expected it to shrink.\nOver one whole year, the pot has grown by a bit more. That is good news.\nBut there is a worry. Oil and gas, which keep our homes warm, are costing more. That is like your favourite sweets going up in price. Then people cannot buy as much with the same pocket money.\nSoon, the person in charge of the country's money, called the Chancellor, will make a plan for how to share the pot. A smaller pot means harder choices.",
+    "why": "When the money pot is small, it is harder to pay for things like schools."
    }
   ]
  },
  {
-  "id": "gilt-yields-near-2007-highs",
-  "order": 4,
-  "topic": "Economy",
-  "region": "United Kingdom",
-  "source": "Trading Economics",
-  "url": "https://tradingeconomics.com/united-kingdom/government-bond-yield",
-  "headline": "UK borrowing costs stay near highest since 2007 as markets price in rate rises",
-  "terms": [
-   {
-    "term": "Gilt yield",
-    "meaning": "The annual return investors get from a UK government bond; it rises when the price of the bond falls."
-   },
-   {
-    "term": "Bank Rate",
-    "meaning": "The interest rate set by the Bank of England, which affects loans and savings."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "UK borrowing costs stay near highest since 2007 as markets price in rate rises",
-    "body": "The yield on UK 10-year government bonds, known as gilts, stood at around 5.3% to 5.4% in mid-October, close to its highest level since 2007. One source put it at 5.38% on 15 October. Yields fell after better-than-expected August growth figures, but remain elevated.\nTraders blame energy prices linked to the Iran conflict and expectations that the Bank of England will raise interest rates. Bank Rate is currently 3.75%, and markets are fully pricing in a rise by the end of the year. The Bank's chief economist, Huw Pill, has been sceptical of market pricing that implies four increases over the coming year.\nHigher gilt yields mean it costs the government more to borrow, which adds pressure on the public finances. The Bank's next rate decision is due on 5 November.",
-    "why": "High gilt yields raise the government's borrowing costs and feed into mortgage and loan rates."
-   },
-   {
-    "headline": "Gilt yields stay close to 2007 highs as Bank of England hike bets build",
-    "body": "UK 10-year gilt yields were around 5.3% to 5.4% in mid-October, near levels last seen in 2007. They eased slightly on 15 October after stronger growth data, but the broad picture is one of expensive borrowing.\nEnergy prices tied to the Iran conflict are a key driver, along with bets that the Bank of England will lift Bank Rate from 3.75%. Markets are fully pricing a rise by year end. Chief economist Huw Pill has questioned the market's expectation of four rises over the next year.\nThe higher yields cost the Treasury more when it borrows and tighten the room it has for spending. The next Bank decision falls on 5 November.",
-    "why": "The cost of government debt affects taxes, spending plans and what households pay on mortgages."
-   },
-   {
-    "headline": "UK government borrowing costs remain near 19-year highs",
-    "body": "The interest rate on UK 10-year government bonds, called the gilt yield, was between 5.3% and 5.4% in mid-October. That is close to the highest since 2007. It dipped a little after good growth figures on 15 October.\nTwo things are pushing it up. Energy prices have risen because of the conflict involving Iran, and investors expect the Bank of England to raise its rate from the current 3.75%. Markets expect at least one increase by the end of the year, though the Bank's chief economist, Huw Pill, doubts there will be as many as four.\nWhen yields are high, the government pays more to borrow, and lenders often raise mortgage rates too. The Bank next decides on 5 November.",
-    "why": "Higher borrowing costs for the government can lead to higher costs for families and firms."
-   },
-   {
-    "headline": "UK gilt yields stay near highest since 2007",
-    "body": "UK government bond yields remained near their highest since 2007 in mid-October, with the 10-year gilt at roughly 5.3% to 5.4%. They fell slightly after better growth data on 15 October.\nThe causes are higher energy prices linked to the Iran conflict and expectations of Bank of England rate rises. Bank Rate is 3.75%, and traders fully expect an increase before the year is out. Bank chief economist Huw Pill has doubted the market view that there will be four rises in a year.\nThe higher yields raise the cost of government borrowing and limit what the Treasury can afford. The next Bank decision is on 5 November.",
-    "why": "Government borrowing costs shape tax and spending choices and affect mortgage rates."
-   },
-   {
-    "headline": "The cost of UK government borrowing is close to a 19-year high",
-    "body": "When the UK government needs money, it sells bonds called gilts. Investors who buy them get paid interest, and the rate is called the yield. In mid-October the yield on 10-year gilts was about 5.3% to 5.4%, the highest in almost two decades.\nEnergy prices are up because of the conflict involving Iran, and many investors think the Bank of England will raise interest rates from 3.75%. When investors expect higher rates, they ask for higher yields. One Bank official thinks they may be expecting too many rises.\nA high yield means the government pays more to borrow. It can also push up mortgage rates for families. The Bank will decide on rates again on 5 November.",
-    "why": "It affects how much the government can spend and what families pay on loans."
-   },
-   {
-    "headline": "It costs the UK government a lot to borrow money right now",
-    "body": "The government sometimes borrows money by selling bonds called gilts. It pays interest on them. In October the interest rate on the main type of gilt was about 5.3% to 5.4%. That is the highest for nearly twenty years.\nOne reason is that energy prices have gone up because of the fighting involving Iran. Another is that people think the Bank of England will make interest rates go up. The rate is now 3.75%. The Bank decides again on 5 November.\nWhen the government pays more interest, it has less left for schools and hospitals. Banks may also charge more for mortgages, which are loans for buying a home.",
-    "why": "It can mean less money for public services and dearer loans for families."
-   },
-   {
-    "headline": "UK government borrowing is the most expensive in years",
-    "body": "Sometimes the government needs more money than it has. It borrows by selling bonds. The people who buy them are paid interest. Right now that interest is about 5.3% to 5.4% a year. That is the highest since 2007.\nEnergy, like oil and gas, has become more expensive because of fighting in the Middle East. People also think the Bank of England will raise its interest rate from 3.75%. This makes lenders ask for more.\nIf the government pays more interest, there is less money for other things. Families can pay more for home loans too. The Bank will decide on 5 November.",
-    "why": "It can make loans dearer and leave less money for things we all use."
-   },
-   {
-    "headline": "The government has to pay more to borrow money",
-    "body": "A government can borrow money, just like a person can. It does this by selling things called bonds. It has to pay extra money, called interest, to the people who buy them. Right now the interest is very high. It is the highest for almost 20 years.\nOil and gas cost more because of fighting far away. Many people also think the Bank of England will make its rate go up. So lenders ask for more money back.\nWhen the government pays more interest, there is less left for schools and hospitals. Mortgages, the loans for homes, can cost more too.",
-    "why": "It can mean less money for schools and hospitals and bigger bills for families."
-   },
-   {
-    "headline": "Borrowing is costly for the country",
-    "body": "The government sometimes needs to borrow money. It pays extra to the people who lend it. This extra is called interest. Right now the interest is very high. It is the highest for nearly twenty years.\nOil and gas cost more because of fighting far away. People also think the Bank of England will make its interest rate go up. So lenders ask for more.\nThis means the government has less money left over for things like schools.",
-    "why": "It can leave less money for schools and make loans cost more."
-   },
-   {
-    "headline": "Borrowing money is getting pricier for the country",
-    "body": "Imagine you borrow some pocket money from a friend. You promise to give back a little extra. The more the friend worries, the more extra they ask for. Countries borrow too, and they pay extra called interest.\nRight now our country has to pay a lot of extra. It is the most in nearly twenty years. Oil and gas cost more because of a war far away, and people think the Bank of England will raise its rate.\nWhen the country pays more extra, there is less money to spend on things like schools. Grown-ups might pay more on loans for houses too.",
-    "why": "It affects how much money is left for things like schools and how much families pay for loans."
-   }
-  ]
- },
- {
-  "id": "oil-hormuz-brent-106",
-  "order": 5,
-  "topic": "Economy",
-  "region": "Middle East",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/10/15/oil-prices-today-brent-wti.html",
-  "headline": "Brent settles at $105.92 as attacks on ships in the Strait of Hormuz keep oil high",
-  "terms": [
-   {
-    "term": "Brent",
-    "meaning": "The main international benchmark price for crude oil."
-   },
-   {
-    "term": "Strait of Hormuz",
-    "meaning": "A narrow waterway between Iran and Oman through which a large share of the world's oil passes."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Brent settles at $105.92 as attacks on ships in the Strait of Hormuz keep oil high",
-    "body": "Brent crude for December delivery settled at $105.92 a barrel on 15 October, down 14 cents. US West Texas Intermediate futures for November rose about 3%, or $2.88, to close at $97.97, as traders assessed possible supply disruption after attacks on ships in the Strait of Hormuz.\nOn 14 October Brent briefly passed $107 after Iran reportedly attacked two vessels using new tactics. One report said about 9.5 million barrels a day left Hormuz in the week to Tuesday, roughly 30% below normal levels before the Iran war, according to Kpler data. Analysts said a lack of progress in US-Iran diplomacy leaves little immediate prospect of the waterway fully reopening.\nOther pressures include a hurricane shut-in in the Gulf of Mexico and Houthi attacks on Saudi targets.",
-    "why": "Oil near $100 raises fuel and energy costs and feeds inflation around the world."
-   },
-   {
-    "headline": "Oil stays above $105 as Hormuz shipping attacks continue",
-    "body": "Brent crude for December delivery closed at $105.92 a barrel on 15 October, 14 cents lower. US benchmark WTI for November rose about 3% to $97.97 as traders weighed risks to supply after attacks on ships in the Strait of Hormuz.\nBrent briefly topped $107 on 14 October after Iran reportedly attacked two vessels. Kpler data suggest about 9.5 million barrels a day left Hormuz in the week to Tuesday, around 30% below the level before the Iran war. Analysts say little progress in US-Iran talks means a full reopening is unlikely soon.\nA hurricane shut-in in the Gulf of Mexico and Houthi attacks on Saudi targets add to the risk.",
-    "why": "Expensive oil pushes up prices for petrol, flights and goods."
-   },
-   {
-    "headline": "Oil prices stay high after attacks on ships in the Strait of Hormuz",
-    "body": "Brent crude, the global oil benchmark, ended 15 October at $105.92 a barrel, 14 cents down. The US benchmark, WTI, rose about 3% to $97.97. Traders were reacting to attacks on ships in the Strait of Hormuz.\nOn 14 October Brent briefly went above $107 after Iran reportedly attacked two vessels. Data from Kpler show that about 9.5 million barrels a day left Hormuz in the latest week. That is about 30% less than before the Iran war. Analysts say US-Iran talks have made little progress.\nA hurricane in the Gulf of Mexico and attacks on Saudi targets by the Houthis also matter.",
-    "why": "High oil prices make it more costly to run homes, cars and businesses."
-   },
-   {
-    "headline": "Oil stays above $100 as Hormuz attacks continue",
-    "body": "Brent crude, the main global oil price, settled at $105.92 a barrel on 15 October. US crude, WTI, rose about 3% to $97.97. Attacks on ships in the Strait of Hormuz are making traders worry about supplies.\nBrent briefly passed $107 on 14 October after reports that Iran attacked two vessels. About 9.5 million barrels a day left Hormuz in the past week, around 30% below the level before the Iran war, according to Kpler. Analysts say talks between the US and Iran have not made enough progress to reopen the waterway fully.\nA hurricane in the Gulf of Mexico and Houthi attacks on Saudi sites add more risk.",
-    "why": "Oil prices affect fuel bills, transport costs and inflation."
-   },
-   {
-    "headline": "Oil prices stay very high because of attacks on ships",
-    "body": "Oil is bought and sold all over the world. The main price, called Brent, ended 15 October at $105.92 a barrel. A barrel is a big container of oil. In the US, the price rose about 3% to $97.97. People are worried about attacks on ships in the Strait of Hormuz, a narrow sea route.\nOn 14 October the price briefly went over $107. About 30% less oil is passing through the route than before the war with Iran. Talks between the US and Iran have not made much progress.\nA storm in the Gulf of Mexico and attacks on Saudi places make it worse.",
-    "why": "When oil costs more, petrol and many other things can cost more too."
-   },
-   {
-    "headline": "Oil costs a lot because ships are being attacked",
-    "body": "Oil is the liquid used to make petrol and many other things. It is sold by the barrel. On 15 October the main oil price ended at $105.92 a barrel. That is very high. Ships have been attacked in a narrow sea route called the Strait of Hormuz.\nAbout one third less oil than before is getting through that route. Talks between the US and Iran have not helped much.\nA storm in the Gulf of Mexico and attacks on Saudi places have made people even more worried. When people worry, prices go up.",
-    "why": "It can make petrol, travel and food cost more."
-   },
-   {
-    "headline": "Oil is very expensive because of attacks on ships",
-    "body": "Oil is used to make petrol and diesel. It is sold by the barrel. On 15 October one barrel cost $105.92. That is a lot. Ships have been attacked in a narrow sea route called the Strait of Hormuz. Lots of the world's oil goes through it.\nNow about one third less oil gets through. The talks to end the fighting have not worked yet. A storm and other attacks make people more worried.\nWhen there is less oil, it costs more.",
-    "why": "It can make petrol and many other things cost more."
-   },
-   {
-    "headline": "Oil is costing a lot of money",
-    "body": "Oil is the stuff used to make petrol for cars and lorries. It comes from far away on ships. Right now oil costs a lot. Some ships have been attacked on a narrow sea path. That makes people afraid to send oil.\nWhen there is less oil, people pay more for it. On 15 October a barrel of oil cost about $106.\nThat can make petrol, flights and many things in shops cost more.",
-    "why": "It can make things in shops cost more."
-   },
-   {
-    "headline": "Oil costs a lot because ships are attacked",
-    "body": "Oil is used to make petrol. It comes on ships, and a lot of it goes through a narrow sea path called the Strait of Hormuz. Some ships there have been attacked.\nOn 15 October one barrel of oil cost about $106. A barrel is a big container.\nWhen there is less oil to buy, it costs more. Then petrol and other things can cost more too.",
-    "why": "It can make things in shops cost more."
-   },
-   {
-    "headline": "Oil is costing a lot because ships are in danger",
-    "body": "Imagine there is only one road to the sweet shop, and some people are stopping the delivery lorries. Fewer sweets reach the shop. So the sweets cost more.\nOil is like that. Lots of it travels on ships through a narrow sea path. Some ships have been attacked, so less oil gets through.\nOil costs a lot now. It can make petrol and many other things cost more.",
-    "why": "When something is hard to get, it costs more."
-   }
-  ]
- },
- {
-  "id": "us-yields-fed-hike-odds",
-  "order": 6,
+  "id": "us-stocks-friday-sell-off",
+  "order": 2,
   "topic": "Economy",
   "region": "United States",
   "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
-  "headline": "US 10-year yield eases to 5.19% after hitting highest since 2002, as Fed hike bets rise",
+  "url": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
+  "headline": "S&P 500 falls 1.1% as Nasdaq slides 2% on AI sell-off and rising oil",
   "terms": [
    {
-    "term": "Treasury yield",
-    "meaning": "The return on US government bonds; it rises when bond prices fall."
+    "term": "S&P 500",
+    "meaning": "An index tracking the share prices of 500 large US companies, widely used as a gauge of the US stock market."
    },
    {
-    "term": "Basis point",
-    "meaning": "One hundredth of a percentage point."
+    "term": "Nasdaq Composite",
+    "meaning": "A stock index dominated by technology companies."
+   },
+   {
+    "term": "Dow",
+    "meaning": "The Dow Jones Industrial Average, an index of 30 large US companies."
    }
   ],
   "levels": [
    {
-    "headline": "US 10-year yield eases to 5.19% after hitting highest since 2002, as Fed hike bets rise",
-    "body": "The yield on the US 10-year Treasury note slipped more than 2 basis points to about 5.19% on 14 October, after touching its highest since April 2002 at 5.365% on 7 October. The 30-year yield reached about 5.73% that day, its highest since May 2002. Analysts cite inflation, oil prices and fiscal worries.\nThe Federal Reserve raised rates by a quarter point in September, to a range of 3.75% to 4%. Minutes showed officials expect another rise by the year end, without saying when. After a hot September inflation report on 14 October, futures put the chance of a rise on 28 October at about 35%, up from 22%, and above 90% for at least one more hike by the end of the year.\nStocks have moved opposite to yields lately, though the Nasdaq hit a record on 6 October.",
-    "why": "US yields set borrowing costs for mortgages and loans and influence markets worldwide, including the UK."
+    "headline": "S&P 500 falls 1.1% as Nasdaq slides 2% on AI sell-off and rising oil",
+    "body": "The S&P 500 closed down on Friday 16 October, the last completed session, falling 1.09% to 7,659.44. The Nasdaq Composite dropped 2.14% to 26,140.03, and the Dow Jones Industrial Average lost 175.28 points, or 0.34%, to end at 52,002.41.\nTechnology and artificial intelligence shares led the decline as investors rotated away from the sector. A rise in oil prices also weighed on sentiment, and wholesale inflation this week recorded its biggest gain since 2022.\nOver the week the Nasdaq fell more than 4%, its worst week since June, while the Dow gained 0.7%. The S&P 500 now sits roughly 2% below the record close it set earlier this month.\nThe divergence between the Nasdaq and the Dow shows money moving out of AI-linked growth stocks, even as broader markets held up better. Higher oil prices and inflation fears also raise the chance that interest rates stay high for longer.",
+    "why": "Falling tech shares and rising oil show investors are worried about inflation and the AI boom."
    },
    {
-    "headline": "US bond yields ease from 2002 highs as traders bet on another Fed rise",
-    "body": "The US 10-year Treasury yield fell to about 5.19% on 14 October, down from 5.365% on 7 October, its highest since April 2002. The 30-year touched about 5.73% on the same day. Inflation, oil prices and fiscal worries are blamed.\nThe Fed lifted rates by 25 basis points in September to 3.75% to 4%. Minutes said another rise is expected by year end. After hot inflation figures on 14 October, the chance of a hike on 28 October rose to about 35% from 22%, and traders see over 90% odds of at least one more rise this year.\nStocks have tended to rise when yields fall, and the Nasdaq reached a record on 6 October.",
-    "why": "Higher US rates affect global borrowing costs and the value of the dollar."
+    "headline": "US stocks fall as tech sell-off deepens, with the Nasdaq down more than 2%",
+    "body": "The S&P 500 fell 1.09% on Friday 16 October, the latest completed session, to close at 7,659.44. The Nasdaq Composite slid 2.14% to 26,140.03, and the Dow Jones Industrial Average dropped 0.34%, or 175.28 points, to 52,002.41.\nInvestors sold technology and AI-related shares and moved money elsewhere, while higher oil prices and a jump in wholesale inflation this week added to the unease.\nThe Nasdaq lost over 4% across the week, its worst since June, although the Dow actually rose 0.7%. The S&P 500 is about 2% below the record close it reached earlier in October.\nIn simple terms, many investors are worried that spending on AI may not pay off quickly, and that rising energy costs could keep inflation and interest rates higher for longer, which tends to hurt company valuations.",
+    "why": "Rising oil and inflation fears are weighing on share prices, which can affect pensions and savings."
    },
    {
-    "headline": "US government borrowing costs ease from 24-year highs",
-    "body": "The yield on the US 10-year Treasury, the return on government bonds, fell to around 5.19% on 14 October. A week earlier, on 7 October, it reached 5.365%, its highest since 2002. Worries over inflation, oil prices and government finances are behind the rise.\nThe Federal Reserve raised interest rates in September to a range of 3.75% to 4%. Officials expect another rise by year end. A hot inflation report on 14 October made traders think a rise on 28 October is more likely, at about a one in three chance.\nShare prices have generally moved in the opposite direction to yields.",
-    "why": "These yields feed through to the cost of mortgages and loans in the US and abroad."
+    "headline": "Wall Street ends the week lower as tech shares tumble",
+    "body": "The S&P 500 closed lower on Friday 16 October, the last full trading day, down 1.09% at 7,659.44. The Nasdaq, which is packed with technology firms, fell 2.14% to 26,140.03. The Dow Jones, made up of 30 big US companies, slipped 0.34% to 52,002.41.\nShares in technology and artificial intelligence companies were sold heavily. Oil prices also rose, and prices paid to producers this week went up by the most since 2022.\nFor the week, the Nasdaq lost more than 4%, its worst week since June. The Dow rose 0.7%. The S&P 500 is about 2% below the record it set earlier this month.\nInvestors are moving money out of AI companies and worrying that dearer oil will push up prices, which could keep interest rates high.",
+    "why": "Moves in US shares affect pension funds and investments held by ordinary savers."
    },
    {
-    "headline": "US bond yields ease from highest levels since 2002",
-    "body": "The US 10-year bond yield fell to about 5.19% on 14 October. It had hit 5.365% a week earlier, the highest since 2002. Higher inflation, oil prices and government borrowing worries were behind the rise.\nThe Federal Reserve raised rates in September to 3.75% to 4% and expects another rise by the end of the year. After a hot inflation report on 14 October, traders put the chance of a rise on 28 October at about 35%.\nStocks have tended to move the other way to yields, though the Nasdaq hit a record high on 6 October.",
-    "why": "US rates influence borrowing costs around the world."
+    "headline": "US shares fall on Friday as investors sell technology companies",
+    "body": "US shares ended lower on Friday 16 October, the last day markets were open. The S&P 500, which follows 500 big American companies, fell 1.09% to 7,659.44. The Nasdaq, full of tech firms, dropped 2.14% to 26,140.03. The Dow, which follows 30 large companies, lost 0.34% to finish at 52,002.41.\nInvestors sold many technology and artificial intelligence companies. The price of oil also went up, and prices that businesses pay each other were rising faster than they have since 2022.\nOver the whole week, the Nasdaq fell by more than 4%. That is its worst week since June. The Dow actually rose 0.7%.\nThe S&P 500 is now around 2% below its record high from earlier this month. Many investors fear higher prices could keep borrowing costs up.",
+    "why": "Share prices show how confident investors are, and they can affect your savings."
    },
    {
-    "headline": "US government borrowing costs ease after hitting a 24-year high",
-    "body": "The US government borrows by selling bonds. The yield is the interest rate on them. The 10-year yield dropped to about 5.19% on 14 October. A week earlier it was 5.365%, the highest since 2002. This is because of worries about prices rising, oil costs and government debt.\nThe Federal Reserve, the US central bank, put up interest rates in September to between 3.75% and 4%. It expects to do it again by the end of the year. A report on 14 October showed prices rising fast, so traders think a rise on 28 October is more likely.\nShare prices have mostly moved the opposite way to yields.",
-    "why": "What happens to US interest rates can affect the cost of loans everywhere."
+    "headline": "US shares fall on Friday as a tech sell-off hits the Nasdaq hardest",
+    "body": "US shares fell on Friday 16 October, the last full day of trading. The S&P 500, an index of 500 large American companies, dropped 1.09% to 7,659.44. The Nasdaq Composite, which is heavy with technology firms, fell 2.14% to 26,140.03. The Dow, an index of 30 big companies, lost 0.34% to close at 52,002.41.\nInvestors sold technology and artificial intelligence stocks, partly because they doubt the sector can keep growing so fast. Oil prices rose too, and wholesale prices this week climbed by the most since 2022. That matters because higher costs can keep interest rates high.\nThe Nasdaq lost more than 4% over the week, its worst since June, while the Dow gained 0.7%.\nThe S&P 500 is about 2% below its record close from earlier this month.",
+    "why": "Share prices reflect how investors see inflation, interest rates and the AI boom."
    },
    {
-    "headline": "US borrowing costs fall a little from a very high level",
-    "body": "The US government borrows money by selling bonds. It pays interest on them. The interest rate went very high this month. It was the highest for over twenty years. On 14 October it came down a little, to about 5.19%.\nPrices in the US are going up fast. Oil is dear too. The Fed, which is the US bank for banks, raised its main interest rate in September. It thinks it will have to raise it again before the year ends.\nWhen interest rates are high, loans cost more.",
-    "why": "It affects what people pay on loans, and it matters worldwide."
+    "headline": "Big US share prices dropped on Friday, led by tech firms",
+    "body": "On Friday 16 October, share prices in the United States went down. The S&P 500, a list of 500 big American companies, fell 1.09% to 7,659.44. The Nasdaq, which has lots of technology companies, fell 2.14% to 26,140.03. The Dow, a list of 30 large companies, fell 0.34% to 52,002.41.\nPeople sold shares in technology and artificial intelligence, or AI, companies. They are worried those firms may not make as much money as hoped. Oil also became more expensive, and that can push up prices in shops.\nIn the whole week, the Nasdaq fell more than 4%. The Dow went up by 0.7%.\nThe S&P 500 is still only about 2% below its highest ever level, which it reached earlier in October.",
+    "why": "Falling share prices can make investors nervous and may affect savings and pensions."
    },
    {
-    "headline": "US government pays more to borrow, but it eased a little",
-    "body": "The US government borrows money by selling bonds. It pays interest on them. This month the interest rate was the highest since 2002. On 14 October it eased a little.\nPrices in the US are going up. Oil costs more. The US central bank, called the Fed, raised its main interest rate in September. It thinks it may raise it again before the end of the year.\nWhen interest rates are high, loans for homes and cars cost more.",
-    "why": "It makes loans dearer and affects countries all over the world."
+    "headline": "American share prices fell on Friday",
+    "body": "On Friday, share prices in America went down. A share is a small piece of a company that people can buy. When many people want to sell, the price falls.\nOne big list, called the S&P 500, fell by about 1%. It follows 500 large American companies. Another list, the Nasdaq, fell by about 2%. It has many technology companies. A third list, the Dow, fell by a smaller amount, about a third of one per cent.\nMost of the selling was in technology and AI firms. AI means computers that can do clever tasks. Oil also cost more, and that worried people because it can make everything dearer.\nThe week was mixed. The Nasdaq had a bad week, but the Dow went up a little.",
+    "why": "Share prices tell us how safe investors feel about the world and the economy."
    },
    {
-    "headline": "The US has to pay more interest on borrowed money",
-    "body": "The US government borrows money. When you borrow, you pay a bit extra back. This is called interest. This month the extra went up to the highest in more than twenty years. Then it came down a little.\nThe people in charge of the money, called the Fed, made interest rates higher in September. They may do it again.\nHigh interest means loans cost more. This can be hard for people who have borrowed money.",
-    "why": "It makes borrowing money cost more."
+    "headline": "American share prices went down on Friday, led by computer firms",
+    "body": "On Friday 16 October, share prices in the United States went down. A share is a small part of a company, and an index is a list that shows how a group of shares is doing. The S&P 500, which lists 500 big firms, fell by just over 1%, to 7,659.44. The Nasdaq, full of technology firms, fell by about 2%. The Dow, which lists 30 big firms, fell by about a third of one per cent.\nMany people sold shares in AI firms. They are less sure those companies will make as much money as hoped. Oil also became dearer, which can push up prices and keep borrowing costs high.\nOver the week, the Nasdaq had its worst run since June. The Dow rose a little.",
+    "why": "Share prices show whether people feel safe about money, and that can affect savings."
    },
    {
-    "headline": "It costs more for the US to borrow",
-    "body": "The US government borrows money. It pays interest, which is extra money, to the people who lend it. This month the interest was the highest in over twenty years. On 14 October it came down a little.\nPrices in the US are rising. The US central bank, the Fed, raised its main interest rate in September. It may do so again.\nHigh interest means loans cost more.",
-    "why": "It makes loans cost more around the world."
+    "headline": "Share prices in America went down on Friday",
+    "body": "A share is a tiny piece of a company. People buy and sell shares, and the prices go up and down every day. On Friday, many share prices in America went down.\nThere are lists that show how shares are doing. One list is the S&P 500, with 500 big companies. It fell by a bit over 1%. Another is the Nasdaq, with many computer and technology companies. It fell by about 2%. The Dow, with 30 big companies, fell by only a little.\nMany people sold shares in AI companies, which make smart computer programs. They were worried these firms might not earn as much money as people hoped. Oil also became dearer, which can push up prices for lots of things.\nOver the whole week, the Nasdaq did badly but the Dow did a little better.",
+    "why": "It shows whether people feel safe about money, which can change prices and jobs."
    },
    {
-    "headline": "Borrowing money costs more in the US",
-    "body": "Imagine you borrow £10 from a friend, and you promise to pay back £11. The extra £1 is the interest. In the US, interest on borrowed money has gone up a lot. It is the highest in more than twenty years.\nA little while ago, it went down a bit. But the people in charge may raise it again.\nWhen the extra is bigger, borrowing is harder.",
-    "why": "When borrowing costs more, people and countries have less money to spend."
+    "headline": "Shares are like sweets in a shop, and many got cheaper on Friday",
+    "body": "Imagine a school swap shop where children trade little pieces of famous companies. Each piece is called a share. If lots of children want a piece, its price goes up. If lots want to get rid of it, the price goes down.\nOn Friday in America, many children wanted to get rid of shares in computer and AI companies. So the prices went down. The list that follows 500 big companies went down by a little bit more than one in a hundred. The list full of computer companies went down by about two in a hundred.\nOil also got more expensive, and that made some people worry that everything might cost more.\nThe week was up and down, but grown-ups are still watching carefully.",
+    "why": "It shows when people feel worried about money, which can affect lots of families."
    }
   ]
  },
  {
-  "id": "eu-summit-zelenskyy-70bn",
-  "order": 7,
+  "id": "burnham-scotland-defence-colleges",
+  "order": 3,
   "topic": "Politics",
-  "region": "Europe",
-  "source": "Euronews",
-  "url": "https://www.euronews.com/2026/10/16/eu-summit-leaders-to-rally-behind-zelenskyy-amid-bitter-row-with-trump",
-  "headline": "Zelenskyy asks EU leaders for 70 billion euros in extra support at Brussels summit",
+  "region": "United Kingdom",
+  "source": "GOV.UK",
+  "url": "https://www.gov.uk/government/speeches/pm-speech-in-scotland-16-october-2026",
+  "headline": "Burnham announces matched £10 million for two Scottish defence colleges and a summit with first ministers",
   "terms": [
    {
-    "term": "Frozen assets",
-    "meaning": "Money belonging to another country's bank or government that has been blocked from use."
+    "term": "Devolution",
+    "meaning": "The transfer of powers from the UK government to Scotland, Wales, Northern Ireland or local areas."
    },
    {
-    "term": "Sanctions",
-    "meaning": "Penalties, usually economic, imposed on a country or group."
+    "term": "National Economic Council",
+    "meaning": "A forum bringing UK ministers together with the leaders of the devolved governments to discuss the economy."
    }
   ],
   "levels": [
    {
-    "headline": "Zelenskyy asks EU leaders for 70 billion euros in extra support at Brussels summit",
-    "body": "Ukrainian President Volodymyr Zelenskyy asked EU leaders on 16 October for 70 billion euros in extra support for 2027, on top of an existing 90 billion euro loan. The request is far above what Brussels has projected.\nSeveral leaders pushed to use frozen Russian central bank assets to fund Ukraine. Denmark's prime minister called it one of the best solutions available, and Ukraine's European allies reportedly rebuffed a US plan to release a share of those assets. Talks on the next seven-year EU budget have reached an impasse.\nIn recent days the EU has transferred 6 billion euros to Kyiv and sanctioned nearly 1,600 individuals and entities linked to Russia's war. The European Commission is also set to confirm a 3.7 billion euro payment after Ukraine passed reforms.",
-    "why": "How Europe funds Ukraine will shape the war's course and the EU's own budget."
+    "headline": "Burnham announces matched £10 million for two Scottish defence colleges and a summit with first ministers",
+    "body": "Prime Minister Andy Burnham used a speech in Scotland on 16 October to say the Scottish government has agreed to match the UK government's £10 million to create two defence technical excellence colleges, one in the east and one in the west.\nHe linked the colleges to jobs in a defence sector that already supports 12,000 jobs in Scotland.\nBurnham also said the National Economic Council, a body revived by his government, will meet in about two weeks with the First Ministers of Scotland and Wales and the First Minister and Deputy First Minister of Northern Ireland. It will be the first such meeting since he became Prime Minister. He said it would be a chance to put his devolution offer on the table and work out a plan together, including how research and innovation money is decided.\nThe announcement shows a more cooperative approach between Westminster and the devolved governments.",
+    "why": "It shows how the UK and Scottish governments are working together on jobs, skills and devolution."
    },
    {
-    "headline": "EU leaders weigh Zelenskyy's request for 70 billion euros more",
-    "body": "At a summit in Brussels on 16 October, Volodymyr Zelenskyy asked EU leaders for an extra 70 billion euros in 2027, in addition to a 90 billion euro loan already agreed. The sum is well above Brussels' own estimates.\nLeaders discussed using frozen Russian central bank assets. Denmark's prime minister described it as one of the best solutions, while Ukraine's European allies reportedly turned down a US plan to release part of the assets. The long-term EU budget talks are stuck.\nThe EU recently sent 6 billion euros to Kyiv and sanctioned almost 1,600 individuals and entities. A 3.7 billion euro payment is due to be confirmed after Ukrainian reforms.",
-    "why": "Europe is being asked to carry more of the cost of supporting Ukraine."
+    "headline": "PM says Scotland will match UK funding for two defence colleges",
+    "body": "Speaking in Scotland on 16 October, Prime Minister Andy Burnham said the Scottish government has agreed to match the UK's £10 million to set up two defence technical excellence colleges, one in the east of the country and one in the west.\nHe said defence already supports 12,000 jobs in Scotland, and the colleges are meant to train people for skilled work in the sector.\nHe also announced that the National Economic Council will meet in around two weeks with the leaders of Scotland, Wales and Northern Ireland. He described it as an opportunity to put the devolution offer on the table and agree a plan, including how money for research and innovation is allocated.\nThe meeting will be the first of its kind since Burnham took office, so it will be watched for signs of how far he will go in sharing power.",
+    "why": "The meeting tests how much power the new Prime Minister is willing to share."
    },
    {
-    "headline": "Zelenskyy asks EU for 70 billion euros more in support",
-    "body": "President Volodymyr Zelenskyy asked EU leaders at a summit in Brussels on 16 October for another 70 billion euros of help for 2027. The EU has already agreed a 90 billion euro loan. The new request is more than Brussels expected.\nSome leaders want to use Russian money that was frozen in Europe. Denmark's prime minister called this one of the best ideas. Ukraine's European allies reportedly turned down a US plan to release some of that money. Talks on the EU's seven-year budget are stuck.\nIn recent days the EU sent 6 billion euros to Kyiv and put sanctions on almost 1,600 people and groups.",
-    "why": "The decision affects Ukraine's war effort and what EU countries must pay."
+    "headline": "Scotland to match UK money for two new defence colleges",
+    "body": "Prime Minister Andy Burnham said in a speech in Scotland on 16 October that the Scottish government will match £10 million from the UK government. The money will create two defence technical excellence colleges, one in the east and one in the west of Scotland.\nBurnham said the defence industry already supports 12,000 jobs in Scotland. The colleges are aimed at giving people the skills those jobs need.\nHe also said that in about two weeks the National Economic Council will meet the leaders of Scotland, Wales and Northern Ireland. This is the first time it will do so since he became Prime Minister. He said they would talk about handing more decisions to local and national governments and about how money for research and new ideas is shared out.",
+    "why": "The plan could create skilled jobs and show whether the UK's governments can cooperate."
    },
    {
-    "headline": "Zelenskyy asks Europe for 70 billion euros more",
-    "body": "Ukraine's president, Volodymyr Zelenskyy, asked EU leaders on 16 October for 70 billion euros more in 2027. This is on top of a 90 billion euro loan. The EU has not planned for anything this large.\nSeveral leaders want to use frozen Russian central bank money to help. Ukraine's European allies reportedly rejected a US plan to release part of it. The EU is also stuck on its next seven-year budget.\nThe EU has just sent 6 billion euros to Kyiv and punished nearly 1,600 people and groups linked to Russia's war.",
-    "why": "Who pays for Ukraine's defence is one of Europe's biggest questions."
+    "headline": "PM says Scotland will join the UK in paying for two defence colleges",
+    "body": "Prime Minister Andy Burnham visited Scotland on 16 October. He said the Scottish government has agreed to put in £10 million, the same as the UK government, to build two colleges. They will teach technical skills for the defence industry. One will be in the east of Scotland and one in the west.\nThe defence industry already provides 12,000 jobs in Scotland, and the colleges are meant to help people train for them.\nBurnham also said a group called the National Economic Council will meet in about two weeks. It brings together the UK government and the leaders of Scotland, Wales and Northern Ireland. They will discuss devolution, which means giving more power to those nations, and how money for research should be shared.",
+    "why": "It shows how governments across the UK might share money, power and jobs."
    },
    {
-    "headline": "Ukraine's president asks the EU for a lot more money",
-    "body": "Ukraine's president, Volodymyr Zelenskyy, asked leaders of the European Union for 70 billion euros more for 2027. They met in Brussels on 16 October. The EU had already agreed to lend Ukraine 90 billion euros. A euro is the money many European countries use.\nSome leaders want to use Russian money that was frozen, which means locked so it cannot be spent. Others disagree about how to do it. The EU also cannot agree yet on its main budget for the next seven years.\nThe EU did send Ukraine 6 billion euros recently, and it put penalties on nearly 1,600 people and groups linked to the war.",
-    "why": "It decides how much help Ukraine gets and how much money European countries spend."
+    "headline": "Scotland and the UK will each put £10 million into two defence colleges",
+    "body": "The Prime Minister, Andy Burnham, gave a speech in Scotland on 16 October. He said the Scottish government and the UK government will each pay £10 million to set up two new colleges. They will teach practical skills for jobs in defence, such as working with technology. There will be one college in the east of Scotland and one in the west.\nAbout 12,000 jobs in Scotland already depend on the defence industry.\nHe also said that in about two weeks, leaders from Scotland, Wales and Northern Ireland will meet UK ministers in a group called the National Economic Council. They will talk about devolution, which means local leaders making more of their own decisions, and about how money for new research gets shared fairly.",
+    "why": "Training more people could mean more skilled jobs, and fair sharing of money matters to every nation."
    },
    {
-    "headline": "Ukraine asks the EU for much more money",
-    "body": "Ukraine's leader, Volodymyr Zelenskyy, asked European Union leaders for a lot more money. He asked for 70 billion euros for 2027. They met in Brussels on 16 October. The EU already agreed to lend Ukraine 90 billion euros.\nSome leaders want to use Russian money that has been frozen. Frozen means locked up so no one can spend it. The EU cannot yet agree on all its money plans for the next seven years.\nRecently, the EU sent Ukraine 6 billion euros. It also punished nearly 1,600 people and groups linked to Russia's war.",
-    "why": "It affects how much help Ukraine gets in the war."
+    "headline": "Scotland and the UK will share the cost of two defence colleges",
+    "body": "The Prime Minister, Andy Burnham, was in Scotland on 16 October. He said the Scottish government has agreed to pay £10 million towards two new colleges, matching what the UK government is paying. The colleges will train people for jobs in defence, which means work that helps protect the country. One will be in the east and one in the west.\nDefence already provides 12,000 jobs in Scotland, so training could help more people find skilled work.\nBurnham also said that in about two weeks, leaders from Scotland, Wales and Northern Ireland will meet UK ministers. They will talk about devolution, which means local governments having more say, and about how money for research is shared out.",
+    "why": "It shows whether the UK's governments can work together on jobs and money."
    },
    {
-    "headline": "Ukraine's leader asks Europe for more money to help in the war",
-    "body": "Ukraine is a country that has been fighting a war. Its leader, Volodymyr Zelenskyy, asked other European leaders for more money. They met in Brussels on 16 October. He asked for 70 billion euros. They had already agreed to lend 90 billion.\nSome leaders want to use Russian money that was locked up in Europe. They cannot all agree how to do it. They also cannot agree yet on a big money plan for the next seven years.\nRecently Europe sent Ukraine 6 billion euros to help.",
-    "why": "It decides how much help Ukraine can get."
+    "headline": "Two new defence colleges planned for Scotland",
+    "body": "The Prime Minister, Andy Burnham, spoke in Scotland on 16 October. He said two new colleges will be built there. They will teach people the skills needed for jobs in defence. That means work for the armed forces and the companies that supply them. One college will be in the east and one in the west.\nThe UK government and the Scottish government will each pay £10 million.\nAbout 12,000 people in Scotland already work in defence jobs.\nThe Prime Minister also said that in about two weeks, leaders from Scotland, Wales and Northern Ireland will meet UK ministers. They will talk about how decisions and money are shared between the nations of the UK. Sharing power like this is called devolution.",
+    "why": "It could give people new training and jobs, and show how the UK's nations work together."
    },
    {
-    "headline": "A country in a war asks its neighbours for money",
-    "body": "Ukraine is a country in a war. Its leader asked other countries in Europe for more money. They met in a city called Brussels. He asked for a very big amount.\nThe other countries had already given a lot. Some of them want to use money that belongs to the country that started the war, which was locked up. Not everyone agrees yet.\nThey are still talking about what to do.",
-    "why": "Countries working together can help people who are in trouble."
+    "headline": "The UK and Scottish governments will each pay for two new colleges",
+    "body": "The Prime Minister is the person who leads the UK government. His name is Andy Burnham. On 16 October he went to Scotland and gave a speech.\nHe said two new colleges will open there to teach people skills for working in defence. Defence means protecting the country. The UK government and the Scottish government will each give £10 million to pay for them. One college will be in the east of Scotland and one in the west.\nMore than 12,000 people in Scotland already work in defence.\nHe also said that soon the leaders of Scotland, Wales and Northern Ireland will meet UK ministers to talk about money and who makes which decisions. Sharing out power like this is called devolution.",
+    "why": "It means new training places and shows how leaders of different nations can share the work."
    },
    {
-    "headline": "Ukraine asks Europe for more help",
-    "body": "Ukraine is a country in a war. Its leader asked other European leaders for more money. They met on 16 October. He asked for 70 billion euros. A euro is the money used in lots of European countries.\nThey had already agreed to lend 90 billion euros. Some leaders want to use Russian money that was locked up. Not everyone agrees yet.\nThey are still talking.",
-    "why": "It decides how much help Ukraine can get."
+    "headline": "Two new colleges are coming to Scotland",
+    "body": "The Prime Minister leads the country. He is called Andy Burnham. This week he visited Scotland to talk about two new colleges.\nThese colleges will teach grown-ups and young people how to do special jobs. The jobs help to protect the country. Some people call this work defence. One college will be in the east of Scotland. The other will be in the west.\nThe college plan will cost money. The UK government will pay £10 million. The Scottish government will pay the same amount.\nThe Prime Minister said he will also meet the leaders of Scotland, Wales and Northern Ireland soon. They will talk together about how to share money and who makes decisions in each place.",
+    "why": "Colleges give people skills for work, and leaders talking together can help everyone."
    },
    {
-    "headline": "Asking friends for help",
-    "body": "Imagine your friend's house has a big problem and they need help. They ask all their friends for money to fix it. The friends have already given some. Now your friend asks for even more.\nThat is a bit like what happened in Europe. A country called Ukraine is in a war. Its leader asked its friends for lots more money.\nThe friends are talking about how much they can give, and how.",
-    "why": "Friends can help each other when things go wrong."
+    "headline": "Two governments are sharing the cost of new colleges, like friends sharing a bill",
+    "body": "Imagine two friends who want to build a clubhouse. One friend has some money. The other friend has the same amount. If they put it together, they can build something good.\nThat is what happened in Scotland. The Prime Minister, Andy Burnham, said the UK government and the Scottish government will each give £10 million. They will use it to build two new colleges. A college is a place where people learn how to do a job well. These ones will teach skills for protecting the country.\nOne will be in the east of Scotland. One will be in the west.\nSoon the grown-up leaders of Scotland, Wales and Northern Ireland will meet to talk about sharing things fairly.",
+    "why": "When leaders share the costs and listen to each other, more people can learn new things."
    }
   ]
  },
  {
-  "id": "us-russia-diesel-deal-eu-reaction",
+  "id": "healey-budget-gilt-yields",
+  "order": 4,
+  "topic": "Economy",
+  "region": "United Kingdom",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/06/burnham-healey-budget-tax-bonds-gilts.html",
+  "headline": "Healey's first Budget on 28 October faces high borrowing costs and slowing growth",
+  "terms": [
+   {
+    "term": "Gilts",
+    "meaning": "Bonds issued by the UK government to borrow money."
+   },
+   {
+    "term": "Yield",
+    "meaning": "The return an investor gets on a bond; a higher yield means the government pays more to borrow."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Healey's first Budget on 28 October faces high borrowing costs and slowing growth",
+    "body": "Chancellor John Healey will deliver his first Budget on 28 October, the first under Prime Minister Andy Burnham, with the government's room for manoeuvre under pressure.\nThe yield on the 10-year gilt, the interest the government pays to borrow for a decade, was around 5.3% in mid-October. It reached 5.44% earlier in the autumn, the highest since July 2007. Higher borrowing costs eat into fiscal headroom, the margin left under the government's own borrowing rules, and raise expectations of tax rises.\nThe slowdown in monthly growth to 0.1% in August adds to the strain. Healey has said he wants a buffer against uncertainty, and ministers have yet to set out the full mix of savings or taxes needed, including to fund defence spending.\nA former Bank of England chief economist has warned Britain is on thin ice and must act to appease financial markets.",
+    "why": "The Budget will decide taxes and spending, so it affects households and businesses."
+   },
+   {
+    "headline": "Chancellor faces a squeeze on 28 October as gilt yields stay near multi-year highs",
+    "body": "John Healey will present his first Budget as Chancellor on 28 October, the first of Andy Burnham's government. He faces rising debt interest costs and weaker growth.\nThe 10-year gilt yield was about 5.3% in mid-October. Earlier this autumn it hit 5.44%, the highest since July 2007. When yields rise, the cost of government borrowing rises with them, which shrinks the fiscal headroom, the gap between planned borrowing and the limit set by the government's rules.\nGrowth of just 0.1% in August adds pressure. Healey has spoken of a buffer against uncertainty, but the mix of savings and tax rises needed, including to fund defence, has not been spelled out.\nA former Bank of England chief economist has said Britain is on thin ice and must reassure markets.",
+    "why": "High borrowing costs can lead to higher taxes or less spending on public services."
+   },
+   {
+    "headline": "Chancellor's first Budget comes as borrowing costs stay high",
+    "body": "Chancellor John Healey will deliver his first Budget on 28 October. It is the first Budget under Prime Minister Andy Burnham.\nThe government pays interest when it borrows, and that interest rate has been high. The yield on 10-year gilts, which are government bonds, was around 5.3% in mid-October. Earlier this autumn it hit 5.44%, the highest since 2007. Higher costs leave the government less spare money, known as fiscal headroom, under its own rules.\nSlow growth makes this harder, as the economy grew just 0.1% in August. Healey wants a buffer against uncertainty, but ministers have not yet said how they will raise money or save it, including to pay for defence.\nA former Bank of England economist has warned Britain is on thin ice.",
+    "why": "The Budget affects tax, spending and the cost of borrowing for everyone."
+   },
+   {
+    "headline": "The Chancellor's Budget is due on 28 October, with money tight",
+    "body": "Chancellor John Healey will set out his first Budget on 28 October. It is the first since Andy Burnham became Prime Minister.\nThe government borrows money by selling bonds called gilts. It has to pay interest on them, and that interest has become expensive. The 10-year rate was about 5.3% in mid-October, and it went as high as 5.44% earlier this autumn, the highest since 2007. That leaves less spare money, called headroom, within the rules the government has set itself.\nEconomic growth is also slowing, which brings in less tax. Healey says he wants a safety buffer. But he has not yet explained how much tax or saving may be needed, including for defence.\nOne former Bank of England expert says Britain is on thin ice.",
+    "why": "It may decide whether taxes rise or public spending is held back."
+   },
+   {
+    "headline": "The Chancellor must balance the books on 28 October, and it will not be easy",
+    "body": "On 28 October the Chancellor, John Healey, will announce his first Budget. A Budget is when the government says how it will raise and spend money.\nThe government often borrows by selling gilts, which are promises to pay back money with interest. Right now that interest is high. For a 10-year gilt it was about 5.3% in mid-October, and earlier it reached 5.44%, the highest since 2007. High costs mean less spare money for the government.\nThe economy is also growing slowly, so less tax comes in. Healey wants a safety cushion in case things go wrong. But it is not yet clear whether he will raise taxes or cut spending, and defence will also need money.",
+    "why": "The choices made could change taxes, public services and prices for ordinary families."
+   },
+   {
+    "headline": "The Chancellor's big money plan is coming, and the country is short of cash",
+    "body": "The Chancellor, John Healey, will share his Budget on 28 October. A Budget is the government's plan for how to collect and spend money.\nThe government borrows money, a bit like a loan. When it does, it must pay extra, called interest. This interest has become more expensive. It was about 5.3% in mid-October. Earlier it was 5.44%, which was the highest for almost 20 years. That leaves less spare money.\nThe economy is also growing slowly, so the government gets less money from taxes. The Chancellor says he wants a safety cushion in case something goes wrong. People do not yet know if he will raise taxes or spend less. The country also needs money for defence.",
+    "why": "It decides how much tax people pay and how much the government can spend."
+   },
+   {
+    "headline": "The Chancellor's money plan will be hard this year",
+    "body": "The Chancellor looks after the country's money. His name is John Healey. On 28 October he will share his plan for the year, called the Budget.\nThe government sometimes has to borrow money. It must pay back a bit extra, called interest. That extra is now expensive. It is about as high as it has been for almost 20 years. This means the government has less money left over.\nThe country is also growing slowly. When that happens, the government collects less tax.\nThe Chancellor wants some spare money for emergencies. He has not said yet if he will make people pay more tax or spend less on things. The country also needs to pay for defence.",
+    "why": "Taxes and spending touch schools, hospitals and what people pay each month."
+   },
+   {
+    "headline": "The government is short of money before its big plan",
+    "body": "The government is like a very big family that needs to pay for lots of things. It pays for schools, hospitals and the army. The money mostly comes from taxes, which people and businesses pay.\nThe person in charge is the Chancellor, John Healey. On 28 October he will share his plan for the money. It is called the Budget.\nThings are tricky. The government has borrowed money, and it has to pay extra to give it back. That extra has become costly. The country is also not growing very quickly, so less tax is coming in.\nHe has not yet said whether people will pay more tax or whether the government will spend less.",
+    "why": "It shows how a country has to make choices when there is not enough money."
+   },
+   {
+    "headline": "The country's pocket money plan is coming, but there is not much to spare",
+    "body": "Imagine a family has a jar of money. The grown-ups use it to pay for food, school things and holidays. Sometimes they have to borrow money from a friend. When they pay it back, they have to give a little extra.\nRight now, the extra costs are big, so there is less money left in the jar.\nThe person who looks after the country's money is the Chancellor. He is called John Healey. On 28 October he will say how the country will earn money and how it will spend it. This is called the Budget.\nHe has not said if people will pay more or if the country will spend less. Everyone is waiting to find out.",
+    "why": "It matters because the country's choices about money touch every family."
+   },
+   {
+    "headline": "A Budget is like a big plan for the family's money",
+    "body": "Every family has to think about money. How much comes in? How much goes out? And what should we save for a rainy day?\nA country must think the same way. The Chancellor, John Healey, will share the country's money plan on 28 October. It is called the Budget.\nThis time it is hard. The country has borrowed money and now the extra it must pay back has become big. That means there is less money left in the pot. The country is also growing very slowly, so not as much money is coming in.\nNobody knows yet what the plan will say. People will be watching to see if they must pay more or if the country will buy less.",
+    "why": "A fair money plan helps the country pay for things like schools and hospitals."
+   }
+  ]
+ },
+ {
+  "id": "uk-inflation-boe-rates",
+  "order": 5,
+  "topic": "Economy",
+  "region": "United Kingdom",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
+  "headline": "UK inflation figures due on 21 October, with the Bank of England under pressure to raise rates",
+  "terms": [
+   {
+    "term": "Inflation",
+    "meaning": "The rate at which prices rise over time."
+   },
+   {
+    "term": "Bank Rate",
+    "meaning": "The Bank of England's main interest rate, which influences mortgage, savings and loan rates."
+   },
+   {
+    "term": "Monetary Policy Committee",
+    "meaning": "The Bank of England group of nine that votes on interest rates."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "UK inflation figures due on 21 October, with the Bank of England under pressure to raise rates",
+    "body": "The Office for National Statistics will publish September's inflation figure on 21 October. Forecasts point to 3.4%, up from 3.1% in August, which was the first reading above 3% since March. Motor fuel costs were the main driver of the August rise.\nThe Bank of England has held Bank Rate at 3.75% since December 2025. At its September meeting its Monetary Policy Committee voted 6-3 to hold, with the three dissenters wanting a rise to 4%. The Committee blamed the prolonged Middle East conflict for pushing up energy prices and said inflation risks lean to the upside.\nMarkets widely expect a rise of at least 0.25 percentage points at the November meeting, and the Bank has said it is ready to tighten policy if needed.\nHigher oil and gas prices are expected to feed through to household bills towards the end of the year.",
+    "why": "Higher inflation and a possible rate rise would affect mortgages, savings and living costs."
+   },
+   {
+    "headline": "UK inflation expected to rise again as the Bank of England weighs a rate hike",
+    "body": "UK inflation for September is due from the ONS on 21 October, with forecasters expecting 3.4% after 3.1% in August. August was the first time inflation had topped 3% since March, driven mainly by motor fuel costs.\nBank Rate has stood at 3.75% since December 2025. In September the Monetary Policy Committee voted 6-3 to hold, with three members preferring a rise to 4%. It said the long Middle East conflict is pushing up energy prices and that risks to inflation remain on the upside.\nMarkets expect an increase of at least a quarter of a percentage point in November, and the Bank says it will tighten if necessary.\nEconomists expect higher oil and gas prices to reach household bills later this year.",
+    "why": "Rising prices and higher interest rates both squeeze household budgets."
+   },
+   {
+    "headline": "Inflation is expected to rise again, and interest rates could follow",
+    "body": "The next UK inflation figure, for September, comes out on 21 October. Experts expect 3.4%, up from 3.1% in August, when inflation went above 3% for the first time since March. Petrol and diesel prices were the main reason.\nThe Bank of England has kept its main interest rate at 3.75% since December 2025. In September, six of its nine rate-setters voted to keep it there, but three wanted to raise it to 4%. They said the war in the Middle East is pushing up energy prices.\nMany investors now expect the Bank to raise rates by at least 0.25 percentage points in November. The Bank says it is ready to act if prices keep rising.",
+    "why": "Higher rates can make mortgages and loans more expensive, though they help savers."
+   },
+   {
+    "headline": "Prices are expected to keep rising faster, which may push up interest rates",
+    "body": "Inflation is how fast prices rise. On 21 October the government will publish the figure for September. Experts expect 3.4%, compared with 3.1% in August. August was the first month since March that it went above 3%, mostly because fuel cost more.\nThe Bank of England sets the main interest rate, which has been 3.75% since December 2025. In September, three of its nine decision makers wanted to raise it to 4%, but six voted to leave it. The Bank said the conflict in the Middle East is making energy dearer.\nInvestors now think the rate may rise in November. The Bank says it is ready to act if it needs to, to stop prices rising too quickly.",
+    "why": "Interest rates affect what people pay on mortgages and earn on savings."
+   },
+   {
+    "headline": "Prices may rise faster, and borrowing could get dearer",
+    "body": "Inflation means prices going up over time. Last month, UK prices were 3.1% higher than a year before. Experts think the next figure, out on 21 October, will be higher, at 3.4%. Petrol and diesel costing more was the main reason.\nThe Bank of England is in charge of the main interest rate. This is the price of borrowing money, and it affects mortgages and savings. It has been 3.75% since December 2025. In September, three of nine members wanted it raised to 4%, but most wanted to wait.\nThe Bank blames the war in the Middle East, which is making oil and gas dearer. Many investors expect the Bank to raise the rate in November, and the Bank says it is ready to do so.",
+    "why": "It could change the cost of mortgages and the value of savings."
+   },
+   {
+    "headline": "Prices are rising faster, so interest rates could go up",
+    "body": "Inflation is the speed at which prices rise. In August, UK prices were 3.1% higher than a year before, and experts think the figure published on 21 October will be 3.4%. A big reason is that petrol and diesel have become more expensive.\nThe Bank of England controls the main interest rate, which is the cost of borrowing money. It has been 3.75% since December 2025. In September, three of the nine members who vote wanted to raise it to 4%, but six voted to keep it where it was.\nThe Bank says the conflict in the Middle East is pushing up energy prices. Many investors expect a rise in November. If that happens, mortgages and loans could cost more, while savings might earn a little more.",
+    "why": "Both prices and interest rates change how far a family's money goes."
+   },
+   {
+    "headline": "Prices are going up faster, and the rules for borrowing money might change",
+    "body": "When prices go up each year, we call it inflation. In August, prices were 3.1% higher than a year earlier. People expect the next number, due on 21 October, to be 3.4%. Fuel for cars got dearer, and that is a big reason.\nThe Bank of England is a special bank that helps look after the country's money. It sets a rate that decides how costly it is to borrow money. That rate is 3.75%. In September, three of the nine people who decide wanted to raise it. Most voted to keep it the same.\nThe Bank says fighting in the Middle East makes oil and gas cost more. Many people think the rate will go up in November.",
+    "why": "If borrowing costs rise, families with mortgages may have to pay more each month."
+   },
+   {
+    "headline": "Shop prices keep climbing, and the Bank may act",
+    "body": "Inflation means the cost of things rises over time. Imagine a pack of crisps costs 100p one year, and 103p the next. That is inflation of 3%. In August, prices in the UK rose by 3.1% over the year. People expect the next number, out on 21 October, to be 3.4%.\nOne big reason is that petrol is dearer. That is because of fighting in the Middle East, which makes oil and gas cost more.\nThe Bank of England helps keep prices steady. It sets an interest rate, which is the price of borrowing money. At the moment it is 3.75%. In September, three of the nine decision makers wanted to make it higher. Many people think it could go up in November.",
+    "why": "It affects what you pay in shops and what families pay on loans."
+   },
+   {
+    "headline": "Prices at the shops keep going up, a bit like sweets costing more each year",
+    "body": "Imagine your favourite sweets cost £1 last year. This year they cost a little more. When lots of things cost more, we call it inflation. In the UK, prices are now 3.1% higher than a year ago. Grown-ups think the next number will be 3.4%.\nOne reason is that oil, which makes petrol for cars, has become more expensive. There is fighting far away in the Middle East, and it makes oil harder to get.\nThere is a bank, the Bank of England, which helps keep prices steady. It has a number called the interest rate. This is like a fee for borrowing money. At the moment it is 3.75%. The bank might make it bigger soon, to slow prices down.",
+    "why": "It can change how far your family's money goes at the shops."
+   },
+   {
+    "headline": "The Bank of England might change a number that affects everyone's money",
+    "body": "Think about a school tuck shop. If prices go up a little each week, your pocket money buys less. This is called inflation. Right now, prices in the UK are going up faster than the grown-ups want.\nThere is a very important bank called the Bank of England. Its job is to try to stop prices rising too fast. It has a special number, called the interest rate. If you borrow money from a bank, you pay a little extra, and the interest rate decides how much. It is now 3.75%.\nSome people at the bank want to make this number bigger, because oil costs more. That could make borrowing dearer. We will find out in a few weeks.",
+    "why": "It helps stop prices rising too fast, so families can plan their money."
+   }
+  ]
+ },
+ {
+  "id": "hormuz-attacks-us-blockade",
+  "order": 6,
+  "topic": "Politics",
+  "region": "Middle East",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+  "headline": "Iran steps up attacks on shipping near Hormuz as talks with Washington stall",
+  "terms": [
+   {
+    "term": "Strait of Hormuz",
+    "meaning": "A narrow waterway between Iran and Oman through which a large share of the world's oil ships pass."
+   },
+   {
+    "term": "Blockade",
+    "meaning": "When a country uses its navy to stop ships entering or leaving another country's ports."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Iran steps up attacks on shipping near Hormuz as talks with Washington stall",
+    "body": "At least nine commercial ships have come under attack near the Strait of Hormuz since Sunday, as Iran tries to choke off oil exports through the strait. US Central Command said Iran sank the container ship GFS Pride on Wednesday, and Iran's armed forces also struck two tankers outside the strait within 24 hours, one off Qatar and one off Fujairah.\nIran says it is stepping up strikes in response to the US blockade of its ports and tougher sanctions introduced last month. President Trump reimposed the blockade on 14 July after earlier attacks on tankers.\nDiplomacy appears stalled: Washington rejected Iran's proposal to reopen Hormuz in return for lifting the blockade. The US is reportedly sending a third aircraft carrier group to the region, and Trump is said to be weighing resumed bombing of Iran after the midterm elections.",
+    "why": "The conflict threatens a key oil route, so it affects fuel prices and inflation around the world."
+   },
+   {
+    "headline": "Attacks on ships near Hormuz intensify and diplomacy stalls",
+    "body": "At least nine commercial vessels have been attacked near the Strait of Hormuz since Sunday. US Central Command said Iran sank the container ship GFS Pride on Wednesday. Iran also hit two tankers outside the strait in 24 hours, one off Qatar and one off Fujairah.\nIran says it is hitting back at the US blockade of its ports and at new sanctions. Donald Trump restored the blockade on 14 July after earlier tanker attacks.\nTalks look stuck. The US turned down an Iranian offer to reopen Hormuz if the blockade were lifted. A third US aircraft carrier group is reportedly heading to the Middle East, and Trump is said to be considering bombing Iran again after the midterm elections.",
+    "why": "Disruption to shipping in the Gulf pushes up oil prices and the cost of living."
+   },
+   {
+    "headline": "Iran attacks more ships as the US blockade continues",
+    "body": "At least nine ships have been attacked near the Strait of Hormuz since Sunday, as Iran tries to stop oil leaving the region. The US military said Iran sank the container ship GFS Pride on Wednesday. Iran also struck two oil tankers outside the strait, one near Qatar and one near Fujairah.\nIran says it is attacking because the United States is blocking its ports with its navy and has added tougher sanctions. President Trump brought the blockade back on 14 July.\nTalks have not made progress. The US said no to an Iranian offer to reopen the strait if the blockade ended. Reports say a third American aircraft carrier group is heading to the region, and Trump may restart bombing after the midterm elections.",
+    "why": "A key shipping route is under threat, which can raise prices for fuel and goods."
+   },
+   {
+    "headline": "Iran hits more ships near a key oil route, and peace talks are stuck",
+    "body": "At least nine ships have been attacked near the Strait of Hormuz since Sunday. This narrow stretch of water is one of the world's most important routes for oil. The US military said Iran sank a container ship called GFS Pride on Wednesday. Iran also hit two tankers outside the strait.\nIran says it is hitting back because the United States is using its navy to stop ships reaching Iranian ports. This is called a blockade. America also added new sanctions, meaning limits on trade. President Trump restarted the blockade on 14 July.\nThe United States turned down an offer from Iran to reopen the strait if the blockade ended. Reports say another American aircraft carrier is on its way.",
+    "why": "The fighting could keep fuel and energy prices high for ordinary people."
+   },
+   {
+    "headline": "Ships are being attacked in a key sea route, and leaders cannot agree",
+    "body": "Iran and the United States are in a standoff. Since Sunday, at least nine ships have been attacked near the Strait of Hormuz. This is a narrow sea passage that a lot of the world's oil has to pass through. America's military said Iran sank a container ship on Wednesday.\nIran says it is attacking because the American navy is stopping ships from reaching Iran's ports. That is called a blockade. America has also made new rules to limit Iran's trade. President Trump brought the blockade back in July.\nIran offered to reopen the passage if the blockade ended. The United States said no. Another large American warship group is reportedly heading to the area.",
+    "why": "Attacks on oil ships can make petrol and energy more expensive everywhere."
+   },
+   {
+    "headline": "Iran and the US are in a standoff over a key oil sea route",
+    "body": "At least nine ships have been attacked near the Strait of Hormuz since Sunday. This is a narrow stretch of sea where a lot of the world's oil travels. The US military says Iran sank a container ship on Wednesday and hit two oil tankers outside the strait.\nIran says it is attacking because the US Navy is stopping ships reaching Iranian ports, which is called a blockade, and because the US added tougher sanctions, meaning limits on trade. President Trump restarted the blockade in July.\nIran offered to reopen the strait if the blockade ended, but the United States said no. Reports say a third American aircraft carrier group is heading to the region, and Trump may restart bombing after the US midterm elections.",
+    "why": "A standoff here can raise fuel prices and affect the cost of living worldwide."
+   },
+   {
+    "headline": "Ships are being attacked at sea, and two countries cannot agree",
+    "body": "There is a dangerous standoff between Iran and the United States. A narrow sea passage called the Strait of Hormuz is where many oil ships travel. Since Sunday, at least nine ships have been attacked there. The American military says Iran sank a big cargo ship.\nIran says it is attacking because American warships are blocking its ports. That means they stop ships from going in or out. This is called a blockade. The United States has also stopped many countries from trading with Iran.\nIran said it would open the passage again if the blockade ended. The United States said no. Reports say another group of American warships is on its way. Leaders have not found a way to agree.",
+    "why": "When an oil route is unsafe, fuel can cost more for everyone."
+   },
+   {
+    "headline": "Two countries are in a fight about ships and ports",
+    "body": "Iran and the United States are not getting along. There is a narrow sea passage near Iran. Lots of ships carrying oil sail through it. Since Sunday, at least nine ships there have been attacked. One big cargo ship sank.\nThe United States says Iran did it. Iran says it is reacting because American warships are stopping ships from getting to Iran's ports. This is called a blockade. It is like blocking a road so that nobody can drive in or out.\nIran said it would stop if the blockade ended. The United States said no. Now another group of American warships may be on its way. The leaders have not made peace yet.",
+    "why": "If ships cannot sail safely, oil and other goods can become more costly."
+   },
+   {
+    "headline": "Two countries are stuck in a dangerous argument at sea",
+    "body": "Imagine two groups arguing over a road. One group stands in the road so the other cannot get through. The other group then starts knocking over things that belong to everyone.\nThis is a bit like what is happening at sea near Iran. A narrow sea passage is used by lots of ships carrying oil. Iran is attacking some of those ships. Iran says this is because American warships are stopping ships from reaching its ports.\nThe United States said no when Iran offered to open the passage if the ships left. Another group of warships may be on its way.\nGrown-ups are worried. If oil ships cannot sail safely, petrol could cost more everywhere.",
+    "why": "A calm solution would keep ships safe and help keep prices steady."
+   },
+   {
+    "headline": "Two countries are fighting over a sea road",
+    "body": "Think of the sea as a road for ships. In one place near Iran, the road is very narrow. Lots of ships carrying oil use it. Oil is what makes petrol for cars and helps make electricity.\nRecently, ships there have been attacked. Iran is doing some of the attacking. It says it is because America's navy is stopping ships from going to Iran's ports.\nIran said it would stop if America moved away. America said no. Now more American warships may be coming.\nThe leaders are not talking in a friendly way. That is why many grown-ups are worried. If the sea road is not safe, oil can become more expensive for everyone.",
+    "why": "We need safe roads at sea so that everyone can get the things they need."
+   }
+  ]
+ },
+ {
+  "id": "brent-oil-110-hormuz",
+  "order": 7,
+  "topic": "Economy",
+  "region": "Middle East",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+  "headline": "Brent crude touches $110 for the first time since May as Iran escalates Hormuz attacks",
+  "terms": [
+   {
+    "term": "Brent",
+    "meaning": "The international benchmark price for crude oil, quoted in US dollars per barrel."
+   },
+   {
+    "term": "Barrel",
+    "meaning": "The standard measure for oil, about 159 litres."
+   },
+   {
+    "term": "IEA",
+    "meaning": "The International Energy Agency, which advises major economies on energy and coordinates emergency oil stock releases."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Brent crude touches $110 for the first time since May as Iran escalates Hormuz attacks",
+    "body": "Brent crude futures touched $110 a barrel on Friday 16 October, the first time since May, before easing to settle at $109.86, a rise of 3.7%. US West Texas Intermediate gained 3.5% to $101.41.\nThe jump followed a surge in attacks around the Strait of Hormuz over the past ten days, with Iran saying it was stepping up strikes in response to the US blockade of its ports. Data from the energy researcher Kpler put Gulf crude shipments at 9.4 million barrels a day in the week to Wednesday, about 70% of the average before the Iran war. Kpler expects a slow, uneven recovery without a comprehensive political deal.\nThe International Energy Agency has agreed to release the remaining 100 million barrels from a coordinated stockpile release launched in March.\nCNBC also linked the move to Ukraine's vow to hit Russian refineries.",
+    "why": "Dearer oil feeds into petrol, heating and food prices, which is why central banks watch it closely."
+   },
+   {
+    "headline": "Oil jumps to about $110 a barrel as Iran steps up attacks near Hormuz",
+    "body": "Brent crude rose 3.7% on Friday 16 October to settle at $109.86 a barrel, after touching $110 for the first time since May. US benchmark West Texas Intermediate rose 3.5% to $101.41.\nThe rise came after a surge of attacks around the Strait of Hormuz in the last ten days. Iran says it is responding to the US blockade of its ports. Kpler estimates Gulf crude shipments at 9.4 million barrels a day in the week to Wednesday, around 70% of the level before the Iran war, and expects only a slow and uneven recovery without a political deal.\nThe International Energy Agency has agreed to release the remaining 100 million barrels from the emergency stocks programme begun in March, which may limit further rises.",
+    "why": "Higher oil prices push up inflation and strengthen the case for higher interest rates."
+   },
+   {
+    "headline": "Oil price hits $110 a barrel as attacks on ships continue",
+    "body": "The price of Brent crude, the international oil benchmark, rose 3.7% on Friday 16 October to $109.86 a barrel. It briefly touched $110, the highest since May. The US benchmark, West Texas Intermediate, rose 3.5% to $101.41.\nPrices rose because Iran has attacked more ships near the Strait of Hormuz over the past ten days, saying it is reacting to the US blockade of its ports. According to the research firm Kpler, oil leaving the Gulf is about 9.4 million barrels a day, roughly 70% of the amount before the war with Iran.\nTo help, the International Energy Agency has agreed to release the last 100 million barrels of emergency oil it began releasing in March.",
+    "why": "Oil prices affect petrol, heating bills and the price of many goods."
+   },
+   {
+    "headline": "Oil climbs to $110 a barrel, its highest since May",
+    "body": "The price of oil went up again on Friday 16 October. Brent crude, the international benchmark, rose 3.7% to $109.86 a barrel after briefly touching $110. That is the highest since May. In the United States the main price rose 3.5% to $101.41.\nOil rose because Iran has attacked more ships near the Strait of Hormuz in the last ten days. It says this is because of the US blockade of its ports. A research firm, Kpler, says oil coming out of the Gulf is around 70% of what it was before the war with Iran began.\nTo calm prices, the International Energy Agency, which advises big economies on energy, will release the last 100 million barrels of emergency oil stocks.",
+    "why": "Dearer oil usually means dearer petrol and higher bills."
+   },
+   {
+    "headline": "Oil costs more again, near $110 a barrel",
+    "body": "The price of oil rose again on Friday 16 October. A barrel of Brent, a main oil price used around the world, cost $109.86 at the end of the day, up 3.7%. At one point it reached $110, the highest since May.\nOil is dearer because ships near the Strait of Hormuz have been attacked. This is a narrow sea route that lots of the world's oil passes through. Iran says it is attacking in response to a US blockade of its ports. Only about 70% of the usual amount of oil is now leaving the Gulf.\nAn international group that advises countries on energy has agreed to release 100 million barrels of emergency oil to help. A barrel is a standard measure of oil.",
+    "why": "When oil is dearer, many everyday things become dearer too."
+   },
+   {
+    "headline": "Oil gets more expensive as ships are attacked near Hormuz",
+    "body": "On Friday 16 October the price of oil went up. A barrel of Brent oil, which is the price most countries follow, cost $109.86 at the close. That is 3.7% higher than the day before. It is the highest price since May.\nOil is more expensive because ships have been attacked near the Strait of Hormuz, a narrow sea route. Iran says it is hitting back at a US blockade of its ports. Because of the attacks, less oil is leaving the Gulf. It is about 70% of the amount before the war.\nAn energy group that helps many countries has agreed to release 100 million barrels of emergency oil. Oil is used to make petrol, diesel and plastic.",
+    "why": "When oil costs more, petrol, bills and goods in the shops can all cost more."
+   },
+   {
+    "headline": "Oil costs more because ships in the Gulf are in danger",
+    "body": "Oil is a thick liquid from under the ground. It is used to make petrol, diesel and plastic. On Friday 16 October the price of oil went up to about $110 for a barrel. A barrel is a big container of oil. That is the highest price since May.\nOil is dearer because ships have been attacked near the Strait of Hormuz, a narrow sea route. A lot of oil has to travel through it. Iran says it is attacking because the United States is blocking its ports. Less oil is getting out. It is only about 70% of what it was before the war.\nA group that advises countries has said it will release 100 million barrels of emergency oil.",
+    "why": "Oil prices change what we pay for fuel and for lots of things in the shops."
+   },
+   {
+    "headline": "Oil is getting more expensive again",
+    "body": "Oil is a liquid from under the ground. People use it to make petrol for cars and plastic. This week, the price went up to about $110 for one barrel, which is a very big container. This is the most it has cost since May.\nWhy has this happened? Ships carrying oil have been attacked near a narrow sea route called the Strait of Hormuz. A lot of the world's oil goes through there. Iran says it is attacking because America is blocking its ports. Now less oil is getting out.\nTo help, a group of countries has said it will let out 100 million barrels of oil it had saved for emergencies.",
+    "why": "If oil costs more, petrol and other things can cost more as well."
+   },
+   {
+    "headline": "Oil costs a lot more, and that can make life dearer",
+    "body": "Oil is something that comes from under the ground. It makes petrol for cars and gives us plastic. A barrel is a big container of oil. This week, one barrel cost about $110. That is more than at any time since May.\nWhy is it so dear? Some ships carrying oil were attacked in a small sea passage. Lots of oil has to go through it. Now there is less oil to share, so it costs more. It is like when there are only a few ice creams left and everyone wants one.\nSome countries have saved oil for emergencies. They have promised to let out 100 million barrels to help. That might help prices to stop going up.",
+    "why": "If oil costs more, it can make many things in the shops cost more too."
+   },
+   {
+    "headline": "Oil is like a favourite treat that is running short",
+    "body": "Imagine the school tuck shop sells your favourite crisps. Everyone loves them. One day, the lorry that brings the crisps gets held up. There are not enough crisps. So the shop makes them cost more.\nOil is a bit like that. It is a liquid from under the ground that makes petrol for cars. Lots of it travels on ships through a narrow sea passage. Recently, some ships have been attacked there. Less oil is arriving, so it costs more. This week, one barrel, a huge tub of oil, cost about $110.\nGrown-ups have a store of spare oil for emergencies. They have promised to share some, to help prices calm down.",
+    "why": "When oil costs more, lots of other things can cost more, like petrol and food."
+   }
+  ]
+ },
+ {
+  "id": "eu-summit-budget-ukraine",
   "order": 8,
   "topic": "Politics",
   "region": "Europe",
   "source": "Euronews",
-  "url": "https://www.euronews.com/2026/10/15/russia-miscalculated-by-sidelining-europe-in-us-talks-kallas-tells-euronews",
-  "headline": "EU leaders criticise US-Russia diesel deal as Kallas says Moscow 'miscalculated'",
+  "url": "https://www.euronews.com/2026/10/16/eu-summit-leaders-to-rally-behind-zelenskyy-amid-bitter-row-with-trump",
+  "headline": "EU leaders end Brussels summit without a budget deal and weigh new Ukraine funding",
   "terms": [
    {
-    "term": "Energy ceasefire",
-    "meaning": "A pause in attacks on energy sites such as refineries and power plants."
+    "term": "European Commission",
+    "meaning": "The EU's executive arm, which proposes laws and manages the budget."
    },
    {
-    "term": "Sanctions",
-    "meaning": "Penalties, usually economic, imposed on a country."
+    "term": "Immobilised assets",
+    "meaning": "Russian state money frozen in Europe, which some want to lend to Ukraine."
    }
   ],
   "levels": [
    {
-    "headline": "EU leaders criticise US-Russia diesel deal as Kallas says Moscow 'miscalculated'",
-    "body": "EU leaders criticised a US-Russia arrangement under which Russia would supply more than 300,000 tonnes of diesel, alongside an \"energy ceasefire\" between the two sides. The EU's foreign policy chief Kaja Kallas told Euronews that Russia had miscalculated by trying to force Ukraine to yield through a deal with the US alone, sidelining Europe.\nEuropean Commission President Ursula von der Leyen said the EU will not lift sanctions on Russia until the war ends. Moscow has rejected the idea of an energy ceasefire. Volodymyr Zelenskyy said he feels betrayed by Donald Trump, and there are reports of fears that the US could limit weapons sales and intelligence sharing over Ukraine's refinery strikes, which Mr Trump called a \"disgrace\".\nRussia launched around 1,000 drones against Ukraine in a single day, Mr Zelenskyy said, and CNN reported that Ukraine has run out of Patriot interceptor missiles.",
-    "why": "A split between the US and Europe over Russia could change the course of the war and the sanctions on Moscow."
+    "headline": "EU leaders end Brussels summit without a budget deal and weigh new Ukraine funding",
+    "body": "European Union leaders finished their Brussels summit on 16 October without agreeing the bloc's next seven-year budget, raising doubts about whether a deal can be reached by the end of the year.\nThey did ask the European Commission for options to cover a new funding gap for Ukraine, on top of the €90 billion loan designed to meet Kyiv's needs for 2026 and 2027. Ukrainian President Volodymyr Zelenskyy asked for €70 billion of extra support for 2027. Commission President Ursula von der Leyen backed that estimate but said the EU would not carry it alone and that other Western allies should contribute. Zelenskyy also pressed again for immobilised Russian assets to be used, and the idea is being revived as a loan, with Ireland and Denmark open to it.\nMigration was contentious: Denmark, Italy and Poland pushed for tougher language, including an indirect reference to Spain's regularisation of about 600,000 undocumented migrants. Talks ran past the expected finish time.",
+    "why": "Europe's ability to fund Ukraine and agree its own budget affects security and spending across the continent."
    },
    {
-    "headline": "Europe pushes back on US-Russia diesel deal",
-    "body": "EU leaders criticised a deal announced by the US for Russia to supply over 300,000 tonnes of diesel, together with an \"energy ceasefire\". Kaja Kallas told Euronews that Russia had miscalculated by sidelining Europe in talks with the US.\nUrsula von der Leyen said EU sanctions on Russia will stay until the war ends. Moscow has rejected an energy ceasefire. Volodymyr Zelenskyy said he feels betrayed by Donald Trump, with reports of concern that the US may cut weapons sales and intelligence sharing after Ukraine's refinery strikes, which Mr Trump called a \"disgrace\".\nMr Zelenskyy said Russia sent about 1,000 drones in one day. CNN reported Ukraine has run out of Patriot interceptors.",
-    "why": "It exposes a rift between Washington and Europe at a critical moment in the war."
+    "headline": "EU summit ends with no budget deal as leaders seek ways to fund Ukraine",
+    "body": "EU leaders ended a Brussels summit on 16 October with no agreement on the next seven-year EU budget, which casts doubt on whether a deal is possible by the end of the year.\nThey asked the European Commission for options to fill a new gap in Ukraine's funding, over and above the €90 billion loan covering 2026 and 2027. Volodymyr Zelenskyy asked for €70 billion more for 2027. Ursula von der Leyen supported that figure but said the EU cannot cover all of it and that other allies should help. Zelenskyy again urged the use of frozen Russian assets, which are being revived as a possible loan; Ireland and Denmark were open to it.\nOn migration, Denmark, Italy and Poland pushed for stronger wording, including an indirect reference to Spain's regularisation of around 600,000 undocumented migrants. Discussions overran.",
+    "why": "Disagreements over money and migration show how hard it is for the EU's members to act together."
    },
    {
-    "headline": "EU criticises US-Russia diesel deal",
-    "body": "EU leaders have criticised a US deal for Russia to supply more than 300,000 tonnes of diesel, with an \"energy ceasefire\" between the two sides. EU foreign policy chief Kaja Kallas said Russia had made a mistake by leaving Europe out of talks with the US.\nEU Commission President Ursula von der Leyen said sanctions stay until the war ends. Russia has turned down the energy ceasefire. Ukraine's president, Volodymyr Zelenskyy, said he feels betrayed by Donald Trump. There are reports that the US could cut weapons sales and intelligence sharing because of Ukrainian strikes on refineries, which Mr Trump called a \"disgrace\".\nMr Zelenskyy said Russia fired about 1,000 drones in one day.",
-    "why": "It shows that the US and Europe disagree about how to deal with Russia."
+    "headline": "EU leaders fail to agree a budget and look for more money for Ukraine",
+    "body": "European Union leaders met in Brussels on 16 October but did not agree the EU's next seven-year budget. That makes it less certain a deal can be done by the end of the year.\nThey asked the European Commission, the EU's executive body, to come up with options for filling a new gap in Ukraine's funding. This would come on top of a €90 billion loan for 2026 and 2027. Ukraine's president, Volodymyr Zelenskyy, said he needs €70 billion more for 2027. The Commission's president, Ursula von der Leyen, agreed with the figure but said the EU should not pay alone. Zelenskyy also asked again to use frozen Russian assets.\nLeaders also argued over migration. Denmark, Italy and Poland wanted tougher wording.",
+    "why": "The decisions affect Ukraine's defence and how EU countries spend money."
    },
    {
-    "headline": "EU leaders criticise US-Russia diesel deal",
-    "body": "EU leaders criticised a US deal for Russia to supply more than 300,000 tonnes of diesel, plus an \"energy ceasefire\". Kaja Kallas, the EU's top diplomat, said Russia had miscalculated by shutting Europe out of talks with the US.\nUrsula von der Leyen said the EU will keep sanctions on Russia until the war ends. Moscow rejected the energy ceasefire. Volodymyr Zelenskyy said he felt betrayed by Donald Trump. There are reports the US may cut weapons sales and intelligence sharing over Ukraine's attacks on refineries, which Mr Trump called a \"disgrace\".\nUkraine says it faced about 1,000 Russian drones in a day.",
-    "why": "A split between allies could weaken support for Ukraine."
+    "headline": "EU leaders leave Brussels without a budget deal",
+    "body": "EU leaders ended a summit in Brussels on 16 October without agreeing the bloc's next seven-year budget. People now doubt that a deal can be reached by the end of the year.\nThey did ask the European Commission to find ways to cover a new shortfall in funding for Ukraine. This is in addition to a €90 billion loan already meant to cover Ukraine's needs in 2026 and 2027. Ukraine's leader, Volodymyr Zelenskyy, asked for €70 billion of extra help for 2027. European Commission President Ursula von der Leyen said the EU cannot pay for all of it and wants other allies to help.\nThe leaders also disagreed about migration, with Denmark, Italy and Poland pushing for tougher language.",
+    "why": "Without a budget deal, the EU's plans for spending and support for Ukraine stay uncertain."
    },
    {
-    "headline": "European leaders are unhappy with a US deal with Russia",
-    "body": "The United States made a deal for Russia to supply more than 300,000 tonnes of diesel. It also announced an \"energy ceasefire\", which is a pause in attacks on places that make fuel and power. European leaders were unhappy. They felt Europe had been left out.\nThe EU's top diplomat, Kaja Kallas, said Russia had made a mistake. The head of the EU Commission, Ursula von der Leyen, said sanctions, which are penalties on Russia, will stay until the war ends. Russia said no to the pause.\nUkraine's president said he felt let down by US President Donald Trump. He said Russia sent about 1,000 drones in one day.",
-    "why": "It shows that countries on the same side can disagree about a war."
+    "headline": "EU leaders do not agree a budget and argue about migration",
+    "body": "EU leaders met in Brussels on 16 October. They did not agree on the EU's budget for the next seven years. Some now worry that a deal may not be ready by the end of this year.\nThey did ask the European Commission, the group that runs the EU day to day, to find ways to help Ukraine with money. Ukraine already has a €90 billion loan for 2026 and 2027, but Ukraine's president, Volodymyr Zelenskyy, says it needs €70 billion more for 2027. The Commission's president, Ursula von der Leyen, said the EU cannot pay alone.\nLeaders also argued about migration, which means people moving to live in other countries. Denmark, Italy and Poland wanted stricter wording.",
+    "why": "Budget decisions decide how much money the EU can spend on Ukraine and other plans."
    },
    {
-    "headline": "Europe is unhappy with a US and Russia fuel deal",
-    "body": "The United States agreed a deal for Russia to supply a lot of diesel fuel. It also talked about a pause in attacks on fuel and power sites. European leaders were unhappy because they were not part of the talks.\nThe EU's top diplomat, Kaja Kallas, said Russia had made a mistake. The EU said it will keep its penalties on Russia until the war ends. Russia said no to the pause.\nUkraine's president felt let down by the US president. He said Russia sent about 1,000 drones in one day.",
-    "why": "Friends who disagree can make a war harder to end."
+    "headline": "European leaders cannot agree on a budget",
+    "body": "Leaders from the countries of the European Union met in Brussels on 16 October. They did not agree on how much money the EU will have and how it will spend it over the next seven years. That plan is called a budget.\nThey also talked about Ukraine, which is at war with Russia. Ukraine's president, Volodymyr Zelenskyy, says his country needs €70 billion more in 2027. The leaders asked the European Commission, which helps run the EU, to find ways to help. The head of the Commission, Ursula von der Leyen, said the EU should not pay for all of it.\nThe leaders also argued about migration, which is about people moving to new countries.",
+    "why": "These choices decide how Europe helps Ukraine and how its countries share money."
    },
    {
-    "headline": "Europe is cross about a deal between the US and Russia",
-    "body": "The United States said Russia can sell it lots of diesel fuel. The US also talked about stopping attacks on fuel places in the war. Leaders in Europe were cross. They had not been asked.\nThe EU said it will keep its punishments on Russia until the war is over. Russia said it does not want the pause.\nUkraine's leader said he felt let down by the US leader. Russia sent about 1,000 drones to Ukraine in one day.",
-    "why": "Allies need to agree to help end a war."
+    "headline": "EU leaders meet but cannot agree how to share their money",
+    "body": "The European Union is a group of countries in Europe that work together. Their leaders met in Brussels on 16 October. They did not agree on how to share and spend the group's money over the next seven years. This plan is called a budget.\nThey also talked about helping Ukraine, a country that has been in a war with Russia. Ukraine's leader, Volodymyr Zelenskyy, says it needs €70 billion more next year. The leaders asked a group called the European Commission to find ideas for how to find the money.\nThey also argued about migration, which means people moving from one country to live in another. Some countries wanted stronger rules.",
+    "why": "If leaders cannot agree, it is harder for them to help each other and Ukraine."
    },
    {
-    "headline": "Friends disagree about how to deal with a war",
-    "body": "There is a war in Europe. Some countries are on one side and some are on the other. The United States made a deal with Russia about fuel. Europe was not asked and felt left out.\nEurope said it would keep its punishments on Russia until the war is over. Ukraine's leader felt let down by the US.\nIt is like three friends disagreeing about how to solve a big argument.",
-    "why": "When friends disagree, solving a problem can take longer."
+    "headline": "European leaders did not agree, but they asked for ideas",
+    "body": "Many countries in Europe are part of a group called the European Union, or EU. Their leaders met in a city called Brussels. They tried to agree on a plan for money for the next seven years. They could not.\nThey also talked about Ukraine, a country at war with Russia. Ukraine's president, Volodymyr Zelenskyy, says Ukraine will need a lot more money next year. The leaders asked a team to look for ways to find it. One idea is to borrow some money that belongs to Russia but has been frozen.\nThey also had a disagreement about migration. That means people moving to live in a different country. Three countries wanted stricter rules.",
+    "why": "Working together is hard, but leaders have to keep talking to help people."
    },
    {
-    "headline": "Europe is cross about a US deal with Russia",
-    "body": "The United States made a deal for Russia to sell it lots of diesel fuel. Europe was not asked and felt left out.\nEurope said its penalties on Russia will stay until the war ends. Russia said no to a pause in attacks on fuel places.\nUkraine's leader said he felt let down by the US president.",
-    "why": "Allies need to agree to help end a war."
+    "headline": "Leaders of European countries could not agree, like a group choosing a game",
+    "body": "Imagine a group of friends trying to pick a game for the whole summer. Everyone wants something different. They talk and talk, but they do not agree. That is a bit like what happened in Brussels.\nThe leaders of many European countries met to agree on how to share the money of their group, the EU, for the next seven years. They could not agree.\nThey also talked about helping Ukraine, a country where there is a war. Ukraine's leader said they need lots more money next year. The other leaders asked some helpers to look for ways to find it.\nThey also disagreed about people moving to live in other countries.",
+    "why": "Even friends who disagree can keep talking, which is how problems get solved."
    },
    {
-    "headline": "Friends who do not agree",
-    "body": "Imagine a group of friends who all want to help someone. But one friend makes a plan without asking the others. The others feel left out and a bit cross.\nThat is what happened with some big countries. They are all trying to deal with a war. One country made a plan without the others.\nNow they have to talk it through, so they can all help in the same way.",
-    "why": "Friends need to listen to each other to solve big problems."
+    "headline": "Leaders talked for a long time but did not decide",
+    "body": "Imagine your class has to choose a trip. Some children want the zoo. Others want the beach. They talk for a very long time and do not agree. In the end, the teacher says, let's think again.\nThat is a bit like what happened to the leaders of the European Union. They met in a big city called Brussels and talked about how to share their group's money. They did not agree, so they will try again.\nThey also talked about Ukraine, which needs more help because of a war. They asked clever helpers to look for ideas.\nThey also disagreed about people moving to new homes in other countries.",
+    "why": "Leaders have to keep talking until everyone can agree, and that takes time."
    }
   ]
  },
  {
-  "id": "uk-germany-security-partnership",
+  "id": "us-deficit-nearly-2-trillion",
   "order": 9,
-  "topic": "Politics",
-  "region": "Europe",
-  "source": "Euronews",
-  "url": "https://www.euronews.com/2026/10/08/uk-pm-burnham-to-discuss-sabotage-and-cybersecurity-with-merz-in-berlin",
-  "headline": "Burnham meets Merz in Berlin as UK and Germany back partnership against sabotage and cyber attacks",
+  "topic": "Economy",
+  "region": "United States",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+  "headline": "US budget deficit swells to almost $2 trillion for fiscal 2026, up 12%",
   "terms": [
    {
-    "term": "Hybrid threats",
-    "meaning": "Hostile acts short of open war, such as sabotage and cyber attacks."
+    "term": "Budget deficit",
+    "meaning": "The amount by which a government's spending is greater than the money it collects in a year."
    },
    {
-    "term": "Treaty",
-    "meaning": "A formal written agreement between countries."
+    "term": "Net interest",
+    "meaning": "What a government pays in interest on its debt, after deducting interest it receives."
    }
   ],
   "levels": [
    {
-    "headline": "Burnham meets Merz in Berlin as UK and Germany back partnership against sabotage and cyber attacks",
-    "body": "Prime Minister Andy Burnham met German Chancellor Friedrich Merz in Berlin on 8 October, on his first visit to Germany as Prime Minister. Russian threats and ties with the EU were at the top of the agenda.\nThe two countries committed to a partnership to counter hybrid threats, meaning hostile activity such as sabotage and cyber attacks. The two leaders were also expected to formally sign off on the Kensington Treaty, a UK-Germany agreement.\nThe visit sits alongside Mr Burnham's wider effort to rebuild links with European partners, which includes a UK-EU summit planned for 20 November. Both governments have said they want to work more closely on security.",
-    "why": "Sabotage and cyber attacks can disrupt energy, transport and banking, so allies are pooling their defences."
+    "headline": "US budget deficit swells to almost $2 trillion for fiscal 2026, up 12%",
+    "body": "The US federal budget deficit for fiscal 2026 came in at about $1.992 trillion, according to Treasury figures released on 16 October. That is roughly 12% higher than the $1.775 trillion deficit of the previous year and the third-largest on record, behind only 2020 and 2021.\nNet interest on the national debt topped $1 trillion, up from $970 billion in fiscal 2025. Social Security was the biggest spending item at nearly $1.7 trillion, followed by Medicare at almost $1.1 trillion. Individual income taxes raised more than $2.8 trillion, but corporate tax receipts fell by about $70 billion, which CNBC links to tax cuts in last year's One Big Beautiful Bill Act. Customs revenue was reduced by refunds after the Supreme Court ruled many tariffs unconstitutional.\nIt was the 25th straight year of deficits; the last surplus was in 2001.",
+    "why": "Rising debt interest and 5% Treasury yields make borrowing a growing worry for the US."
    },
    {
-    "headline": "UK and Germany launch partnership to counter sabotage and cyber attacks",
-    "body": "Andy Burnham visited Berlin on 8 October for talks with Chancellor Friedrich Merz, his first trip to Germany as Prime Minister. Russian threats and relations with the EU were the main topics.\nThe UK and Germany agreed a partnership to counter hybrid threats, such as sabotage and cyber attacks. The leaders were also expected to sign off on the Kensington Treaty between the two countries.\nThe trip fits with Mr Burnham's push for closer links with Europe, ahead of a UK-EU summit on 20 November.",
-    "why": "Closer security cooperation could make both countries harder targets for hostile states."
+    "headline": "US deficit rises to nearly $2 trillion in fiscal 2026",
+    "body": "The US government ran a budget deficit of about $1.992 trillion in fiscal 2026, Treasury figures published on 16 October show. That is up around 12% from $1.775 trillion a year earlier and the third-largest ever, after 2020 and 2021.\nInterest on the national debt, net of income, passed $1 trillion, compared with $970 billion the year before. Social Security cost nearly $1.7 trillion and Medicare almost $1.1 trillion. Individual income tax receipts exceeded $2.8 trillion, while corporate receipts fell by about $70 billion after last year's tax cuts. Customs duties were hit by refunds following a Supreme Court ruling that many tariffs were unconstitutional.\nThis was the 25th consecutive annual deficit, the last surplus having come in 2001.",
+    "why": "The cost of servicing US debt is growing, which may limit future spending and tax choices."
    },
    {
-    "headline": "UK and Germany team up against sabotage and cyber attacks",
-    "body": "Prime Minister Andy Burnham went to Berlin on 8 October to meet German Chancellor Friedrich Merz. It was his first visit to Germany as Prime Minister. They discussed threats from Russia and the UK's ties with the EU.\nThe two countries agreed to work together against hybrid threats. These are hostile acts that fall short of open war, such as sabotage and computer attacks. The leaders were also expected to sign the Kensington Treaty, a formal agreement between them.\nThe visit comes as Mr Burnham tries to rebuild closer links with Europe.",
-    "why": "Working together makes it easier to spot and stop attacks on key services."
+    "headline": "US government borrowed almost $2 trillion more than it raised this year",
+    "body": "The US government spent about $1.992 trillion more than it collected in its 2026 financial year, new Treasury figures show. That is about 12% more than the $1.775 trillion gap a year earlier, and the third biggest on record after 2020 and 2021.\nPaying interest on the national debt cost more than $1 trillion, up from $970 billion. Social Security cost nearly $1.7 trillion and Medicare almost $1.1 trillion. Income taxes paid by individuals raised over $2.8 trillion, but companies paid about $70 billion less after tax cuts. Money from tariffs was reduced because the Supreme Court ruled many of them unconstitutional and refunds were due.\nThe US has run a deficit for 25 years in a row. Its last surplus was in 2001.",
+    "why": "Interest on debt now takes a very large share of the US budget."
    },
    {
-    "headline": "Burnham and Merz agree to work together on sabotage and cyber threats",
-    "body": "Andy Burnham met German Chancellor Friedrich Merz in Berlin on 8 October. It was the Prime Minister's first visit to Germany in the job. Threats from Russia and the UK's relationship with the EU were top of the list.\nThe UK and Germany agreed a partnership to deal with hybrid threats, which means things like sabotage and cyber attacks. The two leaders were also expected to approve the Kensington Treaty.\nThe talks are part of a wider UK effort to strengthen ties across Europe.",
-    "why": "It could help protect services like power, transport and banks from attack."
+    "headline": "US deficit hits almost $2 trillion for the year",
+    "body": "The US government spent nearly $2 trillion more than it received in taxes in its 2026 financial year, official figures show. The exact amount was $1.992 trillion. That is about 12% higher than last year and the third largest deficit ever.\nA lot of the money went on interest. The government now pays more than $1 trillion a year in interest on its debts, up from $970 billion. Social Security, which pays pensions, cost nearly $1.7 trillion, and Medicare, which pays for health care for older people, cost almost $1.1 trillion.\nCompanies paid about $70 billion less in tax because of tax cuts, and money from tariffs fell because the Supreme Court ruled many were unconstitutional. The US has had a deficit for 25 years in a row.",
+    "why": "A big deficit means more borrowing, which can make loans costlier."
    },
    {
-    "headline": "The UK and Germany promise to work together to stop sabotage and cyber attacks",
-    "body": "The Prime Minister, Andy Burnham, visited Berlin on 8 October. He met the German leader, Friedrich Merz. It was the first time Mr Burnham had visited Germany as Prime Minister. They talked about threats from Russia.\nThe two countries agreed to work together against sneaky attacks. These include damaging important equipment and attacking computer systems. This kind of attack is called a hybrid threat. The leaders were also expected to sign a treaty, which is a written promise between countries.\nThis is part of Mr Burnham's plan to be closer to other European countries.",
-    "why": "Attacks on power, trains or banks could affect everyone, so countries are teaming up."
+    "headline": "America spent almost $2 trillion more than it took in",
+    "body": "A deficit is when a government spends more than it collects. The US government's deficit for its last financial year was about $1.992 trillion. That is around 12% more than the year before, and the third biggest ever.\nOne big cost was interest. The government has borrowed a lot, and each year it must pay extra on that debt. This year, interest cost more than $1 trillion. Pensions through Social Security cost nearly $1.7 trillion, and health care for older people through Medicare cost almost $1.1 trillion.\nThe government also collected less from company taxes because of tax cuts. Money from tariffs, which are taxes on goods from abroad, went down because the Supreme Court said many were not allowed.",
+    "why": "Growing debt means the government must keep paying more just to cover interest."
    },
    {
-    "headline": "UK and Germany team up to stop sneaky attacks",
-    "body": "The Prime Minister, Andy Burnham, went to Berlin on 8 October. He met Friedrich Merz, the leader of Germany. They talked about dangers from Russia.\nThey agreed that the two countries will work together. They want to stop sneaky attacks like breaking important equipment and attacking computers. Leaders were also expected to sign a treaty. A treaty is a written promise between countries.\nMr Burnham also wants to be closer to other countries in Europe.",
-    "why": "Attacks on things like power and computers could hurt many people."
+    "headline": "The US spent nearly $2 trillion more than it earned this year",
+    "body": "Governments get money from taxes, and they spend it on things like pensions and health care. A deficit means a government spent more than it received. This year, the US government's deficit was about $1.992 trillion, which is the third biggest ever. It was about 12% bigger than last year.\nTo cover the gap, the government borrows money, and then it has to pay interest, which is a fee for borrowing. This year, interest cost over $1 trillion. Pensions through Social Security cost nearly $1.7 trillion. Health care for older people cost almost $1.1 trillion.\nThe government also got less from company taxes because of tax cuts. A court also said many tariffs, taxes on imported goods, were not allowed.",
+    "why": "The more a country borrows, the more it has to pay back just in interest."
    },
    {
-    "headline": "The UK and Germany will work together to stay safe",
-    "body": "The Prime Minister of the UK, Andy Burnham, went to Germany on 8 October. He met the leader there, Friedrich Merz. They talked about danger from Russia.\nThey agreed to team up. They want to stop people who break important machines or attack computers. A promise between countries, written down, is called a treaty. They were expected to sign one.\nThe UK wants to be better friends with its neighbours in Europe.",
-    "why": "It helps keep important things like power and computers safe."
+    "headline": "America spent a lot more money than it collected",
+    "body": "A government collects money from people and companies. It does this through taxes. Then it spends the money on things like pensions and health care. A deficit means that it spent more than it collected.\nThis year, the United States had a deficit of almost $2 trillion. That is a huge number. It is about 12% bigger than last year.\nTo fill the gap, the government borrowed money. When you borrow, you have to pay back extra, called interest. The government's interest bill is now more than $1 trillion in one year.\nThe government also collected less from company taxes. A court also said many taxes on goods from other countries, called tariffs, were not allowed. The United States has had a deficit for 25 years in a row.",
+    "why": "A big deficit means the government borrows a lot, and it has to pay it back."
    },
    {
-    "headline": "The UK and Germany will team up against bad attacks",
-    "body": "On 8 October the UK leader, Andy Burnham, visited Germany. He met the German leader. They talked about people who want to cause harm.\nSome people try to break important things, like power lines. Some try to attack computers. The two countries agreed to work together to stop this. Leaders also sign treaties. A treaty is a promise written on paper.\nIt is like two schools agreeing to look out for each other.",
-    "why": "Working together helps keep important things like lights and computers working."
+    "headline": "The United States spent far more than it had",
+    "body": "A country makes money mostly from taxes. These are payments that people and businesses make to the government. The government then spends the money on things like pensions and hospitals.\nThis year, the United States spent almost $2 trillion more than it collected. That is called a deficit. It is a very big number, and it is bigger than last year.\nTo pay for the gap, the government borrows. When you borrow, you pay back extra, called interest. The government's interest bill is now more than $1 trillion in one year.\nThe government also got less tax from companies this year. And some taxes on goods coming from other countries were stopped by a court. The United States has had a deficit for 25 years in a row.",
+    "why": "Borrowing and interest add up, so leaders have to think carefully about money."
    },
    {
-    "headline": "The UK and Germany promise to help each other stay safe",
-    "body": "The leader of the UK went to Germany on 8 October. He talked to the leader there. They talked about dangers from Russia.\nSome people try to break important things or attack computers. The two countries promised to work together to stop them. They also planned to sign a treaty. A treaty is a promise written on paper.\nThe UK wants to be closer to its neighbours.",
-    "why": "It helps keep power and computers safe."
+    "headline": "America's pocket money ran out, so it borrowed",
+    "body": "Imagine you get £10 pocket money each week, but you spend £12. To buy everything, you must borrow £2 from a friend. When you pay your friend back, you give a little extra as thanks. This is a bit like a deficit.\nThe United States is a big country, and the government spends a huge amount on things like pensions for older people and health care. This year it spent almost $2 trillion more than it collected in taxes. That is a big number.\nIt borrowed to fill the gap. Now it has to pay back extra each year, called interest. This extra costs more than $1 trillion. The country has done this for 25 years.",
+    "why": "If you spend more than you have, you must borrow, and borrowing has a cost."
    },
    {
-    "headline": "Two countries promise to look after each other",
-    "body": "The leader of our country went to visit the leader of Germany. Germany is another country in Europe. They had a big talk.\nSome people try to break things or cause trouble from far away, using computers. The two leaders said their countries will help each other stop it.\nIt is like when you and a friend promise to look out for each other in the playground. Together you are stronger.",
-    "why": "Friends who help each other can keep everyone safer."
+    "headline": "Spending more than you get is called a deficit",
+    "body": "Imagine your family gets paid every month. Some months, you spend more than you got. To manage, you borrow some money from the bank. Next month, you pay back what you borrowed, plus a little extra for the bank.\nThe US government does the same, but with huge numbers. This year it spent almost $2 trillion more than it received. The country has done that for 25 years in a row.\nThe extra it pays back, called interest, is now more than $1 trillion a year. That is a lot of money that cannot be used for other things.\nGrown-ups are worried, because the more you borrow, the more you must pay back.",
+    "why": "It is wise to be careful with borrowed money, whether you are a family or a country."
    }
   ]
  },
  {
-  "id": "burnham-iran-raf-fairford",
+  "id": "review-security-public-life",
   "order": 10,
   "topic": "Politics",
   "region": "United Kingdom",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/10/01/us-iran-war-trump-hormuz.html",
-  "headline": "Burnham says Iran 'played a part' in September incident at RAF Fairford",
+  "source": "GOV.UK",
+  "url": "https://www.gov.uk/government/news/root-and-branch-review-of-security-for-those-in-public-life",
+  "headline": "Government launches independent review of security for people in public life",
   "terms": [
    {
-    "term": "Revolutionary Guard Corps",
-    "meaning": "A branch of Iran's armed forces that answers directly to its supreme leader."
+    "term": "Protective security",
+    "meaning": "Measures, such as police protection and guidance, that keep people safe from threats."
    },
    {
-    "term": "Air base",
-    "meaning": "A military site where aircraft are kept and operated."
+    "term": "Independent review",
+    "meaning": "An investigation led by someone outside government who reports on what should change."
    }
   ],
   "levels": [
    {
-    "headline": "Burnham says Iran 'played a part' in September incident at RAF Fairford",
-    "body": "Prime Minister Andy Burnham said Iran \"played a part\" in an incident at a British air base in September. He added that it was \"almost certainly directed\" by Iran's Revolutionary Guard Corps, according to CNBC's report published on 1 October. The base involved is RAF Fairford.\nIran's foreign minister dismissed the claim. The accusation adds to tension in a region already under strain from the conflict involving Iran and the United States and from attacks on shipping in the Strait of Hormuz.\nMr Burnham became Prime Minister in July. Since then he has said he would be prepared to criticise US President Donald Trump where he disagreed, while stressing the UK's commitment to allies.",
-    "why": "A hostile state targeting a UK base would be a serious security issue and could shape UK foreign policy."
+    "headline": "Government launches independent review of security for people in public life",
+    "body": "The Home Office announced on 12 October a root-and-branch review of protective security for people in public life. It will be led by Sir Stephen Lovegrove, a former national security adviser, and report within six months.\nThe review will look at the issue from every angle, including physical threats, online risks and the dangers posed within a more polarised society. It covers high-profile individuals including royals, ministers, MPs, locally elected representatives and other prominent figures in British politics. It will not assess individual cases.\nAs an interim measure, police support is being widened to people who are no longer MPs, such as former members of Parliament, peers and party spokespeople.\nThe government cited recent events as raising concern. The review will build on Sir Robert Buckland's separate inquiry into the killing of Sir David Amess, which is looking at MPs' security in their constituencies.",
+    "why": "Threats to people in public life are a risk to democracy as well as to the individuals themselves."
    },
    {
-    "headline": "Burnham links Iran to September incident at UK air base",
-    "body": "Andy Burnham has said Iran \"played a part\" in a September incident at a British air base, RAF Fairford. He said it was \"almost certainly directed\" by Iran's Revolutionary Guard Corps, CNBC reported on 1 October.\nIran's foreign minister dismissed the accusation. The claim comes as tensions rise over the conflict involving Iran and the United States and attacks on ships in the Strait of Hormuz.\nThe Prime Minister took office in July, and has said he would be willing to call out Donald Trump when he disagrees with him.",
-    "why": "It raises the stakes for UK security and for relations with Iran."
+    "headline": "Former national security adviser to lead review of protection for public figures",
+    "body": "The Home Office announced on 12 October an independent review of protective security for people in public life. Sir Stephen Lovegrove, a former national security adviser, will lead it and report within six months.\nIt will examine physical threats, online risks and the dangers in a more polarised society, and cover royals, ministers, MPs, local councillors and other prominent figures in British politics. It will not assess individual cases.\nIn the meantime, police support will be extended to people who are no longer MPs, including former MPs, peers and party spokespeople.\nThe review will build on Sir Robert Buckland's separate review following the killing of Sir David Amess, which examines MPs' security in their constituencies.",
+    "why": "The findings could change how politicians and public figures are protected."
    },
    {
-    "headline": "Burnham says Iran was behind a September incident at a UK air base",
-    "body": "Prime Minister Andy Burnham said on 1 October that Iran \"played a part\" in an incident at RAF Fairford, a British air base, in September. He said it was \"almost certainly directed\" by the Revolutionary Guard Corps, a branch of Iran's armed forces.\nIran's foreign minister rejected the claim. The accusation comes while tensions are already high in the Middle East, with the conflict involving Iran and the US and attacks on ships near the Strait of Hormuz.\nMr Burnham has been Prime Minister since July.",
-    "why": "It shows that Middle East tensions are affecting the UK's own security."
+    "headline": "Review to look at how people in public life are kept safe",
+    "body": "The government announced on 12 October a review of the way people in public life are protected. Sir Stephen Lovegrove, who used to be the national security adviser, will lead it. He must report within six months.\nThe review will look at physical threats, dangers online, and the risks that come from a society in which people are more divided. It covers royals, ministers, MPs, local councillors and other well-known political figures. It will not look at individual cases.\nFor now, police protection is being offered to more people, including former MPs, peers and party spokespeople.\nThe work builds on a separate review by Sir Robert Buckland into the killing of Sir David Amess.",
+    "why": "Better protection helps people to take part in politics without fear."
    },
    {
-    "headline": "PM says Iran 'almost certainly' directed incident at RAF Fairford",
-    "body": "Andy Burnham has said Iran \"played a part\" in a September incident at RAF Fairford, a British air base. He said it was \"almost certainly directed\" by Iran's Revolutionary Guard Corps.\nIran's foreign minister denied it. The claim came as tension grew over the conflict involving Iran and the United States, and over attacks on ships in the Strait of Hormuz.\nMr Burnham became Prime Minister in July. He has said he is ready to criticise Donald Trump when he thinks it is right to do so.",
-    "why": "A possible attack on a UK site by a foreign state is a major security matter."
+    "headline": "Government orders review of security for politicians and other public figures",
+    "body": "The Home Office said on 12 October that it is setting up a review of how people in public life are protected. Sir Stephen Lovegrove, a former national security adviser, will lead it and must report in six months.\nThe review will look at many kinds of risk. These include physical attacks, threats online and the dangers of a more divided society. It covers members of the royal family, ministers, MPs, local politicians and other well-known figures. It will not decide individual cases.\nMeanwhile, police help is being widened to include people who are no longer MPs, such as former MPs, peers and party spokespeople.\nIt builds on another review by Sir Robert Buckland, about the killing of Sir David Amess.",
+    "why": "Protecting people who serve the public helps keep democracy working."
    },
    {
-    "headline": "The Prime Minister says Iran was involved in an incident at a UK air base",
-    "body": "The Prime Minister, Andy Burnham, said Iran took part in an incident at a British air base called RAF Fairford in September. He said it was \"almost certainly\" planned by a part of Iran's army called the Revolutionary Guard Corps. An air base is a place where military planes are kept.\nIran's foreign minister said this is not true. The claim comes at a time of great tension in the Middle East. There is fighting involving Iran and the United States, and ships near a narrow sea route have been attacked.\nMr Burnham became Prime Minister in July.",
-    "why": "It could affect how safe the UK is and how it deals with Iran."
+    "headline": "A review will look at keeping public figures safe",
+    "body": "The government has asked for a review of how to keep people in public life safe. This includes politicians, members of the royal family, ministers and councillors. The announcement came on 12 October.\nSir Stephen Lovegrove will lead the work. He used to be the national security adviser. He has six months to report back.\nHe will look at dangers from people in person and online, and at the risks that come from society being more divided. He will not look at individual cases.\nFor now, the police will give help to more people. That includes former MPs, members of the House of Lords and spokespeople for political parties. The work also builds on an earlier review about the killing of MP Sir David Amess.",
+    "why": "If public figures are safe, they can do their jobs freely and people can have a say."
    },
    {
-    "headline": "PM says Iran was behind an incident at a UK air base",
-    "body": "The Prime Minister, Andy Burnham, says Iran was involved in something that happened at a UK air base in September. The base is called RAF Fairford. Planes are kept at an air base. He said a part of the Iranian army, the Revolutionary Guard, almost certainly gave the orders.\nIran says this is not true. There is a lot of worry in the Middle East right now. There is fighting that involves Iran and the United States. Ships near a narrow sea route have been attacked.\nMr Burnham became Prime Minister in July.",
-    "why": "It could change how the UK deals with Iran and keeps its bases safe."
+    "headline": "People in public life may get better protection",
+    "body": "The government wants to make sure people in public life are safe. These are people such as MPs, ministers, local councillors and members of the royal family. On 12 October it announced a review of how they are protected.\nSir Stephen Lovegrove will lead it. He used to be the government's top adviser on national security. He has six months to finish.\nHe will study threats in person and threats online. He will also look at how a society where people strongly disagree can make things riskier. He will not look at individual cases.\nFor now, police help will be given to more people, such as former MPs and spokespeople for parties. This follows an earlier review about the killing of MP Sir David Amess.",
+    "why": "People in public life should be able to do their work without fear."
    },
    {
-    "headline": "The Prime Minister says Iran was involved at a UK air base",
-    "body": "The Prime Minister is called Andy Burnham. He says that in September something bad happened at a UK air base called RAF Fairford. An air base is a place where army planes are kept. He says Iran was almost certainly behind it.\nIran says it was not. There is lots of trouble in the Middle East right now, where there is fighting and ships have been attacked.\nMr Burnham has been Prime Minister since July.",
-    "why": "It could change how the UK keeps its bases safe."
+    "headline": "A review of how to keep politicians and other public figures safe",
+    "body": "The government has said it will look at how to keep people in public life safe. This includes MPs, ministers, councillors and members of the royal family. People in public life are people who work in politics or are well known for serving the public.\nThe review was announced on 12 October. A man called Sir Stephen Lovegrove will lead it. He used to advise the government on national security. He has six months to report.\nHe will look at threats in person and online. He will not look at single cases.\nFor now, the police will protect more people, such as people who used to be MPs.",
+    "why": "Keeping people safe lets them do their jobs, and helps people trust democracy."
    },
    {
-    "headline": "The Prime Minister blames Iran for trouble at an air base",
-    "body": "Something bad happened at a place in England where army planes are kept. It is called an air base. This was in September. Our Prime Minister, Andy Burnham, says he thinks the country of Iran helped to make it happen.\nIran says it did not. Iran and some other countries are already in a big argument.\nThe Prime Minister is like the person in charge of the whole country. He wants to keep everyone safe.",
-    "why": "Grown-ups in charge need to keep the country safe."
+    "headline": "The government wants to keep important people safe",
+    "body": "Some people have jobs that help run the country. They might be MPs, who speak for people in Parliament. Others are ministers, who lead government departments. Some are councillors, who work in local areas. They can all sometimes face threats.\nOn 12 October the government said it will look at how to keep these people safe. A man called Sir Stephen Lovegrove will lead the work. He used to give advice to the government about keeping the country safe. He has six months to finish.\nHe will look at dangers in person and dangers online. For now, the police will help more people, including people who used to be MPs.",
+    "why": "When people feel safe, they are more willing to do jobs that help the community."
    },
    {
-    "headline": "The Prime Minister says Iran caused trouble at an air base",
-    "body": "Something bad happened in September at a place where army planes are kept. It is called RAF Fairford. The Prime Minister, Andy Burnham, says Iran almost certainly gave the orders.\nIran says this is not true. There is a lot of trouble in the Middle East right now.\nThe Prime Minister is the person in charge of the country. He wants to keep people safe.",
-    "why": "It matters because leaders want to keep the country safe."
+    "headline": "Looking after the people who help run the country",
+    "body": "Think of the person who is class monitor or leads the school council. They help the whole school. But sometimes other people can be unkind to them, just because they have to make choices.\nIn the same way, there are people who help run our country. They are MPs, ministers and councillors. Sometimes people are unkind or even dangerous towards them online or in person.\nThe government has asked a man called Sir Stephen Lovegrove to look at how to keep them safe. He has six months to find ideas.\nFor now, the police will help look after more people, even some who used to be MPs.",
+    "why": "Everyone should be able to do a job for their community without fear."
    },
    {
-    "headline": "The grown-up in charge says another country caused trouble",
-    "body": "Something bad happened at a place where army planes stay. The person in charge of our country says a different country called Iran helped to cause it. Iran says it did not.\nIt is a bit like in the playground, when someone says a child from another class broke a toy, and the other child says no, it was not me.\nThe grown-ups must work out what is true.",
-    "why": "It is important to find out what really happened and keep people safe."
-   }
-  ]
- },
- {
-  "id": "china-exports-us-tariff-cuts",
-  "order": 11,
-  "topic": "Economy",
-  "region": "Asia",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
-  "headline": "China's exports and imports surge past expectations in September as US-China tariff cuts loom",
-  "terms": [
-   {
-    "term": "Tariff",
-    "meaning": "A tax charged on goods imported from another country."
-   },
-   {
-    "term": "Trade truce",
-    "meaning": "A temporary agreement to hold off new trade penalties."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "China's exports and imports surge past expectations in September as US-China tariff cuts loom",
-    "body": "China's exports and imports both rose by more than economists had expected in September, according to figures reported by CNBC on 14 October. The data show the world's second-largest economy continuing to trade strongly despite US tariffs.\nWashington and Beijing have each named about $30 billion worth of goods for possible tariff cuts, $60 billion in total, though neither side has said how deep the cuts will be or when they would apply. They have also extended a broader trade truce by two months, to January. It had been due to expire on 10 November.\nSeparately, the EU is pressing China to rebalance trade, with the European Commission hoping for tangible results by October. Analysts doubt major concessions are likely.",
-    "why": "China's trade with the world affects prices, jobs and the global economy, including UK shop prices."
-   },
-   {
-    "headline": "China's trade beats forecasts in September while US and China plan tariff cuts",
-    "body": "Both exports and imports in China rose faster than economists forecast in September, CNBC reported on 14 October. China's trade remains strong even with US tariffs in place.\nThe US and China have each listed about $30 billion of goods for possible tariff cuts. How deep the cuts will be, and when, is not yet known. They also extended their trade truce by two months to January, having earlier faced a 10 November deadline.\nThe EU, meanwhile, is pushing China to balance trade better, but analysts do not expect major concessions.",
-    "why": "Trade tensions between big economies can change prices and supply chains for everyone."
-   },
-   {
-    "headline": "China's exports and imports grow faster than expected",
-    "body": "China sold and bought more goods than economists expected in September, CNBC reported on 14 October. The figures suggest that China's trade is staying strong despite tariffs from the US.\nThe US and China have each named about $30 billion of goods where taxes on imports might be cut. Neither has said by how much or when. They also agreed to pause their trade dispute for two more months, until January.\nThe European Union is also asking China to trade more fairly, but experts do not expect China to give much ground.",
-    "why": "It shows how much the world's economies depend on each other."
-   },
-   {
-    "headline": "China's trade grows faster than forecast in September",
-    "body": "China's exports and imports both grew by more than expected in September, CNBC reported on 14 October. China's trade is staying strong despite US tariffs.\nThe US and China have each named about $30 billion of goods for possible tariff cuts. They have not said how deep the cuts will be or when they would start. Their trade truce has been extended by two months to January.\nThe EU is pressing China to balance trade, but analysts doubt China will make major concessions.",
-    "why": "Trade between big economies affects prices and jobs worldwide."
-   },
-   {
-    "headline": "China sold and bought more than expected in September",
-    "body": "China is a huge country that sells many things to the world, like phones, clothes and machines. In September it sold and bought more than experts had guessed. This was reported on 14 October.\nThe US charges taxes on goods from China, called tariffs. The US and China have each picked about $30 billion worth of goods where they might lower these taxes. They have not said by how much. They also agreed to pause their argument until January.\nThe European Union wants China to trade more fairly too.",
-    "why": "Trade between countries affects the prices of things in our shops."
-   },
-   {
-    "headline": "China traded more than expected in September",
-    "body": "China is a very big country. It makes many things that other countries buy, like toys and phones. In September, it sold more and bought more than experts thought.\nThe US puts extra taxes on things from China. These are called tariffs. The two countries want to make some of those taxes smaller. They have not said when. They have also agreed to stop arguing about trade until January.\nEurope also wants China to trade fairly.",
-    "why": "It affects what things cost in the shops."
-   },
-   {
-    "headline": "China sold and bought more than experts thought",
-    "body": "China is a big country that makes lots of things, like phones and toys. Other countries buy them. In September China sold and bought more than people thought it would.\nThe US makes people pay extra taxes on things from China. The US and China might make some of these taxes smaller. They have not said when.\nThey have also agreed to pause their trade argument until January.",
-    "why": "It affects the prices of things we buy."
-   },
-   {
-    "headline": "China made and sold lots of things",
-    "body": "A big country called China makes lots of things. Many of the toys and phones in shops come from there. In September it sold more things than people thought it would.\nSome countries put an extra tax on things from China. Now the US and China want to make the tax smaller on some things.\nThey are being friendlier for now.",
-    "why": "It can change what things cost in shops."
-   },
-   {
-    "headline": "China traded more than people thought",
-    "body": "China makes lots of things, like toys and phones, that other countries buy. In September it sold and bought more than people thought it would.\nThe US puts an extra tax, called a tariff, on things from China. The two countries want to lower the tax on some things. They have agreed to pause their trade argument until January.\nEurope also wants China to trade fairly.",
-    "why": "It can change what things cost in shops."
-   },
-   {
-    "headline": "Two countries try to be friendlier about trade",
-    "body": "Think of a school fair where children swap things. Two children had an argument about swaps and now charge each other extra. It made everyone's swaps harder.\nTwo big countries, China and the US, did something like that with taxes on things they sell to each other. Now they want to be friendlier and lower some of the taxes.\nThey have said they will stop arguing for a while.",
-    "why": "When friends stop arguing, things can get cheaper for everyone."
-   }
-  ]
- },
- {
-  "id": "uk-inflation-figures-due",
-  "order": 12,
-  "topic": "Economy",
-  "region": "United Kingdom",
-  "source": "Office for National Statistics",
-  "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/august2026",
-  "headline": "UK inflation figures for September due on 21 October after August rate of 3.1%",
-  "terms": [
-   {
-    "term": "CPI",
-    "meaning": "Consumer Prices Index, the main measure of how fast prices are rising."
-   },
-   {
-    "term": "Core inflation",
-    "meaning": "Inflation excluding food, energy, alcohol and tobacco."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "UK inflation figures for September due on 21 October after August rate of 3.1%",
-    "body": "The Office for National Statistics will publish UK inflation figures for September on 21 October at 7am. The latest published figure, for August, showed consumer price inflation (CPI) at 3.1%, with the broader CPIH measure at 3.3% and RPI at 3.4%.\nCore CPI, which leaves out food, energy, alcohol and tobacco, was 2.6% in August. Food price inflation was 1.3%, unchanged from July. Trading Economics forecasts a September reading of about 3.4%, though that is only a forecast.\nThe figures matter because the Bank of England is due to decide on interest rates on 5 November, and markets are expecting a rise by the end of the year. Higher oil and energy prices could push inflation up.",
-    "why": "Inflation affects what households pay, and the figures will influence the Bank of England's next decision."
-   },
-   {
-    "headline": "Next UK inflation figures due on 21 October",
-    "body": "The ONS will release September's UK inflation figures on 21 October. For August, CPI inflation was 3.1%, CPIH was 3.3% and RPI was 3.4%.\nCore inflation, which excludes food, energy, alcohol and tobacco, was 2.6%, and food inflation was 1.3%, the same as July. Trading Economics expects September to come in at about 3.4%, but this is a forecast only.\nThe Bank of England decides on rates on 5 November, and markets expect a rise by year end. Energy prices linked to the Iran conflict may add upward pressure on prices.",
-    "why": "The figures will shape expectations for interest rates and living costs."
-   },
-   {
-    "headline": "UK inflation figures are due next week",
-    "body": "The Office for National Statistics will publish inflation for September on 21 October. In August, prices were rising at an annual rate of 3.1% by the main measure, CPI. Other measures were 3.3% (CPIH) and 3.4% (RPI).\nCore inflation, without food, energy, alcohol and tobacco, was 2.6%. Food prices were rising by 1.3%, the same as in July. One forecaster expects September to be about 3.4%, but that is just a forecast.\nThe Bank of England will decide on interest rates on 5 November. Higher energy prices could push inflation up.",
-    "why": "Rising prices affect shopping bills and the decisions the Bank of England makes on interest rates."
-   },
-   {
-    "headline": "September UK inflation figures due on 21 October",
-    "body": "The Office for National Statistics publishes September's UK inflation figures on 21 October. August's figure for CPI, the main measure, was 3.1%. CPIH was 3.3% and RPI was 3.4%.\nCore inflation, which excludes food, energy, alcohol and tobacco, was 2.6%, and food inflation was 1.3%. One forecaster expects about 3.4% for September, though that is only a forecast.\nThe Bank of England next sets interest rates on 5 November, and the inflation figure will be watched closely.",
-    "why": "Inflation affects living costs and interest rates."
-   },
-   {
-    "headline": "The next figures on how fast prices are rising are coming out next week",
-    "body": "Every month, the Office for National Statistics says how much prices have gone up compared with a year ago. This is called inflation. The next figures come out on 21 October. They are for September.\nIn August prices were 3.1% higher than a year before. That means something that cost £100 now costs about £103. Food prices rose by less, 1.3%. One forecaster thinks September could be around 3.4%, but it is only a guess.\nThe Bank of England uses these numbers to help decide on interest rates, which it will do on 5 November.",
-    "why": "It tells us how fast prices in the shops are going up, and it affects interest rates."
-   },
-   {
-    "headline": "New figures on rising prices come out next week",
-    "body": "Each month, people count how much prices have gone up in a year. That is inflation. The next count comes out on 21 October.\nIn August, prices were 3.1% higher than a year before. So something that cost £100 now costs about £103. Food prices went up less, by 1.3%. One expert guesses that September may be about 3.4%.\nThe Bank of England uses these figures to help decide how high interest rates should be. It decides again on 5 November.",
-    "why": "It shows how much more things cost, and helps decide interest rates."
-   },
-   {
-    "headline": "Next week we will learn how much prices have risen",
-    "body": "Prices of things in shops usually go up a bit each year. This is called inflation. People count it every month. The next count is out on 21 October.\nLast time it was 3.1%. That means something that cost £100 a year ago now costs about £103. Food went up less. An expert guesses it may be a bit higher this time.\nThe Bank of England uses it to decide on interest rates.",
-    "why": "It shows how much more things cost."
-   },
-   {
-    "headline": "Counting how much more things cost",
-    "body": "Do you remember when a bar of chocolate cost less? Prices tend to go up a little each year. Grown-ups count how much. That is called inflation.\nThe last count said prices went up by about 3 pence in every pound. The next count comes out on 21 October.\nPeople who run the banks look at it to decide about interest, which is the extra money you pay for borrowing.",
-    "why": "It shows how much more things cost."
-   },
-   {
-    "headline": "New figures show how fast prices are rising",
-    "body": "Every month, people count how much more things cost than a year ago. This is called inflation. The next count comes out on 21 October.\nIn August it was 3.1%. That means something that cost £100 now costs about £103. Food went up by less.\nThe Bank of England uses the numbers to help decide on interest rates.",
-    "why": "It shows how much more things cost."
-   },
-   {
-    "headline": "Pocket money and prices",
-    "body": "Imagine your pocket money stays the same, but sweets cost a little more each year. Your money buys fewer sweets. Grown-ups count how much prices go up. They call it inflation.\nThe last count said prices went up a little, about 3 pence for every pound. The next count comes out on 21 October.\nThe people who look after the country's money watch it carefully.",
-    "why": "When prices go up, the same money buys less."
+    "headline": "The government is looking at how to keep helpers safe",
+    "body": "Some grown-ups have jobs where they help lots of people. They make choices for towns and for the country. Some are called MPs. Some are called ministers. Others are called councillors.\nBut sometimes people are unkind to them. A few people even try to scare or hurt them. That is not right.\nThe government has asked a person called Sir Stephen Lovegrove to find ways to keep them safe. He will look at what is happening in real life and online. He has six months to work on it.\nFor now, the police will help look after more people, even some who used to be MPs.",
+    "why": "People who help others should be safe while they work."
    }
   ]
  }
