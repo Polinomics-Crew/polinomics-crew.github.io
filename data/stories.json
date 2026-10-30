@@ -1,162 +1,312 @@
 [
  {
-  "id": "uk-budget-healey-bank-surcharge-energy",
+  "id": "healey-budget-energy-support",
   "order": 1,
   "topic": "Economy",
   "region": "United Kingdom",
-  "source": "GOV.UK and CNBC",
-  "url": "https://www.gov.uk/government/news/budget-2026-breathing-space-for-today-hope-for-the-future",
-  "headline": "Healey's first Budget doubles the bank surcharge and scraps gas standing charges",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+  "headline": "Healey's first Budget scraps gas standing charges and doubles the bank surcharge to 6%",
   "terms": [
    {
-    "term": "Bank surcharge",
-    "meaning": "An extra tax on bank profits, on top of normal corporation tax."
-   },
-   {
-    "term": "OBR",
-    "meaning": "The Office for Budget Responsibility, the independent body that forecasts the public finances."
-   },
-   {
     "term": "Standing charge",
-    "meaning": "A fixed daily fee on an energy bill, charged however much energy you use."
+    "meaning": "A fixed daily fee on an energy bill, paid whatever you use."
+   },
+   {
+    "term": "Bank surcharge",
+    "meaning": "An extra tax on banks' profits, on top of normal corporation tax."
+   },
+   {
+    "term": "Gilt yield",
+    "meaning": "The return investors get on UK government bonds; it shows the cost of government borrowing."
    }
   ],
   "levels": [
    {
-    "headline": "Healey's first Budget doubles the bank surcharge and scraps gas standing charges",
-    "body": "Chancellor John Healey delivered his first Budget on 28 October 2026. The Bank Corporation Tax Surcharge will rise temporarily from 3% to 6% between 1 January 2027 and 31 March 2028, below the 8% some reports had predicted.\nThe money helps pay for energy support. A £2.6 billion Household Energy Payment will put £100 into bank accounts from January 2027 for households in England in council tax bands A to D, covering up to 20 million homes. Standing charges on household gas bills are being abolished, and the devolved governments receive their shares through the Barnett formula.\nThe Office for Budget Responsibility raised its 2026 growth forecast to 1.2% but expects 1.0% in 2027, with inflation peaking at 3.8% in early 2027. Debt is forecast to reach 83.8% of GDP next year before falling, and the OBR confirmed the government meets its fiscal rules.",
-    "why": "It shows who pays for help with energy bills and whether the government can keep borrowing under control."
+    "headline": "Healey's first Budget scraps gas standing charges and doubles the bank surcharge to 6%",
+    "body": "Chancellor John Healey delivered his first Budget on 28 October, abolishing standing charges on gas bills for around 23 million homes and raising the bank corporation tax surcharge from 3% to 6% for 15 months from 1 January 2027 to 31 March 2028.\nThe government says the surcharge will raise £1.5 billion to help fund household and business support. The Budget speech also promised a £100 winter payment for 20 million households in council tax bands A to D. Healey said there would be no tax rises on wages or dividends.\nThe Office for Budget Responsibility upgraded its growth forecast to 1.2% this year, then 1% next year. But debt interest costs are £14 billion higher this year, and headroom against the government's fiscal rules is £9 billion lower than in March.\nThe yield on the 10-year gilt fell about 2 basis points to 5.323% as Healey spoke, a broadly positive market reaction.",
+    "why": "It shows how the government is paying for energy support while borrowing costs stay high."
    },
    {
-    "headline": "Healey raises the bank surcharge to pay for energy bill help",
-    "body": "In his first Budget on 28 October, Chancellor John Healey announced a temporary rise in the bank surcharge from 3% to 6%, running from 1 January 2027 to 31 March 2028. Pre-Budget reports had suggested 8%.\nThe package includes a £2.6 billion Household Energy Payment of £100, paid from January 2027 to households in England in council tax bands A to D. Standing charges on gas bills will be scrapped. Scotland, Wales and Northern Ireland get their share under the Barnett formula.\nThe independent Office for Budget Responsibility now expects growth of 1.2% this year and 1.0% in 2027, and inflation peaking at 3.8% in the first quarter of 2027. It says debt will rise to 83.8% of GDP next year before falling, and that the government is meeting its fiscal rules.",
-    "why": "The Budget decides which groups pay more tax and which get support during a period of high energy costs."
+    "headline": "Healey's first Budget removes gas standing charges and raises the bank surcharge",
+    "body": "Chancellor John Healey used his first Budget on 28 October to scrap standing charges on gas bills, which affects around 23 million homes, and to double the surcharge on bank profits from 3% to 6% for 15 months from January 2027.\nMinisters say the surcharge will bring in £1.5 billion towards support for households and businesses, including a £100 winter payment for 20 million households in council tax bands A to D. Healey promised no tax rises on wages or dividends.\nThe official forecaster, the OBR, now expects growth of 1.2% this year and 1% next year. Yet higher interest on government debt, up £14 billion this year, has cut the room for manoeuvre by £9 billion compared with March.\nGovernment bond yields dipped slightly as the Chancellor spoke, suggesting investors were broadly comfortable.",
+    "why": "The Budget tries to ease winter bills without raising taxes on workers, but the public finances remain tight."
    },
    {
-    "headline": "Budget doubles the bank surcharge to fund £100 energy payments",
-    "body": "Chancellor John Healey used his first Budget, on 28 October, to raise the surcharge on bank profits from 3% to 6% for just over a year, from January 2027 to the end of March 2028. That is lower than the 8% many had expected.\nThe government will use the money to help with energy costs. Households in England in council tax bands A to D, up to 20 million of them, will get £100 from January 2027, at a cost of £2.6 billion. Standing charges, the fixed daily fee on gas bills, will be abolished.\nThe official forecaster, the OBR, expects the economy to grow 1.2% this year and 1.0% next year. It says inflation will peak at 3.8% early in 2027 and that the government is keeping to its borrowing rules.",
-    "why": "Energy bills are a big worry for families, and banks are being asked to help cover the cost."
+    "headline": "Budget cuts energy costs for homes and taxes banks more",
+    "body": "John Healey, the Chancellor, set out his first Budget on 28 October. It removes standing charges, the fixed daily fees on gas bills, for around 23 million homes. The cost is partly covered by a bigger tax on banks.\nThe bank surcharge goes from 3% to 6% for 15 months from January 2027, raising an expected £1.5 billion. There will also be a £100 payment this winter for 20 million households in council tax bands A to D.\nHealey said wages and dividends will not face higher taxes. The Office for Budget Responsibility expects the economy to grow 1.2% this year. However, the government is spending £14 billion more on debt interest, which leaves less spare money for future plans.\nBond markets reacted calmly, with borrowing costs edging down.",
+    "why": "Many households will see lower fixed energy costs, while banks face a bigger tax bill."
    },
    {
-    "headline": "Chancellor taxes banks more to help with energy bills",
-    "body": "Chancellor John Healey set out his first Budget on 28 October. Banks will pay a higher surcharge on their profits, rising from 3% to 6% from January 2027 until March 2028. Some reports had expected it to go as high as 8%.\nThe extra money helps pay for support with energy bills. About 20 million households in England in council tax bands A to D will get a £100 payment from January 2027, costing £2.6 billion. The fixed daily standing charge on gas bills will also be removed.\nThe Office for Budget Responsibility, which gives independent forecasts, thinks the economy will grow by 1.2% this year and 1.0% in 2027. It expects prices to rise fastest, at 3.8% a year, early in 2027, and says the government is following its own borrowing rules.",
-    "why": "It affects what households pay for energy and how much banks pay in tax."
+    "headline": "Chancellor scraps gas standing charges and taxes banks more in first Budget",
+    "body": "Chancellor John Healey has delivered his first Budget, promising help with energy bills and paying for part of it by taxing banks more.\nStanding charges, the fixed daily amount on a gas bill, will go for around 23 million homes. Instead, those costs will be added to the price of each unit of gas used. The bank surcharge will double from 3% to 6% for 15 months from January 2027 and is expected to raise £1.5 billion. A £100 winter payment is planned for 20 million households in council tax bands A to D.\nHealey said there would be no tax rises on wages or dividends. The official forecast for growth this year is 1.2%. But the government now pays £14 billion more in debt interest, so it has less room to spend.",
+    "why": "It affects what families pay to heat their homes this winter."
    },
    {
-    "headline": "The Budget asks banks to pay more and gives households £100 towards energy",
-    "body": "On 28 October the Chancellor, John Healey, announced his first Budget. Banks will pay a bigger extra tax on their profits for about fifteen months: the surcharge goes from 3% to 6% between January 2027 and March 2028.\nPart of the money pays for a £100 payment to households in England in council tax bands A to D, which are the lower-value homes. Up to 20 million households could get it from January 2027. The government is also ending standing charges on gas bills. A standing charge is a fixed daily fee that you pay even if you use no gas.\nThe independent forecaster, the OBR, expects the economy to grow by 1.2% this year. It also expects prices to keep rising faster than usual until early 2027, peaking at 3.8%.",
-    "why": "It could lower household bills this winter, while asking banks to carry some of the cost."
+    "headline": "Budget: gas standing charges to go, banks to pay more tax",
+    "body": "Chancellor John Healey has announced his first Budget. The main aim is to help families with energy bills this winter.\nA standing charge is a fixed fee you pay each day for a gas supply, even if you use none. The Budget removes it for around 23 million homes, and the cost moves into the price of the gas itself. There will also be a £100 payment for 20 million households in council tax bands A to D.\nTo help pay, banks will pay a higher extra tax on their profits. It rises from 3% to 6% for 15 months from January 2027 and should raise £1.5 billion. Healey said he would not raise taxes on wages or dividends.\nThe government is also paying £14 billion more in interest on its debts this year, which limits what it can spend.",
+    "why": "It could lower fixed costs on household energy bills, but the government still has little spare money."
    },
    {
-    "headline": "Banks will pay more tax, and households will get help with energy bills",
-    "body": "The government has published its Budget, which is its yearly plan for taxes and spending. The Chancellor, John Healey, announced it on 28 October.\nBanks will pay more tax on their profits. An extra charge on them goes up from 3% to 6% from January 2027 until March 2028. The government will use some of that money to help people pay for energy. Homes in England in council tax bands A to D, which are the lower-priced homes, will get £100 from January 2027. That could help up to 20 million households. Gas bills will also lose the standing charge, a daily fee that stays the same however much gas you use.\nIndependent experts at the OBR think the economy will grow a little this year and next. They expect prices to rise fastest in early 2027.",
-    "why": "It helps ordinary families with winter bills, and shows how governments pay for that help."
+    "headline": "Budget helps with energy bills and makes banks pay more",
+    "body": "The Chancellor, John Healey, has set out the government's plans for taxes and spending. This is called the Budget.\nGas bills have a fixed daily fee called a standing charge. You pay it even if you use no gas. The Budget ends this fee for around 23 million homes. The cost will be added to the price of the gas people use instead. There will also be a £100 payment this winter for 20 million households in council tax bands A to D.\nBanks will pay more tax on their profits for a while. The extra tax goes from 3% to 6% and should raise £1.5 billion. Healey said workers will not pay higher taxes on wages.\nThe government also owes a lot of money and must pay interest on it, now £14 billion more than before.",
+    "why": "It changes how some household bills are charged and who pays for the help."
    },
    {
-    "headline": "Banks pay more tax so families can get help with energy bills",
-    "body": "Every year the government explains its plans for taxes and spending. This is called the Budget. The Chancellor, John Healey, gave this year's on 28 October.\nBanks will have to pay more tax on their profits for a while. The extra tax will double, from 3% to 6%, between January 2027 and March 2028. The government will use some of the money to help with energy bills. Lots of homes in England, up to 20 million, will get £100 in January 2027. Gas bills will also stop having a standing charge. That is a fixed fee you pay every day, even when you use no gas.\nA group of independent experts called the OBR checks the sums. It thinks prices will keep going up quite fast until early 2027.",
-    "why": "It means some families get cash to help pay the heating bill this winter."
+    "headline": "The Budget: help with gas bills, and a bigger tax for banks",
+    "body": "Every year the Chancellor says how the government will raise and spend money. This year the Chancellor is John Healey, and he spoke on 28 October.\nOne big change is to gas bills. Most bills include a fixed daily fee, called a standing charge, which you pay even if you use no gas. It is going for around 23 million homes. Another is a £100 payment this winter for 20 million households in council tax bands A to D. Council tax bands sort homes by value.\nThe money comes partly from banks. They will pay a bigger extra tax, 6% instead of 3%, for 15 months. That should raise £1.5 billion. Healey said taxes on wages will not go up.\nThe government borrows money too, and the interest it pays has risen by £14 billion this year.",
+    "why": "It affects the bills families pay to keep warm."
    },
    {
-    "headline": "The government will take more tax from banks to help people pay for energy",
-    "body": "The Chancellor is the person who looks after the country's money. His name is John Healey. On 28 October he told Parliament how the government will collect and spend money. This plan is called the Budget.\nBanks make a lot of profit, and they already pay a bit of extra tax. That extra tax will double for about a year and a half. The government will use some of it to help with energy bills. Many families in England will get £100 in January. Gas bills will also lose a daily fee that people used to pay even if they used no gas.\nA team of experts checks the plan. They think prices will keep rising faster than we would like until early next year.",
-    "why": "Some families will have a bit more money to heat their homes."
+    "headline": "A big plan for money: help with heating bills",
+    "body": "Once a year, the person in charge of the government's money explains the plan. This person is the Chancellor. This year it is John Healey.\nHe said gas bills will change. At the moment many bills have a fixed fee each day, even if you use no gas. That fee is called a standing charge. It will end for around 23 million homes. Some families will also get £100 this winter to help with heating.\nWhere does the money come from? Banks will pay more tax. A tax is money people and firms pay to the government. Banks will pay twice as much extra tax for a while, 6% instead of 3%. That should raise £1.5 billion.\nThe government also owes money and pays interest on it. That bill has grown by £14 billion.",
+    "why": "It could make heating a home cheaper for many families this winter."
    },
    {
-    "headline": "The government is asking banks to pay more so families can pay less for energy",
-    "body": "Imagine your school needs money for a new playground. The grown-ups decide the biggest businesses should chip in a bit more. That is a little like what the government has just done.\nThe man in charge of the country's money is called the Chancellor, and his name is John Healey. He has said that banks must pay more tax for a while. Some of that money will help families pay for gas and electricity. Lots of families in England will get £100 in January. Gas bills will also lose a fixed daily fee.\nSome experts have checked the plan. They think prices will keep going up a bit faster than usual until early next year.",
-    "why": "It is a way of sharing the cost of heating homes, so families do not have to carry it alone."
+    "headline": "The government has a plan to help with heating bills",
+    "body": "The Chancellor looks after the country's money. His name is John Healey. He has made a plan for the year.\nMany homes pay a fixed fee for gas each day. It does not matter how much gas they use. This fee will stop. Around 23 million homes will not pay it. Some families will also get £100 this winter to help pay for heat.\nThe government needs money to pay for this. It will ask banks to pay more tax. Tax is money that firms and people give to the government. Banks will pay a bit more for just over a year. That will raise £1.5 billion.\nThe government also borrowed money before. It has to pay a fee called interest for borrowing. That fee is now bigger.",
+    "why": "It may help families keep their homes warm."
    },
    {
-    "headline": "Banks will chip in so families get help with heating",
-    "body": "Think of a school bake sale. Everyone gives a little so the class can pay for something nice. The grown-ups in charge of the country have done something like that.\nThey said that banks, which look after people's money, must pay a bit more. Then some families will get £100 to help pay for heating. Heating keeps houses warm when it is cold, so this is a kind thing.\nIt is also a bit like pocket money. A country has only so much, so the grown-ups have to choose carefully who gets it. They also check that they are not spending more than they can afford, so there are no nasty surprises later.",
-    "why": "The grown-ups share out money so more families can stay warm."
+    "headline": "Helping families stay warm",
+    "body": "Imagine your class has a money jar. A grown-up called the Chancellor decides how it is used. His name is John Healey.\nHe said families should pay less for heating. Some bills have a daily fee, like paying to enter a shop before you buy anything. That fee will stop for gas in around 23 million homes. Some families will also get £100 this winter.\nTo fill the jar, banks will pay more tax. Tax is money shared to pay for things everyone uses. The banks will pay a bit more for just over a year, and that should bring in £1.5 billion.\nThe country has also borrowed money, a bit like borrowing pocket money. It must pay a little extra for that, and the extra has grown.",
+    "why": "It is meant to help families keep warm without the government spending money it has not got."
    }
   ]
  },
  {
-  "id": "us-stocks-third-straight-gain-28-oct",
+  "id": "us-stocks-fall-alphabet",
   "order": 2,
   "topic": "Economy",
   "region": "United States",
   "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
-  "headline": "US stocks close higher for a third straight day after the Fed holds rates",
+  "url": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
+  "headline": "Wall Street falls as Alphabet suffers its worst day ever, ending the S&P 500's three-day rise",
   "terms": [
    {
     "term": "S&P 500",
-    "meaning": "An index tracking 500 of the largest companies listed in the US."
+    "meaning": "An index tracking the share prices of 500 large US companies."
+   },
+   {
+    "term": "Free cash flow",
+    "meaning": "The cash a company has left after paying its running costs and investments."
    },
    {
     "term": "Nasdaq Composite",
     "meaning": "An index dominated by technology companies."
-   },
-   {
-    "term": "Dow Jones Industrial Average",
-    "meaning": "An index of 30 big US companies."
    }
   ],
   "levels": [
    {
-    "headline": "US stocks close higher for a third straight day after the Fed holds rates",
-    "body": "US stocks closed higher on Wednesday 28 October, the last completed trading session, for a third straight day. The S&P 500 rose 0.28% to close at 7,743.98. The Dow Jones Industrial Average gained 97.53 points, or 0.19%, to 52,475.10, and the Nasdaq Composite added 0.27% to 26,549.85.\nThe rise followed the Federal Reserve's decision to leave interest rates unchanged at 3.75% to 4%. Two policymakers wanted a quarter-point increase, which markets read as a sign that rate rises could return.\nOil prices also moved higher that day, and investors are weighing higher borrowing costs against steady company earnings. Trading Economics reported a slightly different Dow close of about 52,509, so the exact figure varies by source.",
-    "why": "Share prices reflect confidence about the economy and affect pensions and savings."
+    "headline": "Wall Street falls as Alphabet suffers its worst day ever, ending the S&P 500's three-day rise",
+    "body": "The S&P 500 closed down about 0.3% at 7,720.39 on Thursday 29 October, the last completed session, ending a three-day winning run. The Dow Jones Industrial Average lost 132.54 points, or 0.25%, to 52,342.56, and the Nasdaq Composite fell 1.38% to 26,184.72.\nThe main drag was Alphabet, the owner of Google. Its shares fell nearly 13% in their worst day since it listed in 2004, wiping out roughly $500 billion in market value. The company missed forecasts for revenue and earnings in the third quarter and reported negative free cash flow of $9.07 billion.\nAlphabet kept its 2026 capital spending forecast at $195 billion to $205 billion. Renewed doubts about how long the heavy spending on artificial intelligence can pay off weighed on other technology shares.",
+    "why": "A single giant company's results can move the whole market and the savings and pensions tied to it."
    },
    {
-    "headline": "Wall Street extends its winning run to three days as the Fed stands pat",
-    "body": "US shares finished higher on Wednesday 28 October, the latest completed session, marking a third consecutive daily gain. The S&P 500 was up 0.28% at 7,743.98, the Dow Jones Industrial Average rose 0.19% to 52,475.10, and the Nasdaq Composite advanced 0.27% to 26,549.85.\nInvestors had been waiting for the Federal Reserve, which held its policy rate at 3.75% to 4%. Two members voted for a quarter-point rise, and traders now expect the Fed may raise rates before the end of the year.\nThe gains were modest. Higher oil prices and the chance of more expensive borrowing are still worries, even though the main indices remain close to record territory. Other data providers show slightly different Dow figures.",
-    "why": "Markets show how investors judge interest rates and inflation, which feed through to savers and borrowers."
+    "headline": "US stocks slip as Alphabet tumbles on a disappointing quarter",
+    "body": "US shares ended lower on Thursday 29 October, the latest completed session. The S&P 500 fell about 0.3% to close at 7,720.39, its first fall after three straight gains. The Dow lost 132.54 points, or 0.25%, to 52,342.56, while the Nasdaq Composite dropped 1.38% to 26,184.72.\nAlphabet, Google's parent company, led the decline. It fell almost 13%, its biggest one-day drop since going public in 2004, after missing expectations for revenue and profit and reporting negative free cash flow of $9.07 billion.\nInvestors are uneasy about how much big technology firms are spending on artificial intelligence. Alphabet said it still expects to spend $195 billion to $205 billion this year, and that unease spread to other tech stocks.",
+    "why": "It shows how much the market now depends on the AI spending plans of a few large firms."
    },
    {
-    "headline": "S&P 500, Dow and Nasdaq all rise for a third day after the Fed holds rates",
-    "body": "On Wednesday 28 October, the last full trading day, the main US stock indices all rose for the third session in a row. The S&P 500, which tracks 500 big companies, gained 0.28% to finish at 7,743.98. The Dow, made up of 30 large companies, rose 0.19% to 52,475.10. The Nasdaq Composite, which leans towards technology, climbed 0.27% to 26,549.85.\nThe moves came after the Federal Reserve kept its interest rate at 3.75% to 4%. Two of its decision makers would have preferred a small increase. That suggests rates could go up later.\nThe daily gains were small. Investors are still keeping an eye on oil prices and inflation.",
-    "why": "Share prices affect pension funds and savings, so they matter beyond Wall Street."
+    "headline": "US shares fall after Alphabet's weak results",
+    "body": "The main US stock index, the S&P 500, closed down about 0.3% on Thursday 29 October, finishing at 7,720.39. That was the last full trading session. It ended three days of gains.\nThe Dow Jones fell 132.54 points, or 0.25%, to 52,342.56. The Nasdaq, which holds many technology firms, dropped 1.38% to 26,184.72.\nThe fall was driven by Alphabet, the company behind Google. Its shares dropped almost 13%, the biggest one-day fall since it joined the stock market in 2004. It had missed forecasts for sales and profit. It also spent more cash than it brought in, with negative free cash flow of $9.07 billion.\nSome investors now worry that the huge sums spent on artificial intelligence may not pay off quickly.",
+    "why": "Falls in big technology shares can affect pension funds and savings that hold them."
    },
    {
-    "headline": "US shares rise again after the Federal Reserve keeps interest rates the same",
-    "body": "US stock markets ended higher on Wednesday 28 October, which was the most recent full day of trading. It was the third day in a row of gains. The S&P 500 index, which follows 500 of America's biggest companies, rose 0.28% to 7,743.98. The Dow Jones index went up 0.19% to 52,475.10, and the Nasdaq, packed with technology firms, went up 0.27% to 26,549.85.\nThe good mood followed news that the Federal Reserve, America's central bank, did not change interest rates. Two of its members wanted a small rise, so traders think a rise might come before long.\nThe rises were small, so this is a steady day rather than a big jump.",
-    "why": "Shares reflect how confident investors feel, which can affect pensions and jobs."
+    "headline": "Wall Street ends lower as Google's owner has its worst day",
+    "body": "US shares fell on Thursday 29 October, the last complete day of trading. The S&P 500, which tracks 500 big US firms, closed down about 0.3% at 7,720.39. Before that it had risen for three days in a row.\nThe Dow Jones lost 132.54 points, or 0.25%, to finish at 52,342.56. The Nasdaq, packed with technology companies, fell 1.38% to 26,184.72.\nAlphabet, which owns Google, caused most of the damage. Its share price fell nearly 13%, its worst day since it first listed in 2004. Its sales and profit came in below forecasts, and it spent more cash than it earned. That left a negative free cash flow of $9.07 billion.\nThis made investors ask if big spending on artificial intelligence will bring enough money back.",
+    "why": "Big tech firms make up a large part of the market, so their news matters to savers."
    },
    {
-    "headline": "American shares go up for the third day running",
-    "body": "Shares in big American companies went up again on Wednesday 28 October. This was the last full day of trading, and it was the third rise in a row. Experts follow three main lists of company shares. The S&P 500 rose 0.28% to 7,743.98. The Dow rose 0.19% to 52,475.10. The Nasdaq, which has lots of technology firms, rose 0.27% to 26,549.85.\nThe rises came after the US central bank, the Federal Reserve, said it would leave interest rates where they are. Two of its leaders wanted a small increase, so more rises could come later.\nThe changes were small, so there was no big excitement.",
-    "why": "Share prices show how people feel about the economy, and many pensions are invested in them."
+    "headline": "US shares fall because Google's owner had a bad quarter",
+    "body": "Share prices in the United States went down on Thursday 29 October. This was the last full day of trading. A stock index is a score showing how a group of shares is doing. The S&P 500 covers 500 big firms. It fell about 0.3% to 7,720.39 after three days of rising.\nThe Dow Jones, another index, fell 0.25% to 52,342.56. The Nasdaq, which has many technology firms, fell 1.38% to 26,184.72.\nThe main reason was Alphabet, the company that owns Google. Its share price dropped almost 13%, its worst day ever. It earned less than people had expected and spent more cash than it took in.\nInvestors worry that spending so much on artificial intelligence may not pay off soon.",
+    "why": "Many people's savings are invested in shares, so big falls can matter to them."
    },
    {
-    "headline": "US share prices edge up again after rates are left alone",
-    "body": "A stock market is a place where people buy and sell small pieces of companies, called shares. In America, share prices went up on Wednesday 28 October. It was the third rise in a row.\nPeople track share prices using lists called indexes. The S&P 500 follows 500 big companies. It went up by 0.28% to 7,743.98. The Dow follows 30 big companies and went up 0.19% to 52,475.10. The Nasdaq, which has lots of technology firms, went up 0.27% to 26,549.85.\nThe US central bank, the Fed, kept its interest rate the same. Interest rate is the price of borrowing money. Two Fed leaders wanted it to go up a little. The rises in share prices were small.",
-    "why": "Many pension savings are invested in shares, so rising prices can help ordinary savers."
+    "headline": "Share prices fall in the US after Google's owner has a bad quarter",
+    "body": "Share prices in the United States went down on Thursday 29 October, the last full day of trading. The S&P 500, which follows 500 big American firms, fell about 0.3% to 7,720.39 after three days of gains. The Dow Jones lost 0.25% to 52,342.56, and the Nasdaq, full of technology firms, fell 1.38% to 26,184.72.\nThe main reason was Alphabet, which owns Google. Its shares dropped almost 13% in one day, its worst ever. It had sold less and earned less than experts expected, and it spent more cash than it brought in.\nAlphabet is also spending a huge amount on artificial intelligence. Investors are asking whether that money will come back. When they worry, they sell shares, and prices fall.",
+    "why": "Share prices affect pensions and savings, so big falls can matter to ordinary people."
    },
    {
-    "headline": "US shares go up a little for the third day in a row",
-    "body": "Companies sell tiny pieces of themselves, called shares. People buy them, hoping the shares will be worth more later. On Wednesday 28 October, American share prices went up a little for the third day running.\nThere are lists that show how shares are doing. The S&P 500 list has 500 big companies, and it went up by 0.28%. The Dow list has 30 companies, and it went up 0.19%. The Nasdaq list has lots of technology companies, and it went up 0.27%. That is less than one penny in every pound.\nThe US bank in charge of money, the Fed, did not change interest rates. Interest is the extra money you pay when you borrow. People think it might go up soon.",
-    "why": "Many people's savings are tied up in shares, so small moves matter."
+    "headline": "American share prices dip after Google's parent company disappoints",
+    "body": "On Thursday 29 October, share prices in the United States went down. A share is a small piece of a company. People buy and sell them, and the price goes up and down each day.\nThe S&P 500 is a score for 500 big American firms. It fell about 0.3%, to 7,720.39. The Dow Jones, another score, fell 0.25%. The Nasdaq, which is full of technology firms, fell 1.38%.\nThe biggest fall was Alphabet, which owns Google. Its shares dropped almost 13% in one day, the worst day since it began in 2004. It sold less than people expected and spent more cash than it earned.\nPeople now ask if spending so much money on artificial intelligence will pay off.",
+    "why": "If shares drop, pensions and savings that hold them can lose value for a while."
    },
    {
-    "headline": "American shares rose a little for a third day",
-    "body": "Think of shares as tiny slices of a big pizza company. If lots of people want a slice, the price goes up. This week, the prices of many American company slices went up for the third day in a row.\nPeople keep score with lists. One list follows 500 big companies. It rose by 0.28%, which is a very small step up. Another follows 30 big companies and rose 0.19%. A third has lots of computer and phone companies, and it rose 0.27%.\nThe people in charge of America's money decided not to change the cost of borrowing. Two of them wanted it to go up a bit. So the grown-ups are watching to see what happens next.",
-    "why": "It tells us that investors feel fairly calm, and that matters for savings and jobs."
+    "headline": "Share prices fall after a big company's bad news",
+    "body": "A share is a tiny slice of a company. When many people want it, its price goes up. When they do not, it goes down.\nOn Thursday 29 October, the main score for American shares, the S&P 500, went down by about 0.3%. Two other scores, the Dow and the Nasdaq, went down by 0.25% and 1.38%.\nThe biggest fall was for Alphabet, the company that owns Google. Its shares fell almost 13% in a day. That is its worst day ever. The company sold less than people hoped, and it spent more money than it brought in.\nIt is also spending huge amounts on artificial intelligence, or AI. Some people worry this money may not come back quickly.",
+    "why": "Falling share prices can change the value of savings that people hold."
    },
    {
-    "headline": "Share prices in America crept up for a third day",
-    "body": "Imagine a school fair where you can swap tickets for little pieces of the stalls. If lots of people want a piece, the price rises. That is a bit like shares. In America, the prices of lots of shares rose a little on Wednesday for the third day in a row.\nGrown-ups follow lists of shares to see how the whole market is doing. One list of 500 big companies went up by about a quarter of one penny in every pound. Another list of 30 firms, and one with lots of technology firms, also went up a tiny bit.\nAmerica's bank for banks left the price of borrowing money alone. Two of its leaders wanted it to rise slightly.",
-    "why": "It shows people feel steady about money, which helps keep jobs and savings safe."
+    "headline": "Why share prices went down",
+    "body": "Think of a school sale where everyone swaps cards. If a very popular card suddenly looks less special, many children want it less. Its price drops. Shares work in a similar way.\nOn Thursday 29 October, share prices in America went down. The main score, the S&P 500, fell a little, about 0.3%. A score called the Nasdaq fell more, by 1.38%.\nThe card that lost most was Alphabet, the company that owns Google. It had told people it earned less than expected, so many people wanted its shares less. The price dropped almost 13% in one day, its worst day ever.\nIt is also spending huge sums on AI, which is computer smarts. Some people wonder if it will pay off.",
+    "why": "It shows that even very big firms can have a bad day, and that can change what savings are worth."
    },
    {
-    "headline": "Share prices in America went up a tiny bit again",
-    "body": "Some people own tiny pieces of big companies. These pieces are called shares. When the company does well, the pieces can be worth more.\nThis week the price of lots of pieces in America went up a tiny bit, for the third day running. It was only a small step, like growing a tiny bit taller.\nThe people in charge of America's money decided not to change anything this time. That kept people calm. Some of them still think the cost of borrowing money might go up soon, so everybody is watching carefully, like a class waiting to hear what the teacher will say next.",
-    "why": "Many grown-ups keep their savings in shares, so small changes matter to them."
+    "headline": "Why some shares got cheaper",
+    "body": "Imagine a toy that everyone wants. Then people hear it is not as good as they thought. Fewer people want it, so it gets cheaper. That happened to some shares in America on Thursday.\nA share is a small piece of a company. The score for 500 big firms, the S&P 500, went down a little, about 0.3%. Another score, the Nasdaq, went down by 1.38%.\nThe biggest drop was Alphabet, which owns Google. It told everyone it had earned less than hoped. Its shares fell almost 13% in one day, which was its worst day ever.\nIt is spending a lot of money on AI. People are asking if that money will come back. When people worry, prices can go down.",
+    "why": "It reminds us that prices of shares can go up and down, sometimes quickly."
    }
   ]
  },
  {
-  "id": "uk-inflation-3-5-september",
+  "id": "burnham-national-economic-council",
   "order": 3,
+  "topic": "Politics",
+  "region": "United Kingdom",
+  "source": "GOV.UK",
+  "url": "https://www.gov.uk/government/news/pms-message-to-devolved-governments-work-with-me-to-empower-every-single-part-of-the-uk",
+  "headline": "Burnham offers devolved governments a partnership on regional empowerment at the first National Economic Council for the nations",
+  "terms": [
+   {
+    "term": "Devolution",
+    "meaning": "Moving decision-making powers from central government to nations, regions or cities."
+   },
+   {
+    "term": "Devolved government",
+    "meaning": "The governments of Scotland, Wales and Northern Ireland, which control some of their own affairs."
+   },
+   {
+    "term": "Reindustrialisation",
+    "meaning": "Rebuilding manufacturing and other industry in places that lost it."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Burnham offers devolved governments a partnership on regional empowerment at the first National Economic Council for the nations",
+    "body": "Prime Minister Andy Burnham met the First Ministers of Scotland and Wales, John Swinney and Rhun ap Iorwerth, in Glasgow on 30 October for the first National Economic Council for the nations. Northern Ireland was also represented. It is the first such meeting since he became Prime Minister.\nAccording to a GOV.UK release, Burnham used the meeting to offer each devolved government a partnership on regional empowerment, telling them to \"work with me to empower every single part of the UK\". The agenda covered opportunities for young people, reindustrialisation and giving regions and cities more decision-making power.\nHe is pitching devolution that goes deeper within nations, rather than only moving powers between parliaments. The release also said £1 billion will be invested across the UK over four years in innovation clusters. No concrete decisions from the talks had been published at the time of writing.",
+    "why": "It shows how the new Prime Minister wants to share power between Westminster, the nations and local areas."
+   },
+   {
+    "headline": "Burnham meets First Ministers in Glasgow and offers a partnership on devolution",
+    "body": "Prime Minister Andy Burnham met Scotland's First Minister John Swinney and Wales's First Minister Rhun ap Iorwerth on 30 October in Glasgow for the first National Economic Council for the nations. Northern Ireland was represented too.\nA government release said Burnham offered each devolved government a partnership, urging them to \"work with me to empower every single part of the UK\". Talks were due to cover young people's opportunities, rebuilding industry and handing more decisions to regions and cities.\nHe argues for devolution within the nations, not just between parliaments. The government also pointed to £1 billion of investment over four years in innovation clusters, groups of research and business hubs. The outcome of the talks had not been published.",
+    "why": "The meeting tests whether the UK government and the devolved governments can agree on shared economic goals."
+   },
+   {
+    "headline": "PM invites Scotland and Wales to work together on regional power",
+    "body": "Andy Burnham, the Prime Minister, met the leaders of Scotland and Wales, John Swinney and Rhun ap Iorwerth, in Glasgow on 30 October. It was the first meeting of a new body called the National Economic Council for the nations. Northern Ireland also took part.\nThe government says Burnham offered each devolved government a partnership and asked them to \"work with me to empower every single part of the UK\". Topics included jobs for young people, rebuilding industry and giving regions and cities more say in decisions.\nThe government also highlighted £1 billion of investment over four years in innovation clusters across the UK. There was no word yet on any firm decisions.",
+    "why": "It could change how much power towns, cities and nations have over their own economies."
+   },
+   {
+    "headline": "Prime Minister meets Scotland and Wales leaders to talk about sharing power",
+    "body": "Prime Minister Andy Burnham met the First Ministers of Scotland and Wales, John Swinney and Rhun ap Iorwerth, in Glasgow on 30 October. The meeting was the first National Economic Council for the nations, and Northern Ireland was represented as well.\nThe government says Burnham offered each of them a partnership. He asked them to \"work with me to empower every single part of the UK\". They were due to discuss jobs and chances for young people, bringing industry back to places that lost it, and giving regions and cities more say.\nThe government also said £1 billion will be invested over four years in innovation clusters, which are areas where new ideas and businesses grow together. No decisions had been announced.",
+    "why": "It affects who makes decisions about jobs and money where people live."
+   },
+   {
+    "headline": "PM meets leaders of Scotland and Wales in Glasgow",
+    "body": "Andy Burnham is the Prime Minister. On 30 October he met the leaders of Scotland and Wales in Glasgow. They are John Swinney and Rhun ap Iorwerth. Northern Ireland was there too.\nScotland, Wales and Northern Ireland each have their own governments for some matters, like schools and health. These are called devolved governments. The meeting was the first of a new group, the National Economic Council for the nations.\nBurnham offered a partnership. He wants to give more decision-making power to regions and cities, not just nations. They talked about chances for young people and bringing industry back. The government also said £1 billion will go to places where new ideas and businesses grow. No decisions were announced yet.",
+    "why": "It is about who decides things in your area, such as jobs and training."
+   },
+   {
+    "headline": "PM meets Scotland and Wales leaders to talk about sharing power more widely",
+    "body": "Prime Minister Andy Burnham met the leaders of Scotland and Wales, John Swinney and Rhun ap Iorwerth, in Glasgow on 30 October. Northern Ireland was represented too. It was the first meeting of the National Economic Council for the nations.\\nThe UK government in London makes some decisions for everyone. Scotland, Wales and Northern Ireland have their own governments for other matters. Burnham said, \\\"work with me to empower every single part of the UK\\\". He wants towns, cities and regions to get a bigger say as well.\\nThey were due to talk about jobs for young people and bringing industry back. The government also pointed to £1 billion over four years for innovation clusters, places where new businesses and research grow together. No decisions have been announced.",
+    "why": "Decisions made closer to home can shape local jobs and services."
+   },
+   {
+    "headline": "The Prime Minister meets Scotland and Wales to share power",
+    "body": "Andy Burnham is the Prime Minister. On 30 October he met two leaders in Glasgow, John Swinney of Scotland and Rhun ap Iorwerth of Wales. Northern Ireland sent people as well.\nThe UK has one main government in London. Scotland, Wales and Northern Ireland also have their own governments for some things, such as health and schools. Burnham wants them to work with him. He said, \"work with me to empower every single part of the UK\".\nHe wants towns and cities to have more say too. They talked about jobs for young people and bringing back industry. The government also said £1 billion will be spent over four years to help new businesses and ideas grow. No decisions were shared.",
+    "why": "It could mean more local control over things that affect young people's futures."
+   },
+   {
+    "headline": "Leaders meet to talk about sharing power across the UK",
+    "body": "The Prime Minister is called Andy Burnham. On 30 October he met the leaders of Scotland and Wales in a city called Glasgow. Their names are John Swinney and Rhun ap Iorwerth.\nThe UK is made of four parts: England, Scotland, Wales and Northern Ireland. Some parts have their own governments to make some choices. Burnham asked them to work together. He wants more choices to be made close to where people live, in towns and cities too.\nThey talked about jobs for young people and building things again in places that used to make lots of goods. The government also said it will spend £1 billion over four years to help new ideas grow. Nothing has been decided yet.",
+    "why": "Choices made nearby can shape jobs and schools for young people."
+   },
+   {
+    "headline": "Leaders talk about sharing the job of running the country",
+    "body": "The UK has four parts: England, Scotland, Wales and Northern Ireland. The leader of the whole country is the Prime Minister, Andy Burnham. On 30 October he met the leaders of Scotland and Wales in Glasgow.\nSome of the parts make their own choices on things like schools. Burnham asked them to work with him. He wants towns and cities to have a say too, not just the big governments.\nThey talked about jobs for young people and about making things in factories again. The government also said it will spend £1 billion over four years to help new ideas grow into businesses. Nobody has said yet what will be decided.",
+    "why": "Where decisions are made can change what happens in your own town."
+   },
+   {
+    "headline": "Grown-ups meet to share the work",
+    "body": "Think of a school with a head teacher and different class teachers. The head makes some choices. The class teachers make others. The UK is a bit like that.\nThe Prime Minister, Andy Burnham, is like the head. On 30 October he met the leaders of Scotland and Wales, John Swinney and Rhun ap Iorwerth. They run their own parts of the UK for some things.\nBurnham asked them to work together as a team. He would like even more choices to be made in towns and cities. They talked about jobs for young people. The government also said it will spend £1 billion to help new ideas grow. Nobody has said what will be decided yet.",
+    "why": "Good teamwork between leaders can help young people find work later."
+   }
+  ]
+ },
+ {
+  "id": "uk-eu-summit-free-movement",
+  "order": 4,
+  "topic": "Politics",
+  "region": "United Kingdom",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/10/25/uk-prime-minister-andy-burnham-wants-honest-discussion-on-return-to-eu-free-movement",
+  "headline": "Burnham wants an 'honest discussion' on EU free movement ahead of the 20 November Brussels summit",
+  "terms": [
+   {
+    "term": "Free movement",
+    "meaning": "The right of people in EU countries to live and work in each other's countries without a visa."
+   },
+   {
+    "term": "Youth experience scheme",
+    "meaning": "A plan letting young people live and work abroad for a limited time."
+   },
+   {
+    "term": "Single market",
+    "meaning": "The EU trading area with shared rules on goods, services and people."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Burnham wants an 'honest discussion' on EU free movement ahead of the 20 November Brussels summit",
+    "body": "Prime Minister Andy Burnham has said the UK should have an \"honest discussion\" about how immigration has changed since Brexit, as the UK and EU prepare for a summit in Brussels on 20 November, according to Euronews reporting of a Sunday Times interview.\nHe has ruled out joining the euro or the Schengen travel area, and has said he is committed to the 2024 Labour manifesto, which ruled out free movement, single market membership and a customs union. No agreement on free movement has been confirmed.\nOn the table at the summit are a trade deal on food and drink, progress on linking emissions trading and energy systems, a youth experience scheme and deeper cooperation on immigration. The sides are far apart on youth visas: the UK has pushed for a cap below 50,000, Brussels up to 150,000. Nigel Farage called Burnham's comments a \"total betrayal of Brexit Britain\".",
+    "why": "The summit could set the UK's relationship with its biggest trading partner for years."
+   },
+   {
+    "headline": "Burnham calls for 'honest discussion' on free movement before UK-EU summit",
+    "body": "Prime Minister Andy Burnham has called for an \"honest discussion\" about how immigration has changed since Brexit, ahead of a UK-EU summit in Brussels on 20 November. The comments came in a Sunday Times interview reported by Euronews.\nBurnham has ruled out joining the euro or Schengen and says he stands by the 2024 Labour manifesto, which ruled out free movement, single market membership and a customs union. Nothing on free movement has been agreed.\nThe summit agenda includes a food and drink trade deal, linking emissions trading and energy systems, a youth experience scheme and cooperation on immigration. The UK wants fewer than 50,000 young visas, while the EU wants up to 150,000. Nigel Farage described Burnham's remarks as a \"total betrayal of Brexit Britain\".",
+    "why": "How far the UK moves towards the EU is a major political and economic question."
+   },
+   {
+    "headline": "Burnham open to 'honest discussion' on free movement as EU summit nears",
+    "body": "Prime Minister Andy Burnham says the UK should have an \"honest discussion\" about immigration since Brexit. He spoke before a summit between the UK and the EU in Brussels on 20 November, in an interview with the Sunday Times reported by Euronews.\nHe has ruled out joining the euro or the Schengen travel area. He says he is bound by the 2024 Labour manifesto, which rejected free movement, the single market and a customs union. No deal on free movement has been confirmed.\nTalks will cover food and drink trade, emissions trading and energy links, a youth experience scheme and immigration. The two sides disagree on visa numbers for young people, with the UK suggesting under 50,000 and the EU up to 150,000. Nigel Farage said the comments were a \"total betrayal of Brexit Britain\".",
+    "why": "It is a test of how close the UK will get to the EU after Brexit."
+   },
+   {
+    "headline": "PM wants 'honest discussion' about free movement before EU summit",
+    "body": "Prime Minister Andy Burnham has said Britain should have an \"honest discussion\" about how immigration has changed since Brexit. A UK-EU summit will be held in Brussels on 20 November.\nFree movement means people from EU countries can live and work in each other's countries without a visa. Burnham has not agreed to bring it back. He has ruled out joining the euro or the Schengen travel zone, and says he stands by Labour's 2024 manifesto, which ruled out free movement, the single market and a customs union.\nThe summit will look at food and drink trade, energy links, a youth experience scheme and immigration. The UK has suggested fewer than 50,000 visas for young people, while the EU wants up to 150,000. Nigel Farage called the comments a \"total betrayal of Brexit Britain\".",
+    "why": "The talks could change trade, travel and work rules for Britons and Europeans."
+   },
+   {
+    "headline": "PM says UK should talk honestly about free movement with the EU",
+    "body": "Andy Burnham, the Prime Minister, says the UK should have an \"honest discussion\" about immigration since Brexit. A big meeting between the UK and the EU is due in Brussels on 20 November.\nFree movement is a rule that lets people from EU countries live and work in each other's countries without needing a visa. The UK left it when it left the EU in 2020. Burnham has not agreed to bring it back. He has said no to the euro and to the Schengen travel area. He also says he will stick to Labour's 2024 promises, which ruled out free movement.\nAt the summit they will talk about trade in food and drink, energy, and a scheme for young people to live and work abroad. They disagree on how many young people should be allowed. Nigel Farage called the comments a \"total betrayal of Brexit Britain\".",
+    "why": "It could affect trade and whether young people can live and work abroad."
+   },
+   {
+    "headline": "Burnham says the UK should talk plainly about free movement before the EU summit",
+    "body": "Prime Minister Andy Burnham says the UK should have an \\\"honest discussion\\\" about immigration since Brexit. A summit between the UK and the EU takes place in Brussels on 20 November.\\nFree movement means people from EU countries can live and work in each other's countries without a visa. The UK ended it after Brexit. Burnham has not said it will return. He has ruled out the euro and the Schengen travel area, and says Labour's 2024 manifesto ruled out free movement, the single market and a customs union.\\nThe talks will cover food and drink trade, energy links, a youth experience scheme and immigration. The sides disagree on youth visa numbers: the UK suggested under 50,000 and the EU up to 150,000. Nigel Farage called Burnham's comments a \\\"total betrayal of Brexit Britain\\\".",
+    "why": "The outcome could change trade and travel between the UK and Europe."
+   },
+   {
+    "headline": "PM open to talks about free movement before a UK and EU meeting",
+    "body": "Prime Minister Andy Burnham says Britain should have an \"honest discussion\" about how many people have come to the UK since Brexit. Brexit is when the UK left the EU. The UK and the EU will meet in Brussels on 20 November.\nFree movement means people in EU countries can live and work in each other's countries without a visa. Burnham has not said it will come back. He has said the UK will not join the euro or the Schengen travel area. He also says Labour promised in 2024 not to bring back free movement.\nThey will talk about food trade, energy, and a scheme for young people to live and work abroad for a time. The two sides disagree on how many young people can take part. Nigel Farage said the comments were a \"total betrayal of Brexit Britain\".",
+    "why": "The meeting could decide how easy it is to trade with and travel to Europe."
+   },
+   {
+    "headline": "PM wants to talk openly about free movement with Europe",
+    "body": "Brexit was when the UK left the European Union, the group of countries in Europe that work closely together. The Prime Minister, Andy Burnham, now says the UK should have an \"honest discussion\" about people moving between the UK and the EU. A big meeting is planned in Brussels on 20 November.\nFree movement means people from EU countries can live and work in each other's countries without a visa. Burnham has not said it will come back. He says he will keep Labour's 2024 promise, which was not to bring it back.\nAt the meeting they will talk about trading food and drink and a plan for young people to live and work abroad for a while. The two sides disagree about how many young people can go. Nigel Farage was angry about the comments.",
+    "why": "It could change how easy it is for young people to study or work abroad."
+   },
+   {
+    "headline": "The UK and Europe plan to talk",
+    "body": "The UK used to be part of the European Union, a group of countries that work together. The UK left in 2020. This is called Brexit. Now the Prime Minister, Andy Burnham, wants an honest talk about how people move between the UK and Europe.\nThere will be a big meeting in Brussels on 20 November. They will talk about selling food and drink, about energy, and about a plan for young people to live and work abroad for a short time. The two sides do not agree yet on how many young people can take part.\nBurnham has not said people will be free to move again. Some politicians, such as Nigel Farage, were very unhappy about his words.",
+    "why": "It might change how young people can study or work in other countries."
+   },
+   {
+    "headline": "Britain and its neighbours plan a big chat",
+    "body": "Imagine you used to be in a big club with your neighbours. Then you left. Now you are talking about how you might work together again. That is a bit like Britain and the European Union.\nThe Prime Minister, Andy Burnham, says he wants an honest chat about people moving between the UK and Europe. There will be a big meeting on 20 November in a city called Brussels.\nThey will talk about swapping food and drink, sharing energy, and letting young people live and work in another country for a short time. They do not yet agree on how many young people can go. Some people were angry about the chat. Nothing has been decided yet.",
+    "why": "It might one day change where young people can go to work or study."
+   }
+  ]
+ },
+ {
+  "id": "uk-inflation-boe-rate-rise",
+  "order": 5,
   "topic": "Economy",
   "region": "United Kingdom",
-  "source": "ONS and CNBC",
-  "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026",
-  "headline": "UK inflation rises to 3.5% in September, driven by fuel, and rate rise bets grow",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+  "headline": "UK inflation jumps to 3.5% as markets expect the Bank of England to raise rates on 5 November",
   "terms": [
    {
     "term": "Inflation",
@@ -164,149 +314,374 @@
    },
    {
     "term": "Core inflation",
-    "meaning": "Inflation leaving out energy, food, alcohol and tobacco."
+    "meaning": "Inflation leaving out food and energy, which swing a lot."
    },
    {
     "term": "Bank Rate",
-    "meaning": "The Bank of England's interest rate, which influences loan and savings rates."
+    "meaning": "The Bank of England's main interest rate, which influences mortgage and savings rates."
    }
   ],
   "levels": [
    {
-    "headline": "UK inflation rises to 3.5% in September, driven by fuel, and rate rise bets grow",
-    "body": "UK consumer price inflation rose to 3.5% in the 12 months to September 2026, up from 3.1% in August, the Office for National Statistics reported on 21 October. Economists polled by Reuters had expected 3.4%.\nMotor fuel prices were the main driver. Core inflation, which excludes energy, food, alcohol and tobacco, was 2.8%, services inflation was 3.7%, goods inflation reached 3.2%, its highest since September 2023, and CPIH, which includes housing costs, was 3.6%.\nThe Bank of England's Bank Rate stands at 3.75%. In September three of nine policymakers voted for a rise to 4%, and markets widely expect an increase at the next meeting on 5 November. Some traders price two rises by the end of the year. The next inflation figures are due on 18 November.",
-    "why": "Higher inflation squeezes household budgets and makes higher interest rates more likely."
+    "headline": "UK inflation jumps to 3.5% as markets expect the Bank of England to raise rates on 5 November",
+    "body": "UK consumer price inflation rose to 3.5% in the 12 months to September, up from 3.1% in August and above the 3.4% economists expected. Core inflation, which strips out food and energy, rose to 2.8% from 2.6%.\nFuel was the main driver, with motor fuel prices up 29.8% on a year earlier. Services inflation has also quickened, which analysts read as a sign that higher energy costs are feeding through to the wider economy.\nThe Bank of England's benchmark Bank Rate is 3.75%, against a 2% inflation target. Markets strongly expect a rise at the next meeting on 5 November, which would be the first since 2023, and one note said traders had priced in at least three quarter-point rises by April 2027.\nThe Budget forecasts say inflation will peak at 3.8% in early 2027.",
+    "why": "Higher rates would raise borrowing costs for mortgage holders and businesses."
    },
    {
-    "headline": "Inflation jumps to 3.5% as fuel costs bite, strengthening the case for a rate rise",
-    "body": "Annual consumer price inflation reached 3.5% in September 2026, compared with 3.1% in August, according to the Office for National Statistics. Forecasters had expected 3.4%. The ONS published the figures on 21 October.\nRising motor fuel costs were the main cause. Core inflation was 2.8% and services inflation 3.7%, while goods inflation reached 3.2%, the highest since September 2023.\nThe Bank of England holds Bank Rate at 3.75%, and three of nine members voted for a rise in September. Markets widely expect the Bank to raise rates on 5 November, and some traders expect two rises by the end of the year. The next ONS inflation release is on 18 November.",
-    "why": "It decides how far prices keep rising and whether mortgages and loans get dearer."
+    "headline": "Inflation rises to 3.5% and a Bank of England rate rise looks likely next week",
+    "body": "UK inflation climbed to 3.5% in September from 3.1% in August, beating forecasts of 3.4%. Core inflation, excluding food and energy, rose to 2.8% from 2.6%.\nMotor fuel prices were 29.8% higher than a year earlier and were the biggest cause. Services inflation also picked up, suggesting higher energy costs are spreading through the economy.\nThe Bank of England holds its main rate at 3.75% and aims for 2% inflation. Traders widely expect it to raise rates on 5 November, which would be its first increase since 2023. Some market pricing points to at least three rises by April 2027.\nThe government's forecasts in the Budget show inflation peaking at 3.8% in the first quarter of 2027.",
+    "why": "Rate decisions affect mortgages, savings and the cost of borrowing for firms."
    },
    {
-    "headline": "UK inflation climbs to 3.5% because of higher fuel prices",
-    "body": "Prices in the UK were 3.5% higher in September than a year earlier, the Office for National Statistics said on 21 October. In August the figure was 3.1%. Economists had expected 3.4%.\nThe biggest reason was the cost of petrol and diesel. Core inflation, which leaves out energy, food, alcohol and tobacco, was lower at 2.8%. Prices of services rose 3.7%, and prices of goods rose 3.2%, the fastest since 2023.\nThe Bank of England sets interest rates to keep inflation under control. Its rate is 3.75%, and many people think it will go up on 5 November. Some traders think there could be two rises before the end of the year. The next figures are due on 18 November.",
-    "why": "Rising prices and rising interest rates both change what people can afford."
+    "headline": "Inflation hits 3.5%, raising hopes the Bank of England will lift rates",
+    "body": "Prices in the UK were 3.5% higher in September than a year earlier. That is up from 3.1% in August and above the 3.4% that experts predicted. Core inflation, which leaves out food and energy, rose to 2.8%.\nThe biggest cause was fuel. Petrol and diesel prices were 29.8% higher than a year before. Prices for services such as travel and hospitality have also risen faster, which suggests higher energy costs are spreading.\nThe Bank of England's main interest rate is 3.75%, and its target for inflation is 2%. Markets strongly expect it to raise rates on 5 November, the first rise since 2023. Government forecasts say inflation will peak at 3.8% in early 2027.",
+    "why": "Higher interest rates could make mortgages and loans more expensive."
    },
    {
-    "headline": "Prices are rising faster again, mostly because of fuel",
-    "body": "The cost of living went up faster in September. The Office for National Statistics said prices were 3.5% higher than a year before, compared with 3.1% in August. Experts had guessed 3.4%.\nThe main cause was more expensive petrol and diesel. A different measure of inflation, called core inflation, leaves out energy, food, alcohol and tobacco. It was 2.8%. The cost of services such as haircuts and train tickets rose 3.7%, and the cost of goods rose 3.2%.\nThe Bank of England sets the main interest rate, which is 3.75%. Many experts think it will raise the rate on 5 November to slow price rises. Some think two rises could come by the end of the year. The next figures arrive on 18 November.",
-    "why": "It affects the price of your shopping, and the cost of a mortgage or loan."
+    "headline": "UK inflation rises to 3.5%, and an interest rate rise is expected",
+    "body": "Inflation in the UK, the rate prices rise, went up to 3.5% in September from 3.1% in August. Experts had expected 3.4%. A measure that leaves out food and energy, called core inflation, rose to 2.8%.\nFuel was the main reason. Petrol and diesel cost 29.8% more than a year ago. Prices for services have also risen faster, which shows that high energy costs are spreading through the economy.\nThe Bank of England sets the main interest rate, now 3.75%. Its target for inflation is 2%. Investors strongly expect it to raise the rate on 5 November, which would be its first rise since 2023. Government forecasts say inflation will peak at 3.8% early in 2027.",
+    "why": "A rate rise would affect people with mortgages and loans."
    },
    {
-    "headline": "Prices rose faster in September, mainly because petrol and diesel cost more",
-    "body": "Inflation is the speed at which prices go up. In September it was 3.5%, which means a typical basket of shopping cost 3.5% more than a year earlier. In August the rate was 3.1%. This was a bit higher than experts had expected.\nMost of the rise came from fuel. Petrol and diesel cost more. If you take out energy, food, alcohol and tobacco, the number is lower, at 2.8%. This is called core inflation. Things you pay for as a service, such as haircuts, rose 3.7%.\nThe Bank of England can raise its interest rate to slow prices down. It is now 3.75%, and many people think it will rise on 5 November. The next price figures come out on 18 November.",
-    "why": "Higher prices mean your money buys less, and higher rates make borrowing cost more."
+    "headline": "Prices are rising faster, so interest rates may go up",
+    "body": "Inflation means prices rising over time. In September, UK prices were 3.5% higher than a year before. In August the figure was 3.1%. Experts had thought it would be 3.4%.\nPetrol and diesel are the biggest reason. They cost nearly 30% more than a year ago. Prices for services, like travel and eating out, have also gone up faster.\nThe Bank of England is in charge of the main interest rate. That rate is 3.75% now. It wants inflation to be 2%. Many experts think the Bank will raise the rate on 5 November, for the first time since 2023. Raising rates is a way to slow price rises.\nThe government thinks inflation will peak at 3.8% early in 2027.",
+    "why": "Higher rates make borrowing cost more but can help keep prices steady."
    },
    {
-    "headline": "Prices are going up faster, mostly because fuel costs more",
-    "body": "Inflation means prices going up over time. In September the rate was 3.5%. That means something that cost £100 a year ago now costs about £103.50. In August the rate was 3.1%, so prices have sped up.\nMost of the extra rise came from petrol and diesel. If you leave out energy, food, alcohol and tobacco, prices rose by less, 2.8%. The cost of services like haircuts went up 3.7%.\nThe Bank of England is in charge of interest rates. Interest is the price of borrowing money. Right now it is 3.75%. When prices rise too fast, the Bank can make borrowing dearer so people spend less. Many experts think it will do that on 5 November.",
-    "why": "If prices rise faster than wages, families can afford less."
+    "headline": "Prices are rising faster and the Bank of England is expected to raise interest rates",
+    "body": "UK prices were 3.5% higher in September than a year earlier, up from 3.1% in August. Experts had expected 3.4%. Petrol and diesel cost 29.8% more than a year ago, which is the biggest reason. Services such as travel and eating out are also getting dearer.\\nThe Bank of England sets the main interest rate, called Bank Rate, which is 3.75% now. Its target is for prices to rise by 2% a year. Many experts think it will raise the rate on 5 November, the first rise since 2023. Higher rates make borrowing cost more but can slow price rises.\\nSome traders expect at least three rises by April 2027. The government thinks inflation will peak at 3.8% in early 2027.",
+    "why": "A rate rise would change what many families pay on mortgages and loans."
    },
    {
-    "headline": "Shop prices are rising a bit faster, mostly because fuel costs more",
-    "body": "When prices go up over the year, that is called inflation. A year ago, a toy might have cost £100. Now the same toy might cost £103.50. That is what 3.5% means. It was 3.1% last month, so prices are speeding up.\nThe main reason is that petrol and diesel cost more. Take away energy and food, and prices went up less.\nThe Bank of England looks after interest rates. Interest is the extra money you pay back when you borrow. The Bank can make it higher to slow rising prices. The rate is 3.75% now, and many people think the Bank will raise it on 5 November.\nWhen prices go up and wages do not, families can buy less.",
-    "why": "It affects how far a family's money goes each week."
+    "headline": "Prices rose faster in September, so interest rates may go up",
+    "body": "Inflation is how fast prices go up. In September, UK prices were 3.5% higher than a year earlier. In August the figure was 3.1%. That is quicker than experts expected.\nThe main reason is fuel. Petrol and diesel cost almost 30% more than a year ago. Things like travel and eating out have also got dearer.\nThe Bank of England looks after the main interest rate, the cost of borrowing money. It is 3.75% now. The Bank wants prices to rise by only 2% a year. Many people expect it to raise the rate on 5 November. This would be the first rise since 2023. A higher rate can slow price rises.\nThe government thinks inflation will peak at 3.8% early in 2027.",
+    "why": "Interest rates change what families pay on loans and mortgages."
    },
    {
-    "headline": "Prices in shops went up a bit faster last month",
-    "body": "Prices change over time, and usually they go up a little. Last month they went up faster than before. Experts say prices are now 3.5% higher than a year ago. If a sweet cost £1 last year, it might cost about 3 or 4 pence more now.\nA big reason is that petrol and diesel cost more. Cars and lorries need fuel, and when fuel is dear many other things become dear too.\nThere is a bank called the Bank of England. It looks after the cost of borrowing money, called the interest rate. If prices rise too quickly, the bank can make borrowing cost more. Many people think it will do this soon.",
-    "why": "When things cost more, families need to be careful with their pocket money and wages."
+    "headline": "Why prices are rising and interest rates may go up",
+    "body": "Inflation means things cost more than before. In September, prices in the UK were 3.5% higher than a year ago. A pound buys a bit less than it did.\nThe biggest cause is fuel. Petrol and diesel cost almost 30% more than a year ago. Other things, like travel, are getting dearer too.\nThere is a special bank for the whole country, the Bank of England. It sets an interest rate. This is the extra price you pay to borrow money, or the reward you get for saving. The rate is 3.75% now. Many people think the Bank will raise it on 5 November. It does this to slow down price rises.\nThe government thinks prices will rise fastest in early 2027.",
+    "why": "It affects the cost of borrowing and what your money can buy."
    },
    {
-    "headline": "Things cost a little more than before, mostly because of fuel",
-    "body": "Think about your favourite sweet. Last year it cost £1. Now it might cost 3 or 4 pence more. When lots of things cost a bit more than last year, grown-ups call it inflation.\nIt has sped up. A big reason is that petrol and diesel cost more. Lorries and cars need them to bring things to the shops, so lots of other things cost more too.\nThere is a special bank for the whole country, called the Bank of England. It is like the boss of the banks. It can make borrowing money cost more, which helps stop prices rising so fast. Lots of people think it will do that soon.",
-    "why": "When prices rise, the coins in your pocket buy a little less."
+    "headline": "Prices are going up faster, and borrowing may cost more",
+    "body": "Prices go up over time. This is called inflation. In September, things in the UK cost 3.5% more than a year before. A pound buys a little less than it did.\nPetrol and diesel are a big reason. They cost almost 30% more than last year. Other things like travel cost more too.\nThe Bank of England is like the country's money manager. It sets an interest rate, which is the price of borrowing money. If you borrow, you pay extra. If you save, you get extra. The rate is 3.75% now. Many people think the Bank will raise it on 5 November to slow price rises.\nThe government thinks prices will rise fastest early next year.",
+    "why": "A higher rate can make loans cost more but can help prices calm down."
    },
    {
-    "headline": "Things in shops cost a little more than before",
-    "body": "Imagine a packet of sweets that cost £1 last year. Now it costs a few pennies more. When lots of things cost a bit more, grown-ups call it inflation.\nPrices went up a little faster last month. A big reason was that petrol and diesel cost more. Lorries and cars need them to carry things to the shops, so lots of other things cost more too.\nThere is a big bank for the whole country. It can make borrowing money cost more, which helps stop prices rising so quickly. Many grown-ups think it might do that soon, so they are watching closely.",
-    "why": "When prices rise, the coins in your pocket buy a little less."
+    "headline": "Prices go up, and so might the cost of borrowing",
+    "body": "Imagine a sweet that cost £1 last year. Now it costs a bit more. When lots of things cost more, that is called inflation. In September, prices in the UK were 3.5% higher than last year.\nPetrol and diesel have gone up the most. They cost almost a third more than last year. That makes other things dearer too.\nA bank called the Bank of England sets the price of borrowing money. If you borrow pocket money from a friend, you might pay back a little extra. That extra is interest. Many people think the Bank will make it a bit bigger on 5 November. That can help slow prices from going up so fast.",
+    "why": "It affects how far money goes and what families pay when they borrow."
    }
   ]
  },
  {
-  "id": "uk-ukraine-package-defence-3-percent-2030",
-  "order": 4,
-  "topic": "Politics",
-  "region": "United Kingdom",
-  "source": "GOV.UK and CNBC",
-  "url": "https://www.gov.uk/government/news/uk-boosts-support-to-ukraine-with-10-billion-package",
-  "headline": "UK brings forward its defence spending target to 2030 and unveils a £10 billion Ukraine package",
+  "id": "ecb-holds-lagarde-exit",
+  "order": 6,
+  "topic": "Economy",
+  "region": "Europe",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe",
+  "headline": "ECB holds rates at 2.5% as Lagarde announces she will leave early in February 2027",
   "terms": [
    {
-    "term": "NATO",
-    "meaning": "A military alliance of countries, including the UK, that defend each other."
+    "term": "Deposit rate",
+    "meaning": "The interest rate the ECB pays banks for money left with it; its key policy rate."
    },
    {
-    "term": "UK Export Finance",
-    "meaning": "The government body that backs loans and insurance for exports."
+    "term": "Eurozone",
+    "meaning": "The 20-odd EU countries that use the euro."
    },
    {
-    "term": "World Bank guarantee",
-    "meaning": "A promise that the World Bank will cover a loan if it is not repaid."
+    "term": "Hawkish pause",
+    "meaning": "Holding rates while signalling that rises may follow."
    }
   ],
   "levels": [
    {
-    "headline": "UK brings forward its defence spending target to 2030 and unveils a £10 billion Ukraine package",
-    "body": "In the 28 October Budget, Chancellor John Healey set 2030 as the date for UK defence spending to reach 3% of GDP, and reaffirmed the NATO goal of 3.5% by 2035. Details are due at next year's spending review.\nThe government called its Ukraine package the largest ever. It includes £7 billion of economic support over three years, with up to £5.5 billion of World Bank guarantees and a £500 million grant to the World Bank's crisis facility. A further £500 million will fund air defences this winter, and UK Export Finance capacity for Ukraine rises by £3 billion to £6.5 billion, mainly for military support.\nThe National Wealth Fund and British Business Bank will put up to £5 billion over four years into defence and dual-use technology. One analyst said the plans lacked detail.",
-    "why": "It sets how much of the UK's money goes to defence and to supporting Ukraine."
+    "headline": "ECB holds rates at 2.5% as Lagarde announces she will leave early in February 2027",
+    "body": "The European Central Bank kept its deposit rate at 2.5% on 29 October, after two rate rises this year, the latest in September. Inflation across the euro area has reached 3.8%, almost double the ECB's 2% target and the highest since September 2023, driven mainly by energy costs linked to the war involving Iran.\nPresident Christine Lagarde said the decision was unanimous but that policymakers seriously debated a rise. Markets read it as a hawkish pause, with traders pricing about a 67% chance of a quarter-point increase in December.\nLagarde also said she will leave on 7 February 2027, around nine months before her eight-year term ends, saying she cannot \"remain neutral\" given recent developments. Spain's Pablo Hernández de Cos and the Netherlands' Klaas Knot are seen as leading candidates to succeed her. The European Council will appoint the new president.",
+    "why": "The ECB's rate decisions shape borrowing costs across Europe, and its next leader will steer them."
    },
    {
-    "headline": "Healey pulls forward the 3% defence target and pledges record support for Ukraine",
-    "body": "Chancellor John Healey told MPs on 28 October that defence spending will reach 3% of GDP by 2030, and that the NATO target of 3.5% by 2035 stands. He said the plan to meet these targets will be set out at next year's spending review.\nThe Ukraine package includes £7 billion of economic support over three years, using up to £5.5 billion of World Bank guarantees. There is £500 million for air defences this winter and a £3 billion rise in UK Export Finance capacity, bringing the total to £6.5 billion. This sits on top of the £3 billion a year already committed.\nUp to £5 billion from public investment bodies will go into defence technology. An analyst said the announcement lacked detail.",
-    "why": "The decisions will shape the UK's defence budget and its role in supporting Ukraine."
+    "headline": "ECB pauses at 2.5% while Lagarde confirms an early exit",
+    "body": "The European Central Bank held its key interest rate at 2.5% on 29 October after raising rates twice this year, most recently in September. Euro area inflation is 3.8%, the highest since September 2023 and nearly double the 2% target, with energy costs the main driver.\nChristine Lagarde said the decision to hold was unanimous, though a rise was seriously discussed. Traders see a pause with a bias to tighten, and price about a 67% chance of a rise in December.\nLagarde announced she will step down on 7 February 2027, some nine months before her term was due to end, saying she cannot \"remain neutral\". Pablo Hernández de Cos of Spain and Klaas Knot of the Netherlands are seen as frontrunners to replace her, and the European Council will make the choice.",
+    "why": "Changes at the top of the ECB could affect how Europe handles high inflation."
    },
    {
-    "headline": "UK sets 2030 for 3% defence spending and announces its largest Ukraine package",
-    "body": "Chancellor John Healey said in the Budget on 28 October that the UK will spend 3% of national income on defence by 2030. He also repeated the UK's promise to NATO to reach 3.5% by 2035. How the money will be found will be explained at next year's spending review.\nThe government also announced what it calls its biggest ever support for Ukraine. This includes £7 billion of economic help over three years, £500 million for air defences this winter, and £3 billion more capacity for loans and insurance backing exports, mainly for military support. This is on top of £3 billion a year already promised.\nA further £5 billion over four years will go into defence technology. One analyst said the plan lacked detail.",
-    "why": "It affects taxes and spending, and the UK's place alongside its allies."
+    "headline": "ECB holds interest rates and Lagarde says she will leave early",
+    "body": "The European Central Bank left its main interest rate at 2.5% on 29 October. It had raised rates twice this year, the last time in September. Inflation in the euro area is 3.8%, the highest since September 2023 and well above the 2% target. High energy costs are the main cause.\nPresident Christine Lagarde said the vote to hold was unanimous but that members seriously discussed raising rates. Investors think a rise in December is likely, giving it about a 67% chance.\nLagarde also announced she will leave on 7 February 2027, about nine months before her eight-year term ends. She said she cannot \"remain neutral\" given recent developments. Spain's Pablo Hernández de Cos and the Netherlands' Klaas Knot are seen as likely successors.",
+    "why": "Interest rates in the euro area affect loans, savings and prices for millions of people."
    },
    {
-    "headline": "The UK will spend more on defence sooner and give Ukraine a bigger support package",
-    "body": "The Chancellor, John Healey, said in the Budget on 28 October that the UK will spend 3% of what the country earns on defence by 2030. The UK has also promised its NATO allies it will reach 3.5% by 2035. The government will explain next year how it plans to pay for this.\nThe UK also announced its biggest ever package for Ukraine. It includes £7 billion in help for Ukraine's economy over three years and £500 million for air defences this winter. The government is also widening its backing for loans and insurance to Ukraine by £3 billion, mainly for military items. It already gives £3 billion a year.\nSome £5 billion will also go into defence technology. One expert said there was little detail.",
-    "why": "Defence spending competes with other things the government could spend money on, like health and schools."
+    "headline": "European Central Bank keeps rates at 2.5% and its president says she is leaving",
+    "body": "The European Central Bank (ECB) kept its main interest rate at 2.5% on 29 October. It is the bank for the countries that use the euro. It raised rates twice this year to fight rising prices. Inflation there is now 3.8%, nearly double its 2% target, mostly because energy costs are high.\nThe president, Christine Lagarde, said all members agreed to hold, but they talked seriously about raising rates. Investors now think there is about a 67% chance of a rise in December.\nLagarde also said she will leave on 7 February 2027, around nine months early. She said she cannot \"remain neutral\" when she sees what is happening. Pablo Hernández de Cos and Klaas Knot are seen as possible replacements.",
+    "why": "The ECB's choices affect prices and borrowing costs in countries that use the euro."
    },
    {
-    "headline": "The UK promises to spend more on defence and help Ukraine more",
-    "body": "The government's chief money minister, called the Chancellor, is John Healey. On 28 October he said the UK will spend 3% of everything the country earns on its defence by 2030. That is sooner than planned. The UK has also promised its friends in NATO, an alliance of countries who protect each other, to reach 3.5% by 2035.\nHe also announced the UK's biggest ever help for Ukraine, which is fighting a war with Russia. That includes £7 billion over three years to help Ukraine's economy and £500 million for air defences this winter. Air defences are systems that stop missiles and drones.\nSome extra money will go into defence technology. One expert said more details are needed.",
-    "why": "It shows how the UK balances paying for defence with paying for everything else."
+    "headline": "European bank leaves interest rates alone, and its boss will leave early",
+    "body": "The European Central Bank, or ECB, looks after money for countries that use the euro. On 29 October it kept its main interest rate at 2.5%. It raised the rate twice earlier this year to fight rising prices, which are called inflation.\nPrices in these countries are now rising by 3.8% a year. The ECB wants only 2%. The main reason is the high cost of energy. All the members agreed to keep rates the same, but they talked seriously about raising them. Investors think there is a good chance of a rise in December.\nThe boss, Christine Lagarde, said she will leave in February 2027, nine months before she had to. Two names being talked about to replace her are Pablo Hernández de Cos and Klaas Knot.",
+    "why": "Interest rates change what people pay on loans and earn on savings in Europe."
    },
    {
-    "headline": "The UK will spend more on defence sooner, and send big help to Ukraine",
-    "body": "The government has to decide how to use the country's money. One thing it spends on is defence, which means the army, navy and air force. On 28 October, the Chancellor, John Healey, said defence spending will rise to 3% of what the country earns by 2030. That is sooner than before.\nThe UK also said it will give Ukraine its biggest ever help. Ukraine is a country that was attacked by Russia. The UK will give £7 billion over three years to help keep Ukraine's economy running. It will also give £500 million for air defences, which protect against missiles and drones.\nThe plan does not yet say exactly where all the money comes from. That will be explained next year.",
-    "why": "It matters because defence costs a lot, and the money must come from taxes or borrowing."
+    "headline": "Europe's central bank keeps rates at 2.5%, and its president will leave early",
+    "body": "The European Central Bank, which sets interest rates for countries using the euro, left its main rate at 2.5% on 29 October. It raised rates twice earlier this year to fight rising prices. Prices in the euro area are now rising 3.8% a year, nearly double its 2% target, mostly because energy costs a lot.\\nAll members voted to hold, but they talked seriously about a rise. Investors now think a rise in December has about a 67% chance.\\nThe president, Christine Lagarde, also said she will leave on 7 February 2027, about nine months before her term ends. She said she cannot \\\"remain neutral\\\". Possible successors include Pablo Hernández de Cos and Klaas Knot. European leaders will choose.",
+    "why": "The ECB's decisions affect loans, savings and prices across the euro area."
    },
    {
-    "headline": "The UK will spend more to protect itself and to help Ukraine",
-    "body": "Countries pay for armies and equipment to keep people safe. This is called defence. On 28 October, the person in charge of the UK's money, John Healey, said the UK will spend more on defence. By 2030 it will use 3 pence of every pound the country earns on it.\nThe UK is also helping Ukraine, a country that has been in a war. It will give much more help than before, including £7 billion over three years for its economy and £500 million to defend against missiles and drones.\nGrown-ups still need to explain exactly how the UK will find all this money. That will happen next year.",
-    "why": "Money spent on defence cannot be spent on other things, so leaders must choose."
+    "headline": "Europe's central bank holds rates; its leader says she will step down",
+    "body": "Many countries in Europe share one kind of money, the euro. One bank, the European Central Bank, sets the main interest rate for them. On 29 October it kept that rate at 2.5%. It had raised it twice this year.\nPrices in these countries are rising by 3.8% a year. That is almost twice what the bank wants, which is 2%. Energy costs are the main reason. People who watch the bank think it might raise the rate in December.\nThe boss of the bank, Christine Lagarde, also said she will leave in February 2027. That is about nine months earlier than planned. People have named two possible new bosses, Pablo Hernández de Cos from Spain and Klaas Knot from the Netherlands.",
+    "why": "It affects prices, loans and savings for many people in Europe."
    },
    {
-    "headline": "The UK says it will spend more on keeping safe and will help Ukraine",
-    "body": "Every country has to decide how much to spend on keeping its people safe. This is called defence. The UK's money boss, called the Chancellor, said the UK will spend more on it. By 2030, three pence of every pound the country earns will go on defence.\nThe UK also wants to help a country called Ukraine, which has been fighting in a war. It is giving a very big amount of help. Some pays to keep Ukraine's shops and schools running. Some pays for equipment to stop missiles.\nBut the money has to come from somewhere. The grown-ups will explain how next year.",
-    "why": "Spending on one thing means less for another, so these choices matter to everyone."
+    "headline": "Europe's money bank pauses and its boss will leave",
+    "body": "Lots of countries in Europe use the same money, called the euro. A bank called the European Central Bank looks after it. On 29 October, this bank said it would not change its main interest rate. It stays at 2.5%.\nInterest is the extra money you pay when you borrow, or get when you save. The bank had put the rate up twice this year, because prices were rising too fast. Prices there are going up by 3.8% a year. The bank wants only 2%. High energy costs are the main cause.\nThe boss, Christine Lagarde, said she will leave in February 2027. That is early. People are talking about who might replace her.",
+    "why": "It helps decide how much it costs to borrow money in Europe."
    },
    {
-    "headline": "The UK will spend more to keep people safe and will help Ukraine",
-    "body": "Imagine your class has a pot of money for the year. You can spend it on books, games or a trip. Countries have a big pot too, and they must choose. On 28 October the UK said it will spend more on defence, which is the army, navy and air force that keep people safe.\nThe UK will also help Ukraine, a country in a war. It will send lots of money to help families there and to buy things that stop missiles.\nThere is only one pot, though. If more goes to defence, less may be left for other things. The grown-ups will explain next year how they will manage it.",
-    "why": "Like a class pot of money, a country's budget has to be shared carefully."
+    "headline": "A big bank keeps its rate the same",
+    "body": "A group of countries in Europe all use the same money, the euro. They share one big bank that looks after it. It is called the European Central Bank.\nOn 29 October, the bank said it would keep its interest rate at 2.5%. Interest is the extra you pay when you borrow money. Prices have been going up fast, partly because energy costs a lot. The bank had raised the rate twice this year to help slow this down. It may raise it again in December.\nThe boss of the bank, Christine Lagarde, also said she will leave in February 2027. That is earlier than planned. A new boss will be picked by leaders in Europe.",
+    "why": "Its choices can change how much things cost for families in Europe."
    },
    {
-    "headline": "The UK will spend more on staying safe and on helping a friend",
-    "body": "Imagine you have a jar of money for the whole year. You must choose between books, games and a trip. A country has a big jar like this too, and it must choose carefully.\nThis week the UK said it will put more of its money into defence. Defence means the people and the equipment that keep us safe.\nThe UK also wants to help Ukraine, a country that is in a war. So it will give a lot of money to help people there. The grown-ups will explain next year how they will pay for it all, because the jar can only hold so much.",
-    "why": "A country's jar of money is limited, so leaders must choose what matters most."
+    "headline": "A big bank in Europe makes a choice",
+    "body": "Imagine a class where everyone uses the same pretend money. One student is the banker and decides how much extra to charge when someone borrows. In real life, a big bank does this for many countries in Europe. It is called the European Central Bank.\nOn 29 October, the banker said the extra charge, called the interest rate, would stay at 2.5%. Prices have been going up quickly, partly because energy costs a lot. The bank wants prices to rise slowly. It may raise the charge again in December.\nThe head of the bank, Christine Lagarde, said she will leave in February 2027. That is earlier than planned. Leaders will choose someone new.",
+    "why": "It matters because the cost of borrowing touches many families."
    }
   ]
  },
  {
-  "id": "oil-brent-115-saudi-refinery-iran",
-  "order": 5,
+  "id": "eu-gas-price-100-euros",
+  "order": 7,
+  "topic": "Economy",
+  "region": "Europe",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/10/28/european-gas-price-crosses-100-for-first-time-since-2022-as-eu-warns-of-new-crisis",
+  "headline": "European gas price crosses €100 for the first time since 2022 as the EU warns of a new energy crisis",
+  "terms": [
+   {
+    "term": "TTF",
+    "meaning": "The Dutch gas price benchmark used across Europe, quoted in euros per megawatt-hour."
+   },
+   {
+    "term": "LNG",
+    "meaning": "Liquefied natural gas, gas chilled into liquid so ships can carry it."
+   },
+   {
+    "term": "Gas storage",
+    "meaning": "Underground stores filled in summer to supply winter heating."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "European gas price crosses €100 for the first time since 2022 as the EU warns of a new energy crisis",
+    "body": "The benchmark European gas price rose above €100 per megawatt-hour on Wednesday 28 October for the first time since the 2022 crisis. The front-month Dutch TTF contract traded at €100.37 at 16:00 CET, up more than 4%. It remains well below the record of about €340 in August 2022.\nEU Energy Commissioner Dan Jørgensen said: \"Once again, due to geopolitical turbulence, Europe faces another energy crisis.\" EU gas storage stood at 75% on 21 October, according to ACER, short of the usual target of 90% by 1 November, which countries have been allowed to apply more flexibly.\nJørgensen has urged governments to keep cutting gas and electricity demand. Goldman Sachs analysts had said prices would need to rise above €100 to curb Asian demand if Middle East LNG exports recover only gradually through 2027.",
+    "why": "Gas prices feed into household bills, industry costs and inflation across Europe."
+   },
+   {
+    "headline": "European gas tops €100 for the first time since 2022",
+    "body": "European wholesale gas prices rose above €100 per megawatt-hour on 28 October for the first time since 2022. The Dutch TTF benchmark hit €100.37 at 16:00 CET, up more than 4% on the day. The record is about €340, set in August 2022.\nThe EU's Energy Commissioner, Dan Jørgensen, warned that \"Europe faces another energy crisis\" because of geopolitical turbulence. According to ACER, EU gas storage was 75% full on 21 October, below the usual 90% target for 1 November, though countries have been given flexibility.\nJørgensen has asked governments to keep reducing gas and electricity use. Goldman Sachs analysts have said prices above €100 could be needed to curb Asian demand if Middle East liquefied gas exports recover slowly through 2027.",
+    "why": "Higher wholesale gas prices usually mean higher energy bills and inflation later."
+   },
+   {
+    "headline": "Gas prices in Europe pass €100 as the EU warns of a new crisis",
+    "body": "Gas prices in Europe went above €100 per megawatt-hour on 28 October. This is the first time since 2022. The Dutch TTF price, the main European benchmark, reached €100.37, up more than 4% in a day. It is still far below the record of about €340 in August 2022.\nEU Energy Commissioner Dan Jørgensen said Europe \"faces another energy crisis\". Gas stores in the EU were 75% full on 21 October, short of the normal 90% target for 1 November, although countries can be flexible about it.\nJørgensen wants governments to keep cutting how much gas and electricity people use. Goldman Sachs analysts said prices might need to go above €100 to reduce demand in Asia if Middle East gas exports return only slowly.",
+    "why": "It can push up bills and prices for households and businesses."
+   },
+   {
+    "headline": "European gas price tops €100 for the first time in four years",
+    "body": "The price of gas in Europe has risen above €100 per megawatt-hour for the first time since the 2022 energy crisis. It reached €100.37 on 28 October, up more than 4% in a day. The all-time high was about €340 in August 2022.\nThe EU's energy chief, Dan Jørgensen, said Europe \"faces another energy crisis\" because of political turmoil around the world. Gas stores in the EU were only 75% full on 21 October. The usual aim is 90% by 1 November, though countries have been given more freedom to meet it.\nGovernments are being asked to keep using less gas and electricity. Goldman Sachs analysts said prices might have to pass €100 to cut demand in Asia, if Middle East gas shipments recover slowly.",
+    "why": "Gas is used for heating and power, so higher prices can raise bills."
+   },
+   {
+    "headline": "Gas costs more than €100 in Europe, and the EU warns of a crisis",
+    "body": "Gas is used to heat homes and make electricity. In Europe, the wholesale price of gas has gone above €100 for a unit called a megawatt-hour. The last time that happened was in 2022. On 28 October it reached €100.37, up more than 4% in one day.\nThe EU's energy chief, Dan Jørgensen, warned that Europe \"faces another energy crisis\". Countries store gas in summer to use in winter. On 21 October, EU stores were only 75% full. The usual goal is 90% by 1 November. Countries have been allowed some flexibility.\nHe asked governments to keep saving gas and electricity. Experts at Goldman Sachs said high prices may be needed to cut demand in Asia, if gas supplies from the Middle East recover slowly.",
+    "why": "Higher gas prices can mean bigger bills and dearer goods."
+   },
+   {
+    "headline": "Gas passes €100 in Europe and the EU warns of another energy crisis",
+    "body": "The wholesale price of gas in Europe went above €100 per megawatt-hour on 28 October, reaching €100.37. That has not happened since the 2022 energy crisis, though the record was about €340 in August 2022.\\nThe EU's energy chief, Dan Jørgensen, said Europe \\\"faces another energy crisis\\\". Countries store gas in summer for winter. On 21 October, EU stores were only 75% full, short of the usual 90% target for 1 November, although countries can be flexible.\\nGovernments are being told to keep using less gas and electricity. Goldman Sachs analysts said prices may need to rise above €100 to reduce demand in Asia if Middle East gas exports recover slowly.",
+    "why": "Gas prices flow through into heating bills and the cost of goods."
+   },
+   {
+    "headline": "Gas gets very expensive in Europe, and the EU is worried",
+    "body": "Gas heats many homes and makes electricity. In Europe, the price of gas just went above €100 for a unit called a megawatt-hour. It has not been this high since 2022. On 28 October it reached €100.37.\nThe EU's energy chief, Dan Jørgensen, said Europe \"faces another energy crisis\". Countries store gas in summer to use in winter, like filling a cupboard with food. On 21 October the stores were only 75% full. The EU normally wants them 90% full by 1 November.\nHe asked governments to keep using less gas and electricity. Experts think the price may need to stay high to make people in Asia buy less, if gas shipped from the Middle East is slow to recover.",
+    "why": "It may make heating and many goods cost more."
+   },
+   {
+    "headline": "Gas prices jump in Europe",
+    "body": "Gas is used to heat homes and to make electricity. In Europe, gas got very expensive. The price went above €100 for a standard amount, which has not happened since 2022.\nThe head of energy at the EU, Dan Jørgensen, said Europe \"faces another energy crisis\". Europe stores gas in big underground tanks in summer to use in winter. On 21 October they were only 75% full. The EU wanted them 90% full by 1 November. Countries were told they could be a bit flexible.\nHe asked countries to use less gas and electricity. When something is hard to find, its price goes up. Gas shipped from the Middle East has been harder to get.",
+    "why": "When gas costs more, heating and many goods can cost more too."
+   },
+   {
+    "headline": "Keeping warm gets pricey",
+    "body": "Many homes in Europe use gas to stay warm and to cook. Gas has become very expensive. The price went above €100 for a standard amount, the first time since 2022.\nCountries fill huge underground stores with gas in summer, a bit like a squirrel saving nuts for winter. This year the stores were only 75% full on 21 October. The EU wanted them 90% full by 1 November.\nThe EU's energy boss, Dan Jørgensen, warned of another energy crisis. He asked people and firms to use less gas and electricity. When something is scarce, its price goes up. Some gas that comes by ship from the Middle East has been harder to get.",
+    "why": "Warming a home can cost more when gas is scarce."
+   },
+   {
+    "headline": "Why gas costs more",
+    "body": "Think of the last chocolate bar in a shop. If lots of children want it, the shop can charge more. Gas works like that in Europe at the moment.\nGas helps people to heat homes and cook. Its price went above €100 for a standard amount, the first time since 2022. A boss in the EU, Dan Jørgensen, warned of another energy crisis.\nIn summer, countries fill big stores with gas for winter, like saving snacks for later. This year the stores were only 75% full on 21 October. They are supposed to be 90% full by 1 November.\nHe asked people and firms to use less gas and electricity. Less gas coming by ship from the Middle East has pushed up the price.",
+    "why": "If gas is scarce, it can cost families more to stay warm."
+   }
+  ]
+ },
+ {
+  "id": "spain-high-speed-train-crash",
+  "order": 8,
+  "topic": "Politics",
+  "region": "Europe",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/10/29/death-toll-from-spain-train-crash-rises-to-74-as-royals-visit-victims",
+  "headline": "Spain train crash death toll revised to 69 as investigators examine a 'inexplicable' control centre order",
+  "terms": [
+   {
+    "term": "Black box",
+    "meaning": "A recorder in a train that stores data to help investigators work out what happened."
+   },
+   {
+    "term": "Adif",
+    "meaning": "Spain's railway infrastructure manager, which runs the control centres."
+   },
+   {
+    "term": "Control centre",
+    "meaning": "The place where staff direct train movements and signals."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Spain train crash death toll revised to 69 as investigators examine a 'inexplicable' control centre order",
+    "body": "The death toll from Wednesday's high-speed train collision near Urda in Toledo province, on the Madrid to Seville line, has been revised to 69 from the 74 first reported by the transport ministry. Spain's Railway Accident Investigation Commission gave the lower figure, and about 50 people were reported injured.\nA Renfe high-speed train struck the rear of a stopped Iryo service. A safety system failed on the stretch of track, halting several trains. Transport Minister Óscar Puente called a control centre order to resume normal running \"inexplicable\" and said the drivers were not to blame.\nA court in Orgaz has ordered the trains' black boxes seized and a two-kilometre zone around the site closed. Investigators will seek records from the Adif control centre in Madrid. It is Spain's second deadly high-speed collision this year, after the January crash in Adamuz, Córdoba.",
+    "why": "The crash raises serious questions about rail safety in a country that relies heavily on high-speed trains."
+   },
+   {
+    "headline": "Spain train crash toll revised to 69 as control centre order is investigated",
+    "body": "The number of people killed in the high-speed train collision near Urda, in Toledo province, has been revised to 69 from an earlier 74. Spain's Railway Accident Investigation Commission gave the new figure. About 50 people were reported injured.\nA Renfe high-speed train hit the back of a stopped Iryo train on the Madrid to Seville line after a safety system failed on that stretch and several trains were halted. Transport Minister Óscar Puente described a control centre order to resume normal running as \"inexplicable\" and said the drivers were not at fault.\nA court in Orgaz has ordered the black boxes to be seized and a two-kilometre area to be closed. Records from the Adif control centre in Madrid will be requested. This is the second deadly high-speed collision in Spain this year.",
+    "why": "It is the second major high-speed crash in Spain this year, which will increase pressure on rail safety."
+   },
+   {
+    "headline": "Spain train crash: 69 dead as investigators look at a control centre order",
+    "body": "At least 69 people died when two high-speed trains collided near Urda, in Toledo province, on the Madrid to Seville line. Officials lowered the toll from 74 after checking the figures. About 50 people were injured.\nA Renfe train ran into the back of a stopped Iryo train. A safety system had failed on this section of track, and several trains had been halted. Transport Minister Óscar Puente called an order from the control centre to restart normal running \"inexplicable\". He said the drivers were not to blame.\nA court has ordered the trains' black boxes to be seized and the area around the site to be closed off. Investigators will ask for records from the control centre in Madrid. Spain had another deadly high-speed crash in January.",
+    "why": "Investigators must find out how a safety failure led to the collision."
+   },
+   {
+    "headline": "At least 69 killed in Spanish high-speed train collision",
+    "body": "At least 69 people died when two high-speed trains collided near Urda, in Toledo province, on the Madrid to Seville line. The number was first reported as 74, then lowered after checks. Around 50 people were hurt.\nA Renfe train hit the back of a stopped Iryo train. A safety system had failed on that stretch of track, so several trains had been halted. The transport minister, Óscar Puente, said an order from the control centre to start running trains normally again was \"inexplicable\". He said the drivers were not to blame.\nA court has ordered the black boxes, which record train data, to be taken. The area around the site is closed. This is the second deadly high-speed crash in Spain this year, after one in January.",
+    "why": "The cause matters because millions of people travel on Spain's fast trains."
+   },
+   {
+    "headline": "Train crash in Spain kills at least 69 people",
+    "body": "Two fast trains crashed in Spain near a place called Urda, in Toledo province. At least 69 people died. The first report said 74, but this was lowered after checks. About 50 more were hurt.\nOne train hit the back of another that was stopped. A safety system on the track had stopped working, so several trains had been halted. Then, the control centre gave an order to start running trains normally again. The transport minister, Óscar Puente, called this order \"inexplicable\". He said the drivers were not to blame.\nA court has ordered the trains' black boxes to be collected. A black box records what a train did before a crash. This is the second deadly high-speed crash in Spain this year.",
+    "why": "People will want to know why the safety warnings did not stop the trains."
+   },
+   {
+    "headline": "Spain train crash kills at least 69 as investigators study a control centre order",
+    "body": "At least 69 people died when two high-speed trains collided near Urda in Toledo province, on the Madrid to Seville line. The figure was first reported as 74 and was then lowered. About 50 people were injured.\\nA Renfe train hit the back of a stopped Iryo train. A safety system had failed on that stretch of track, so several trains had been halted. Transport Minister Óscar Puente called a control centre order to start running normally again \\\"inexplicable\\\". He said the drivers were not to blame.\\nA court has ordered the trains' black boxes to be taken and the area to be closed. Records from the control centre in Madrid will be requested. It is Spain's second deadly high-speed crash this year.",
+    "why": "Finding the cause matters for the safety of everyone who travels by fast train."
+   },
+   {
+    "headline": "Two fast trains crash in Spain, and at least 69 people die",
+    "body": "Two fast trains crashed in Spain near a town called Urda. At least 69 people died. The first report said 74, but officials lowered the number. About 50 people were hurt.\nOne train hit the back of another that had stopped. A safety system on the track had stopped working. Because of that, several trains were told to wait. The control centre then gave an order to start moving normally again. The transport minister, Óscar Puente, said this order was \"inexplicable\". He said the train drivers were not to blame.\nInvestigators have taken the trains' black boxes. These are like a plane's flight recorder. A court has closed the area. Spain had another bad fast-train crash in January.",
+    "why": "Experts will look at why the trains were allowed to move."
+   },
+   {
+    "headline": "A sad train crash in Spain",
+    "body": "Two fast trains crashed in Spain. The crash was near a town called Urda. At least 69 people died, and about 50 were hurt. The first report said 74 people died, but officials checked and lowered the number.\nOne train was waiting. Another train hit it from behind. A safety system on the track had stopped working. Then someone in the control centre told trains to start moving again. The transport minister said this was \"inexplicable\". He said the drivers did nothing wrong.\nPeople are now looking for answers. They have taken the trains' black boxes. A black box is a machine that records what a train was doing. Spain had another bad train crash in January.",
+    "why": "Finding out why it happened can help keep other passengers safe."
+   },
+   {
+    "headline": "A very sad train accident in Spain",
+    "body": "A very sad accident happened in Spain. Two fast trains crashed near a town called Urda. At least 69 people died, and many others were hurt.\nOne train was standing still. Another train came from behind and hit it. A safety system on the track was not working. People in a control room, who tell trains when to go, gave a wrong order. The transport minister said it made no sense. He said the train drivers did nothing wrong.\nGrown-ups called investigators are now finding out what went wrong. They have taken the trains' black boxes. These record what the trains did. The aim is to learn why it happened so it does not happen again.",
+    "why": "It is important to find out why, so people travelling by train stay safe."
+   },
+   {
+    "headline": "A very sad accident on a train track",
+    "body": "In Spain, there was a very sad accident. Two fast trains crashed. Many people died and others were hurt. Their families and friends are very sad.\nOne train was standing still, and another train came along and bumped into it from behind. The system that keeps trains safe was not working. The people in the control room, who tell trains when to go, also gave a wrong order.\nNow special helpers called investigators are working hard. They are looking at the trains' black boxes, which are like a diary of what the trains did. They want to find out why it happened so it will not happen again.",
+    "why": "Learning from accidents helps keep people safe."
+   }
+  ]
+ },
+ {
+  "id": "israel-election-no-majority",
+  "order": 9,
+  "topic": "Politics",
+  "region": "Middle East",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
+  "headline": "Israel faces weeks of coalition talks as neither Netanyahu's bloc nor Eisenkot's reaches 61 seats",
+  "terms": [
+   {
+    "term": "Coalition",
+    "meaning": "A government formed by several parties that agree to work together."
+   },
+   {
+    "term": "Knesset",
+    "meaning": "Israel's parliament, with 120 seats."
+   },
+   {
+    "term": "Kingmaker",
+    "meaning": "A group whose support decides who can govern."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Israel faces weeks of coalition talks as neither Netanyahu's bloc nor Eisenkot's reaches 61 seats",
+    "body": "Israel's election has left neither side with a governing majority. According to the Central Elections Committee, Benjamin Netanyahu's Likud and its hard-right allies won 53 seats, down from 64 in 2022. The opposition bloc led by Gadi Eisenkot won 48. The Joint List and Ra'am won a combined 19, a record for Arab-led parties. A majority needs 61 of the 120 seats.\nTurnout was around 77.7%, the highest in 27 years. President Isaac Herzog will consult parties and name the person best placed to form a government. A coalition has 28 days to form, extendable by up to 14, otherwise new elections follow, with Netanyahu staying in office meanwhile.\nLikud alleges Arab-led parties \"stole\" the election, without evidence. The Shin Bet has been asked to investigate suspicions of improper foreign funding, which Qatar denies. Results are due to be certified by 4 November, and the new Knesset is sworn in on 10 November.",
+    "why": "The result decides who leads Israel during the Gaza and Iran conflicts and could force another election."
+   },
+   {
+    "headline": "Israel's election leaves Netanyahu and Eisenkot short of a majority",
+    "body": "Israel's final count shows no clear winner. Netanyahu's Likud and its hard-right allies won 53 seats, against 64 in 2022. Gadi Eisenkot's opposition bloc won 48, and Arab-led parties, the Joint List and Ra'am, won 19 together, an all-time high. A governing majority needs 61 of 120 seats.\nTurnout was around 77.7%, the highest for 27 years. President Herzog will consult the parties and pick someone to try to build a coalition, which has 28 days, extendable by up to 14. If it fails, new elections are called, and Netanyahu stays in office meanwhile.\nLikud claims Arab-led parties \"stole\" the election, offering no evidence. The Shin Bet has been asked to examine suspected foreign funding, which Qatar denies. Results should be certified by 4 November.",
+    "why": "Coalition talks will shape Israel's policy on war, security and the economy."
+   },
+   {
+    "headline": "No clear winner in Israel's election as both blocs miss a majority",
+    "body": "Israel's election has produced no clear winner. Netanyahu's Likud and its hard-right allies won 53 seats, down from 64 in 2022. The opposition bloc led by Gadi Eisenkot won 48. Arab-led parties won 19 between them, their best ever. To govern, a bloc needs 61 of the 120 seats in parliament.\nAround 77.7% of voters turned out, the highest for 27 years. President Herzog will ask a party leader to try to form a government, with 28 days to do it, plus up to 14 more. If that fails, there will be another election, and Netanyahu stays in office in the meantime.\nLikud says Arab-led parties \"stole\" the vote but has given no evidence. The Shin Bet has been asked to investigate suspected foreign funding, which Qatar denies.",
+    "why": "A deadlock could leave Israel without a stable government at a tense time."
+   },
+   {
+    "headline": "Israel's vote ends without a winner, and weeks of talks begin",
+    "body": "Israel's election has not produced a clear winner. Prime Minister Benjamin Netanyahu's party, Likud, and its hard-right allies won 53 seats. That is down from 64 at the last election in 2022. The opposition, led by Gadi Eisenkot, won 48. Arab-led parties won 19, a record. A government needs 61 of the 120 seats.\nAbout 77.7% of people voted, the highest in 27 years. President Isaac Herzog will ask someone to try to form a coalition, a government of several parties. They get 28 days, which can be extended by up to 14. If they fail, there is another election, and Netanyahu stays in office until then.\nLikud claims Arab-led parties \"stole\" the election, without evidence.",
+    "why": "The outcome decides who leads Israel and whether voters must go back to the polls."
+   },
+   {
+    "headline": "Israel's election leaves nobody with enough seats to govern",
+    "body": "Israel held an election, but nobody won enough seats to govern alone. The parliament, called the Knesset, has 120 seats. A group needs 61 to have a majority. Benjamin Netanyahu's party, Likud, and its allies won 53. Gadi Eisenkot's group won 48. Arab-led parties won 19, the most they have ever won.\nAbout 77.7% of people voted, the highest in 27 years. The president, Isaac Herzog, will ask a leader to try to form a coalition. A coalition is a government made of several parties. They have 28 days, and up to 14 more. If they fail, Israel votes again, and Netanyahu stays in charge for now.\nLikud says the election was \"stolen\", but has not given evidence.",
+    "why": "Without a stable government, big decisions on war and the economy could be delayed."
+   },
+   {
+    "headline": "Israel's election gives no side a majority and coalition talks begin",
+    "body": "Israel's election has left neither side with enough seats to govern. Benjamin Netanyahu's Likud and its allies won 53 of the 120 seats. The opposition bloc led by Gadi Eisenkot won 48. Arab-led parties won 19, a record. A group needs 61 seats for a majority.\\nAbout 77.7% of voters took part, the highest in 27 years. President Isaac Herzog will ask a leader to try to form a coalition, a government of several parties. They get 28 days, extendable by up to 14. If they fail, Israel votes again, and Netanyahu stays in office meanwhile.\\nLikud says Arab-led parties \\\"stole\\\" the election but has shown no evidence.",
+    "why": "The result decides who leads Israel and whether voters return to the polls."
+   },
+   {
+    "headline": "Israel's election has no clear winner",
+    "body": "Israel has just had an election, but nobody won enough seats to run the country. The parliament has 120 seats, and a group needs 61 to have a majority. Benjamin Netanyahu's party and its allies won 53. Gadi Eisenkot's group won 48. Arab-led parties won 19, which is more than ever before.\nMore people voted than in any election in 27 years. Now the president, Isaac Herzog, will ask someone to try to build a government by getting several parties to agree. This is called a coalition. They have 28 days, and maybe 14 more. If they cannot do it, there will be another election.\nNetanyahu's party says the election was stolen, but it has not shown proof.",
+    "why": "It decides who leads Israel next and whether there will be another vote."
+   },
+   {
+    "headline": "Israel votes, but no one wins enough seats",
+    "body": "Israel held an election. The parliament there has 120 seats. To lead, a group needs more than half, which is 61. But no group got that many.\nBenjamin Netanyahu's party and its friends won 53 seats. Another group, led by Gadi Eisenkot, won 48. Parties led by Arab citizens won 19, the most they have ever won. Lots of people voted, more than in 27 years.\nNow the leaders must try to team up. A team of parties that govern together is called a coalition. They have about four weeks to try. If they cannot team up, everyone will have to vote again.\nNetanyahu's party says the vote was unfair, but it has not shown proof.",
+    "why": "It decides who runs the country and whether another vote is needed."
+   },
+   {
+    "headline": "An election where nobody wins enough",
+    "body": "Israel held an election to choose who will run the country. In the parliament there are 120 seats. A group needs 61 to be in charge. This time nobody got enough.\nOne group, led by Benjamin Netanyahu, won 53 seats. Another group, led by Gadi Eisenkot, won 48. A third set of parties won 19. Many people voted this time, more than for a very long time.\nNow the groups have to talk. They need to find others to join them to make a bigger team. They have about four weeks. If they cannot, people must vote again.\nOne group says the vote was unfair. It has not shown any proof.",
+    "why": "Until a team is found, nobody is sure who will lead."
+   },
+   {
+    "headline": "What happens when nobody wins enough votes",
+    "body": "Imagine your class votes for a captain. You need more than half the votes to win. But two children get nearly the same, and nobody gets more than half. What happens next?\nSomething like this happened in Israel. The country voted for a parliament with 120 seats. A group needs 61 to be in charge. One group got 53, another got 48, and a third got 19.\nNow they must talk and make teams. A team of parties is called a coalition. They have about four weeks to try. If nobody can make a team, everyone votes again.\nOne group says the vote was unfair, but it has not shown any proof.",
+    "why": "It shows why talking and agreeing matters when no one wins outright."
+   }
+  ]
+ },
+ {
+  "id": "oil-near-115-saudi-refinery",
+  "order": 10,
   "topic": "Economy",
   "region": "Middle East",
   "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
-  "headline": "Oil rises to about $115 a barrel after a reported Houthi strike on a Saudi refinery",
+  "url": "https://cnbc.com/amp/2026/10/29/oil-prices-fall-as-peace-hopes-offset-fears-of-growing-middle-east-conflict.html",
+  "headline": "Oil stays near $115 a barrel as peace hopes offset a reported Houthi attack on a Saudi refinery",
   "terms": [
    {
     "term": "Brent crude",
@@ -317,510 +692,60 @@
     "meaning": "West Texas Intermediate, the main US oil price benchmark."
    },
    {
-    "term": "Houthis",
-    "meaning": "An Iran-aligned armed group in Yemen."
+    "term": "Strategic Petroleum Reserve",
+    "meaning": "The US government's emergency oil stockpile."
    }
   ],
   "levels": [
    {
-    "headline": "Oil rises to about $115 a barrel after a reported Houthi strike on a Saudi refinery",
-    "body": "Brent crude futures rose 1.3% to settle at $115.32 a barrel on Wednesday 28 October, while US West Texas Intermediate gained 2.9% to $102.78. Prices were near six-month highs.\nTwo things drove the rise. Yemen's Iran-aligned Houthis said they hit Saudi Arabia's Ras Tanura refinery, which handles 550,000 barrels a day, with a ballistic missile. Saudi authorities did not immediately confirm the strike. Separately, reports said the US had told Gulf countries to prepare for renewed strikes on Iran after the 3 November midterm elections.\nOn Thursday Brent slipped 82 cents to $114.50 as hopes of peace talks offset supply fears. Saudi Arabia, Turkey and Pakistan have held talks with Iranian officials. Iran has also stepped up attacks on tankers in the Gulf this month.",
-    "why": "Oil prices feed into petrol, heating and inflation around the world."
+    "headline": "Oil stays near $115 a barrel as peace hopes offset a reported Houthi attack on a Saudi refinery",
+    "body": "Brent crude futures fell 44 cents to settle at $114.88 a barrel on Thursday 29 October, while US West Texas Intermediate lost 78 cents to settle at $102, according to CNBC. Brent had closed at $116.72 earlier in the week, its highest settlement since 29 April.\nPrices have been driven by the conflict with Iran and attacks on Saudi energy sites. Iran-allied Houthi militants said they hit Saudi Arabia's Ras Tanura refinery with a ballistic missile. Traders are also watching whether the US might take military action against Iran after the 3 November midterm elections.\nOn the other side, Vice President JD Vance has reportedly contacted Iran's Security Council chief, Mohsen Rezaei, to try to restart peace talks. Meanwhile the US Strategic Petroleum Reserve held 282.6 million barrels last week, its lowest since 1982.",
+    "why": "High oil prices feed straight into petrol, transport and food costs and raise inflation."
    },
    {
-    "headline": "Brent near $115 as Saudi refinery attack and Iran strike reports stoke supply fears",
-    "body": "Brent crude settled at $115.32 a barrel on Wednesday 28 October, up 1.3%, and US benchmark WTI closed at $102.78, up 2.9%, leaving both near six-month highs.\nThe Houthi movement said it had struck Saudi Arabia's Ras Tanura refinery, a 550,000 barrel a day facility, with a ballistic missile. Riyadh did not immediately confirm that. Reports also said Washington had told Gulf states to prepare for new strikes on Iran after the 3 November midterms.\nBrent eased 0.7% on Thursday to $114.50 as diplomacy offered some hope. Saudi Arabia, Turkey and Pakistan held talks in Tehran, and the US Vice President reportedly sent a letter to Iran's security chief. Iran has attacked tankers in the Gulf and the Strait of Hormuz this month.",
-    "why": "Energy prices push up inflation and affect interest rates."
+    "headline": "Oil eases to about $115 as peace efforts compete with fears over Saudi attacks",
+    "body": "Brent crude futures slipped 44 cents to settle at $114.88 a barrel on Thursday 29 October. US West Texas Intermediate fell 78 cents to $102. Earlier in the week Brent settled at $116.72, its highest close since 29 April.\nThe market is being pushed by the conflict with Iran and attacks on Saudi energy sites. Houthi militants allied with Iran said they struck Saudi Arabia's Ras Tanura refinery with a ballistic missile. Traders also fear possible US military action against Iran after the 3 November midterms.\nPrices dipped on reports that Vice President JD Vance has contacted Iran's Security Council chief, Mohsen Rezaei, to restart peace talks. The US emergency oil stockpile stood at 282.6 million barrels, the lowest since 1982.",
+    "why": "Oil costs affect fuel prices and inflation in almost every country."
    },
    {
-    "headline": "Oil climbs to about $115 as the Middle East conflict threatens supplies",
-    "body": "The price of Brent crude, the international benchmark, closed at $115.32 a barrel on Wednesday 28 October, up 1.3%. US crude closed at $102.78, up 2.9%. Both are near six-month highs.\nThe rise followed claims by the Houthis, an Iran-backed group in Yemen, that they had hit Saudi Arabia's biggest refinery, Ras Tanura, with a missile. Saudi Arabia has not immediately confirmed this. There were also reports that the US had told Gulf countries to prepare for fresh strikes on Iran after the 3 November midterm elections.\nOn Thursday the price slipped slightly to $114.50 because of hopes for peace talks. Saudi Arabia, Turkey and Pakistan met Iranian officials in Tehran. Iran has also been attacking oil tankers.",
-    "why": "More expensive oil makes petrol, heating and many goods cost more."
+    "headline": "Oil prices dip but stay high as Middle East tensions continue",
+    "body": "Oil prices fell slightly on Thursday 29 October but stayed high. Brent crude, the international benchmark, closed 44 cents lower at $114.88 a barrel. US West Texas Intermediate closed 78 cents lower at $102. Earlier in the week Brent reached $116.72, its highest close since 29 April.\nThe conflict with Iran and attacks on Saudi oil sites are keeping prices up. Houthi militants allied with Iran said they hit Saudi Arabia's Ras Tanura refinery with a missile. Traders are also watching for possible US military action against Iran after the 3 November midterm elections.\nHopes rose a little after reports that Vice President JD Vance reached out to an Iranian official to restart peace talks. America's emergency oil stockpile is at its lowest since 1982.",
+    "why": "Higher oil prices push up petrol costs and prices in the shops."
    },
    {
-    "headline": "Oil prices jump because of attacks and worries about war with Iran",
-    "body": "The price of oil rose on Wednesday 28 October. Brent, the main world price, finished at $115.32 a barrel. The American price finished at $102.78. Both are close to their highest for six months.\nTwo news stories pushed prices up. A group in Yemen called the Houthis, which is backed by Iran, said it hit Saudi Arabia's Ras Tanura oil refinery with a missile. Saudi Arabia had not confirmed this. Reports also said the US told countries in the Gulf to get ready for new strikes on Iran after elections on 3 November.\nOn Thursday the price dipped a little, to $114.50, as people hoped for peace talks. Iran has been attacking oil tankers this month.",
-    "why": "Oil prices change what you pay for petrol and heating."
+    "headline": "Oil prices ease slightly but remain near $115 a barrel",
+    "body": "Oil prices dipped a little on Thursday 29 October but are still very high. Brent crude, the main international price, fell 44 cents to $114.88 a barrel. The US price, West Texas Intermediate, fell 78 cents to $102. Earlier this week Brent closed at $116.72, its highest close since 29 April.\nThe Middle East is the main reason. There is a conflict involving Iran, and Houthi militants allied with Iran said they hit a Saudi refinery called Ras Tanura with a missile. Traders are also worried about possible US action against Iran after the 3 November elections.\nThere is some hope, because Vice President JD Vance reportedly contacted an Iranian official to restart peace talks. The US emergency oil store is the lowest since 1982.",
+    "why": "When oil costs more, petrol, transport and food usually cost more."
    },
    {
-    "headline": "Oil gets more expensive after an attack on a Saudi oil site",
-    "body": "Oil is what we turn into petrol and diesel. On Wednesday 28 October the price of oil went up again. A barrel of the main international kind, called Brent, cost $115.32. That is close to the highest price in six months.\nThere are two reasons. A group in Yemen, called the Houthis, said it hit one of Saudi Arabia's biggest oil refineries with a missile. A refinery is a factory that turns oil into fuel. Saudi Arabia did not at first say whether this was true. Also, people said the US might attack Iran again after elections on 3 November.\nOn Thursday the price dipped a little because people hope for peace talks.",
-    "why": "When oil costs more, petrol and heating can cost more as well."
+    "headline": "Oil stays very expensive as the Middle East stays tense",
+    "body": "Oil is a liquid fuel used to make petrol, diesel and plastics. Its price is counted per barrel. On Thursday 29 October, a barrel of Brent crude, the main world price, cost $114.88. That is a tiny bit less than the day before. The US price was $102.\nPrices are high because of trouble in the Middle East. There is a conflict involving Iran. Some fighters allied with Iran say they hit a Saudi oil refinery with a missile. Traders also fear America might strike Iran after elections on 3 November.\nThere is a little hope too. A US leader, Vice President JD Vance, reportedly contacted an Iranian official to try to restart peace talks. America's emergency oil store is now at its lowest level since 1982.",
+    "why": "Costly oil makes driving, delivery and many products dearer."
    },
    {
-    "headline": "Oil prices go up as fighting in the Middle East worries buyers",
-    "body": "Oil is dug from the ground and made into fuel for cars, lorries and planes. When something might stop the oil flowing, the price goes up. This happened on Wednesday 28 October. A barrel of the main world kind, called Brent, cost $115.32. That is almost the highest in six months.\nA group in Yemen called the Houthis said it hit a big oil factory, a refinery, in Saudi Arabia with a missile. Saudi Arabia did not at first say if that was true. People also said the US could attack Iran after elections on 3 November.\nThe next day the price fell a tiny bit. Some countries were talking to Iran to try to keep the peace.",
-    "why": "Dearer oil can make petrol, heating and food cost more."
+    "headline": "Oil stays near $115 a barrel as peace hopes meet fears of more attacks",
+    "body": "Oil is still very expensive. On Thursday 29 October, Brent crude, the main world price, closed at $114.88 a barrel, down 44 cents. The US price, West Texas Intermediate, closed at $102. Earlier this week Brent reached $116.72, its highest close since 29 April.\\nThe causes are in the Middle East. There is a conflict involving Iran, and Houthi militants allied with Iran said they hit Saudi Arabia's Ras Tanura refinery with a missile. Traders also worry the US could take action against Iran after the 3 November elections.\\nSome hope came from reports that Vice President JD Vance contacted an Iranian official to restart peace talks. The US emergency oil store is at its lowest since 1982.",
+    "why": "Oil prices affect petrol, transport and food costs for everyone."
    },
    {
-    "headline": "Oil costs more because of fighting in the Middle East",
-    "body": "Oil is a thick liquid from under the ground. We use it to make petrol and diesel. If people worry that there will be less oil, they pay more for it. That is what happened this week.\nA barrel of Brent, the oil that sets the main world price, cost about $115. That is close to its highest price for six months. A group called the Houthis, who live in Yemen, said they hit a Saudi Arabian oil factory with a missile. Saudi Arabia had not yet said if that was true. People also said the US might attack Iran after an election on 3 November.\nSome countries are trying to talk to Iran to keep the peace.",
-    "why": "If oil costs more, it costs more to drive, heat homes and move goods."
+    "headline": "Oil costs a lot because of trouble in the Middle East",
+    "body": "Oil is used to make petrol and diesel. It is sold by the barrel. On Thursday 29 October, one barrel of Brent crude, the main world price, cost $114.88. That is slightly lower than the day before but still very high. The American price was $102.\nThe reason is trouble in the Middle East. There is a conflict involving Iran. A group allied with Iran said it hit a Saudi Arabian oil factory, called a refinery, with a missile. Some traders also worry America may attack Iran after its elections on 3 November.\nThere is a bit of hope, as one American leader has reportedly tried to restart peace talks. America's emergency oil store is at its lowest since 1982.",
+    "why": "Oil prices change how much petrol and many other things cost."
    },
    {
-    "headline": "Oil is more expensive because of trouble in the Middle East",
-    "body": "Cars, buses and lorries need fuel. Fuel is made from oil. When people think there might be less oil, shops and companies pay more for it. That happened this week.\nA group of fighters in Yemen said they hit a big oil factory in Saudi Arabia. A country far away, Iran, might also be attacked by the US after an election. People worry that fighting could stop oil getting to the places that need it. So a barrel of oil now costs about $115, close to the highest in six months.\nThe next day the price fell a little, because some countries were having talks to try to keep the peace.",
-    "why": "If oil is dear, many things from petrol to toys can cost a bit more."
+    "headline": "Oil is still very expensive",
+    "body": "Oil is a thick liquid from under the ground. People turn it into petrol and diesel for cars and lorries. It is sold by the barrel. Today a barrel costs about $115. A few years ago, it cost much less.\nOil is dear because of trouble in the Middle East, where much of it comes from. Some fighters said they hit a big oil factory in Saudi Arabia with a missile. Also, people worry about what America might do about Iran after its elections.\nThere is a little hope. A leader in America reportedly asked to talk with someone in Iran about peace. America also keeps a store of oil for emergencies, and it is the lowest since 1982.",
+    "why": "It changes how much it costs to drive, deliver goods and buy things."
    },
    {
-    "headline": "Oil costs more because of fighting far away",
-    "body": "Think of oil as the juice that makes cars, buses and planes go. If there is a problem and the juice might run low, the price goes up. This week there was trouble in the Middle East, a part of the world where a lot of oil comes from.\nSome fighters said they hit a big oil factory. People also worried about more fighting with a country called Iran. So the price of oil went up to about $115 for a barrel. A barrel is a big drum, bigger than you!\nThen some countries began talking to Iran to try to keep the peace, and the price dipped a little. Grown-ups are watching closely.",
-    "why": "It can make petrol and the things we buy cost more for families."
+    "headline": "Why petrol and many things may cost more",
+    "body": "Oil is a thick black liquid found under the ground. People use it to make petrol for cars. It is sold in big barrels, and its price goes up and down.\nRight now, it costs about $115 for one barrel. That is a lot. It costs more because there is trouble in the Middle East, where much oil is made. Some fighters said they hit a big oil factory in Saudi Arabia.\nWhen oil is dear, petrol is dear, and so are things that are driven to the shops. A leader in America has reportedly tried to speak to Iran about peace. That could help prices to come down.",
+    "why": "It is one reason why prices in shops and at petrol stations stay high."
    },
    {
-    "headline": "Oil costs more because there is trouble far away",
-    "body": "Cars and buses need fuel to go. Fuel is made from oil. Oil comes out of the ground, and lots of it comes from a part of the world called the Middle East.\nThis week there was trouble there. Some fighters said they hit a place that makes fuel. People also worried about more fighting. When people think there might be less oil, they are ready to pay more for it, a bit like children swapping stickers.\nSo oil now costs more. Later the price dipped a little, because some countries are talking to try to keep the peace. Grown-ups are watching closely.",
-    "why": "When oil costs more, petrol and many other things can cost more too."
-   }
-  ]
- },
- {
-  "id": "israel-election-no-clear-winner",
-  "order": 6,
-  "topic": "Politics",
-  "region": "Middle East",
-  "source": "CNBC and Euronews",
-  "url": "https://www.cnbc.com/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance.html",
-  "headline": "Israel election leaves Netanyahu and his rival short of a majority",
-  "terms": [
-   {
-    "term": "Knesset",
-    "meaning": "Israel's parliament, which has 120 seats."
-   },
-   {
-    "term": "Exit poll",
-    "meaning": "A survey of voters as they leave polling stations, used to predict results."
-   },
-   {
-    "term": "Coalition",
-    "meaning": "A government made of several parties working together."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Israel election leaves Netanyahu and his rival short of a majority",
-    "body": "Israel held a general election on 27 October, its first since the 7 October attacks. Exit polls from major TV stations suggested Prime Minister Benjamin Netanyahu's bloc won about 50 seats, the opposition led by former military chief Gadi Eisenkot 52 to 53, and Arab parties 17 to 18, in the 120-seat Knesset. Neither side reached the 61 needed for a majority.\nLikud was projected as the largest party with 24 to 25 seats. Eisenkot declared victory and said he should get the first chance to form a government, though he said in the campaign he would not govern with Arab lawmakers. Turnout was 77.7%, the highest in 27 years. Partial counts differed from the exit polls, and official results are due on 4 November. Analysts say Netanyahu could stay in office for months.",
-    "why": "The coalition talks will decide who leads Israel during tensions with Iran and the war in Gaza."
-   },
-   {
-    "headline": "No clear winner in Israel as exit polls show both blocs short of 61 seats",
-    "body": "Exit polls after Israel's 27 October election put Benjamin Netanyahu's bloc on about 50 seats, the opposition led by Gadi Eisenkot on 52 to 53, and Arab parties on 17 to 18. Parliament has 120 seats, so 61 are needed.\nLikud was the largest party on 24 to 25 seats. Eisenkot, a former military chief, claimed victory and said he should have the first chance to form a government. During the campaign he said he would not govern with Arab lawmakers, who might instead back a minority government from outside.\nTurnout was 77.7%, a 27-year high. Early partial counts differed from the exit polls, so the picture may change. Official results are due on 4 November, and analysts expect Netanyahu could remain in office for months.",
-    "why": "The result shapes Israeli policy on Gaza and Iran."
-   },
-   {
-    "headline": "Israel's election ends without a clear majority for either side",
-    "body": "Israelis voted on 27 October in their first general election since the attacks of 7 October. Exit polls suggest nobody won a majority in the 120-seat parliament. Prime Minister Benjamin Netanyahu's bloc was put on about 50 seats, the opposition led by Gadi Eisenkot on 52 to 53, and Arab parties on 17 to 18. A government needs 61.\nLikud looks to be the biggest single party. Eisenkot, a former army chief, has said he won and should get first go at forming a government, though he ruled out working with Arab parties. They might support a minority government from outside.\nTurnout was 77.7%, the highest in 27 years. Official results come on 4 November, and talks could take months.",
-    "why": "Who governs Israel will affect the war in Gaza and tensions with Iran."
-   },
-   {
-    "headline": "Israel's election has no clear winner, early results suggest",
-    "body": "People in Israel voted on 27 October. It was the first national election since the attacks of 7 October. Polls taken as people left the voting stations suggest that neither side won enough seats to rule alone. Parliament has 120 seats, and a group needs 61.\nThe exit polls gave Prime Minister Benjamin Netanyahu's group about 50 seats. The opposition, led by Gadi Eisenkot, got 52 or 53. Arab parties got 17 or 18. Eisenkot, a former army chief, said he had won, but he has said he will not work with Arab parties.\nMore people voted than in any election for 27 years. Official results are due on 4 November. Netanyahu could stay in power for months while parties talk.",
-    "why": "The next government will make big decisions about war and peace in the region."
-   },
-   {
-    "headline": "Nobody has clearly won Israel's election",
-    "body": "People in Israel voted for a new parliament on 27 October. The parliament is called the Knesset and it has 120 seats. A group needs 61 seats to run the government on its own side. Early guesses, made by asking voters as they left, say that nobody got there.\nThe leader of the country, Benjamin Netanyahu, and his friends were guessed to win about 50 seats. The other side, led by Gadi Eisenkot, was guessed at 52 or 53. Arab parties were guessed at 17 or 18. Eisenkot says he won, but he says he will not work with the Arab parties.\nMore people voted than in any election for 27 years. The official results are due on 4 November.",
-    "why": "It decides who leads a country that is dealing with war and tension."
-   },
-   {
-    "headline": "Israel's election has no clear winner yet",
-    "body": "Israel has a parliament called the Knesset, with 120 seats. People voted for it on 27 October. To lead the country, a group needs more than half the seats, which is 61.\nPeople asked voters as they left the voting places. The answers suggest that nobody has 61. Prime Minister Benjamin Netanyahu's side may have about 50. The other side, led by Gadi Eisenkot, may have 52 or 53. Arab parties may have 17 or 18. A smaller party cannot decide alone, so groups must now talk and try to join together. This kind of team is called a coalition.\nThe official results are due on 4 November. The talks could last for months.",
-    "why": "The people who lead Israel make decisions that affect the whole region."
-   },
-   {
-    "headline": "Israel voted, but no side won enough seats",
-    "body": "Israel held an election on 27 October. In an election, people choose who will make the rules for their country. Israel's group of lawmakers is called the Knesset. It has 120 seats, so you need 61 to have the most.\nWhen people left the voting places, they were asked how they voted. The answers suggest that neither big group got 61 seats. It is like a class vote where nobody gets over half the votes. The groups now have to try to work together to form a team called a coalition.\nThe official count is due on 4 November. The talking could take many months.",
-    "why": "The leaders chosen will make choices about war and peace."
-   },
-   {
-    "headline": "Israel had an election, but nobody clearly won",
-    "body": "An election is when people vote to choose their leaders. Israel had one on 27 October. The leaders sit in a place called the Knesset, which has 120 seats. To win, a group needs 61 seats, which is more than half.\nImagine your class voting for a new class rule. If two groups each get less than half, nobody wins by themselves. They have to talk and agree to work together. That seems to be what has happened in Israel.\nThe official numbers will come on 4 November. Then the groups will talk. This could take months, so for now the old leader, Benjamin Netanyahu, stays in his job.",
-    "why": "Leaders have to work together, and that can take time."
-   },
-   {
-    "headline": "Israel voted for its leaders, but there is no clear winner yet",
-    "body": "Choosing leaders is like choosing a class captain. In Israel, people did this on 27 October. But instead of one captain, they chose a big group of 120 people who make the rules.\nIf a team gets 61 of the 120, it can lead. Early guesses say no team got that many. It is like a class vote where neither captain got more than half of the votes.\nSo the teams must now talk and try to join up. That could take a long time. The person who was leader before, Benjamin Netanyahu, will probably stay in the job for now.",
-    "why": "When no one wins clearly, leaders must work together to get anything done."
-   },
-   {
-    "headline": "Nobody has clearly won the vote in Israel",
-    "body": "Imagine your class votes for a new class captain. Two children each get fewer than half of the votes. Nobody has clearly won. That is a bit like what happened in Israel.\nPeople there voted for the leaders who help run their country. The early counts say that no group got more than half. So the groups must now talk to each other. They try to join up into one big team.\nThis can take a very long time. For now, the person who was already the leader will probably stay in the job. The proper count is due on 4 November.",
-    "why": "Leaders who work together can make decisions for a whole country."
-   }
-  ]
- },
- {
-  "id": "spain-high-speed-train-crash-toledo",
-  "order": 7,
-  "topic": "Politics",
-  "region": "Europe",
-  "source": "CNBC and Euronews",
-  "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
-  "headline": "At least 68 dead after two high-speed trains collide in Spain",
-  "terms": [
-   {
-    "term": "Renfe",
-    "meaning": "Spain's state railway operator."
-   },
-   {
-    "term": "Iryo",
-    "meaning": "A private high-speed rail operator in Spain."
-   },
-   {
-    "term": "Official mourning",
-    "meaning": "Days of national remembrance declared by a government."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "At least 68 dead after two high-speed trains collide in Spain",
-    "body": "Two high-speed trains collided near Urda in Toledo province on 28 October, killing at least 68 people, according to the Castilla-La Mancha regional government. More than 100 people were reported injured, and health services said 15 of 53 treated were in a serious condition.\nA Renfe train and an Iryo train were involved on the Madrid to Seville line. Iryo said its train was struck from behind. Transport Minister Óscar Puente said the control system at Urda failed and six trains were stopped, and one was allowed to restart and travelled 25 kilometres before hitting a stopped train at high speed. An order from the control centre is being investigated, and the cause is not confirmed.\nPrime Minister Pedro Sánchez declared three days of official mourning and promised a tough line on any safety failures. It is Spain's second deadly high-speed crash this year.",
-    "why": "It raises serious questions about rail safety in Spain, and the investigation may change how trains are controlled."
-   },
-   {
-    "headline": "Spain's second deadly high-speed rail crash this year leaves at least 68 dead",
-    "body": "At least 68 people died when two high-speed trains collided near Urda, in Toledo province, on 28 October, the regional government said. More than 100 people were reported hurt, and the toll could rise. Earlier reports had given lower figures.\nThe trains were operated by Renfe and Iryo on the Madrid to Seville line. According to Transport Minister Óscar Puente, the control system at Urda failed, six trains were halted, and one was allowed to restart and covered 25 kilometres before hitting a stationary train at speed. Euronews reports that officials point to human error after a computer failure, and an \"inexplicable\" control centre order is being investigated.\nPrime Minister Pedro Sánchez announced three days of mourning and vowed to be tough on any safety failings.",
-    "why": "Investigators' findings could lead to changes in how Spain runs its rail network."
-   },
-   {
-    "headline": "At least 68 killed in a train collision in Spain",
-    "body": "Two high-speed trains crashed into each other near the town of Urda, in Toledo province, on 28 October. The regional government says at least 68 people died, and more than 100 were injured. Rescuers worked through the night, and the number of deaths could rise.\nThe trains, run by Renfe and Iryo, were travelling on the line between Madrid and Seville. The Transport Minister, Óscar Puente, said the control system near Urda failed and six trains were stopped. One was allowed to restart, and it went 25 kilometres before hitting a stopped train. The cause is still being investigated.\nThe Prime Minister, Pedro Sánchez, declared three days of official mourning. It is the second deadly high-speed crash in Spain this year.",
-    "why": "Rail travel depends on trust in safety systems, so the inquiry matters to millions of passengers."
-   },
-   {
-    "headline": "Two fast trains crash in Spain, and at least 68 people die",
-    "body": "A terrible train crash happened in Spain on 28 October. Two high-speed trains hit each other near a town called Urda, close to the city of Toledo. At least 68 people died, according to the regional government, and more than 100 were hurt. Rescue teams worked all night, and officials say the number of deaths could rise.\nThe trains were on the line between Madrid and Seville. The Transport Minister said a computer system that controls the trains stopped working. Six trains were stopped, but one was let go again and later hit another train. People are still looking into what went wrong.\nThe Prime Minister said there will be three days of national mourning.",
-    "why": "People need to be able to trust that trains are safe, so officials want to know what went wrong."
-   },
-   {
-    "headline": "Two fast trains crashed in Spain, and many people died",
-    "body": "On 28 October, two fast passenger trains hit each other in Spain, near a town called Urda. At least 68 people died, and more than 100 were hurt. Rescue teams worked all night.\nThe trains were on the line that links the cities of Madrid and Seville. The government says the system that tells trains where to go and when to stop stopped working properly. Six trains were told to stop. One was then told it could go again. It travelled a long way before it hit another train.\nPeople who work on trains and safety are now looking into exactly what went wrong. Spain's leader has said there will be three days of sadness and remembering.",
-    "why": "Finding out what went wrong can help stop it from happening again."
-   },
-   {
-    "headline": "A very sad train crash in Spain",
-    "body": "On 28 October there was a terrible train crash in Spain. Two fast trains hit each other near a town called Urda. At least 68 people died, and more than 100 were hurt. Rescuers worked all night to help.\nTrains use signals and computers to know when to stop and go. Spain's government says that the computer system near Urda stopped working. Six trains were told to stop. One was told it could go again, and it hit a stopped train.\nExperts are now looking at what went wrong. Spain's leader, Pedro Sánchez, said there will be three days when the whole country remembers the people who died.",
-    "why": "If we understand what went wrong, we can make trains safer."
-   },
-   {
-    "headline": "A terrible train crash in Spain",
-    "body": "Something very sad happened in Spain. Two fast trains crashed into each other on 28 October. Many people died, and many more were hurt. People came to help them all night long.\nTrains need signals, a bit like traffic lights, to tell them when to stop and go. Spain's government says the system that controls those signals did not work properly. One train was told it could go when it should not have.\nSpecial experts are now looking at exactly what happened. Spain's leader said the whole country will take three days to remember the people who died.",
-    "why": "Experts look at what happened so trains can be kept safe."
-   },
-   {
-    "headline": "A sad train crash in Spain",
-    "body": "Trains carry lots of people from one place to another. They have to stop and go at the right times. They use signals, a bit like traffic lights, to help them know when. On 28 October, in Spain, two fast trains crashed. This was very sad. Many people lost their lives and many more were hurt.\nGrown-ups think the signal system did not work as it should. Special experts are now looking carefully to find out what happened. They want to make sure it never happens again.\nThe whole country is taking three days to remember the people who died.",
-    "why": "Grown-ups look into what went wrong so trains can be safer."
-   },
-   {
-    "headline": "A very sad train crash in Spain",
-    "body": "When we cross the road, we look for the lights. Trains have lights too. They tell the driver when to stop and when to go. This week in Spain, two fast trains crashed because something may have gone wrong with the signals. Many people died, and many more were hurt.\nThis is very sad. Helpers, like doctors and firefighters, worked all night to look after people.\nNow some clever grown-ups are finding out what happened, so trains can be made safer. The country is also taking three days to remember the people who died.",
-    "why": "Finding out why it happened helps make trains safer for everyone."
-   },
-   {
-    "headline": "A sad day for trains in Spain",
-    "body": "Something very sad happened in Spain. Two fast trains crashed. Many people died, and lots of people were hurt. Helpers such as doctors and firefighters worked all night to look after them.\nTrains use signals that work like traffic lights. They tell the driver when to stop and when to go. Grown-ups think the signals may not have worked as they should.\nNow clever experts are looking carefully at what happened, so it never happens again. The whole country is taking three days to remember the people who died. It is a time to be gentle and kind to each other.",
-    "why": "Finding out what went wrong helps keep trains safe for everyone."
-   }
-  ]
- },
- {
-  "id": "fed-holds-rates-two-dissent-hike",
-  "order": 8,
-  "topic": "Economy",
-  "region": "United States",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-  "headline": "Fed holds rates at 3.75% to 4% with two policymakers voting for a rise",
-  "terms": [
-   {
-    "term": "Federal Reserve",
-    "meaning": "The US central bank, which sets interest rates."
-   },
-   {
-    "term": "Dissent",
-    "meaning": "A vote against the majority decision."
-   },
-   {
-    "term": "Rate hike",
-    "meaning": "An increase in interest rates."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Fed holds rates at 3.75% to 4% with two policymakers voting for a rise",
-    "body": "The US Federal Reserve left its main interest rate at 3.75% to 4% on 28 October, as widely expected. Its statement said inflation remains elevated.\nTwo members of the Federal Open Market Committee dissented. Governor Lisa Cook and Cleveland Fed President Beth Hammack both wanted a quarter-point increase. Cook's dissent stood out because governors rarely vote against the majority, and she had not done so since joining the board in 2022. One economist suggested it might be a protest tied to efforts by the administration to remove her. Hammack also dissented in July.\nMarkets now price an 85% chance of a quarter-point rise in December, according to CME FedWatch. Chair Kevin Warsh also said that from 2027 the committee will still meet eight times, but one meeting will not include a rate vote.",
-    "why": "US rates influence borrowing costs worldwide, including for UK mortgages and businesses."
-   },
-   {
-    "headline": "The Fed stands pat, but two dissents point towards a possible December hike",
-    "body": "The Federal Reserve held its policy rate at 3.75% to 4% on 28 October. The statement said inflation remained elevated. The decision was widely expected.\nGovernor Lisa Cook and Cleveland Fed President Beth Hammack dissented, each preferring a quarter-point rise. Governors seldom dissent, and Cook had never done so since taking her seat in 2022. One economist said it could be linked to the administration's attempts to remove her. Hammack also voted no in July, but two other regional presidents who dissented then joined the majority this time.\nMarkets see about an 85% chance of a December increase. Chair Kevin Warsh said the 2027 calendar will keep eight meetings, one without a rate vote.",
-    "why": "The path of US interest rates affects markets, currencies and borrowing costs across the world."
-   },
-   {
-    "headline": "US Fed keeps interest rates on hold, with two votes for a rise",
-    "body": "The US central bank, the Federal Reserve, left interest rates unchanged on 28 October at a range of 3.75% to 4%. It said inflation is still high. The decision was what most people expected.\nTwo members voted against it. Lisa Cook, a governor, and Beth Hammack, who heads the Cleveland Fed, both wanted a quarter-point rise. Governors rarely vote against the majority, and Cook had not done so before. One economist said it might be a protest linked to attempts by the administration to remove her.\nMarkets now think there is about an 85% chance of a rate rise in December. The chair, Kevin Warsh, also said that in 2027 one of the eight meetings will not include a vote on rates.",
-    "why": "Higher US rates can make borrowing more expensive around the world."
-   },
-   {
-    "headline": "The Fed leaves interest rates alone, but some members want them higher",
-    "body": "America's central bank, the Federal Reserve, did not change its main interest rate on 28 October. It stays between 3.75% and 4%. The Fed said prices are still rising too fast.\nTwo of its voting members wanted a small rise of a quarter of a percentage point. They are Lisa Cook and Beth Hammack. It is unusual for one of the Fed's governors, like Cook, to vote against the rest. An expert said it might be linked to attempts by the administration to remove her from her job.\nTraders now think there is a high chance, about 85%, that rates will go up in December. The Fed's chair, Kevin Warsh, also announced a change to next year's meetings.",
-    "why": "What the US does with interest rates affects the cost of borrowing everywhere."
-   },
-   {
-    "headline": "America's central bank keeps interest rates the same, for now",
-    "body": "The Federal Reserve, or Fed, is America's central bank. It sets the price of borrowing money, called the interest rate. On 28 October it decided to leave this rate where it is, between 3.75% and 4%. It said prices are still going up too fast.\nTwo of the people who vote wanted to put the rate up a little. They are Lisa Cook and Beth Hammack. Voting against the others is unusual for Cook, who had never done it before.\nPeople who trade money now think the Fed will raise the rate in December. They think there is about an 85% chance. The Fed's boss, Kevin Warsh, said next year's meetings will be arranged a little differently.",
-    "why": "When the US changes its rates, borrowing can get more or less expensive elsewhere."
-   },
-   {
-    "headline": "America's money bank keeps the cost of borrowing the same",
-    "body": "The Fed is the bank for America's banks. It decides how much it costs to borrow money. This cost is called the interest rate. On 28 October the Fed left the rate where it is, between 3.75% and 4%. The Fed said prices are still rising too quickly.\nOf the people who vote, two wanted the rate to go up a little. They are Lisa Cook and Beth Hammack. One of them, Cook, had never voted against the others before.\nMany people who watch money closely now think the rate will go up in December. They say there is about an 85% chance.",
-    "why": "When borrowing costs more, people and companies spend less."
-   },
-   {
-    "headline": "America's bank leaves the cost of borrowing the same",
-    "body": "When you borrow money, you pay a bit extra back. That extra bit is called interest. In America, a bank called the Fed sets how big that extra bit should be. On 28 October, the Fed left it as it was.\nThe Fed has a team of people who vote. Two of them wanted to make borrowing a little more expensive. The rest said no, so it stayed the same.\nSome people who study money think the Fed will make borrowing more expensive in December. They say there is a very good chance. It is a bit like a teacher waiting before changing a rule.",
-    "why": "It affects how much it costs to borrow money in many countries."
-   },
-   {
-    "headline": "America's big bank leaves the price of borrowing alone",
-    "body": "Borrowing money is like borrowing a pencil, but you have to give back a little extra. That extra is called interest. A very big bank in America, called the Fed, decides how much extra people pay.\nThis week, the Fed's team voted to leave it the same. But two of the team wanted to make it go up a little. Most of the team said no.\nPeople who watch money think the Fed might make it go up in December. The big bank says prices are still rising too fast, and raising the extra can help to slow that down.",
-    "why": "It helps decide how much families and firms pay when they borrow."
-   },
-   {
-    "headline": "America's big bank decides to keep things the same this time",
-    "body": "Imagine your teacher has a rule for how much extra you must give back when you borrow a pencil. The rule is about how much extra it costs to borrow money, and America has a big bank that decides it. It is called the Fed.\nThis week, the Fed's team voted. Most said keep the rule the same. Two said the extra should go up a little, because things are getting more expensive in the shops.\nGrown-ups think the rule might change in December. For now, nothing is different.",
-    "why": "Rules about borrowing money can change what families can afford."
-   },
-   {
-    "headline": "A big bank in America keeps things the same",
-    "body": "When you borrow a pencil, you give it back. When grown-ups borrow money, they give back a little extra. The extra is called interest.\nIn America a very big bank decides how much extra people pay. This week it decided to keep the extra the same. But two people on its team wanted it to go up a little. Most of the team said no.\nSome grown-ups think the extra might go up before the end of the year. It is a bit like a teacher thinking about changing a rule. For now, nothing has changed, and everyone is waiting to see.",
-    "why": "Rules about borrowing money change what families can afford."
-   }
-  ]
- },
- {
-  "id": "uk-gdp-august-0-1-percent",
-  "order": 9,
-  "topic": "Economy",
-  "region": "United Kingdom",
-  "source": "ONS and CNBC",
-  "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/august2026",
-  "headline": "UK economy grows 0.1% in August, beating forecasts of a fall",
-  "terms": [
-   {
-    "term": "GDP",
-    "meaning": "Gross domestic product: the total value of goods and services a country produces."
-   },
-   {
-    "term": "Production",
-    "meaning": "Factories, mining, energy and similar industries."
-   },
-   {
-    "term": "Services",
-    "meaning": "Businesses such as shops, banks and restaurants."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "UK economy grows 0.1% in August, beating forecasts of a fall",
-    "body": "The UK economy grew by 0.1% in August 2026, the Office for National Statistics reported on 15 October. Economists polled by Reuters had expected a 0.1% contraction. July's growth of 0.4% was unrevised.\nReal GDP rose 0.7% in the three months to August compared with the three months to May, and CNBC reported annual growth of 2.1% against forecasts of 1.7%. Production grew 0.8% in the month, services were flat and construction fell 0.2%.\nEuronews noted that growth came despite a fall in consumer spending. Sterling rose 0.4% against the dollar after the release and gilt yields fell. The figures arrived before the Budget and before the latest inflation data, which showed prices rising faster, so the picture for the Bank of England remains mixed.",
-    "why": "Growth affects jobs, wages and how much tax the government collects."
-   },
-   {
-    "headline": "August GDP edges up 0.1%, surprising economists who expected a contraction",
-    "body": "Monthly GDP grew 0.1% in August 2026, following unrevised growth of 0.4% in July, according to the Office for National Statistics on 15 October. Reuters-polled economists had forecast a 0.1% fall.\nOver the three months to August output was 0.7% higher than in the three months to May. CNBC reported year-on-year growth of 2.1%, ahead of the 1.7% forecast. Production rose 0.8%, services were unchanged and construction fell 0.2%.\nConsumer spending fell, according to Euronews. Sterling gained 0.4% against the dollar and UK government bond yields dropped. Inflation later rose to 3.5% in September, which keeps the Bank of England under pressure.",
-    "why": "The data helps decide whether the Bank of England raises interest rates."
-   },
-   {
-    "headline": "The UK economy grew a little in August, when a fall was expected",
-    "body": "The UK economy grew by 0.1% in August, according to the Office for National Statistics. Experts had expected it to shrink by 0.1%. In July it had grown by 0.4%.\nOver the three months to August, the economy was 0.7% bigger than in the three months before. Compared with a year earlier, it grew 2.1%, higher than the 1.7% experts had predicted. Factories, mines and energy producers grew 0.8% in August. Services such as shops and banks did not grow, and construction fell by 0.2%.\nThe pound rose a little against the dollar after the news, and the cost of government borrowing fell. Shoppers did spend less in the month.",
-    "why": "A growing economy usually means more jobs and more money for public services."
-   },
-   {
-    "headline": "The UK economy grew slightly in August, beating expectations",
-    "body": "The UK economy grew by 0.1% in August. This was better than experts had expected, as they thought it would shrink by 0.1%. The figures come from the Office for National Statistics and were published on 15 October. In July the economy grew by 0.4%.\nOver the three months to August, the economy grew by 0.7%. Compared with a year ago, it was 2.1% bigger. Factories and energy firms did well, with 0.8% growth. Services like shops and banks stayed flat, and building work shrank slightly.\nShoppers spent less during the month. The pound rose a little after the news, and the cost of government borrowing went down.",
-    "why": "It shows whether the country is making more money, which affects jobs and wages."
-   },
-   {
-    "headline": "The UK economy grew a tiny bit in August",
-    "body": "The economy is all the things people make, sell and do to earn money. When it grows, it gets bigger. In August the UK economy grew by 0.1%. That is a tiny amount. Experts thought it might shrink, so this was a nice surprise.\nThe figures come from the Office for National Statistics. It counts how much the country produces. In the three months up to August, the economy grew by 0.7%. Factories and energy firms did well. Shops, banks and other services stayed the same, and building work fell a little.\nPeople did spend less in shops. But the pound rose a little after the news.",
-    "why": "A growing economy can mean more jobs and more money for things like schools and hospitals."
-   },
-   {
-    "headline": "The UK economy got a tiny bit bigger in August",
-    "body": "The economy means all the things a country makes and sells. When more is made and sold, we say the economy has grown. In August the UK economy grew by 0.1%. That is a small amount, like one penny for every £10.\nExperts had thought it might shrink, so it was a nice surprise. Factories and energy companies grew the most. Shops, banks and other services stayed the same. Builders did a little less work.\nA group called the Office for National Statistics counts all of this. People did spend less in shops. When the economy grows, there can be more jobs.",
-    "why": "A growing economy can mean more jobs and more money for hospitals and schools."
-   },
-   {
-    "headline": "The UK made and sold a tiny bit more in August",
-    "body": "A country makes things and does jobs, such as baking bread, building houses and cutting hair. All of it together is called the economy. When people make and sell more, the economy grows.\nIn August, the UK economy grew by a small amount, 0.1%. That is about one penny for every £10. Experts thought it might shrink, so this was a pleasant surprise.\nFactories and energy firms did best. Builders did a little less work. The shops and other services stayed about the same. People did spend less money in shops that month.",
-    "why": "A growing economy can bring more jobs and more money for public services."
-   },
-   {
-    "headline": "The UK made a bit more stuff in August",
-    "body": "Think about a big bakery. If it bakes more bread this month than last month, it has grown. A whole country can grow in the same way. It is called the economy. It counts everything people make and sell.\nIn August the UK grew by a tiny amount, about one penny for every £10. Experts thought the country might make less, so this was a nice surprise. Factories and power companies were busy. Builders had a bit less to do.\nPeople spent less in shops. When a country grows, there can be more jobs and more money for schools.",
-    "why": "A growing country can bring more jobs and better public services."
-   },
-   {
-    "headline": "The UK economy grew a tiny bit",
-    "body": "Imagine your school has a cake sale each month. If you sell a bit more cake this month than last month, your sale has grown. A country can grow like that too. We call everything people make and sell the economy.\nIn August the UK grew just a tiny amount. Grown-ups thought it might shrink a little, so this was a nice surprise. Factories were busy, but builders were a bit quieter.\nWhen the economy grows, there can be more jobs and more money to pay for things like schools and parks.",
-    "why": "More growth can mean more jobs and money for schools and hospitals."
-   },
-   {
-    "headline": "The country made a tiny bit more than before",
-    "body": "Imagine your class sells cakes every month. If you sell a few more this month than last month, your sale has grown. A country can grow too. Everything its people make and sell is called the economy.\nIn August the UK grew by a very tiny amount. Grown-ups had thought it might shrink a little, so this was a nice surprise. Factories were busy, but builders were a bit quieter.\nWhen a country grows, there can be more jobs. There can also be more money to pay for things everyone shares, like schools, parks and hospitals.",
-    "why": "Growth can bring more jobs and more money for things everyone shares."
-   }
-  ]
- },
- {
-  "id": "germany-japan-economic-security-merz-takaichi",
-  "order": 10,
-  "topic": "Politics",
-  "region": "Asia",
-  "source": "Euronews",
-  "url": "https://www.euronews.com/2026/10/28/germany-and-japan-strengthen-economic-ties-as-global-tensions-rise",
-  "headline": "Germany and Japan agree to deepen cooperation on economic security and technology",
-  "terms": [
-   {
-    "term": "Economic security",
-    "meaning": "Protecting a country's supplies, technology and trade from outside pressure."
-   },
-   {
-    "term": "Rare earths",
-    "meaning": "Minerals used in electronics, electric cars and wind turbines."
-   },
-   {
-    "term": "Rules-based trade",
-    "meaning": "Trade run on agreed international rules rather than power or threats."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Germany and Japan agree to deepen cooperation on economic security and technology",
-    "body": "German Chancellor Friedrich Merz and Japanese Prime Minister Sanae Takaichi agreed in Tokyo on 28 October to deepen cooperation on economic security and high technology. Euronews reports they issued joint statements on both subjects and welcomed a joint declaration of intent on critical raw materials.\nThe two countries plan to broaden supply sources and improve substitutes for rare earths in their car industries. They will also set up a high-level dialogue on artificial intelligence and work together on defence against cyberattacks. The statements stressed the importance of peace and stability in the Taiwan Strait. China and the United States were not named, but the message appeared to criticise both indirectly.\nAt an economic forum in Tokyo, Merz called for a new political alliance to strengthen rules-based global trade.",
-    "why": "Closer ties between two big economies could change supply chains for cars, chips and minerals."
-   },
-   {
-    "headline": "Merz and Takaichi pledge closer work on economic security, rare earths and AI",
-    "body": "Chancellor Friedrich Merz and Prime Minister Sanae Takaichi met in Tokyo on 28 October and agreed to deepen cooperation on economic security and high technology, Euronews reported. They issued joint statements and welcomed a declaration of intent on critical raw materials.\nThey plan to widen the supply base for rare earths and make them easier to substitute in both countries' car industries. A high-level dialogue on artificial intelligence will be set up, and the two will work more closely on cyber protection. The statements highlighted peace in the Taiwan Strait. Neither China nor the US was named, but the wording seemed to criticise both indirectly.\nMerz also urged a new alliance to defend rules-based trade.",
-    "why": "It shows how major economies are reducing reliance on single suppliers."
-   },
-   {
-    "headline": "Germany and Japan agree to work more closely on technology and supplies",
-    "body": "The leaders of Germany and Japan, Friedrich Merz and Sanae Takaichi, met in Tokyo on 28 October. They agreed to work more closely on economic security and advanced technology. They published joint statements and welcomed a declaration about critical raw materials.\nThey want to find more places to get rare earths, which are minerals used in car parts and electronics, and make them easier to replace. They will also start a high-level dialogue on artificial intelligence and cooperate on protecting against cyberattacks. The statements said that peace in the Taiwan Strait is important. They did not name China or the US, but seemed to criticise both indirectly.\nMerz called for a new alliance to protect trade based on rules.",
-    "why": "It could affect the supply of the materials behind cars, phones and green energy."
-   },
-   {
-    "headline": "Germany and Japan team up on technology and key materials",
-    "body": "The leaders of Germany and Japan met in Tokyo on 28 October. They are Chancellor Friedrich Merz and Prime Minister Sanae Takaichi. They agreed to work more closely together to keep their economies secure and to share advanced technology.\nOne focus is rare earths. These are minerals used in car parts and electronics, and the two countries want to depend less on a small number of suppliers. They will also talk regularly about artificial intelligence and work together to fight cyberattacks. Their statements said peace around Taiwan matters. They did not name China or the US, though the message seemed aimed at both.\nMerz also asked for a new group of countries to support trade that follows agreed rules.",
-    "why": "The deal shows that countries want safer supplies of the materials they rely on."
-   },
-   {
-    "headline": "Germany and Japan promise to work together on technology and key materials",
-    "body": "The leaders of Germany and Japan met in Tokyo on 28 October. They are Friedrich Merz and Sanae Takaichi. They agreed to work together more on keeping their economies safe and on new technology.\nPart of this is about rare earths. These are special minerals that are used to make car parts and electronics. At the moment only a few places can supply a lot of them. The two countries want more choice. They also plan regular talks about artificial intelligence, which is computer software that can learn, and about stopping cyberattacks, which are attacks on computers.\nMerz also asked for countries to agree on fair rules for trade.",
-    "why": "Countries that depend on one supplier can be hurt if that supplier stops selling."
-   },
-   {
-    "headline": "Germany and Japan agree to be better friends in trade and technology",
-    "body": "Germany and Japan are two countries that make lots of cars and machines. Their leaders met in Tokyo on 28 October. They are Friedrich Merz and Sanae Takaichi. They agreed to work together more.\nOne plan is about rare earths. These are special minerals needed for phones, electric cars and other machines. Right now a few places supply most of them. Germany and Japan want to find more places to buy them from. They also plan to talk about artificial intelligence, which means smart computer programs, and to protect against hackers.\nMerz said countries should agree on fair rules for trading with each other.",
-    "why": "If one place stops selling, other places need another choice."
-   },
-   {
-    "headline": "Germany and Japan agree to help each other with trade and technology",
-    "body": "Germany and Japan are countries that make lots of cars, machines and gadgets. On 28 October their leaders met in a city called Tokyo. They are Friedrich Merz and Sanae Takaichi. They agreed to help each other more.\nThey talked about special minerals used to make phones and electric cars. Only a few places have much of these minerals. The two countries want to find more places to get them. They will also talk about smart computer programs, called artificial intelligence, and about how to stop hackers.\nOne leader said countries should trade fairly, with rules everyone agrees on.",
-    "why": "Having more than one supplier makes it less risky to depend on others."
-   },
-   {
-    "headline": "Two countries agree to help each other more",
-    "body": "Germany and Japan are two countries far apart from each other. On 28 October their leaders met in Tokyo. They said they would work more closely together, a bit like two friends who decide to share their toys.\nThey talked about special minerals that are used to make phones and electric cars. If you only have one shop that sells something, you are in trouble if it closes. So they want more places to get these minerals. They will also talk about smart computers and about hackers.\nOne of the leaders said that all countries should play fair when they trade.",
-    "why": "It is safer to have more than one place to get the things you need."
-   },
-   {
-    "headline": "Two countries say they will be better friends",
-    "body": "Imagine you need a special pencil, and only one shop sells it. If that shop shuts, you are stuck. It is safer if there are lots of shops. Countries think about this too.\nGermany and Japan are two countries that make a lot of cars and machines. Their leaders met on 28 October and agreed to work more closely together. They want to find more places to buy the special things that machines and phones need. They also want to talk about smart computers and how to stop hackers.\nOne of the leaders also said that everyone should follow fair rules when they trade, like in a good game.",
-    "why": "Having more choices keeps countries and families safer."
-   },
-   {
-    "headline": "Two countries say they will help each other",
-    "body": "Imagine you need a special crayon, and only one shop sells it. If that shop shuts, you are stuck. It would be safer to have lots of shops.\nCountries worry about this too. Germany and Japan make lots of cars and machines. They need special minerals for them, and only a few places have much of them.\nSo their leaders met and promised to help each other find more places to buy things from. They also said they will talk about clever computers and about stopping hackers. It is a bit like two friends who agree to share and to look after each other.",
-    "why": "Having more than one place to get things makes countries safer."
-   }
-  ]
- },
- {
-  "id": "fec-filing-system-offline-hack-midterms",
-  "order": 11,
-  "topic": "Politics",
-  "region": "United States",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
-  "headline": "US campaign finance filing system goes offline days before the midterms after a reported hack",
-  "terms": [
-   {
-    "term": "FEC",
-    "meaning": "The Federal Election Commission, the US body that oversees campaign finance."
-   },
-   {
-    "term": "Midterms",
-    "meaning": "US elections held halfway through a president's term."
-   },
-   {
-    "term": "Campaign finance",
-    "meaning": "Money raised and spent to influence elections."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "US campaign finance filing system goes offline days before the midterms after a reported hack",
-    "body": "The Federal Election Commission's electronic filing system has been down since about 10pm ET on Monday 26 October, and the agency says it was targeted by a hacker or hackers, CNBC reported on 28 October, citing an email obtained by Reuters.\nAn FEC official told compliance firms that a \"bad actor\" was trying to breach its systems, so public-facing services were shut. The agency said it had identified the problem and was applying a fix, but the system was still offline early Wednesday. It has not said who was responsible, whether anyone got in, or whether data was compromised.\nPreviously filed reports remain searchable, but new time-sensitive disclosures are blocked. These normally fall within 24 to 48 hours in the last 20 days before an election, which is 3 November. The FEC has had only two members since October 2025, fewer than the four needed to take official action.",
-    "why": "Voters rely on these filings to see who is paying to influence elections."
-   },
-   {
-    "headline": "FEC filing outage blocks campaign finance disclosures days before the midterms",
-    "body": "The Federal Election Commission's online filing system has been offline since about 10pm ET on Monday 26 October, with the agency saying hackers targeted it. CNBC cited an email seen by Reuters.\nAn official told compliance firms that a \"bad actor\" tried to breach the systems, and public-facing services were shut down. On Tuesday night the FEC said it had found the problem and was putting a fix in place, but the system remained down early Wednesday. It has not said who was behind it, whether anyone got in, or whether data was affected.\nOlder filings can still be searched, but new time-sensitive disclosures cannot be filed. In the last 20 days before the 3 November midterms they are normally due within 24 to 48 hours, while outside spending is rising. The FEC has only two members, so it cannot take official action.",
-    "why": "It could delay public information about election spending at a sensitive moment."
-   },
-   {
-    "headline": "A reported hack takes the US campaign finance filing system offline before the midterms",
-    "body": "The US Federal Election Commission, which oversees election money, says its online filing system has been down since about 10pm Eastern time on Monday 26 October. The agency says it was targeted by a hacker or hackers, according to CNBC, which cited an email seen by Reuters.\nAn official told firms that help campaigns file reports that a \"bad actor\" had tried to break into its systems, so it closed its public services. The FEC said it had found the problem and was fixing it, but the system was still down on Wednesday morning. It has not said who was responsible or whether any data was taken.\nOlder reports can still be searched. New reports, which are normally due within 24 to 48 hours near an election, cannot be filed. The midterms are on 3 November.",
-    "why": "People use these reports to see who is paying for political campaigns."
-   },
-   {
-    "headline": "US election money reporting system goes offline after a suspected hack",
-    "body": "The US body that watches over election money, the Federal Election Commission, has a website where campaigns report who gives them money and how they spend it. That system went offline at about 10pm on Monday 26 October. The agency says hackers targeted it.\nAn official told companies that help campaigns that a \"bad actor\" had tried to break in, so the agency closed its public services. It said it had found the problem and was working on a fix, but it was still down on Wednesday morning. It has not said who did it or whether any information was taken.\nOlder reports can still be searched. Newer ones cannot be sent in. This matters because elections are on 3 November, and campaigns must report quickly in the last weeks.",
-    "why": "It makes it harder for voters to see who is paying for political campaigns."
-   },
-   {
-    "headline": "A website where US campaigns report their money has been knocked offline",
-    "body": "In America, people who run for office raise money. They must tell the public where it comes from and how they spend it. A government body called the Federal Election Commission, or FEC, runs a website for these reports. That website stopped working on Monday 26 October.\nThe FEC says hackers, which are people who break into computers, tried to attack it. It shut parts of its website to stay safe. It says it found the problem and is fixing it. It has not said who did it or whether any information was stolen.\nOld reports can still be read. New ones cannot be sent in. Elections happen on 3 November, so the timing is awkward.",
-    "why": "People want to know who is paying for campaigns before they vote."
-   },
-   {
-    "headline": "A US government website for election money has stopped working",
-    "body": "When people want to win an election, they often ask for money to pay for posters and adverts. In America, they must report who gave them money. A government group called the FEC keeps a website for these reports. The website stopped working on Monday 26 October.\nThe FEC says hackers, people who try to break into computers, may have attacked it. It closed some of its website to keep it safe. It says it knows what the problem is and is trying to fix it. It does not yet know, or has not said, who did it.\nOld reports can still be read, but new ones cannot be added. America has important elections on 3 November.",
-    "why": "People want to see who pays for campaigns before they vote."
-   },
-   {
-    "headline": "A website for American election money has broken",
-    "body": "In America, people who want to win an election often ask others for money. They must tell everyone where the money came from. They do this using a special website. This website belongs to a government group called the FEC.\nOn Monday 26 October, that website stopped working. The FEC says computer hackers tried to break into it. Hackers are people who try to get into computers where they are not allowed. The FEC closed some of the website to stay safe and says it is working on a fix.\nOld reports can still be read, but new ones cannot be added. Important elections are on 3 November.",
-    "why": "Voters like to know who is paying for campaigns."
-   },
-   {
-    "headline": "A computer problem stops people sharing election money details",
-    "body": "In America, people who want to win an election raise money. They have to tell everyone where it came from, like showing your homework. They use a special website for this. A government group called the FEC looks after the website.\nThe website stopped working on Monday. The FEC thinks hackers, who are people who try to break into computers, tried to get in. The FEC closed some of the website to keep it safe. Now it is trying to fix it.\nOld reports can still be read, but new ones cannot go on. Big elections are coming on 3 November, so people want it fixed soon.",
-    "why": "People should be able to see where election money comes from."
-   },
-   {
-    "headline": "A computer problem stops a website from working",
-    "body": "Imagine your class is choosing a class captain. The people who want to win give out posters, and they must tell everyone who paid for them. That keeps things fair. America has a special website for this, which belongs to a group called the FEC.\nThe website stopped working this week. The FEC thinks computer hackers tried to break in. Hackers are people who try to get into computers where they should not. The FEC shut some of its website to keep it safe, and now it is trying to fix it.\nBig elections are coming on 3 November, so people want it working again soon.",
-    "why": "Elections are fairer when everyone can see who is paying."
-   },
-   {
-    "headline": "A computer problem has stopped a website from working",
-    "body": "Imagine your class is choosing a captain. Children who want the job make posters, and they must say who paid for them. That keeps the vote fair. In America there is a special website where people tell everyone where their election money came from.\nThis week the website stopped working. Grown-ups think hackers may have tried to get in. Hackers are people who try to get into computers where they are not allowed.\nThe people in charge shut some of the website to keep it safe, and now they are fixing it. Big elections are coming soon, so everyone hopes it is mended quickly.",
-    "why": "People can vote more fairly when they can see who is paying for campaigns."
+    "headline": "Why fuel costs so much",
+    "body": "Cars and lorries need fuel to move. Much fuel is made from oil, which comes from under the ground. It is sold in big barrels.\nA barrel costs about $115 now. That is a lot of money. Think of a toy that is hard to get, so the shop charges more. Oil is hard to get when there is trouble where it is made, in the Middle East.\nSome fighters said they hit an oil factory in Saudi Arabia. People are also afraid of more fighting soon.\nWhen oil costs more, it costs more to drive things to the shops. Then the things in the shops can cost more too. Some leaders are trying to talk about peace. That could help.",
+    "why": "It can make the things families buy cost more."
    }
   ]
  }
