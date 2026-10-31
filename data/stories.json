@@ -75,233 +75,158 @@
   ]
  },
  {
-  "id": "us-stocks-fall-alphabet",
+  "id": "wall-street-tech-selloff-oct30",
   "order": 2,
   "topic": "Economy",
   "region": "United States",
   "source": "CNBC",
   "url": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
-  "headline": "Wall Street falls as Alphabet suffers its worst day ever, ending the S&P 500's three-day rise",
+  "headline": "Wall Street falls sharply as tech shares sink: S&P 500 down 1.82% to 7,580.07",
   "terms": [
    {
     "term": "S&P 500",
-    "meaning": "An index tracking the share prices of 500 large US companies."
-   },
-   {
-    "term": "Free cash flow",
-    "meaning": "The cash a company has left after paying its running costs and investments."
+    "meaning": "An index that tracks the share prices of 500 of the biggest companies listed in the United States."
    },
    {
     "term": "Nasdaq Composite",
-    "meaning": "An index dominated by technology companies."
+    "meaning": "An index dominated by technology companies, so it moves more when tech shares rise or fall."
+   },
+   {
+    "term": "Dow Jones Industrial Average",
+    "meaning": "An index of 30 large US companies, one of the oldest measures of the stock market."
    }
   ],
   "levels": [
    {
-    "headline": "Wall Street falls as Alphabet suffers its worst day ever, ending the S&P 500's three-day rise",
-    "body": "The S&P 500 closed down about 0.3% at 7,720.39 on Thursday 29 October, the last completed session, ending a three-day winning run. The Dow Jones Industrial Average lost 132.54 points, or 0.25%, to 52,342.56, and the Nasdaq Composite fell 1.38% to 26,184.72.\nThe main drag was Alphabet, the owner of Google. Its shares fell nearly 13% in their worst day since it listed in 2004, wiping out roughly $500 billion in market value. The company missed forecasts for revenue and earnings in the third quarter and reported negative free cash flow of $9.07 billion.\nAlphabet kept its 2026 capital spending forecast at $195 billion to $205 billion. Renewed doubts about how long the heavy spending on artificial intelligence can pay off weighed on other technology shares.",
-    "why": "A single giant company's results can move the whole market and the savings and pensions tied to it."
+    "headline": "Wall Street falls sharply as tech shares sink: S&P 500 down 1.82% to 7,580.07",
+    "body": "Wall Street fell sharply on Friday 30 October, the last completed trading session, as a sell-off in technology shares deepened. The S&P 500 closed down 1.82% at 7,580.07. The Nasdaq Composite lost 2.86% to end at 25,437.00, its worst day since June, and the Dow Jones Industrial Average dropped 572.25 points, or 1.09%, to 51,770.31.\nCNBC linked the selling to doubts over whether huge spending on artificial intelligence will pay off. It followed Alphabet's worst day on record on Thursday, when its shares fell about 13% and lost roughly $500 billion in value after a weak earnings report. AMD fell close to 11% and Intel about 25% on weak revenue guidance. Selling grew in the afternoon as investors took money off the table before month-end and before the US midterm elections on 3 November.\nFor October as a whole the Nasdaq fell 5.3%, its steepest monthly drop since March 2025. The S&P 500 lost 0.9% and the Dow gained 1.7%. Investors moved towards steadier sectors such as consumer staples and healthcare. The S&P 500 is still only a few percent below its record high.",
+    "why": "Share prices affect pensions, savings and company investment, and a sharp fall in tech shows how nervous investors are about AI."
    },
    {
-    "headline": "US stocks slip as Alphabet tumbles on a disappointing quarter",
-    "body": "US shares ended lower on Thursday 29 October, the latest completed session. The S&P 500 fell about 0.3% to close at 7,720.39, its first fall after three straight gains. The Dow lost 132.54 points, or 0.25%, to 52,342.56, while the Nasdaq Composite dropped 1.38% to 26,184.72.\nAlphabet, Google's parent company, led the decline. It fell almost 13%, its biggest one-day drop since going public in 2004, after missing expectations for revenue and profit and reporting negative free cash flow of $9.07 billion.\nInvestors are uneasy about how much big technology firms are spending on artificial intelligence. Alphabet said it still expects to spend $195 billion to $205 billion this year, and that unease spread to other tech stocks.",
-    "why": "It shows how much the market now depends on the AI spending plans of a few large firms."
+    "headline": "US stocks drop as tech sell-off deepens, with the S&P 500 down 1.82%",
+    "body": "US shares fell hard on Friday 30 October, the latest completed session, as investors dumped technology stocks. The S&P 500 closed down 1.82% at 7,580.07, the Nasdaq lost 2.86% to 25,437.00, and the Dow slipped 572.25 points, or 1.09%, to 51,770.31. It was the Nasdaq's worst day since June.\nThe main worry is whether the very large sums being spent on artificial intelligence will bring enough profit. Alphabet, Google's owner, had its worst day ever on Thursday, falling about 13% and losing around $500 billion of value after disappointing results. On Friday AMD dropped nearly 11% and Intel about 25% after weak revenue guidance, which is a company's forecast of future sales.\nSelling picked up in the afternoon as traders cashed in gains before the end of the month and ahead of the US midterm elections on 3 November. Over October the Nasdaq fell 5.3%, its biggest monthly fall since March 2025, while the S&P 500 lost 0.9% and the Dow rose 1.7%. Money moved into defensive sectors like healthcare.",
+    "why": "It shows how worries about AI spending can quickly drag down the whole market."
    },
    {
-    "headline": "US shares fall after Alphabet's weak results",
-    "body": "The main US stock index, the S&P 500, closed down about 0.3% on Thursday 29 October, finishing at 7,720.39. That was the last full trading session. It ended three days of gains.\nThe Dow Jones fell 132.54 points, or 0.25%, to 52,342.56. The Nasdaq, which holds many technology firms, dropped 1.38% to 26,184.72.\nThe fall was driven by Alphabet, the company behind Google. Its shares dropped almost 13%, the biggest one-day fall since it joined the stock market in 2004. It had missed forecasts for sales and profit. It also spent more cash than it brought in, with negative free cash flow of $9.07 billion.\nSome investors now worry that the huge sums spent on artificial intelligence may not pay off quickly.",
-    "why": "Falls in big technology shares can affect pension funds and savings that hold them."
+    "headline": "Wall Street slides as investors dump tech shares, S&P 500 closes down 1.82%",
+    "body": "Wall Street ended Friday 30 October sharply lower, the last completed trading day, after another wave of selling in technology companies. The S&P 500 index fell 1.82% to close at 7,580.07. The tech-heavy Nasdaq dropped 2.86% to 25,437.00, its worst day since June, and the Dow lost 572.25 points, or 1.09%, to finish at 51,770.31.\nInvestors are increasingly asking whether the vast amounts that big tech firms are spending on artificial intelligence will earn their money back. The doubts grew after Alphabet's shares fell about 13% on Thursday, the biggest one-day fall since it floated in 2004, wiping out about $500 billion. On Friday chip makers AMD and Intel both fell sharply, Intel by about 25% after giving weak guidance on sales.\nTraders also sold into the end of the month and ahead of the midterm elections on 3 November. The Nasdaq lost 5.3% in October, its worst month since March 2025. The Dow, which holds fewer tech firms, rose 1.7% for the month, and the S&P 500 fell 0.9%.",
+    "why": "Falling share prices can hit pension pots and make firms more cautious about hiring and investing."
    },
    {
-    "headline": "Wall Street ends lower as Google's owner has its worst day",
-    "body": "US shares fell on Thursday 29 October, the last complete day of trading. The S&P 500, which tracks 500 big US firms, closed down about 0.3% at 7,720.39. Before that it had risen for three days in a row.\nThe Dow Jones lost 132.54 points, or 0.25%, to finish at 52,342.56. The Nasdaq, packed with technology companies, fell 1.38% to 26,184.72.\nAlphabet, which owns Google, caused most of the damage. Its share price fell nearly 13%, its worst day since it first listed in 2004. Its sales and profit came in below forecasts, and it spent more cash than it earned. That left a negative free cash flow of $9.07 billion.\nThis made investors ask if big spending on artificial intelligence will bring enough money back.",
-    "why": "Big tech firms make up a large part of the market, so their news matters to savers."
+    "headline": "Tech sell-off drags Wall Street lower, with the S&P 500 down 1.82%",
+    "body": "US stock markets fell sharply on Friday 30 October, the most recent full trading day, as investors sold technology shares. The S&P 500 closed down 1.82% at 7,580.07, the Nasdaq dropped 2.86% to 25,437.00 and the Dow fell 572.25 points, or 1.09%, to 51,770.31.\nIt was the Nasdaq's worst day since June. Investors are worried that the huge sums spent on artificial intelligence may not bring in enough profit. Google's owner Alphabet fell about 13% on Thursday after weak results, its worst day on record and a loss of roughly $500 billion in value. Chip firms were hit on Friday, with AMD down nearly 11% and Intel down about 25% after it gave a weak forecast.\nTraders also took profits before the month ended and ahead of the US midterm elections on 3 November. For October, the Nasdaq fell 5.3%, its biggest monthly drop since March 2025. The S&P 500 lost 0.9%, while the Dow gained 1.7%. The market is still only a few percent below its record high, so the longer rise has not ended.",
+    "why": "Big falls in shares matter to anyone with a pension or investments, and can make companies more cautious."
    },
    {
-    "headline": "US shares fall because Google's owner had a bad quarter",
-    "body": "Share prices in the United States went down on Thursday 29 October. This was the last full day of trading. A stock index is a score showing how a group of shares is doing. The S&P 500 covers 500 big firms. It fell about 0.3% to 7,720.39 after three days of rising.\nThe Dow Jones, another index, fell 0.25% to 52,342.56. The Nasdaq, which has many technology firms, fell 1.38% to 26,184.72.\nThe main reason was Alphabet, the company that owns Google. Its share price dropped almost 13%, its worst day ever. It earned less than people had expected and spent more cash than it took in.\nInvestors worry that spending so much on artificial intelligence may not pay off soon.",
-    "why": "Many people's savings are invested in shares, so big falls can matter to them."
+    "headline": "US shares fall sharply as investors sell tech companies",
+    "body": "Share prices in the United States fell sharply on Friday 30 October, the last full day of trading. The S&P 500, an index that follows 500 big US companies, closed down 1.82% at 7,580.07. The Nasdaq, which has many tech firms, dropped 2.86% to 25,437.00, and the Dow, which tracks 30 large firms, fell 1.09% to 51,770.31.\nInvestors are worried about artificial intelligence, or AI. Tech giants are spending enormous sums on it, and people are asking whether it will earn enough money back. On Thursday, Alphabet, the owner of Google, lost about 13% of its value after poor results. That was its worst day ever, and about $500 billion disappeared. On Friday the chip makers AMD and Intel also fell sharply.\nMany traders also sold before the end of the month and before the US midterm elections on 3 November. Over October the Nasdaq fell 5.3%, its worst month since March 2025. Money moved into steadier areas such as healthcare. The market is still close to its record high.",
+    "why": "It shows how nervous investors are about AI, which can affect savings, pensions and jobs."
    },
    {
-    "headline": "Share prices fall in the US after Google's owner has a bad quarter",
-    "body": "Share prices in the United States went down on Thursday 29 October, the last full day of trading. The S&P 500, which follows 500 big American firms, fell about 0.3% to 7,720.39 after three days of gains. The Dow Jones lost 0.25% to 52,342.56, and the Nasdaq, full of technology firms, fell 1.38% to 26,184.72.\nThe main reason was Alphabet, which owns Google. Its shares dropped almost 13% in one day, its worst ever. It had sold less and earned less than experts expected, and it spent more cash than it brought in.\nAlphabet is also spending a huge amount on artificial intelligence. Investors are asking whether that money will come back. When they worry, they sell shares, and prices fall.",
-    "why": "Share prices affect pensions and savings, so big falls can matter to ordinary people."
+    "headline": "US shares fall as investors sell off tech companies",
+    "body": "Share prices in the United States fell a lot on Friday 30 October. Shares are small parts of companies that people can buy and sell. The S&P 500, which follows 500 large firms, fell 1.82% to 7,580.07. The Nasdaq, full of tech firms, fell 2.86%, its worst day since June. The Dow, which follows 30 big firms, fell 1.09%.\nMany investors are now worried about artificial intelligence, or AI. Big tech firms are spending huge amounts on it, and people are not sure it will make enough money. Alphabet, which owns Google, lost about 13% of its value on Thursday after weak results. It was the firm's worst day ever. Chip makers AMD and Intel also fell on Friday.\nSome traders also sold shares before the month ended and before the US elections on 3 November. In October the Nasdaq fell 5.3%, its worst month since March 2025. The market is still not far below its highest level. Falls like this can affect people's pensions and savings.",
+    "why": "Falling shares can shrink pensions and savings, and make firms spend and hire less."
    },
    {
-    "headline": "American share prices dip after Google's parent company disappoints",
-    "body": "On Thursday 29 October, share prices in the United States went down. A share is a small piece of a company. People buy and sell them, and the price goes up and down each day.\nThe S&P 500 is a score for 500 big American firms. It fell about 0.3%, to 7,720.39. The Dow Jones, another score, fell 0.25%. The Nasdaq, which is full of technology firms, fell 1.38%.\nThe biggest fall was Alphabet, which owns Google. Its shares dropped almost 13% in one day, the worst day since it began in 2004. It sold less than people expected and spent more cash than it earned.\nPeople now ask if spending so much money on artificial intelligence will pay off.",
-    "why": "If shares drop, pensions and savings that hold them can lose value for a while."
+    "headline": "Share prices in the US fall a lot as tech firms are sold",
+    "body": "Share prices in the United States dropped a lot on Friday 30 October. A share is a small piece of a company. People buy shares hoping the company does well. When many people sell at once, prices fall.\nThe S&P 500, a list of 500 big US companies, fell 1.82%. The Nasdaq, which has lots of tech firms, fell 2.86%. That was its worst day since June. The Dow, a list of 30 large companies, fell 1.09%.\nInvestors are worried about artificial intelligence, or AI. Big tech firms are spending a huge amount of money on it. People now ask if the firms will earn that money back. Alphabet, the company that owns Google, lost about 13% of its value on Thursday. It was the worst day in its history.\nSome people also sold shares before the end of the month and before US elections on 3 November. Over October the Nasdaq fell 5.3%. Falls like this can make pensions and savings worth less.",
+    "why": "Many people's pensions and savings are invested in shares, so big falls can affect them."
    },
    {
-    "headline": "Share prices fall after a big company's bad news",
-    "body": "A share is a tiny slice of a company. When many people want it, its price goes up. When they do not, it goes down.\nOn Thursday 29 October, the main score for American shares, the S&P 500, went down by about 0.3%. Two other scores, the Dow and the Nasdaq, went down by 0.25% and 1.38%.\nThe biggest fall was for Alphabet, the company that owns Google. Its shares fell almost 13% in a day. That is its worst day ever. The company sold less than people hoped, and it spent more money than it brought in.\nIt is also spending huge amounts on artificial intelligence, or AI. Some people worry this money may not come back quickly.",
-    "why": "Falling share prices can change the value of savings that people hold."
+    "headline": "US share prices fall a lot on Friday as tech firms lose value",
+    "body": "On Friday 30 October, share prices in the United States fell a lot. A share is a tiny slice of a company. If you own a share, you own a little bit of that company. The price goes up and down every day, depending on how many people want to buy it.\nOn Friday, many people wanted to sell. The S&P 500, which follows 500 big companies, fell by 1.82%. The Nasdaq, which follows many tech companies, fell by 2.86%. The Dow, which follows 30 large companies, fell by 1.09%.\nPeople are worried about artificial intelligence, or AI. Big tech firms are spending lots of money on it. Some people think they might not get that money back. Alphabet, the company that owns Google, lost about 13% of its value on Thursday. That has never happened to it before.\nIt matters because lots of pension funds own shares. When prices fall, the money saved for later is worth less, at least for now.",
+    "why": "It matters because many people's pensions are invested in shares."
    },
    {
-    "headline": "Why share prices went down",
-    "body": "Think of a school sale where everyone swaps cards. If a very popular card suddenly looks less special, many children want it less. Its price drops. Shares work in a similar way.\nOn Thursday 29 October, share prices in America went down. The main score, the S&P 500, fell a little, about 0.3%. A score called the Nasdaq fell more, by 1.38%.\nThe card that lost most was Alphabet, the company that owns Google. It had told people it earned less than expected, so many people wanted its shares less. The price dropped almost 13% in one day, its worst day ever.\nIt is also spending huge sums on AI, which is computer smarts. Some people wonder if it will pay off.",
-    "why": "It shows that even very big firms can have a bad day, and that can change what savings are worth."
+    "headline": "Share prices fall in America and tech companies lose the most",
+    "body": "Share prices fell in America on Friday 30 October. A share is a small piece of a company. People buy shares, and the price goes up or down. On Friday the prices went down, and quite a lot.\nThink of a school sale where everyone wants to buy a toy. The price goes up. Now think of everyone wanting to sell the toy. The price goes down. That is what happened to tech company shares.\nTech companies make things like phones, computers and websites. Many are spending a lot of money on a new thing called artificial intelligence, or AI. Some people worry the companies will not make that money back. Google's owner, Alphabet, lost about a seventh of its value on Thursday.\nLots of ordinary people's pensions are tied up in shares. So when prices fall, adults pay attention. The prices are still not far from their highest ever, and they can rise again.",
+    "why": "When share prices fall, money saved for people's pensions can be worth less."
    },
    {
-    "headline": "Why some shares got cheaper",
-    "body": "Imagine a toy that everyone wants. Then people hear it is not as good as they thought. Fewer people want it, so it gets cheaper. That happened to some shares in America on Thursday.\nA share is a small piece of a company. The score for 500 big firms, the S&P 500, went down a little, about 0.3%. Another score, the Nasdaq, went down by 1.38%.\nThe biggest drop was Alphabet, which owns Google. It told everyone it had earned less than hoped. Its shares fell almost 13% in one day, which was its worst day ever.\nIt is spending a lot of money on AI. People are asking if that money will come back. When people worry, prices can go down.",
-    "why": "It reminds us that prices of shares can go up and down, sometimes quickly."
+    "headline": "Share prices fell and some big companies lost a lot of money",
+    "body": "On Friday, many share prices fell in America. A share is like one slice of a very big pizza. The pizza is a company. If you own a slice, you own a tiny bit of the company.\nEach day, people buy and sell slices. If lots of people want a slice, the price goes up. If lots of people want to sell, the price goes down. On Friday, lots of people sold slices of technology companies. Those are companies that make computers, phones and clever robots called AI.\nSome grown-ups are worried. These companies are spending a huge amount of money on AI. They are not sure they will get the money back. Think of spending all your pocket money on a toy and then not being sure you will like it.\nWhen the prices go down, people feel worried. But prices go up and down all the time, like a seesaw in the playground.",
+    "why": "Share prices go up and down, and grown-ups with savings pay close attention to them."
    }
   ]
  },
  {
-  "id": "burnham-national-economic-council",
+  "id": "burnham-nations-economic-council-glasgow",
   "order": 3,
   "topic": "Politics",
   "region": "United Kingdom",
   "source": "GOV.UK",
   "url": "https://www.gov.uk/government/news/pms-message-to-devolved-governments-work-with-me-to-empower-every-single-part-of-the-uk",
-  "headline": "Burnham offers devolved governments a partnership on regional empowerment at the first National Economic Council for the nations",
+  "headline": "Burnham meets Scottish and Welsh leaders in Glasgow and agrees a policy sprint with Scotland",
   "terms": [
    {
     "term": "Devolution",
-    "meaning": "Moving decision-making powers from central government to nations, regions or cities."
+    "meaning": "Passing decision-making powers from the UK government to Scotland, Wales, Northern Ireland or local areas."
    },
    {
-    "term": "Devolved government",
-    "meaning": "The governments of Scotland, Wales and Northern Ireland, which control some of their own affairs."
+    "term": "National Economic Council",
+    "meaning": "A forum where the Prime Minister meets other leaders to discuss the economy."
    },
    {
-    "term": "Reindustrialisation",
-    "meaning": "Rebuilding manufacturing and other industry in places that lost it."
+    "term": "Innovation cluster",
+    "meaning": "A group of firms, universities and researchers in one area working in the same industry."
    }
   ],
   "levels": [
    {
-    "headline": "Burnham offers devolved governments a partnership on regional empowerment at the first National Economic Council for the nations",
-    "body": "Prime Minister Andy Burnham met the First Ministers of Scotland and Wales, John Swinney and Rhun ap Iorwerth, in Glasgow on 30 October for the first National Economic Council for the nations. Northern Ireland was also represented. It is the first such meeting since he became Prime Minister.\nAccording to a GOV.UK release, Burnham used the meeting to offer each devolved government a partnership on regional empowerment, telling them to \"work with me to empower every single part of the UK\". The agenda covered opportunities for young people, reindustrialisation and giving regions and cities more decision-making power.\nHe is pitching devolution that goes deeper within nations, rather than only moving powers between parliaments. The release also said £1 billion will be invested across the UK over four years in innovation clusters. No concrete decisions from the talks had been published at the time of writing.",
-    "why": "It shows how the new Prime Minister wants to share power between Westminster, the nations and local areas."
+    "headline": "Burnham meets Scottish and Welsh leaders in Glasgow and agrees a policy sprint with Scotland",
+    "body": "Prime Minister Andy Burnham held the first National Economic Council for the nations in Glasgow on 30 October, meeting Scotland's First Minister John Swinney and Wales's First Minister Rhun ap Iorwerth, with Northern Ireland also represented. His message was \"work with me to empower every single part of the UK\". He said the aim was to go deeper within each nation to empower places and communities, rather than only moving powers between parliaments.\nAfter meeting Mr Swinney, the two governments agreed a policy sprint led by No10 North, involving officials from both. The government says a second Scottish independence referendum is off the table, as the Prime Minister has repeatedly made clear.\nMr Burnham also pointed to £1 billion through UK Research and Innovation over four years for innovation clusters in the Industrial Strategy's priority sectors. In a speech on 16 October he said ministers were looking at devolving innovation, enterprise and employability funding. It is not yet clear how the money will be split between regions.",
+    "why": "It shows how the new Prime Minister wants to share economic power with Scotland, Wales and English regions."
    },
    {
-    "headline": "Burnham meets First Ministers in Glasgow and offers a partnership on devolution",
-    "body": "Prime Minister Andy Burnham met Scotland's First Minister John Swinney and Wales's First Minister Rhun ap Iorwerth on 30 October in Glasgow for the first National Economic Council for the nations. Northern Ireland was represented too.\nA government release said Burnham offered each devolved government a partnership, urging them to \"work with me to empower every single part of the UK\". Talks were due to cover young people's opportunities, rebuilding industry and handing more decisions to regions and cities.\nHe argues for devolution within the nations, not just between parliaments. The government also pointed to £1 billion of investment over four years in innovation clusters, groups of research and business hubs. The outcome of the talks had not been published.",
-    "why": "The meeting tests whether the UK government and the devolved governments can agree on shared economic goals."
+    "headline": "Burnham offers devolved governments a partnership at the first nations Economic Council",
+    "body": "Andy Burnham convened the first National Economic Council for the nations in Glasgow on 30 October, alongside Scottish First Minister John Swinney and Welsh First Minister Rhun ap Iorwerth, with Northern Ireland represented. The Prime Minister told the devolved governments to \"work with me to empower every single part of the UK\", describing his approach as going deeper within nations rather than simply shifting powers between parliaments.\nFollowing talks with Mr Swinney, both governments agreed a policy sprint, led by No10 North and involving officials from each side. Downing Street has said a second independence referendum in Scotland is not on the table.\nThe Prime Minister highlighted £1 billion of funding through UKRI over four years to support innovation clusters in priority sectors. On 16 October he said the UK was considering how to devolve innovation, enterprise and employability funding to match local strengths. No breakdown of how the money will be divided has been published.",
+    "why": "The approach could change how money and decisions flow between Westminster, the nations and English regions."
    },
    {
-    "headline": "PM invites Scotland and Wales to work together on regional power",
-    "body": "Andy Burnham, the Prime Minister, met the leaders of Scotland and Wales, John Swinney and Rhun ap Iorwerth, in Glasgow on 30 October. It was the first meeting of a new body called the National Economic Council for the nations. Northern Ireland also took part.\nThe government says Burnham offered each devolved government a partnership and asked them to \"work with me to empower every single part of the UK\". Topics included jobs for young people, rebuilding industry and giving regions and cities more say in decisions.\nThe government also highlighted £1 billion of investment over four years in innovation clusters across the UK. There was no word yet on any firm decisions.",
-    "why": "It could change how much power towns, cities and nations have over their own economies."
+    "headline": "PM tells devolved governments to 'work with me' as the nations' Economic Council meets in Glasgow",
+    "body": "Prime Minister Andy Burnham met the First Ministers of Scotland and Wales in Glasgow on 30 October for the first National Economic Council aimed at the nations, with Northern Ireland also represented. He said he wanted to \"empower every single part of the UK\", and to push power further down to local places and communities, instead of just moving it from one parliament to another.\nAfter talks with Scotland's John Swinney, the two governments agreed a policy sprint, a short and focused piece of joint work led by the No10 North team. The UK government says a new Scottish independence referendum is not on offer.\nMr Burnham also pointed to £1 billion over four years, channelled through UK Research and Innovation, for innovation clusters. These are areas where businesses, universities and researchers work together in industries the government wants to grow. Plans to hand regions more control over innovation and jobs funding are being looked at, but the split of cash is unclear.",
+    "why": "It shows whether the government can share economic power across the UK without reopening the independence row."
    },
    {
-    "headline": "Prime Minister meets Scotland and Wales leaders to talk about sharing power",
-    "body": "Prime Minister Andy Burnham met the First Ministers of Scotland and Wales, John Swinney and Rhun ap Iorwerth, in Glasgow on 30 October. The meeting was the first National Economic Council for the nations, and Northern Ireland was represented as well.\nThe government says Burnham offered each of them a partnership. He asked them to \"work with me to empower every single part of the UK\". They were due to discuss jobs and chances for young people, bringing industry back to places that lost it, and giving regions and cities more say.\nThe government also said £1 billion will be invested over four years in innovation clusters, which are areas where new ideas and businesses grow together. No decisions had been announced.",
-    "why": "It affects who makes decisions about jobs and money where people live."
+    "headline": "Burnham offers Scotland and Wales a partnership at first nations Economic Council",
+    "body": "Prime Minister Andy Burnham met Scotland's First Minister John Swinney and Wales's First Minister Rhun ap Iorwerth in Glasgow on 30 October for the first National Economic Council for the nations. Northern Ireland was also represented. Mr Burnham urged them to \"work with me to empower every single part of the UK\" and said power should move deeper into communities, not just between parliaments.\nAfterwards, the UK and Scottish governments agreed a policy sprint, a short burst of joint work led by No10 North. Another independence referendum in Scotland is off the table, the Prime Minister has said.\nHe also pointed to £1 billion over four years through UK Research and Innovation for innovation clusters, which are groups of firms and researchers in the same industry. He has said the government is looking at devolving funding for innovation, enterprise and employability, meaning help into work. How the cash will be shared out has not been set out.",
+    "why": "It could decide how much say Scotland, Wales and English regions have over their own economies."
    },
    {
-    "headline": "PM meets leaders of Scotland and Wales in Glasgow",
-    "body": "Andy Burnham is the Prime Minister. On 30 October he met the leaders of Scotland and Wales in Glasgow. They are John Swinney and Rhun ap Iorwerth. Northern Ireland was there too.\nScotland, Wales and Northern Ireland each have their own governments for some matters, like schools and health. These are called devolved governments. The meeting was the first of a new group, the National Economic Council for the nations.\nBurnham offered a partnership. He wants to give more decision-making power to regions and cities, not just nations. They talked about chances for young people and bringing industry back. The government also said £1 billion will go to places where new ideas and businesses grow. No decisions were announced yet.",
-    "why": "It is about who decides things in your area, such as jobs and training."
+    "headline": "PM meets Scottish and Welsh leaders and offers to share more power",
+    "body": "The Prime Minister, Andy Burnham, met the leaders of Scotland and Wales in Glasgow on 30 October. John Swinney is Scotland's First Minister and Rhun ap Iorwerth is Wales's. Northern Ireland also sent a representative. It was the first time a new group called the National Economic Council met for the nations.\nMr Burnham asked them to \"work with me\" so that every part of the UK has more say over its own future. He wants power to go down to towns, cities and regions, not only to move between the parliaments in London, Edinburgh and Cardiff.\nThe UK and Scottish governments agreed to do a short, focused piece of joint work called a policy sprint. The government says there will not be another vote on Scottish independence.\nMr Burnham also pointed to £1 billion over four years to help groups of firms and researchers grow new industries. It is not yet clear how the money will be shared.",
+    "why": "It affects who makes decisions about jobs, funding and local services across the UK."
    },
    {
-    "headline": "PM meets Scotland and Wales leaders to talk about sharing power more widely",
-    "body": "Prime Minister Andy Burnham met the leaders of Scotland and Wales, John Swinney and Rhun ap Iorwerth, in Glasgow on 30 October. Northern Ireland was represented too. It was the first meeting of the National Economic Council for the nations.\\nThe UK government in London makes some decisions for everyone. Scotland, Wales and Northern Ireland have their own governments for other matters. Burnham said, \\\"work with me to empower every single part of the UK\\\". He wants towns, cities and regions to get a bigger say as well.\\nThey were due to talk about jobs for young people and bringing industry back. The government also pointed to £1 billion over four years for innovation clusters, places where new businesses and research grow together. No decisions have been announced.",
-    "why": "Decisions made closer to home can shape local jobs and services."
+    "headline": "The Prime Minister meets Scottish and Welsh leaders and offers to share power",
+    "body": "On 30 October the Prime Minister, Andy Burnham, travelled to Glasgow to meet the leaders of Scotland and Wales, John Swinney and Rhun ap Iorwerth. Northern Ireland also sent a representative. Scotland, Wales and Northern Ireland each have their own government, which makes many decisions locally. This is called devolution.\nMr Burnham said he wants to work with them so that every part of the UK has a real say. He also wants cities, towns and regions to get more control, not just the nations.\nThe Scottish and UK governments agreed to carry out a short piece of joint work, called a policy sprint. The UK government says there will not be a second vote on Scottish independence.\nThe Prime Minister also spoke about £1 billion over four years to help local businesses and researchers grow new industries. It has not yet been said how the money will be shared out between different areas.",
+    "why": "It could change who decides how money is spent on jobs and services near you."
    },
    {
-    "headline": "The Prime Minister meets Scotland and Wales to share power",
-    "body": "Andy Burnham is the Prime Minister. On 30 October he met two leaders in Glasgow, John Swinney of Scotland and Rhun ap Iorwerth of Wales. Northern Ireland sent people as well.\nThe UK has one main government in London. Scotland, Wales and Northern Ireland also have their own governments for some things, such as health and schools. Burnham wants them to work with him. He said, \"work with me to empower every single part of the UK\".\nHe wants towns and cities to have more say too. They talked about jobs for young people and bringing back industry. The government also said £1 billion will be spent over four years to help new businesses and ideas grow. No decisions were shared.",
-    "why": "It could mean more local control over things that affect young people's futures."
+    "headline": "The Prime Minister meets Scottish and Welsh leaders to share power",
+    "body": "On 30 October the Prime Minister, Andy Burnham, met leaders from Scotland and Wales in the city of Glasgow. The leaders are called First Ministers. They run the Scottish and Welsh governments, which look after things like health and schools in their own countries. This idea is called devolution.\nMr Burnham said he wanted to \"work with\" them so that every part of the UK has more say. He also wants power to go down to local areas, such as cities and towns.\nThe Scottish and UK governments agreed to do a short, focused piece of work together, called a policy sprint. The government says there will not be another vote on whether Scotland should become independent.\nThe Prime Minister also talked about £1 billion over four years. It is to help businesses, universities and researchers in the same area to grow new industries and create jobs. We do not yet know how the money will be shared.",
+    "why": "It could change who decides how money is spent on jobs and services where you live."
    },
    {
-    "headline": "Leaders meet to talk about sharing power across the UK",
-    "body": "The Prime Minister is called Andy Burnham. On 30 October he met the leaders of Scotland and Wales in a city called Glasgow. Their names are John Swinney and Rhun ap Iorwerth.\nThe UK is made of four parts: England, Scotland, Wales and Northern Ireland. Some parts have their own governments to make some choices. Burnham asked them to work together. He wants more choices to be made close to where people live, in towns and cities too.\nThey talked about jobs for young people and building things again in places that used to make lots of goods. The government also said it will spend £1 billion over four years to help new ideas grow. Nothing has been decided yet.",
-    "why": "Choices made nearby can shape jobs and schools for young people."
+    "headline": "The Prime Minister meets leaders of Scotland and Wales in Glasgow",
+    "body": "On 30 October the Prime Minister, Andy Burnham, met two leaders in a city called Glasgow. They were John Swinney, who leads the Scottish government, and Rhun ap Iorwerth, who leads the Welsh government. Scotland and Wales make many of their own rules, for example about hospitals and schools.\nThe Prime Minister said he wants to \"work with\" them. He wants every part of the UK to have more say about its own future. He also wants towns and cities to be able to make more choices themselves.\nThe Scottish government and the UK government agreed to do a short, focused piece of work together. It is called a policy sprint. The government says there will not be another vote on Scotland leaving the UK.\nThe Prime Minister also talked about £1 billion over four years. It will help local businesses and scientists grow new industries. Nobody has said yet how it will be shared out.",
+    "why": "It could change who decides how money is spent in your area."
    },
    {
-    "headline": "Leaders talk about sharing the job of running the country",
-    "body": "The UK has four parts: England, Scotland, Wales and Northern Ireland. The leader of the whole country is the Prime Minister, Andy Burnham. On 30 October he met the leaders of Scotland and Wales in Glasgow.\nSome of the parts make their own choices on things like schools. Burnham asked them to work with him. He wants towns and cities to have a say too, not just the big governments.\nThey talked about jobs for young people and about making things in factories again. The government also said it will spend £1 billion over four years to help new ideas grow into businesses. Nobody has said yet what will be decided.",
-    "why": "Where decisions are made can change what happens in your own town."
+    "headline": "The Prime Minister wants to share more power with Scotland and Wales",
+    "body": "The Prime Minister is the person in charge of the UK government. His name is Andy Burnham. On 30 October he went to a city in Scotland called Glasgow. He met the leaders of Scotland and Wales. Each country has its own government, and they make some of their own rules.\nMr Burnham said he wants to work as a team with them. He wants every part of the UK to have a say in what happens near them. It is a bit like a class teacher letting different groups choose how they will do a project.\nThe Scottish government and the UK government agreed to do some quick, shared work. The government also said Scotland will not have another vote on becoming its own country.\nHe also talked about £1 billion of money. It would help new businesses and scientists. We do not know yet who will get how much.",
+    "why": "It might change who makes choices about things near where you live."
    },
    {
-    "headline": "Grown-ups meet to share the work",
-    "body": "Think of a school with a head teacher and different class teachers. The head makes some choices. The class teachers make others. The UK is a bit like that.\nThe Prime Minister, Andy Burnham, is like the head. On 30 October he met the leaders of Scotland and Wales, John Swinney and Rhun ap Iorwerth. They run their own parts of the UK for some things.\nBurnham asked them to work together as a team. He would like even more choices to be made in towns and cities. They talked about jobs for young people. The government also said it will spend £1 billion to help new ideas grow. Nobody has said what will be decided yet.",
-    "why": "Good teamwork between leaders can help young people find work later."
-   }
-  ]
- },
- {
-  "id": "uk-eu-summit-free-movement",
-  "order": 4,
-  "topic": "Politics",
-  "region": "United Kingdom",
-  "source": "Euronews",
-  "url": "https://www.euronews.com/2026/10/25/uk-prime-minister-andy-burnham-wants-honest-discussion-on-return-to-eu-free-movement",
-  "headline": "Burnham wants an 'honest discussion' on EU free movement ahead of the 20 November Brussels summit",
-  "terms": [
-   {
-    "term": "Free movement",
-    "meaning": "The right of people in EU countries to live and work in each other's countries without a visa."
-   },
-   {
-    "term": "Youth experience scheme",
-    "meaning": "A plan letting young people live and work abroad for a limited time."
-   },
-   {
-    "term": "Single market",
-    "meaning": "The EU trading area with shared rules on goods, services and people."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Burnham wants an 'honest discussion' on EU free movement ahead of the 20 November Brussels summit",
-    "body": "Prime Minister Andy Burnham has said the UK should have an \"honest discussion\" about how immigration has changed since Brexit, as the UK and EU prepare for a summit in Brussels on 20 November, according to Euronews reporting of a Sunday Times interview.\nHe has ruled out joining the euro or the Schengen travel area, and has said he is committed to the 2024 Labour manifesto, which ruled out free movement, single market membership and a customs union. No agreement on free movement has been confirmed.\nOn the table at the summit are a trade deal on food and drink, progress on linking emissions trading and energy systems, a youth experience scheme and deeper cooperation on immigration. The sides are far apart on youth visas: the UK has pushed for a cap below 50,000, Brussels up to 150,000. Nigel Farage called Burnham's comments a \"total betrayal of Brexit Britain\".",
-    "why": "The summit could set the UK's relationship with its biggest trading partner for years."
-   },
-   {
-    "headline": "Burnham calls for 'honest discussion' on free movement before UK-EU summit",
-    "body": "Prime Minister Andy Burnham has called for an \"honest discussion\" about how immigration has changed since Brexit, ahead of a UK-EU summit in Brussels on 20 November. The comments came in a Sunday Times interview reported by Euronews.\nBurnham has ruled out joining the euro or Schengen and says he stands by the 2024 Labour manifesto, which ruled out free movement, single market membership and a customs union. Nothing on free movement has been agreed.\nThe summit agenda includes a food and drink trade deal, linking emissions trading and energy systems, a youth experience scheme and cooperation on immigration. The UK wants fewer than 50,000 young visas, while the EU wants up to 150,000. Nigel Farage described Burnham's remarks as a \"total betrayal of Brexit Britain\".",
-    "why": "How far the UK moves towards the EU is a major political and economic question."
-   },
-   {
-    "headline": "Burnham open to 'honest discussion' on free movement as EU summit nears",
-    "body": "Prime Minister Andy Burnham says the UK should have an \"honest discussion\" about immigration since Brexit. He spoke before a summit between the UK and the EU in Brussels on 20 November, in an interview with the Sunday Times reported by Euronews.\nHe has ruled out joining the euro or the Schengen travel area. He says he is bound by the 2024 Labour manifesto, which rejected free movement, the single market and a customs union. No deal on free movement has been confirmed.\nTalks will cover food and drink trade, emissions trading and energy links, a youth experience scheme and immigration. The two sides disagree on visa numbers for young people, with the UK suggesting under 50,000 and the EU up to 150,000. Nigel Farage said the comments were a \"total betrayal of Brexit Britain\".",
-    "why": "It is a test of how close the UK will get to the EU after Brexit."
-   },
-   {
-    "headline": "PM wants 'honest discussion' about free movement before EU summit",
-    "body": "Prime Minister Andy Burnham has said Britain should have an \"honest discussion\" about how immigration has changed since Brexit. A UK-EU summit will be held in Brussels on 20 November.\nFree movement means people from EU countries can live and work in each other's countries without a visa. Burnham has not agreed to bring it back. He has ruled out joining the euro or the Schengen travel zone, and says he stands by Labour's 2024 manifesto, which ruled out free movement, the single market and a customs union.\nThe summit will look at food and drink trade, energy links, a youth experience scheme and immigration. The UK has suggested fewer than 50,000 visas for young people, while the EU wants up to 150,000. Nigel Farage called the comments a \"total betrayal of Brexit Britain\".",
-    "why": "The talks could change trade, travel and work rules for Britons and Europeans."
-   },
-   {
-    "headline": "PM says UK should talk honestly about free movement with the EU",
-    "body": "Andy Burnham, the Prime Minister, says the UK should have an \"honest discussion\" about immigration since Brexit. A big meeting between the UK and the EU is due in Brussels on 20 November.\nFree movement is a rule that lets people from EU countries live and work in each other's countries without needing a visa. The UK left it when it left the EU in 2020. Burnham has not agreed to bring it back. He has said no to the euro and to the Schengen travel area. He also says he will stick to Labour's 2024 promises, which ruled out free movement.\nAt the summit they will talk about trade in food and drink, energy, and a scheme for young people to live and work abroad. They disagree on how many young people should be allowed. Nigel Farage called the comments a \"total betrayal of Brexit Britain\".",
-    "why": "It could affect trade and whether young people can live and work abroad."
-   },
-   {
-    "headline": "Burnham says the UK should talk plainly about free movement before the EU summit",
-    "body": "Prime Minister Andy Burnham says the UK should have an \\\"honest discussion\\\" about immigration since Brexit. A summit between the UK and the EU takes place in Brussels on 20 November.\\nFree movement means people from EU countries can live and work in each other's countries without a visa. The UK ended it after Brexit. Burnham has not said it will return. He has ruled out the euro and the Schengen travel area, and says Labour's 2024 manifesto ruled out free movement, the single market and a customs union.\\nThe talks will cover food and drink trade, energy links, a youth experience scheme and immigration. The sides disagree on youth visa numbers: the UK suggested under 50,000 and the EU up to 150,000. Nigel Farage called Burnham's comments a \\\"total betrayal of Brexit Britain\\\".",
-    "why": "The outcome could change trade and travel between the UK and Europe."
-   },
-   {
-    "headline": "PM open to talks about free movement before a UK and EU meeting",
-    "body": "Prime Minister Andy Burnham says Britain should have an \"honest discussion\" about how many people have come to the UK since Brexit. Brexit is when the UK left the EU. The UK and the EU will meet in Brussels on 20 November.\nFree movement means people in EU countries can live and work in each other's countries without a visa. Burnham has not said it will come back. He has said the UK will not join the euro or the Schengen travel area. He also says Labour promised in 2024 not to bring back free movement.\nThey will talk about food trade, energy, and a scheme for young people to live and work abroad for a time. The two sides disagree on how many young people can take part. Nigel Farage said the comments were a \"total betrayal of Brexit Britain\".",
-    "why": "The meeting could decide how easy it is to trade with and travel to Europe."
-   },
-   {
-    "headline": "PM wants to talk openly about free movement with Europe",
-    "body": "Brexit was when the UK left the European Union, the group of countries in Europe that work closely together. The Prime Minister, Andy Burnham, now says the UK should have an \"honest discussion\" about people moving between the UK and the EU. A big meeting is planned in Brussels on 20 November.\nFree movement means people from EU countries can live and work in each other's countries without a visa. Burnham has not said it will come back. He says he will keep Labour's 2024 promise, which was not to bring it back.\nAt the meeting they will talk about trading food and drink and a plan for young people to live and work abroad for a while. The two sides disagree about how many young people can go. Nigel Farage was angry about the comments.",
-    "why": "It could change how easy it is for young people to study or work abroad."
-   },
-   {
-    "headline": "The UK and Europe plan to talk",
-    "body": "The UK used to be part of the European Union, a group of countries that work together. The UK left in 2020. This is called Brexit. Now the Prime Minister, Andy Burnham, wants an honest talk about how people move between the UK and Europe.\nThere will be a big meeting in Brussels on 20 November. They will talk about selling food and drink, about energy, and about a plan for young people to live and work abroad for a short time. The two sides do not agree yet on how many young people can take part.\nBurnham has not said people will be free to move again. Some politicians, such as Nigel Farage, were very unhappy about his words.",
-    "why": "It might change how young people can study or work in other countries."
-   },
-   {
-    "headline": "Britain and its neighbours plan a big chat",
-    "body": "Imagine you used to be in a big club with your neighbours. Then you left. Now you are talking about how you might work together again. That is a bit like Britain and the European Union.\nThe Prime Minister, Andy Burnham, says he wants an honest chat about people moving between the UK and Europe. There will be a big meeting on 20 November in a city called Brussels.\nThey will talk about swapping food and drink, sharing energy, and letting young people live and work in another country for a short time. They do not yet agree on how many young people can go. Some people were angry about the chat. Nothing has been decided yet.",
-    "why": "It might one day change where young people can go to work or study."
+    "headline": "The Prime Minister met leaders from Scotland and Wales to work as a team",
+    "body": "The UK has four parts. They are England, Scotland, Wales and Northern Ireland. The Prime Minister is the person who leads the whole UK. This week he went to Glasgow, a big city in Scotland, to meet the leaders of Scotland and Wales.\nThink of it like a school team. The captain, who is the Prime Minister, wants every player to have a say. He said he wants to work with them, not boss them around. He wants towns and cities to have more say too.\nThe Scottish leader and the Prime Minister agreed to do some quick work together. They will try to find ideas that help people in Scotland.\nThe Prime Minister also talked about a big pot of money, £1 billion. It would help new businesses and scientists. Nobody knows yet how the money will be shared out.",
+    "why": "The grown-ups are deciding who gets to make choices about things near you."
    }
   ]
  },
  {
   "id": "uk-inflation-boe-rate-rise",
-  "order": 5,
+  "order": 4,
   "topic": "Economy",
   "region": "United Kingdom",
   "source": "CNBC",
@@ -375,152 +300,227 @@
   ]
  },
  {
-  "id": "ecb-holds-lagarde-exit",
-  "order": 6,
-  "topic": "Economy",
-  "region": "Europe",
+  "id": "uk-eu-summit-free-movement",
+  "order": 5,
+  "topic": "Politics",
+  "region": "United Kingdom",
   "source": "Euronews",
-  "url": "https://www.euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe",
-  "headline": "ECB holds rates at 2.5% as Lagarde announces she will leave early in February 2027",
+  "url": "https://www.euronews.com/2026/10/25/uk-prime-minister-andy-burnham-wants-honest-discussion-on-return-to-eu-free-movement",
+  "headline": "Burnham wants an 'honest discussion' on EU free movement ahead of the 20 November Brussels summit",
   "terms": [
    {
-    "term": "Deposit rate",
-    "meaning": "The interest rate the ECB pays banks for money left with it; its key policy rate."
+    "term": "Free movement",
+    "meaning": "The right of people in EU countries to live and work in each other's countries without a visa."
    },
    {
-    "term": "Eurozone",
-    "meaning": "The 20-odd EU countries that use the euro."
+    "term": "Youth experience scheme",
+    "meaning": "A plan letting young people live and work abroad for a limited time."
    },
    {
-    "term": "Hawkish pause",
-    "meaning": "Holding rates while signalling that rises may follow."
+    "term": "Single market",
+    "meaning": "The EU trading area with shared rules on goods, services and people."
    }
   ],
   "levels": [
    {
-    "headline": "ECB holds rates at 2.5% as Lagarde announces she will leave early in February 2027",
-    "body": "The European Central Bank kept its deposit rate at 2.5% on 29 October, after two rate rises this year, the latest in September. Inflation across the euro area has reached 3.8%, almost double the ECB's 2% target and the highest since September 2023, driven mainly by energy costs linked to the war involving Iran.\nPresident Christine Lagarde said the decision was unanimous but that policymakers seriously debated a rise. Markets read it as a hawkish pause, with traders pricing about a 67% chance of a quarter-point increase in December.\nLagarde also said she will leave on 7 February 2027, around nine months before her eight-year term ends, saying she cannot \"remain neutral\" given recent developments. Spain's Pablo Hernández de Cos and the Netherlands' Klaas Knot are seen as leading candidates to succeed her. The European Council will appoint the new president.",
-    "why": "The ECB's rate decisions shape borrowing costs across Europe, and its next leader will steer them."
+    "headline": "Burnham wants an 'honest discussion' on EU free movement ahead of the 20 November Brussels summit",
+    "body": "Prime Minister Andy Burnham has said the UK should have an \"honest discussion\" about how immigration has changed since Brexit, as the UK and EU prepare for a summit in Brussels on 20 November, according to Euronews reporting of a Sunday Times interview.\nHe has ruled out joining the euro or the Schengen travel area, and has said he is committed to the 2024 Labour manifesto, which ruled out free movement, single market membership and a customs union. No agreement on free movement has been confirmed.\nOn the table at the summit are a trade deal on food and drink, progress on linking emissions trading and energy systems, a youth experience scheme and deeper cooperation on immigration. The sides are far apart on youth visas: the UK has pushed for a cap below 50,000, Brussels up to 150,000. Nigel Farage called Burnham's comments a \"total betrayal of Brexit Britain\".",
+    "why": "The summit could set the UK's relationship with its biggest trading partner for years."
    },
    {
-    "headline": "ECB pauses at 2.5% while Lagarde confirms an early exit",
-    "body": "The European Central Bank held its key interest rate at 2.5% on 29 October after raising rates twice this year, most recently in September. Euro area inflation is 3.8%, the highest since September 2023 and nearly double the 2% target, with energy costs the main driver.\nChristine Lagarde said the decision to hold was unanimous, though a rise was seriously discussed. Traders see a pause with a bias to tighten, and price about a 67% chance of a rise in December.\nLagarde announced she will step down on 7 February 2027, some nine months before her term was due to end, saying she cannot \"remain neutral\". Pablo Hernández de Cos of Spain and Klaas Knot of the Netherlands are seen as frontrunners to replace her, and the European Council will make the choice.",
-    "why": "Changes at the top of the ECB could affect how Europe handles high inflation."
+    "headline": "Burnham calls for 'honest discussion' on free movement before UK-EU summit",
+    "body": "Prime Minister Andy Burnham has called for an \"honest discussion\" about how immigration has changed since Brexit, ahead of a UK-EU summit in Brussels on 20 November. The comments came in a Sunday Times interview reported by Euronews.\nBurnham has ruled out joining the euro or Schengen and says he stands by the 2024 Labour manifesto, which ruled out free movement, single market membership and a customs union. Nothing on free movement has been agreed.\nThe summit agenda includes a food and drink trade deal, linking emissions trading and energy systems, a youth experience scheme and cooperation on immigration. The UK wants fewer than 50,000 young visas, while the EU wants up to 150,000. Nigel Farage described Burnham's remarks as a \"total betrayal of Brexit Britain\".",
+    "why": "How far the UK moves towards the EU is a major political and economic question."
    },
    {
-    "headline": "ECB holds interest rates and Lagarde says she will leave early",
-    "body": "The European Central Bank left its main interest rate at 2.5% on 29 October. It had raised rates twice this year, the last time in September. Inflation in the euro area is 3.8%, the highest since September 2023 and well above the 2% target. High energy costs are the main cause.\nPresident Christine Lagarde said the vote to hold was unanimous but that members seriously discussed raising rates. Investors think a rise in December is likely, giving it about a 67% chance.\nLagarde also announced she will leave on 7 February 2027, about nine months before her eight-year term ends. She said she cannot \"remain neutral\" given recent developments. Spain's Pablo Hernández de Cos and the Netherlands' Klaas Knot are seen as likely successors.",
-    "why": "Interest rates in the euro area affect loans, savings and prices for millions of people."
+    "headline": "Burnham open to 'honest discussion' on free movement as EU summit nears",
+    "body": "Prime Minister Andy Burnham says the UK should have an \"honest discussion\" about immigration since Brexit. He spoke before a summit between the UK and the EU in Brussels on 20 November, in an interview with the Sunday Times reported by Euronews.\nHe has ruled out joining the euro or the Schengen travel area. He says he is bound by the 2024 Labour manifesto, which rejected free movement, the single market and a customs union. No deal on free movement has been confirmed.\nTalks will cover food and drink trade, emissions trading and energy links, a youth experience scheme and immigration. The two sides disagree on visa numbers for young people, with the UK suggesting under 50,000 and the EU up to 150,000. Nigel Farage said the comments were a \"total betrayal of Brexit Britain\".",
+    "why": "It is a test of how close the UK will get to the EU after Brexit."
    },
    {
-    "headline": "European Central Bank keeps rates at 2.5% and its president says she is leaving",
-    "body": "The European Central Bank (ECB) kept its main interest rate at 2.5% on 29 October. It is the bank for the countries that use the euro. It raised rates twice this year to fight rising prices. Inflation there is now 3.8%, nearly double its 2% target, mostly because energy costs are high.\nThe president, Christine Lagarde, said all members agreed to hold, but they talked seriously about raising rates. Investors now think there is about a 67% chance of a rise in December.\nLagarde also said she will leave on 7 February 2027, around nine months early. She said she cannot \"remain neutral\" when she sees what is happening. Pablo Hernández de Cos and Klaas Knot are seen as possible replacements.",
-    "why": "The ECB's choices affect prices and borrowing costs in countries that use the euro."
+    "headline": "PM wants 'honest discussion' about free movement before EU summit",
+    "body": "Prime Minister Andy Burnham has said Britain should have an \"honest discussion\" about how immigration has changed since Brexit. A UK-EU summit will be held in Brussels on 20 November.\nFree movement means people from EU countries can live and work in each other's countries without a visa. Burnham has not agreed to bring it back. He has ruled out joining the euro or the Schengen travel zone, and says he stands by Labour's 2024 manifesto, which ruled out free movement, the single market and a customs union.\nThe summit will look at food and drink trade, energy links, a youth experience scheme and immigration. The UK has suggested fewer than 50,000 visas for young people, while the EU wants up to 150,000. Nigel Farage called the comments a \"total betrayal of Brexit Britain\".",
+    "why": "The talks could change trade, travel and work rules for Britons and Europeans."
    },
    {
-    "headline": "European bank leaves interest rates alone, and its boss will leave early",
-    "body": "The European Central Bank, or ECB, looks after money for countries that use the euro. On 29 October it kept its main interest rate at 2.5%. It raised the rate twice earlier this year to fight rising prices, which are called inflation.\nPrices in these countries are now rising by 3.8% a year. The ECB wants only 2%. The main reason is the high cost of energy. All the members agreed to keep rates the same, but they talked seriously about raising them. Investors think there is a good chance of a rise in December.\nThe boss, Christine Lagarde, said she will leave in February 2027, nine months before she had to. Two names being talked about to replace her are Pablo Hernández de Cos and Klaas Knot.",
-    "why": "Interest rates change what people pay on loans and earn on savings in Europe."
+    "headline": "PM says UK should talk honestly about free movement with the EU",
+    "body": "Andy Burnham, the Prime Minister, says the UK should have an \"honest discussion\" about immigration since Brexit. A big meeting between the UK and the EU is due in Brussels on 20 November.\nFree movement is a rule that lets people from EU countries live and work in each other's countries without needing a visa. The UK left it when it left the EU in 2020. Burnham has not agreed to bring it back. He has said no to the euro and to the Schengen travel area. He also says he will stick to Labour's 2024 promises, which ruled out free movement.\nAt the summit they will talk about trade in food and drink, energy, and a scheme for young people to live and work abroad. They disagree on how many young people should be allowed. Nigel Farage called the comments a \"total betrayal of Brexit Britain\".",
+    "why": "It could affect trade and whether young people can live and work abroad."
    },
    {
-    "headline": "Europe's central bank keeps rates at 2.5%, and its president will leave early",
-    "body": "The European Central Bank, which sets interest rates for countries using the euro, left its main rate at 2.5% on 29 October. It raised rates twice earlier this year to fight rising prices. Prices in the euro area are now rising 3.8% a year, nearly double its 2% target, mostly because energy costs a lot.\\nAll members voted to hold, but they talked seriously about a rise. Investors now think a rise in December has about a 67% chance.\\nThe president, Christine Lagarde, also said she will leave on 7 February 2027, about nine months before her term ends. She said she cannot \\\"remain neutral\\\". Possible successors include Pablo Hernández de Cos and Klaas Knot. European leaders will choose.",
-    "why": "The ECB's decisions affect loans, savings and prices across the euro area."
+    "headline": "Burnham says the UK should talk plainly about free movement before the EU summit",
+    "body": "Prime Minister Andy Burnham says the UK should have an \\\"honest discussion\\\" about immigration since Brexit. A summit between the UK and the EU takes place in Brussels on 20 November.\\nFree movement means people from EU countries can live and work in each other's countries without a visa. The UK ended it after Brexit. Burnham has not said it will return. He has ruled out the euro and the Schengen travel area, and says Labour's 2024 manifesto ruled out free movement, the single market and a customs union.\\nThe talks will cover food and drink trade, energy links, a youth experience scheme and immigration. The sides disagree on youth visa numbers: the UK suggested under 50,000 and the EU up to 150,000. Nigel Farage called Burnham's comments a \\\"total betrayal of Brexit Britain\\\".",
+    "why": "The outcome could change trade and travel between the UK and Europe."
    },
    {
-    "headline": "Europe's central bank holds rates; its leader says she will step down",
-    "body": "Many countries in Europe share one kind of money, the euro. One bank, the European Central Bank, sets the main interest rate for them. On 29 October it kept that rate at 2.5%. It had raised it twice this year.\nPrices in these countries are rising by 3.8% a year. That is almost twice what the bank wants, which is 2%. Energy costs are the main reason. People who watch the bank think it might raise the rate in December.\nThe boss of the bank, Christine Lagarde, also said she will leave in February 2027. That is about nine months earlier than planned. People have named two possible new bosses, Pablo Hernández de Cos from Spain and Klaas Knot from the Netherlands.",
-    "why": "It affects prices, loans and savings for many people in Europe."
+    "headline": "PM open to talks about free movement before a UK and EU meeting",
+    "body": "Prime Minister Andy Burnham says Britain should have an \"honest discussion\" about how many people have come to the UK since Brexit. Brexit is when the UK left the EU. The UK and the EU will meet in Brussels on 20 November.\nFree movement means people in EU countries can live and work in each other's countries without a visa. Burnham has not said it will come back. He has said the UK will not join the euro or the Schengen travel area. He also says Labour promised in 2024 not to bring back free movement.\nThey will talk about food trade, energy, and a scheme for young people to live and work abroad for a time. The two sides disagree on how many young people can take part. Nigel Farage said the comments were a \"total betrayal of Brexit Britain\".",
+    "why": "The meeting could decide how easy it is to trade with and travel to Europe."
    },
    {
-    "headline": "Europe's money bank pauses and its boss will leave",
-    "body": "Lots of countries in Europe use the same money, called the euro. A bank called the European Central Bank looks after it. On 29 October, this bank said it would not change its main interest rate. It stays at 2.5%.\nInterest is the extra money you pay when you borrow, or get when you save. The bank had put the rate up twice this year, because prices were rising too fast. Prices there are going up by 3.8% a year. The bank wants only 2%. High energy costs are the main cause.\nThe boss, Christine Lagarde, said she will leave in February 2027. That is early. People are talking about who might replace her.",
-    "why": "It helps decide how much it costs to borrow money in Europe."
+    "headline": "PM wants to talk openly about free movement with Europe",
+    "body": "Brexit was when the UK left the European Union, the group of countries in Europe that work closely together. The Prime Minister, Andy Burnham, now says the UK should have an \"honest discussion\" about people moving between the UK and the EU. A big meeting is planned in Brussels on 20 November.\nFree movement means people from EU countries can live and work in each other's countries without a visa. Burnham has not said it will come back. He says he will keep Labour's 2024 promise, which was not to bring it back.\nAt the meeting they will talk about trading food and drink and a plan for young people to live and work abroad for a while. The two sides disagree about how many young people can go. Nigel Farage was angry about the comments.",
+    "why": "It could change how easy it is for young people to study or work abroad."
    },
    {
-    "headline": "A big bank keeps its rate the same",
-    "body": "A group of countries in Europe all use the same money, the euro. They share one big bank that looks after it. It is called the European Central Bank.\nOn 29 October, the bank said it would keep its interest rate at 2.5%. Interest is the extra you pay when you borrow money. Prices have been going up fast, partly because energy costs a lot. The bank had raised the rate twice this year to help slow this down. It may raise it again in December.\nThe boss of the bank, Christine Lagarde, also said she will leave in February 2027. That is earlier than planned. A new boss will be picked by leaders in Europe.",
-    "why": "Its choices can change how much things cost for families in Europe."
+    "headline": "The UK and Europe plan to talk",
+    "body": "The UK used to be part of the European Union, a group of countries that work together. The UK left in 2020. This is called Brexit. Now the Prime Minister, Andy Burnham, wants an honest talk about how people move between the UK and Europe.\nThere will be a big meeting in Brussels on 20 November. They will talk about selling food and drink, about energy, and about a plan for young people to live and work abroad for a short time. The two sides do not agree yet on how many young people can take part.\nBurnham has not said people will be free to move again. Some politicians, such as Nigel Farage, were very unhappy about his words.",
+    "why": "It might change how young people can study or work in other countries."
    },
    {
-    "headline": "A big bank in Europe makes a choice",
-    "body": "Imagine a class where everyone uses the same pretend money. One student is the banker and decides how much extra to charge when someone borrows. In real life, a big bank does this for many countries in Europe. It is called the European Central Bank.\nOn 29 October, the banker said the extra charge, called the interest rate, would stay at 2.5%. Prices have been going up quickly, partly because energy costs a lot. The bank wants prices to rise slowly. It may raise the charge again in December.\nThe head of the bank, Christine Lagarde, said she will leave in February 2027. That is earlier than planned. Leaders will choose someone new.",
-    "why": "It matters because the cost of borrowing touches many families."
+    "headline": "Britain and its neighbours plan a big chat",
+    "body": "Imagine you used to be in a big club with your neighbours. Then you left. Now you are talking about how you might work together again. That is a bit like Britain and the European Union.\nThe Prime Minister, Andy Burnham, says he wants an honest chat about people moving between the UK and Europe. There will be a big meeting on 20 November in a city called Brussels.\nThey will talk about swapping food and drink, sharing energy, and letting young people live and work in another country for a short time. They do not yet agree on how many young people can go. Some people were angry about the chat. Nothing has been decided yet.",
+    "why": "It might one day change where young people can go to work or study."
    }
   ]
  },
  {
-  "id": "eu-gas-price-100-euros",
-  "order": 7,
-  "topic": "Economy",
-  "region": "Europe",
-  "source": "Euronews",
-  "url": "https://www.euronews.com/2026/10/28/european-gas-price-crosses-100-for-first-time-since-2022-as-eu-warns-of-new-crisis",
-  "headline": "European gas price crosses €100 for the first time since 2022 as the EU warns of a new energy crisis",
+  "id": "iran-hormuz-tankers-mines-vance-talks",
+  "order": 6,
+  "topic": "Politics",
+  "region": "Middle East",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
+  "headline": "Iran says four tankers hit mines in the Strait of Hormuz as Vance tries to revive peace talks",
   "terms": [
    {
-    "term": "TTF",
-    "meaning": "The Dutch gas price benchmark used across Europe, quoted in euros per megawatt-hour."
+    "term": "Strait of Hormuz",
+    "meaning": "A narrow sea passage between Iran and Oman through which a large share of the world's oil is shipped."
    },
    {
-    "term": "LNG",
-    "meaning": "Liquefied natural gas, gas chilled into liquid so ships can carry it."
+    "term": "Revolutionary Guard (IRGC)",
+    "meaning": "A powerful branch of Iran's armed forces."
    },
    {
-    "term": "Gas storage",
-    "meaning": "Underground stores filled in summer to supply winter heating."
+    "term": "Naval mine",
+    "meaning": "An explosive device placed in water to damage or sink ships."
    }
   ],
   "levels": [
    {
-    "headline": "European gas price crosses €100 for the first time since 2022 as the EU warns of a new energy crisis",
-    "body": "The benchmark European gas price rose above €100 per megawatt-hour on Wednesday 28 October for the first time since the 2022 crisis. The front-month Dutch TTF contract traded at €100.37 at 16:00 CET, up more than 4%. It remains well below the record of about €340 in August 2022.\nEU Energy Commissioner Dan Jørgensen said: \"Once again, due to geopolitical turbulence, Europe faces another energy crisis.\" EU gas storage stood at 75% on 21 October, according to ACER, short of the usual target of 90% by 1 November, which countries have been allowed to apply more flexibly.\nJørgensen has urged governments to keep cutting gas and electricity demand. Goldman Sachs analysts had said prices would need to rise above €100 to curb Asian demand if Middle East LNG exports recover only gradually through 2027.",
-    "why": "Gas prices feed into household bills, industry costs and inflation across Europe."
+    "headline": "Iran says four tankers hit mines in the Strait of Hormuz as Vance tries to revive peace talks",
+    "body": "Iran's Revolutionary Guard said on 29 and 30 October that three tankers caught fire after hitting naval mines on what it called an \"unauthorised southern route\" near the Omani coast of the Strait of Hormuz, and Iran's army said a fourth was burning east of the strait. It is unclear whether Friday's reported vessels are additional ships. The claims have not been independently confirmed, and US Central Command's Brad Cooper has repeated that the main shipping lanes have been cleared of Iranian mines.\nSeparately, the maritime security body UKMTO reported that a small boat attached explosives to a tanker's hull. The fire was put out, all crew were safe and no pollution was reported.\nMeanwhile Vice President JD Vance sent a letter through Qatari mediators proposing a framework for talks. Trump said he had not directed it. Iran was expected to answer a revised Qatari proposal by the end of the week. Analysts fear fighting could resume after the 3 November US midterms.",
+    "why": "The strait carries much of the world's oil, so incidents there can push up fuel prices and risk a wider war."
    },
    {
-    "headline": "European gas tops €100 for the first time since 2022",
-    "body": "European wholesale gas prices rose above €100 per megawatt-hour on 28 October for the first time since 2022. The Dutch TTF benchmark hit €100.37 at 16:00 CET, up more than 4% on the day. The record is about €340, set in August 2022.\nThe EU's Energy Commissioner, Dan Jørgensen, warned that \"Europe faces another energy crisis\" because of geopolitical turbulence. According to ACER, EU gas storage was 75% full on 21 October, below the usual 90% target for 1 November, though countries have been given flexibility.\nJørgensen has asked governments to keep reducing gas and electricity use. Goldman Sachs analysts have said prices above €100 could be needed to curb Asian demand if Middle East liquefied gas exports recover slowly through 2027.",
-    "why": "Higher wholesale gas prices usually mean higher energy bills and inflation later."
+    "headline": "Iran reports tanker fires in Hormuz while the US vice-president seeks to restart talks",
+    "body": "Iran's Revolutionary Guard said three tankers caught fire after striking naval mines on an \"unauthorised southern route\" near Oman in the Strait of Hormuz, and Iran's army said a fourth was ablaze east of the strait. Reports differ on whether vessels named on Friday were additional to those on Thursday. Iran's claims have not been verified, and the US military says main shipping lanes were cleared of mines.\nA separate incident, reported by UKMTO, involved a small boat fixing explosive devices to a tanker. The fire was extinguished, the crew were safe and there was no pollution.\nVice President JD Vance sent a letter via Qatari mediators suggesting a framework for talks. President Trump said he had not directed the move. Iran was expected to reply to a revised Qatari proposal by the end of the week, but disagreements remain over the conditions for formal talks. Analysts worry that fighting could resume after the 3 November midterm elections.",
+    "why": "A breakdown in talks could hit oil supplies and prices that feed through to petrol and energy bills."
    },
    {
-    "headline": "Gas prices in Europe pass €100 as the EU warns of a new crisis",
-    "body": "Gas prices in Europe went above €100 per megawatt-hour on 28 October. This is the first time since 2022. The Dutch TTF price, the main European benchmark, reached €100.37, up more than 4% in a day. It is still far below the record of about €340 in August 2022.\nEU Energy Commissioner Dan Jørgensen said Europe \"faces another energy crisis\". Gas stores in the EU were 75% full on 21 October, short of the normal 90% target for 1 November, although countries can be flexible about it.\nJørgensen wants governments to keep cutting how much gas and electricity people use. Goldman Sachs analysts said prices might need to go above €100 to reduce demand in Asia if Middle East gas exports return only slowly.",
-    "why": "It can push up bills and prices for households and businesses."
+    "headline": "Iran says tankers hit mines in Hormuz as US tries to restart peace talks",
+    "body": "Iran's Revolutionary Guard, a powerful branch of its armed forces, says three tankers caught fire after hitting sea mines on a southern route near Oman in the Strait of Hormuz. Iran's army says a fourth tanker is burning east of the strait. The claims have not been independently confirmed, and the US military says the main shipping lanes are clear of mines.\nA separate attack was reported by UKMTO, a maritime security body: a small boat attached explosives to a tanker. The fire was put out and nobody was hurt.\nVice President JD Vance has sent a letter through Qatari go-betweens suggesting a framework for talks with Iran. President Trump said he had not directed this. Iran was expected to answer a revised proposal by the end of the week. Trump has said any new attack on Iran would be considered after the US midterms on 3 November.",
+    "why": "The strait is a key route for the world's oil, so trouble there can raise fuel prices everywhere."
    },
    {
-    "headline": "European gas price tops €100 for the first time in four years",
-    "body": "The price of gas in Europe has risen above €100 per megawatt-hour for the first time since the 2022 energy crisis. It reached €100.37 on 28 October, up more than 4% in a day. The all-time high was about €340 in August 2022.\nThe EU's energy chief, Dan Jørgensen, said Europe \"faces another energy crisis\" because of political turmoil around the world. Gas stores in the EU were only 75% full on 21 October. The usual aim is 90% by 1 November, though countries have been given more freedom to meet it.\nGovernments are being asked to keep using less gas and electricity. Goldman Sachs analysts said prices might have to pass €100 to cut demand in Asia, if Middle East gas shipments recover slowly.",
-    "why": "Gas is used for heating and power, so higher prices can raise bills."
+    "headline": "Four tankers reported hit by mines in Hormuz as US seeks talks with Iran",
+    "body": "Iran says four tankers hit mines in the Strait of Hormuz, the narrow waterway between Iran and Oman through which much of the world's oil passes. The Revolutionary Guard said three caught fire on a southern route near Oman, and the army said a fourth was burning to the east. The claims are unconfirmed, and the US says the main shipping lanes have been cleared of mines.\nA separate incident was reported by the UK maritime body UKMTO, in which a small boat attached explosives to a tanker. The fire was put out and the crew were safe.\nVice President JD Vance has written to Iran through Qatari mediators, suggesting a way to start talks. President Trump said he had not told him to. Iran was expected to reply to a new proposal by the end of the week. Some analysts fear the fighting could restart once the US midterm elections on 3 November are over.",
+    "why": "If talks fail, oil supplies could be disrupted, which would push up prices for fuel and energy."
    },
    {
-    "headline": "Gas costs more than €100 in Europe, and the EU warns of a crisis",
-    "body": "Gas is used to heat homes and make electricity. In Europe, the wholesale price of gas has gone above €100 for a unit called a megawatt-hour. The last time that happened was in 2022. On 28 October it reached €100.37, up more than 4% in one day.\nThe EU's energy chief, Dan Jørgensen, warned that Europe \"faces another energy crisis\". Countries store gas in summer to use in winter. On 21 October, EU stores were only 75% full. The usual goal is 90% by 1 November. Countries have been allowed some flexibility.\nHe asked governments to keep saving gas and electricity. Experts at Goldman Sachs said high prices may be needed to cut demand in Asia, if gas supplies from the Middle East recover slowly.",
-    "why": "Higher gas prices can mean bigger bills and dearer goods."
+    "headline": "Iran says ships hit mines near a key oil route, while the US tries to talk",
+    "body": "Iran says four oil tankers have hit mines in the Strait of Hormuz. This is a narrow stretch of sea next to Iran. A large share of the world's oil is carried through it on ships. Iran's Revolutionary Guard, part of its armed forces, says three ships caught fire. Iran's army says a fourth is also burning. These claims have not been confirmed. The US says it has cleared the main shipping lanes of mines.\nA different attack was also reported. A small boat stuck explosives to the side of a tanker. The fire was put out and the crew were safe.\nMeanwhile the US vice-president, JD Vance, has sent a letter through Qatar to try to restart peace talks. Iran has not yet replied. Some experts worry the fighting could restart after the US elections on 3 November.",
+    "why": "Oil passes through this route, so trouble there can make petrol and energy more expensive."
    },
    {
-    "headline": "Gas passes €100 in Europe and the EU warns of another energy crisis",
-    "body": "The wholesale price of gas in Europe went above €100 per megawatt-hour on 28 October, reaching €100.37. That has not happened since the 2022 energy crisis, though the record was about €340 in August 2022.\\nThe EU's energy chief, Dan Jørgensen, said Europe \\\"faces another energy crisis\\\". Countries store gas in summer for winter. On 21 October, EU stores were only 75% full, short of the usual 90% target for 1 November, although countries can be flexible.\\nGovernments are being told to keep using less gas and electricity. Goldman Sachs analysts said prices may need to rise above €100 to reduce demand in Asia if Middle East gas exports recover slowly.",
-    "why": "Gas prices flow through into heating bills and the cost of goods."
+    "headline": "Iran says ships hit mines near a key oil route as the US tries to restart talks",
+    "body": "Iran says four oil tankers hit mines in the Strait of Hormuz, a narrow stretch of sea next to Iran through which much of the world's oil travels. Its Revolutionary Guard, part of its armed forces, says three ships caught fire, and the army says a fourth is burning. These claims have not been independently confirmed, and the US military says the main shipping lanes have been cleared of mines.\nA different attack was also reported, in which a small boat attached explosives to a tanker. The fire was put out and the crew were safe.\nMeanwhile US Vice President JD Vance has sent a letter through Qatar, which is acting as a go-between, suggesting a way to start talks. President Trump said he had not told him to do so. Iran was expected to reply by the end of the week. Some experts fear fighting could restart after the US midterm elections on 3 November.",
+    "why": "Trouble on this route can raise oil prices and, in time, petrol and energy bills."
    },
    {
-    "headline": "Gas gets very expensive in Europe, and the EU is worried",
-    "body": "Gas heats many homes and makes electricity. In Europe, the price of gas just went above €100 for a unit called a megawatt-hour. It has not been this high since 2022. On 28 October it reached €100.37.\nThe EU's energy chief, Dan Jørgensen, said Europe \"faces another energy crisis\". Countries store gas in summer to use in winter, like filling a cupboard with food. On 21 October the stores were only 75% full. The EU normally wants them 90% full by 1 November.\nHe asked governments to keep using less gas and electricity. Experts think the price may need to stay high to make people in Asia buy less, if gas shipped from the Middle East is slow to recover.",
-    "why": "It may make heating and many goods cost more."
+    "headline": "Iran says ships hit mines near a key oil route, and the US tries to start talks",
+    "body": "Iran says four oil tankers hit mines in the Strait of Hormuz. A strait is a narrow bit of sea between two pieces of land. This one is next to Iran, and a lot of the world's oil goes through it on big ships. A mine is a bomb that sits in the water. Iran says three ships caught fire and a fourth is burning. Nobody else has confirmed this. The US says the main shipping lanes are safe.\nA small boat also stuck bombs on the side of another tanker. The fire was put out and the crew were safe.\nThe US and Iran have been in a war for months. Now the US vice-president, JD Vance, has sent a letter through Qatar to try to talk. Iran has not said yes yet. Some people worry the fighting could start again after US elections on 3 November.",
+    "why": "If the oil route stays dangerous, petrol and energy bills can go up for families."
    },
    {
-    "headline": "Gas prices jump in Europe",
-    "body": "Gas is used to heat homes and to make electricity. In Europe, gas got very expensive. The price went above €100 for a standard amount, which has not happened since 2022.\nThe head of energy at the EU, Dan Jørgensen, said Europe \"faces another energy crisis\". Europe stores gas in big underground tanks in summer to use in winter. On 21 October they were only 75% full. The EU wanted them 90% full by 1 November. Countries were told they could be a bit flexible.\nHe asked countries to use less gas and electricity. When something is hard to find, its price goes up. Gas shipped from the Middle East has been harder to get.",
-    "why": "When gas costs more, heating and many goods can cost more too."
+    "headline": "Ships on fire near a key sea route as the US tries to start talks with Iran",
+    "body": "Iran says four big oil ships have hit mines in the Strait of Hormuz. A strait is a narrow piece of sea. This one is very important, because lots of the world's oil is sent through it on ships. A mine is a hidden bomb in the water. Iran says three ships are on fire and a fourth is too. Other people have not checked this yet. The US says it has cleared the main paths of mines.\nAnother ship was attacked by people in a small boat who stuck bombs to its side. The fire went out and the people on board were fine.\nThe US and Iran have been fighting. Now a US leader, JD Vance, has sent a letter to try to start talks, passing it through a country called Qatar. We are waiting to see if Iran says yes.",
+    "why": "Oil from this route heats homes and fuels cars, so problems there can make things cost more."
    },
    {
-    "headline": "Keeping warm gets pricey",
-    "body": "Many homes in Europe use gas to stay warm and to cook. Gas has become very expensive. The price went above €100 for a standard amount, the first time since 2022.\nCountries fill huge underground stores with gas in summer, a bit like a squirrel saving nuts for winter. This year the stores were only 75% full on 21 October. The EU wanted them 90% full by 1 November.\nThe EU's energy boss, Dan Jørgensen, warned of another energy crisis. He asked people and firms to use less gas and electricity. When something is scarce, its price goes up. Some gas that comes by ship from the Middle East has been harder to get.",
-    "why": "Warming a home can cost more when gas is scarce."
+    "headline": "Ships catch fire near a busy sea road for oil as people try to talk peace",
+    "body": "Iran says four big ships were damaged by mines. A mine is a hidden bomb that floats or sits in the sea. The ships carry oil, which is used to make petrol for cars and to heat buildings. They were in a narrow bit of sea called the Strait of Hormuz. Think of it as a very busy road for ships. Other people have not checked what Iran says, and the US says the main road is safe.\nAnother ship was attacked by a small boat. The fire went out and everyone on board was safe.\nIran and the US have been fighting for a while. Now a US leader named JD Vance has sent a letter to Iran, using Qatar as a go-between, a bit like passing a note through a friend. He hopes this will lead to talks. We are waiting to see what Iran will say.",
+    "why": "The grown-ups want the busy sea road to stay safe so that oil keeps flowing."
    },
    {
-    "headline": "Why gas costs more",
-    "body": "Think of the last chocolate bar in a shop. If lots of children want it, the shop can charge more. Gas works like that in Europe at the moment.\nGas helps people to heat homes and cook. Its price went above €100 for a standard amount, the first time since 2022. A boss in the EU, Dan Jørgensen, warned of another energy crisis.\nIn summer, countries fill big stores with gas for winter, like saving snacks for later. This year the stores were only 75% full on 21 October. They are supposed to be 90% full by 1 November.\nHe asked people and firms to use less gas and electricity. Less gas coming by ship from the Middle East has pushed up the price.",
-    "why": "If gas is scarce, it can cost families more to stay warm."
+    "headline": "Some ships were damaged at sea, and grown-ups are trying to make peace",
+    "body": "Some big ships that carry oil were damaged in the sea near a country called Iran. Oil is a thick liquid. It is used to make petrol for cars and to keep buildings warm. Iran says the ships hit mines. A mine is a hidden bomb under the water. The people on one ship were all safe.\nThink of the sea here as a very busy road. Lots of ships travel along it with oil from many countries. If the road is dangerous, ships may not want to go, and oil can cost more.\nIran and America have been in a fight for a long time. Now a man called JD Vance, who works for America, has sent a letter to Iran to try to start talking. It is like trying to make friends again after an argument in the playground. We are waiting to see if Iran says yes.",
+    "why": "Grown-ups want the sea road to stay safe so that oil does not cost much more."
+   }
+  ]
+ },
+ {
+  "id": "israel-election-no-majority",
+  "order": 7,
+  "topic": "Politics",
+  "region": "Middle East",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
+  "headline": "Israel faces weeks of coalition talks as neither Netanyahu's bloc nor Eisenkot's reaches 61 seats",
+  "terms": [
+   {
+    "term": "Coalition",
+    "meaning": "A government formed by several parties that agree to work together."
+   },
+   {
+    "term": "Knesset",
+    "meaning": "Israel's parliament, with 120 seats."
+   },
+   {
+    "term": "Kingmaker",
+    "meaning": "A group whose support decides who can govern."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Israel faces weeks of coalition talks as neither Netanyahu's bloc nor Eisenkot's reaches 61 seats",
+    "body": "Israel's election has left neither side with a governing majority. According to the Central Elections Committee, Benjamin Netanyahu's Likud and its hard-right allies won 53 seats, down from 64 in 2022. The opposition bloc led by Gadi Eisenkot won 48. The Joint List and Ra'am won a combined 19, a record for Arab-led parties. A majority needs 61 of the 120 seats.\nTurnout was around 77.7%, the highest in 27 years. President Isaac Herzog will consult parties and name the person best placed to form a government. A coalition has 28 days to form, extendable by up to 14, otherwise new elections follow, with Netanyahu staying in office meanwhile.\nLikud alleges Arab-led parties \"stole\" the election, without evidence. The Shin Bet has been asked to investigate suspicions of improper foreign funding, which Qatar denies. Results are due to be certified by 4 November, and the new Knesset is sworn in on 10 November.",
+    "why": "The result decides who leads Israel during the Gaza and Iran conflicts and could force another election."
+   },
+   {
+    "headline": "Israel's election leaves Netanyahu and Eisenkot short of a majority",
+    "body": "Israel's final count shows no clear winner. Netanyahu's Likud and its hard-right allies won 53 seats, against 64 in 2022. Gadi Eisenkot's opposition bloc won 48, and Arab-led parties, the Joint List and Ra'am, won 19 together, an all-time high. A governing majority needs 61 of 120 seats.\nTurnout was around 77.7%, the highest for 27 years. President Herzog will consult the parties and pick someone to try to build a coalition, which has 28 days, extendable by up to 14. If it fails, new elections are called, and Netanyahu stays in office meanwhile.\nLikud claims Arab-led parties \"stole\" the election, offering no evidence. The Shin Bet has been asked to examine suspected foreign funding, which Qatar denies. Results should be certified by 4 November.",
+    "why": "Coalition talks will shape Israel's policy on war, security and the economy."
+   },
+   {
+    "headline": "No clear winner in Israel's election as both blocs miss a majority",
+    "body": "Israel's election has produced no clear winner. Netanyahu's Likud and its hard-right allies won 53 seats, down from 64 in 2022. The opposition bloc led by Gadi Eisenkot won 48. Arab-led parties won 19 between them, their best ever. To govern, a bloc needs 61 of the 120 seats in parliament.\nAround 77.7% of voters turned out, the highest for 27 years. President Herzog will ask a party leader to try to form a government, with 28 days to do it, plus up to 14 more. If that fails, there will be another election, and Netanyahu stays in office in the meantime.\nLikud says Arab-led parties \"stole\" the vote but has given no evidence. The Shin Bet has been asked to investigate suspected foreign funding, which Qatar denies.",
+    "why": "A deadlock could leave Israel without a stable government at a tense time."
+   },
+   {
+    "headline": "Israel's vote ends without a winner, and weeks of talks begin",
+    "body": "Israel's election has not produced a clear winner. Prime Minister Benjamin Netanyahu's party, Likud, and its hard-right allies won 53 seats. That is down from 64 at the last election in 2022. The opposition, led by Gadi Eisenkot, won 48. Arab-led parties won 19, a record. A government needs 61 of the 120 seats.\nAbout 77.7% of people voted, the highest in 27 years. President Isaac Herzog will ask someone to try to form a coalition, a government of several parties. They get 28 days, which can be extended by up to 14. If they fail, there is another election, and Netanyahu stays in office until then.\nLikud claims Arab-led parties \"stole\" the election, without evidence.",
+    "why": "The outcome decides who leads Israel and whether voters must go back to the polls."
+   },
+   {
+    "headline": "Israel's election leaves nobody with enough seats to govern",
+    "body": "Israel held an election, but nobody won enough seats to govern alone. The parliament, called the Knesset, has 120 seats. A group needs 61 to have a majority. Benjamin Netanyahu's party, Likud, and its allies won 53. Gadi Eisenkot's group won 48. Arab-led parties won 19, the most they have ever won.\nAbout 77.7% of people voted, the highest in 27 years. The president, Isaac Herzog, will ask a leader to try to form a coalition. A coalition is a government made of several parties. They have 28 days, and up to 14 more. If they fail, Israel votes again, and Netanyahu stays in charge for now.\nLikud says the election was \"stolen\", but has not given evidence.",
+    "why": "Without a stable government, big decisions on war and the economy could be delayed."
+   },
+   {
+    "headline": "Israel's election gives no side a majority and coalition talks begin",
+    "body": "Israel's election has left neither side with enough seats to govern. Benjamin Netanyahu's Likud and its allies won 53 of the 120 seats. The opposition bloc led by Gadi Eisenkot won 48. Arab-led parties won 19, a record. A group needs 61 seats for a majority.\\nAbout 77.7% of voters took part, the highest in 27 years. President Isaac Herzog will ask a leader to try to form a coalition, a government of several parties. They get 28 days, extendable by up to 14. If they fail, Israel votes again, and Netanyahu stays in office meanwhile.\\nLikud says Arab-led parties \\\"stole\\\" the election but has shown no evidence.",
+    "why": "The result decides who leads Israel and whether voters return to the polls."
+   },
+   {
+    "headline": "Israel's election has no clear winner",
+    "body": "Israel has just had an election, but nobody won enough seats to run the country. The parliament has 120 seats, and a group needs 61 to have a majority. Benjamin Netanyahu's party and its allies won 53. Gadi Eisenkot's group won 48. Arab-led parties won 19, which is more than ever before.\nMore people voted than in any election in 27 years. Now the president, Isaac Herzog, will ask someone to try to build a government by getting several parties to agree. This is called a coalition. They have 28 days, and maybe 14 more. If they cannot do it, there will be another election.\nNetanyahu's party says the election was stolen, but it has not shown proof.",
+    "why": "It decides who leads Israel next and whether there will be another vote."
+   },
+   {
+    "headline": "Israel votes, but no one wins enough seats",
+    "body": "Israel held an election. The parliament there has 120 seats. To lead, a group needs more than half, which is 61. But no group got that many.\nBenjamin Netanyahu's party and its friends won 53 seats. Another group, led by Gadi Eisenkot, won 48. Parties led by Arab citizens won 19, the most they have ever won. Lots of people voted, more than in 27 years.\nNow the leaders must try to team up. A team of parties that govern together is called a coalition. They have about four weeks to try. If they cannot team up, everyone will have to vote again.\nNetanyahu's party says the vote was unfair, but it has not shown proof.",
+    "why": "It decides who runs the country and whether another vote is needed."
+   },
+   {
+    "headline": "An election where nobody wins enough",
+    "body": "Israel held an election to choose who will run the country. In the parliament there are 120 seats. A group needs 61 to be in charge. This time nobody got enough.\nOne group, led by Benjamin Netanyahu, won 53 seats. Another group, led by Gadi Eisenkot, won 48. A third set of parties won 19. Many people voted this time, more than for a very long time.\nNow the groups have to talk. They need to find others to join them to make a bigger team. They have about four weeks. If they cannot, people must vote again.\nOne group says the vote was unfair. It has not shown any proof.",
+    "why": "Until a team is found, nobody is sure who will lead."
+   },
+   {
+    "headline": "What happens when nobody wins enough votes",
+    "body": "Imagine your class votes for a captain. You need more than half the votes to win. But two children get nearly the same, and nobody gets more than half. What happens next?\nSomething like this happened in Israel. The country voted for a parliament with 120 seats. A group needs 61 to be in charge. One group got 53, another got 48, and a third got 19.\nNow they must talk and make teams. A team of parties is called a coalition. They have about four weeks to try. If nobody can make a team, everyone votes again.\nOne group says the vote was unfair, but it has not shown any proof.",
+    "why": "It shows why talking and agreeing matters when no one wins outright."
    }
   ]
  },
@@ -600,83 +600,233 @@
   ]
  },
  {
-  "id": "israel-election-no-majority",
+  "id": "binance-hack-6-3-billion",
   "order": 9,
-  "topic": "Politics",
-  "region": "Middle East",
+  "topic": "Economy",
+  "region": "Global",
   "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
-  "headline": "Israel faces weeks of coalition talks as neither Netanyahu's bloc nor Eisenkot's reaches 61 seats",
+  "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
+  "headline": "Binance says about $6.3 billion was taken in the largest crypto theft on record",
   "terms": [
    {
-    "term": "Coalition",
-    "meaning": "A government formed by several parties that agree to work together."
+    "term": "Cryptocurrency exchange",
+    "meaning": "A company where people buy, sell and store digital currencies such as Bitcoin."
    },
    {
-    "term": "Knesset",
-    "meaning": "Israel's parliament, with 120 seats."
+    "term": "Frozen funds",
+    "meaning": "Digital money that has been blocked from being moved, though not yet returned to its owners."
    },
    {
-    "term": "Kingmaker",
-    "meaning": "A group whose support decides who can govern."
+    "term": "Solvency",
+    "meaning": "Whether a company has enough assets to cover what it owes."
    }
   ],
   "levels": [
    {
-    "headline": "Israel faces weeks of coalition talks as neither Netanyahu's bloc nor Eisenkot's reaches 61 seats",
-    "body": "Israel's election has left neither side with a governing majority. According to the Central Elections Committee, Benjamin Netanyahu's Likud and its hard-right allies won 53 seats, down from 64 in 2022. The opposition bloc led by Gadi Eisenkot won 48. The Joint List and Ra'am won a combined 19, a record for Arab-led parties. A majority needs 61 of the 120 seats.\nTurnout was around 77.7%, the highest in 27 years. President Isaac Herzog will consult parties and name the person best placed to form a government. A coalition has 28 days to form, extendable by up to 14, otherwise new elections follow, with Netanyahu staying in office meanwhile.\nLikud alleges Arab-led parties \"stole\" the election, without evidence. The Shin Bet has been asked to investigate suspicions of improper foreign funding, which Qatar denies. Results are due to be certified by 4 November, and the new Knesset is sworn in on 10 November.",
-    "why": "The result decides who leads Israel during the Gaza and Iran conflicts and could force another election."
+    "headline": "Binance says about $6.3 billion was taken in the largest crypto theft on record",
+    "body": "The cryptocurrency exchange Binance disclosed a major security breach on 29 and 30 October, estimating that around $6.3 billion in client assets was affected. It is the largest crypto theft on record. TRM Labs put the sum moved from Binance wallets at about $6.36 billion across 10 blockchains, and Chainalysis cited $6.4 billion. Reports say roughly half has been frozen on-chain, and Binance has begun recovering assets using its Secure Asset Fund for Users, known as SAFU.\nBinance first said a compromised DevOps engineer's laptop may have been involved, but co-chief executive Richard Teng later said the attack was more complex. The firm said it had found no evidence that any wallet private key had leaked.\nTRM Labs attributed the attack with high confidence to TraderTraitor, a North Korean state-sponsored hacking unit, and Chainalysis reached a similar view. Neither Binance nor the FBI had confirmed that. Bitcoin fell about 4%, but analysts said the breach did not appear to pose a significant solvency risk to Binance.",
+    "why": "It is the biggest crypto theft ever, and shows how exposed even the largest exchanges can be to hackers."
    },
    {
-    "headline": "Israel's election leaves Netanyahu and Eisenkot short of a majority",
-    "body": "Israel's final count shows no clear winner. Netanyahu's Likud and its hard-right allies won 53 seats, against 64 in 2022. Gadi Eisenkot's opposition bloc won 48, and Arab-led parties, the Joint List and Ra'am, won 19 together, an all-time high. A governing majority needs 61 of 120 seats.\nTurnout was around 77.7%, the highest for 27 years. President Herzog will consult the parties and pick someone to try to build a coalition, which has 28 days, extendable by up to 14. If it fails, new elections are called, and Netanyahu stays in office meanwhile.\nLikud claims Arab-led parties \"stole\" the election, offering no evidence. The Shin Bet has been asked to examine suspected foreign funding, which Qatar denies. Results should be certified by 4 November.",
-    "why": "Coalition talks will shape Israel's policy on war, security and the economy."
+    "headline": "Binance confirms record hack of about $6.3 billion, with roughly half frozen",
+    "body": "Binance confirmed a major hack on 29 and 30 October affecting about $6.3 billion in customer assets, the largest theft in crypto history. The analytics firm TRM Labs estimated about $6.36 billion was moved from Binance wallets across 10 blockchains, while Chainalysis said $6.4 billion. Roughly half has reportedly been frozen, and Binance has begun covering losses from its SAFU emergency fund.\nAt first Binance suggested a compromised laptop belonging to a DevOps engineer might be to blame. Co-chief executive Richard Teng later said the attack was more complex, and the exchange says it has seen no evidence that a wallet private key leaked.\nTRM Labs and Chainalysis both point to TraderTraitor, a unit backed by North Korea. Binance and the FBI have not confirmed this. Freezing coins stops them moving but does not return them: that needs a separate legal process. Bitcoin dropped about 4%, but analysts do not currently see a serious solvency threat to Binance.",
+    "why": "The hack could shake confidence in crypto exchanges and show the reach of state-backed hackers."
    },
    {
-    "headline": "No clear winner in Israel's election as both blocs miss a majority",
-    "body": "Israel's election has produced no clear winner. Netanyahu's Likud and its hard-right allies won 53 seats, down from 64 in 2022. The opposition bloc led by Gadi Eisenkot won 48. Arab-led parties won 19 between them, their best ever. To govern, a bloc needs 61 of the 120 seats in parliament.\nAround 77.7% of voters turned out, the highest for 27 years. President Herzog will ask a party leader to try to form a government, with 28 days to do it, plus up to 14 more. If that fails, there will be another election, and Netanyahu stays in office in the meantime.\nLikud says Arab-led parties \"stole\" the vote but has given no evidence. The Shin Bet has been asked to investigate suspected foreign funding, which Qatar denies.",
-    "why": "A deadlock could leave Israel without a stable government at a tense time."
+    "headline": "Binance hit by record $6.3 billion hack, about half of it frozen",
+    "body": "Binance, one of the world's biggest cryptocurrency exchanges, said hackers took about $6.3 billion in client assets in an attack disclosed on 29 and 30 October. It is the largest crypto theft ever recorded. Two analytics firms, TRM Labs and Chainalysis, put the figure at $6.36 billion and $6.4 billion. Around half is reported to have been frozen so it cannot be moved, and Binance is using its SAFU fund, an emergency pot, to make users whole.\nThe company first blamed a possible compromised laptop but later said the attack was more complicated. It says no wallet private key, the secret code that unlocks digital funds, leaked.\nBoth firms link the attack to TraderTraitor, a North Korean state-backed group, though Binance and the FBI have not confirmed that. Bitcoin fell about 4%. Analysts say Binance does not look at serious risk of being unable to pay its debts.",
+    "why": "Millions of people use exchanges like Binance, so a theft this size raises questions about how safe their money is."
    },
    {
-    "headline": "Israel's vote ends without a winner, and weeks of talks begin",
-    "body": "Israel's election has not produced a clear winner. Prime Minister Benjamin Netanyahu's party, Likud, and its hard-right allies won 53 seats. That is down from 64 at the last election in 2022. The opposition, led by Gadi Eisenkot, won 48. Arab-led parties won 19, a record. A government needs 61 of the 120 seats.\nAbout 77.7% of people voted, the highest in 27 years. President Isaac Herzog will ask someone to try to form a coalition, a government of several parties. They get 28 days, which can be extended by up to 14. If they fail, there is another election, and Netanyahu stays in office until then.\nLikud claims Arab-led parties \"stole\" the election, without evidence.",
-    "why": "The outcome decides who leads Israel and whether voters must go back to the polls."
+    "headline": "Binance reports record $6.3 billion crypto theft",
+    "body": "Binance, a leading cryptocurrency exchange, said hackers had taken about $6.3 billion of client assets, in an attack revealed on 29 and 30 October. It is the biggest crypto theft on record. The analytics firms TRM Labs and Chainalysis estimate $6.36 billion and $6.4 billion. About half has reportedly been frozen, meaning it is blocked from being moved. Binance is paying out from its SAFU fund, an emergency reserve for users.\nBinance first said a hacked laptop belonging to an engineer might be involved. Its co-chief executive, Richard Teng, later said the attack was more complex. The company says it has found no sign that a wallet's private key, the secret code that unlocks funds, was leaked.\nBoth analytics firms say a North Korean state-backed group called TraderTraitor was behind it. Binance and the FBI have not confirmed this. Bitcoin fell about 4%, but analysts say Binance does not seem likely to run out of money.",
+    "why": "It raises doubts about how safe customers' money is on crypto exchanges."
    },
    {
-    "headline": "Israel's election leaves nobody with enough seats to govern",
-    "body": "Israel held an election, but nobody won enough seats to govern alone. The parliament, called the Knesset, has 120 seats. A group needs 61 to have a majority. Benjamin Netanyahu's party, Likud, and its allies won 53. Gadi Eisenkot's group won 48. Arab-led parties won 19, the most they have ever won.\nAbout 77.7% of people voted, the highest in 27 years. The president, Isaac Herzog, will ask a leader to try to form a coalition. A coalition is a government made of several parties. They have 28 days, and up to 14 more. If they fail, Israel votes again, and Netanyahu stays in charge for now.\nLikud says the election was \"stolen\", but has not given evidence.",
-    "why": "Without a stable government, big decisions on war and the economy could be delayed."
+    "headline": "Hackers take about $6.3 billion from crypto exchange Binance",
+    "body": "Hackers have taken about $6.3 billion from Binance, one of the world's biggest places to buy and sell cryptocurrency. It was announced on 29 and 30 October and is the biggest crypto theft ever. Cryptocurrencies, such as Bitcoin, are digital money that only exists on computers.\nAbout half of the stolen money has been frozen, which means thieves cannot move it. Getting it back will need a separate legal process. Binance is using an emergency fund called SAFU to help customers.\nBinance said at first that a worker's laptop may have been hacked. Later its boss said the attack was more complicated. The company says it has not found any leak of the secret codes that protect the money.\nTwo research firms say a North Korean state-backed hacking group did it. Binance and the FBI have not said so. The price of Bitcoin fell about 4%. Experts do not think Binance will go bust.",
+    "why": "Many people hold money on exchanges like Binance, so a big hack makes people ask how safe it is."
    },
    {
-    "headline": "Israel's election gives no side a majority and coalition talks begin",
-    "body": "Israel's election has left neither side with enough seats to govern. Benjamin Netanyahu's Likud and its allies won 53 of the 120 seats. The opposition bloc led by Gadi Eisenkot won 48. Arab-led parties won 19, a record. A group needs 61 seats for a majority.\\nAbout 77.7% of voters took part, the highest in 27 years. President Isaac Herzog will ask a leader to try to form a coalition, a government of several parties. They get 28 days, extendable by up to 14. If they fail, Israel votes again, and Netanyahu stays in office meanwhile.\\nLikud says Arab-led parties \\\"stole\\\" the election but has shown no evidence.",
-    "why": "The result decides who leads Israel and whether voters return to the polls."
+    "headline": "Hackers take about $6.3 billion from crypto exchange Binance in a record theft",
+    "body": "Hackers have taken around $6.3 billion from Binance, a major website where people buy, sell and store cryptocurrency. Cryptocurrencies such as Bitcoin are digital money that exists only online. The theft, revealed on 29 and 30 October, is the biggest in crypto history.\nAround half of the money has reportedly been frozen, which stops it being moved, but getting it back needs a separate legal process. Binance is using an emergency reserve called SAFU to help affected customers.\nThe company first said a worker's laptop might have been hacked, but its co-chief executive, Richard Teng, later said the attack was more complex. Binance says it has seen no sign that wallet private keys, the secret codes that protect funds, were leaked.\nTwo analytics firms say a North Korean state-backed group did it, although Binance and the FBI have not confirmed that. Bitcoin fell about 4%, and analysts do not think Binance is in danger of running out of money.",
+    "why": "It raises doubts about how safe customers' money is on crypto exchanges."
    },
    {
-    "headline": "Israel's election has no clear winner",
-    "body": "Israel has just had an election, but nobody won enough seats to run the country. The parliament has 120 seats, and a group needs 61 to have a majority. Benjamin Netanyahu's party and its allies won 53. Gadi Eisenkot's group won 48. Arab-led parties won 19, which is more than ever before.\nMore people voted than in any election in 27 years. Now the president, Isaac Herzog, will ask someone to try to build a government by getting several parties to agree. This is called a coalition. They have 28 days, and maybe 14 more. If they cannot do it, there will be another election.\nNetanyahu's party says the election was stolen, but it has not shown proof.",
-    "why": "It decides who leads Israel next and whether there will be another vote."
+    "headline": "Hackers steal about $6.3 billion in digital money from Binance",
+    "body": "Hackers have stolen about $6.3 billion from a company called Binance. Binance is a website where people buy and sell digital money, such as Bitcoin. Digital money only exists on computers. This is the biggest theft of digital money ever.\nAbout half of the stolen money has been frozen. That means the thieves cannot move it. But it is not back with its owners yet. Getting it back will need a court process. Binance also has an emergency fund to help customers.\nAt first, Binance said a worker's laptop might have been hacked. Later its boss said the attack was harder to explain. The company says no secret codes leaked.\nTwo research firms say a hacking group backed by North Korea did it. The company and the FBI have not said that is true. The price of Bitcoin fell about 4%. Experts do not think Binance will run out of money.",
+    "why": "People keep real savings on sites like Binance, so a theft this big worries many."
    },
    {
-    "headline": "Israel votes, but no one wins enough seats",
-    "body": "Israel held an election. The parliament there has 120 seats. To lead, a group needs more than half, which is 61. But no group got that many.\nBenjamin Netanyahu's party and its friends won 53 seats. Another group, led by Gadi Eisenkot, won 48. Parties led by Arab citizens won 19, the most they have ever won. Lots of people voted, more than in 27 years.\nNow the leaders must try to team up. A team of parties that govern together is called a coalition. They have about four weeks to try. If they cannot team up, everyone will have to vote again.\nNetanyahu's party says the vote was unfair, but it has not shown proof.",
-    "why": "It decides who runs the country and whether another vote is needed."
+    "headline": "Hackers steal a huge amount of digital money from a website",
+    "body": "Hackers have stolen about $6.3 billion from a website called Binance. People use the site to buy and keep digital money, such as Bitcoin. Digital money is not coins or notes. It only exists on computers. This is the biggest theft of digital money ever.\nAbout half of it has been frozen. Frozen means locked so that the thieves cannot move it. It is a bit like putting a padlock on a bike after it has been stolen. The owners still need a legal step to get it back.\nBinance has an emergency fund to help its customers. At first the company thought a worker's laptop had been hacked. Later it said the attack was more complicated.\nSome researchers think a hacking group backed by North Korea did it. That has not been confirmed. Experts do not think Binance will run out of money.",
+    "why": "People store real savings online, so they want to know it is safe."
    },
    {
-    "headline": "An election where nobody wins enough",
-    "body": "Israel held an election to choose who will run the country. In the parliament there are 120 seats. A group needs 61 to be in charge. This time nobody got enough.\nOne group, led by Benjamin Netanyahu, won 53 seats. Another group, led by Gadi Eisenkot, won 48. A third set of parties won 19. Many people voted this time, more than for a very long time.\nNow the groups have to talk. They need to find others to join them to make a bigger team. They have about four weeks. If they cannot, people must vote again.\nOne group says the vote was unfair. It has not shown any proof.",
-    "why": "Until a team is found, nobody is sure who will lead."
+    "headline": "Thieves take a huge amount of digital money from a website",
+    "body": "Some thieves have taken a huge amount of digital money from a website called Binance. Digital money is money that only lives inside computers. You cannot hold it in your hand, like a coin. People use it to buy things, or they keep it hoping it will be worth more later.\nBinance is like a big online bank for digital money. The thieves took about $6.3 billion. That is a very, very big amount. It is the biggest theft of this kind ever.\nHalf of the money has been locked, so the thieves cannot spend it. It is like locking a door after a robber runs in. The owners still have to ask the law to give it back.\nBinance has an emergency fund to help people who lost money. Experts do not think Binance will close down.",
+    "why": "People want their savings to be safe, even when they are kept on a computer."
    },
    {
-    "headline": "What happens when nobody wins enough votes",
-    "body": "Imagine your class votes for a captain. You need more than half the votes to win. But two children get nearly the same, and nobody gets more than half. What happens next?\nSomething like this happened in Israel. The country voted for a parliament with 120 seats. A group needs 61 to be in charge. One group got 53, another got 48, and a third got 19.\nNow they must talk and make teams. A team of parties is called a coalition. They have about four weeks to try. If nobody can make a team, everyone votes again.\nOne group says the vote was unfair, but it has not shown any proof.",
-    "why": "It shows why talking and agreeing matters when no one wins outright."
+    "headline": "Robbers took lots of pretend-money from a computer vault",
+    "body": "A company called Binance looks after digital money for lots of people. Digital money is not coins or notes. It lives inside computers, like points in a video game. People can use it to buy things or keep it safe.\nThink of Binance as a big safe that keeps everyone's points. Last week, robbers broke into the safe on the computer and took lots of points. This is the biggest robbery of its kind ever.\nHalf of the stolen points have been locked, so the robbers cannot use them. The company also has a special savings pot to help people who lost out.\nSome experts think a group of hackers from North Korea did it, but nobody is sure. Grown-ups are now asking how to keep digital money safe from robbers.",
+    "why": "Everyone wants their savings to be safe, whether on a computer or in a piggy bank."
+   }
+  ]
+ },
+ {
+  "id": "bank-of-japan-holds-rates-inflation-target",
+  "order": 10,
+  "topic": "Economy",
+  "region": "Asia",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
+  "headline": "Bank of Japan holds rates at 1.25% and says underlying inflation now fits its 2% target",
+  "terms": [
+   {
+    "term": "Underlying inflation",
+    "meaning": "The steady rise in prices once temporary swings, such as energy costs, are set aside."
+   },
+   {
+    "term": "Policy rate",
+    "meaning": "The interest rate set by a central bank, which influences borrowing costs across the economy."
+   },
+   {
+    "term": "Central bank",
+    "meaning": "The public body, such as the Bank of Japan, that manages a country's money and interest rates."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Bank of Japan holds rates at 1.25% and says underlying inflation now fits its 2% target",
+    "body": "The Bank of Japan kept its policy rate at 1.25% on 30 October and said for the first time since it adopted the target in 2013 that underlying inflation is generally consistent with its 2% goal. Before this it had described underlying inflation as approaching 2%. The decision was 8 to 1, with board member Hajime Takata wanting a rise to 1.5%.\nThe bank raised its inflation forecast for fiscal 2027 to 2.6%, and its core-core forecast, which strips out fresh food and energy, to 2.7% from 2.6%. It warned that underlying inflation could run above 2% as firms shift towards raising wages and prices. September core inflation was 2.1%, the highest of 2026 and above expectations, although some experts say headline inflation is held down by energy subsidies.\nThe bank raised rates to 1.25% on 18 September, the highest since 1995. A CNBC survey of 16 economists found all expect another increase in December or January.",
+    "why": "It signals that Japan's long fight against falling prices is over, and that borrowing costs there are likely to keep rising."
+   },
+   {
+    "headline": "Bank of Japan holds at 1.25% but says inflation is now in line with its target",
+    "body": "The Bank of Japan left interest rates at 1.25% on 30 October and, for the first time since setting a 2% target in 2013, judged that underlying inflation was generally consistent with it. It had previously said underlying inflation was approaching the target. The vote was 8 to 1; Hajime Takata wanted to raise the rate to 1.5%.\nThe central bank lifted its inflation forecast for fiscal 2027 to 2.6% and its core-core measure, which excludes fresh food and energy, to 2.7%. It said inflation could overshoot 2% as companies increasingly raise wages and prices. September core inflation was 2.1%, the highest this year. Some experts argue headline inflation would be higher without energy subsidies.\nRates reached 1.25% on 18 September, the highest since 1995. All 16 economists in a CNBC poll expect another rise in December or January.",
+    "why": "The shift could lift Japanese borrowing costs and affect the yen and global bond markets."
+   },
+   {
+    "headline": "Bank of Japan keeps rates at 1.25% and says inflation now matches its 2% goal",
+    "body": "Japan's central bank held interest rates at 1.25% on 30 October. It said that underlying inflation, the steady rise in prices once temporary swings are set aside, is now generally consistent with its 2% target. This is the first time it has said so since it adopted the target in 2013. One of nine board members, Hajime Takata, voted to raise rates to 1.5%.\nThe bank raised its inflation forecast for fiscal 2027 to 2.6%, and warned prices could rise faster than 2% as firms push through higher wages and prices. September core inflation was 2.1%, the highest this year, though energy subsidies are thought to be holding down the headline figure.\nRates went up to 1.25% on 18 September, the highest since 1995. In a CNBC survey, all 16 economists expect another increase in December or January.",
+    "why": "Japan spent decades with weak prices, so hitting its target is a major change that could push up its interest rates."
+   },
+   {
+    "headline": "Bank of Japan holds interest rates and says inflation is back at its target",
+    "body": "The Bank of Japan kept interest rates at 1.25% on 30 October. It also said that the steady, underlying rise in prices is now in line with its 2% goal, for the first time since it set that goal in 2013. Eight of its nine board members voted to hold rates. One, Hajime Takata, wanted a rise to 1.5%.\nThe bank now expects inflation of 2.6% in fiscal 2027, higher than before. It said prices could rise by more than 2% as companies lift wages and prices together. Core inflation in September was 2.1%, the highest this year. Some experts think government help with energy bills is keeping the headline figure lower.\nJapan raised rates on 18 September to their highest since 1995. A survey of 16 economists by CNBC found that all expect another rise in December or January.",
+    "why": "Japan had falling or flat prices for decades, so a return to 2% inflation changes how its economy works."
+   },
+   {
+    "headline": "Japan's central bank holds rates but says prices are now rising as it hoped",
+    "body": "Japan's central bank, the Bank of Japan, kept its main interest rate at 1.25% on 30 October. It also said that prices are now rising at the pace it wants. Its goal is 2% a year, which it set in 2013. For many years prices in Japan hardly rose, or even fell, so this is a big change.\nEight of the nine board members voted to keep the rate where it is. One member, Hajime Takata, wanted to raise it to 1.5%.\nThe bank thinks prices could rise 2.6% in the year to March 2028, and could rise faster than 2% if companies keep raising pay and prices. In September, core inflation was 2.1%, the highest this year.\nThe rate was raised to 1.25% in September, the highest since 1995. Economists in a survey all expect another rise in December or January.",
+    "why": "Prices rising slowly and steadily is what central banks aim for, and Japan has now reached it."
+   },
+   {
+    "headline": "Bank of Japan holds rates and says prices are now rising as it wanted",
+    "body": "Japan's central bank, the Bank of Japan, kept its main interest rate at 1.25% on 30 October. The interest rate is the cost of borrowing money, and the bank uses it to influence how fast prices rise. The decision was 8 to 1, with one board member, Hajime Takata, wanting a rise to 1.5%.\nThe bank also said that underlying inflation, the steady rise in prices once short-term swings are ignored, now fits its 2% goal. It has not said this since it set the target in 2013. For decades prices in Japan barely rose, so this is a big change.\nIt now expects prices to rise 2.6% in fiscal 2027, and warned they could go up faster than 2% if firms keep raising wages and prices. Core inflation in September was 2.1%, the highest this year.\nRates went up to 1.25% in September, the highest since 1995, and economists in a CNBC survey expect another rise in December or January.",
+    "why": "Prices rising gently is what central banks aim for, and Japan has now reached it after decades."
+   },
+   {
+    "headline": "Japan's central bank keeps its rate the same and says prices are rising as planned",
+    "body": "Japan's central bank is called the Bank of Japan. It decides the interest rate. That is the price of borrowing money. On 30 October it kept the rate at 1.25%. Eight of nine board members agreed. One wanted to raise it to 1.5%.\nThe bank also said something new. Prices are now rising as fast as it wants. Its goal is 2% more each year. In Japan, prices hardly went up for around thirty years, so this is a big change. A little inflation is normal and seen as healthy.\nPrices in September were 2.1% higher than a year before, using one of the bank's main measures. The bank thinks prices might keep rising a bit faster than 2% because companies are raising pay and prices.\nEconomists think the bank will raise its rate again in December or January.",
+    "why": "Japan's prices stayed flat for years, so this change affects pay, savings and borrowing there."
+   },
+   {
+    "headline": "Japan's bank keeps the cost of borrowing the same and says prices are rising as planned",
+    "body": "Japan has a central bank called the Bank of Japan. It sets the cost of borrowing money. This is called the interest rate. On 30 October it kept the rate at 1.25%. Eight of the nine people on its board agreed, but one wanted it higher.\nThe bank also said that prices are rising by about 2% a year, as it wanted. That might sound odd, but a little rise in prices is seen as healthy. For a very long time in Japan prices stayed the same, which made it hard for the country to grow.\nPrices in September were 2.1% higher than a year earlier on one main measure. Firms are also raising pay, which helps people buy things.\nExperts think the bank will raise the rate again in December or January.",
+    "why": "It shows Japan's economy is changing after many years of flat prices."
+   },
+   {
+    "headline": "Japan's money bank says prices are going up slowly, as it hoped",
+    "body": "Every country has a special bank that looks after its money. In Japan, it is called the Bank of Japan. It decides how much it costs to borrow money. On 30 October it kept that cost the same.\nThe bank also said that prices are now going up by about 2% each year. This is the slow, steady rise that it wanted. Imagine a sweet that cost 100 yen last year and now costs 102 yen. That is a slow rise.\nFor a very long time in Japan, prices did not go up at all. Shops could not charge more, and workers often did not get pay rises. Now many firms are paying their workers a bit more, and prices are going up gently.\nExperts think the bank may make borrowing a little more costly in the winter.",
+    "why": "Gently rising prices and pay are a sign that a country's economy is healthy."
+   },
+   {
+    "headline": "A country's money bank says prices are rising slowly, like it wanted",
+    "body": "Japan is a country far away in Asia. It has a special bank that looks after the country's money. The bank is called the Bank of Japan. It decides how much extra people must pay when they borrow money.\nThink about the price of a sweet in the school shop. If it costs 100 yen one year and 102 yen the next, it has gone up a tiny bit. The bank wants prices to go up by about this much every year. It says this has now started to happen.\nIn Japan, prices stayed the same for a very long time. Shops could not charge more, and workers often did not get pay rises. Now some companies are paying their workers a bit more.\nOn Friday, the bank left the price of borrowing the same. Grown-ups think it may raise it soon.",
+    "why": "A little rise in prices each year is a sign of a healthy economy."
+   }
+  ]
+ },
+ {
+  "id": "eu-gas-price-100-euros",
+  "order": 11,
+  "topic": "Economy",
+  "region": "Europe",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/10/28/european-gas-price-crosses-100-for-first-time-since-2022-as-eu-warns-of-new-crisis",
+  "headline": "European gas price crosses €100 for the first time since 2022 as the EU warns of a new energy crisis",
+  "terms": [
+   {
+    "term": "TTF",
+    "meaning": "The Dutch gas price benchmark used across Europe, quoted in euros per megawatt-hour."
+   },
+   {
+    "term": "LNG",
+    "meaning": "Liquefied natural gas, gas chilled into liquid so ships can carry it."
+   },
+   {
+    "term": "Gas storage",
+    "meaning": "Underground stores filled in summer to supply winter heating."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "European gas price crosses €100 for the first time since 2022 as the EU warns of a new energy crisis",
+    "body": "The benchmark European gas price rose above €100 per megawatt-hour on Wednesday 28 October for the first time since the 2022 crisis. The front-month Dutch TTF contract traded at €100.37 at 16:00 CET, up more than 4%. It remains well below the record of about €340 in August 2022.\nEU Energy Commissioner Dan Jørgensen said: \"Once again, due to geopolitical turbulence, Europe faces another energy crisis.\" EU gas storage stood at 75% on 21 October, according to ACER, short of the usual target of 90% by 1 November, which countries have been allowed to apply more flexibly.\nJørgensen has urged governments to keep cutting gas and electricity demand. Goldman Sachs analysts had said prices would need to rise above €100 to curb Asian demand if Middle East LNG exports recover only gradually through 2027.",
+    "why": "Gas prices feed into household bills, industry costs and inflation across Europe."
+   },
+   {
+    "headline": "European gas tops €100 for the first time since 2022",
+    "body": "European wholesale gas prices rose above €100 per megawatt-hour on 28 October for the first time since 2022. The Dutch TTF benchmark hit €100.37 at 16:00 CET, up more than 4% on the day. The record is about €340, set in August 2022.\nThe EU's Energy Commissioner, Dan Jørgensen, warned that \"Europe faces another energy crisis\" because of geopolitical turbulence. According to ACER, EU gas storage was 75% full on 21 October, below the usual 90% target for 1 November, though countries have been given flexibility.\nJørgensen has asked governments to keep reducing gas and electricity use. Goldman Sachs analysts have said prices above €100 could be needed to curb Asian demand if Middle East liquefied gas exports recover slowly through 2027.",
+    "why": "Higher wholesale gas prices usually mean higher energy bills and inflation later."
+   },
+   {
+    "headline": "Gas prices in Europe pass €100 as the EU warns of a new crisis",
+    "body": "Gas prices in Europe went above €100 per megawatt-hour on 28 October. This is the first time since 2022. The Dutch TTF price, the main European benchmark, reached €100.37, up more than 4% in a day. It is still far below the record of about €340 in August 2022.\nEU Energy Commissioner Dan Jørgensen said Europe \"faces another energy crisis\". Gas stores in the EU were 75% full on 21 October, short of the normal 90% target for 1 November, although countries can be flexible about it.\nJørgensen wants governments to keep cutting how much gas and electricity people use. Goldman Sachs analysts said prices might need to go above €100 to reduce demand in Asia if Middle East gas exports return only slowly.",
+    "why": "It can push up bills and prices for households and businesses."
+   },
+   {
+    "headline": "European gas price tops €100 for the first time in four years",
+    "body": "The price of gas in Europe has risen above €100 per megawatt-hour for the first time since the 2022 energy crisis. It reached €100.37 on 28 October, up more than 4% in a day. The all-time high was about €340 in August 2022.\nThe EU's energy chief, Dan Jørgensen, said Europe \"faces another energy crisis\" because of political turmoil around the world. Gas stores in the EU were only 75% full on 21 October. The usual aim is 90% by 1 November, though countries have been given more freedom to meet it.\nGovernments are being asked to keep using less gas and electricity. Goldman Sachs analysts said prices might have to pass €100 to cut demand in Asia, if Middle East gas shipments recover slowly.",
+    "why": "Gas is used for heating and power, so higher prices can raise bills."
+   },
+   {
+    "headline": "Gas costs more than €100 in Europe, and the EU warns of a crisis",
+    "body": "Gas is used to heat homes and make electricity. In Europe, the wholesale price of gas has gone above €100 for a unit called a megawatt-hour. The last time that happened was in 2022. On 28 October it reached €100.37, up more than 4% in one day.\nThe EU's energy chief, Dan Jørgensen, warned that Europe \"faces another energy crisis\". Countries store gas in summer to use in winter. On 21 October, EU stores were only 75% full. The usual goal is 90% by 1 November. Countries have been allowed some flexibility.\nHe asked governments to keep saving gas and electricity. Experts at Goldman Sachs said high prices may be needed to cut demand in Asia, if gas supplies from the Middle East recover slowly.",
+    "why": "Higher gas prices can mean bigger bills and dearer goods."
+   },
+   {
+    "headline": "Gas passes €100 in Europe and the EU warns of another energy crisis",
+    "body": "The wholesale price of gas in Europe went above €100 per megawatt-hour on 28 October, reaching €100.37. That has not happened since the 2022 energy crisis, though the record was about €340 in August 2022.\\nThe EU's energy chief, Dan Jørgensen, said Europe \\\"faces another energy crisis\\\". Countries store gas in summer for winter. On 21 October, EU stores were only 75% full, short of the usual 90% target for 1 November, although countries can be flexible.\\nGovernments are being told to keep using less gas and electricity. Goldman Sachs analysts said prices may need to rise above €100 to reduce demand in Asia if Middle East gas exports recover slowly.",
+    "why": "Gas prices flow through into heating bills and the cost of goods."
+   },
+   {
+    "headline": "Gas gets very expensive in Europe, and the EU is worried",
+    "body": "Gas heats many homes and makes electricity. In Europe, the price of gas just went above €100 for a unit called a megawatt-hour. It has not been this high since 2022. On 28 October it reached €100.37.\nThe EU's energy chief, Dan Jørgensen, said Europe \"faces another energy crisis\". Countries store gas in summer to use in winter, like filling a cupboard with food. On 21 October the stores were only 75% full. The EU normally wants them 90% full by 1 November.\nHe asked governments to keep using less gas and electricity. Experts think the price may need to stay high to make people in Asia buy less, if gas shipped from the Middle East is slow to recover.",
+    "why": "It may make heating and many goods cost more."
+   },
+   {
+    "headline": "Gas prices jump in Europe",
+    "body": "Gas is used to heat homes and to make electricity. In Europe, gas got very expensive. The price went above €100 for a standard amount, which has not happened since 2022.\nThe head of energy at the EU, Dan Jørgensen, said Europe \"faces another energy crisis\". Europe stores gas in big underground tanks in summer to use in winter. On 21 October they were only 75% full. The EU wanted them 90% full by 1 November. Countries were told they could be a bit flexible.\nHe asked countries to use less gas and electricity. When something is hard to find, its price goes up. Gas shipped from the Middle East has been harder to get.",
+    "why": "When gas costs more, heating and many goods can cost more too."
+   },
+   {
+    "headline": "Keeping warm gets pricey",
+    "body": "Many homes in Europe use gas to stay warm and to cook. Gas has become very expensive. The price went above €100 for a standard amount, the first time since 2022.\nCountries fill huge underground stores with gas in summer, a bit like a squirrel saving nuts for winter. This year the stores were only 75% full on 21 October. The EU wanted them 90% full by 1 November.\nThe EU's energy boss, Dan Jørgensen, warned of another energy crisis. He asked people and firms to use less gas and electricity. When something is scarce, its price goes up. Some gas that comes by ship from the Middle East has been harder to get.",
+    "why": "Warming a home can cost more when gas is scarce."
+   },
+   {
+    "headline": "Why gas costs more",
+    "body": "Think of the last chocolate bar in a shop. If lots of children want it, the shop can charge more. Gas works like that in Europe at the moment.\nGas helps people to heat homes and cook. Its price went above €100 for a standard amount, the first time since 2022. A boss in the EU, Dan Jørgensen, warned of another energy crisis.\nIn summer, countries fill big stores with gas for winter, like saving snacks for later. This year the stores were only 75% full on 21 October. They are supposed to be 90% full by 1 November.\nHe asked people and firms to use less gas and electricity. Less gas coming by ship from the Middle East has pushed up the price.",
+    "why": "If gas is scarce, it can cost families more to stay warm."
    }
   ]
  },
  {
   "id": "oil-near-115-saudi-refinery",
-  "order": 10,
+  "order": 12,
   "topic": "Economy",
   "region": "Middle East",
   "source": "CNBC",
@@ -746,6 +896,156 @@
     "headline": "Why fuel costs so much",
     "body": "Cars and lorries need fuel to move. Much fuel is made from oil, which comes from under the ground. It is sold in big barrels.\nA barrel costs about $115 now. That is a lot of money. Think of a toy that is hard to get, so the shop charges more. Oil is hard to get when there is trouble where it is made, in the Middle East.\nSome fighters said they hit an oil factory in Saudi Arabia. People are also afraid of more fighting soon.\nWhen oil costs more, it costs more to drive things to the shops. Then the things in the shops can cost more too. Some leaders are trying to talk about peace. That could help.",
     "why": "It can make the things families buy cost more."
+   }
+  ]
+ },
+ {
+  "id": "ecb-holds-lagarde-exit",
+  "order": 13,
+  "topic": "Economy",
+  "region": "Europe",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe",
+  "headline": "ECB holds rates at 2.5% as Lagarde announces she will leave early in February 2027",
+  "terms": [
+   {
+    "term": "Deposit rate",
+    "meaning": "The interest rate the ECB pays banks for money left with it; its key policy rate."
+   },
+   {
+    "term": "Eurozone",
+    "meaning": "The 20-odd EU countries that use the euro."
+   },
+   {
+    "term": "Hawkish pause",
+    "meaning": "Holding rates while signalling that rises may follow."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "ECB holds rates at 2.5% as Lagarde announces she will leave early in February 2027",
+    "body": "The European Central Bank kept its deposit rate at 2.5% on 29 October, after two rate rises this year, the latest in September. Inflation across the euro area has reached 3.8%, almost double the ECB's 2% target and the highest since September 2023, driven mainly by energy costs linked to the war involving Iran.\nPresident Christine Lagarde said the decision was unanimous but that policymakers seriously debated a rise. Markets read it as a hawkish pause, with traders pricing about a 67% chance of a quarter-point increase in December.\nLagarde also said she will leave on 7 February 2027, around nine months before her eight-year term ends, saying she cannot \"remain neutral\" given recent developments. Spain's Pablo Hernández de Cos and the Netherlands' Klaas Knot are seen as leading candidates to succeed her. The European Council will appoint the new president.",
+    "why": "The ECB's rate decisions shape borrowing costs across Europe, and its next leader will steer them."
+   },
+   {
+    "headline": "ECB pauses at 2.5% while Lagarde confirms an early exit",
+    "body": "The European Central Bank held its key interest rate at 2.5% on 29 October after raising rates twice this year, most recently in September. Euro area inflation is 3.8%, the highest since September 2023 and nearly double the 2% target, with energy costs the main driver.\nChristine Lagarde said the decision to hold was unanimous, though a rise was seriously discussed. Traders see a pause with a bias to tighten, and price about a 67% chance of a rise in December.\nLagarde announced she will step down on 7 February 2027, some nine months before her term was due to end, saying she cannot \"remain neutral\". Pablo Hernández de Cos of Spain and Klaas Knot of the Netherlands are seen as frontrunners to replace her, and the European Council will make the choice.",
+    "why": "Changes at the top of the ECB could affect how Europe handles high inflation."
+   },
+   {
+    "headline": "ECB holds interest rates and Lagarde says she will leave early",
+    "body": "The European Central Bank left its main interest rate at 2.5% on 29 October. It had raised rates twice this year, the last time in September. Inflation in the euro area is 3.8%, the highest since September 2023 and well above the 2% target. High energy costs are the main cause.\nPresident Christine Lagarde said the vote to hold was unanimous but that members seriously discussed raising rates. Investors think a rise in December is likely, giving it about a 67% chance.\nLagarde also announced she will leave on 7 February 2027, about nine months before her eight-year term ends. She said she cannot \"remain neutral\" given recent developments. Spain's Pablo Hernández de Cos and the Netherlands' Klaas Knot are seen as likely successors.",
+    "why": "Interest rates in the euro area affect loans, savings and prices for millions of people."
+   },
+   {
+    "headline": "European Central Bank keeps rates at 2.5% and its president says she is leaving",
+    "body": "The European Central Bank (ECB) kept its main interest rate at 2.5% on 29 October. It is the bank for the countries that use the euro. It raised rates twice this year to fight rising prices. Inflation there is now 3.8%, nearly double its 2% target, mostly because energy costs are high.\nThe president, Christine Lagarde, said all members agreed to hold, but they talked seriously about raising rates. Investors now think there is about a 67% chance of a rise in December.\nLagarde also said she will leave on 7 February 2027, around nine months early. She said she cannot \"remain neutral\" when she sees what is happening. Pablo Hernández de Cos and Klaas Knot are seen as possible replacements.",
+    "why": "The ECB's choices affect prices and borrowing costs in countries that use the euro."
+   },
+   {
+    "headline": "European bank leaves interest rates alone, and its boss will leave early",
+    "body": "The European Central Bank, or ECB, looks after money for countries that use the euro. On 29 October it kept its main interest rate at 2.5%. It raised the rate twice earlier this year to fight rising prices, which are called inflation.\nPrices in these countries are now rising by 3.8% a year. The ECB wants only 2%. The main reason is the high cost of energy. All the members agreed to keep rates the same, but they talked seriously about raising them. Investors think there is a good chance of a rise in December.\nThe boss, Christine Lagarde, said she will leave in February 2027, nine months before she had to. Two names being talked about to replace her are Pablo Hernández de Cos and Klaas Knot.",
+    "why": "Interest rates change what people pay on loans and earn on savings in Europe."
+   },
+   {
+    "headline": "Europe's central bank keeps rates at 2.5%, and its president will leave early",
+    "body": "The European Central Bank, which sets interest rates for countries using the euro, left its main rate at 2.5% on 29 October. It raised rates twice earlier this year to fight rising prices. Prices in the euro area are now rising 3.8% a year, nearly double its 2% target, mostly because energy costs a lot.\\nAll members voted to hold, but they talked seriously about a rise. Investors now think a rise in December has about a 67% chance.\\nThe president, Christine Lagarde, also said she will leave on 7 February 2027, about nine months before her term ends. She said she cannot \\\"remain neutral\\\". Possible successors include Pablo Hernández de Cos and Klaas Knot. European leaders will choose.",
+    "why": "The ECB's decisions affect loans, savings and prices across the euro area."
+   },
+   {
+    "headline": "Europe's central bank holds rates; its leader says she will step down",
+    "body": "Many countries in Europe share one kind of money, the euro. One bank, the European Central Bank, sets the main interest rate for them. On 29 October it kept that rate at 2.5%. It had raised it twice this year.\nPrices in these countries are rising by 3.8% a year. That is almost twice what the bank wants, which is 2%. Energy costs are the main reason. People who watch the bank think it might raise the rate in December.\nThe boss of the bank, Christine Lagarde, also said she will leave in February 2027. That is about nine months earlier than planned. People have named two possible new bosses, Pablo Hernández de Cos from Spain and Klaas Knot from the Netherlands.",
+    "why": "It affects prices, loans and savings for many people in Europe."
+   },
+   {
+    "headline": "Europe's money bank pauses and its boss will leave",
+    "body": "Lots of countries in Europe use the same money, called the euro. A bank called the European Central Bank looks after it. On 29 October, this bank said it would not change its main interest rate. It stays at 2.5%.\nInterest is the extra money you pay when you borrow, or get when you save. The bank had put the rate up twice this year, because prices were rising too fast. Prices there are going up by 3.8% a year. The bank wants only 2%. High energy costs are the main cause.\nThe boss, Christine Lagarde, said she will leave in February 2027. That is early. People are talking about who might replace her.",
+    "why": "It helps decide how much it costs to borrow money in Europe."
+   },
+   {
+    "headline": "A big bank keeps its rate the same",
+    "body": "A group of countries in Europe all use the same money, the euro. They share one big bank that looks after it. It is called the European Central Bank.\nOn 29 October, the bank said it would keep its interest rate at 2.5%. Interest is the extra you pay when you borrow money. Prices have been going up fast, partly because energy costs a lot. The bank had raised the rate twice this year to help slow this down. It may raise it again in December.\nThe boss of the bank, Christine Lagarde, also said she will leave in February 2027. That is earlier than planned. A new boss will be picked by leaders in Europe.",
+    "why": "Its choices can change how much things cost for families in Europe."
+   },
+   {
+    "headline": "A big bank in Europe makes a choice",
+    "body": "Imagine a class where everyone uses the same pretend money. One student is the banker and decides how much extra to charge when someone borrows. In real life, a big bank does this for many countries in Europe. It is called the European Central Bank.\nOn 29 October, the banker said the extra charge, called the interest rate, would stay at 2.5%. Prices have been going up quickly, partly because energy costs a lot. The bank wants prices to rise slowly. It may raise the charge again in December.\nThe head of the bank, Christine Lagarde, said she will leave in February 2027. That is earlier than planned. Leaders will choose someone new.",
+    "why": "It matters because the cost of borrowing touches many families."
+   }
+  ]
+ },
+ {
+  "id": "us-midterms-democrats-favoured",
+  "order": 14,
+  "topic": "Politics",
+  "region": "United States",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
+  "headline": "US midterms on 3 November: polls favour Democrats as Trump's economic approval hits a low",
+  "terms": [
+   {
+    "term": "Midterm elections",
+    "meaning": "Elections held halfway through a US president's four-year term to choose members of Congress."
+   },
+   {
+    "term": "Generic ballot",
+    "meaning": "A poll asking voters which party they would back for Congress, without naming candidates."
+   },
+   {
+    "term": "Prediction market",
+    "meaning": "A site where people bet on the outcome of events, with prices showing the odds."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "US midterms on 3 November: polls favour Democrats as Trump's economic approval hits a low",
+    "body": "Americans vote in the midterm elections on Tuesday 3 November, and polls and forecasts point to Democratic gains. A CNBC/All-America survey of 1,000 registered voters, carried out from 14 to 18 October, found that voters preferred Democratic control of Congress by 52% to 45%. One tracker had Democrats about 9 points ahead on the generic ballot as of 28 October. The House looks more likely to flip than the Senate, where Democrats are narrowly favoured by DecisionDeskHQ. A Kalshi prediction market put the chance of a Democratic sweep of both chambers at 63%.\nPresident Donald Trump's approval stood at 40%, with 59% disapproving. His net economic approval of minus 31 is the lowest of either of his terms. House Speaker Mike Johnson says the polling is inaccurate, but Wolfe Research says a Republican House win would need an unprecedented polling miss.\nCNBC reports that Wall Street is preparing for Democratic gains. The new Congress is due to convene on 3 January.",
+    "why": "The result will shape what President Trump can pass for the next two years and could move markets."
+   },
+   {
+    "headline": "Democrats favoured in US midterms as Trump's economic ratings fall to a record low",
+    "body": "The US midterm elections are on Tuesday 3 November, and the polling points towards Democratic gains. In a CNBC/All-America survey of 1,000 registered voters conducted on 14 to 18 October, 52% preferred Democratic control of Congress against 45% for Republicans. One tracker showed Democrats around 9 points ahead on the generic ballot, which asks which party people would back without naming candidates, as of 28 October.\nThe House is seen as more likely to change hands than the Senate, where DecisionDeskHQ gives Democrats a narrow edge. A Kalshi prediction market priced a Democratic sweep at 63%. Mr Trump's approval is 40% against 59% disapproving, and his net economic approval of minus 31 is his lowest in either term.\nSpeaker Mike Johnson dismissed the polls as inaccurate, though Wolfe Research argues a Republican House win would take a miss without precedent in modern polling. Investors are preparing for a Democratic gain.",
+    "why": "A Democratic Congress could block parts of the president's agenda and change US policy on spending and trade."
+   },
+   {
+    "headline": "Polls point to Democratic gains in the US midterm elections on 3 November",
+    "body": "Voters across the United States choose a new Congress on Tuesday 3 November, in elections halfway through President Trump's term. Polls favour the Democrats. A CNBC/All-America survey of 1,000 registered voters from 14 to 18 October found 52% wanted Democrats in control of Congress, against 45% for Republicans. A tracker of generic ballot polls, which ask which party people would vote for, had Democrats about 9 points ahead on 28 October.\nForecasters think Democrats are more likely to take the House than the Senate. Online prediction markets, where people bet on results, put the chance of a Democratic win in both chambers at 63%. Mr Trump's approval rating is 40%, and his rating on the economy is the lowest of either of his terms.\nSpeaker Mike Johnson says the polls are wrong, but analysts at Wolfe Research say a Republican win in the House would need a polling miss with no modern precedent.",
+    "why": "The vote decides how much power the president has to pass laws in his last two years."
+   },
+   {
+    "headline": "Democrats lead the polls ahead of the US midterm elections",
+    "body": "The United States holds its midterm elections on Tuesday 3 November. These are elections halfway through a president's four-year term, in which voters pick all the members of the House of Representatives and a share of the Senate. Polls suggest Democrats will do well. A CNBC survey of 1,000 registered voters found that 52% want Democrats to control Congress and 45% want Republicans. Another tracker had Democrats about 9 points ahead in polls that ask which party people would back.\nDemocrats look likelier to win the House than the Senate. Betting sites that forecast election results give them a 63% chance of winning both. President Trump's approval rating is 40%, and on the economy it is the lowest of either of his terms.\nThe Speaker, Mike Johnson, says polls are inaccurate, but analysts say a Republican win in the House would need an unusually big polling error.",
+    "why": "If Democrats win control, they could slow the president's plans for the last two years of his term."
+   },
+   {
+    "headline": "US midterm elections on 3 November: Democrats lead in the polls",
+    "body": "The United States holds its midterm elections on Tuesday 3 November. They are called midterms because they come halfway through a president's four-year term. Voters choose members of Congress, the group that makes laws, and the Democrats are ahead in polls. In a CNBC survey of 1,000 registered voters, 52% wanted Democrats in charge and 45% wanted Republicans.\nAnalysts think the Democrats are more likely to win the House of Representatives than the Senate. On betting sites that forecast results, called prediction markets, the chance of Democrats winning both is put at 63%. These forecasts are not official polls, so they should be treated with care.\nPresident Donald Trump's approval rating is 40%. On the economy it is the lowest of either of his terms. Speaker Mike Johnson, a Republican, says the polls are wrong. Experts say a Republican win in the House would need a polling error without precedent in modern times.",
+    "why": "The result will decide how much the president can do in the last two years of his term."
+   },
+   {
+    "headline": "Americans vote next week and polls say Democrats are ahead",
+    "body": "Americans vote on Tuesday 3 November in the midterm elections, which take place halfway through a president's four-year term. Voters choose members of Congress, the part of government that makes laws. It has two parts, the House and the Senate.\nPolls say the Democrats, the main opponents of President Trump's Republican party, are ahead. In a CNBC survey of 1,000 registered voters, 52% wanted Democrats to control Congress and 45% wanted Republicans. The Democrats look more likely to win the House than the Senate.\nOnly 40% of people say they approve of Mr Trump's work as president. His rating on the economy is the lowest of either of his terms. The Republican Speaker of the House, Mike Johnson, says the polls are inaccurate, but experts say they would have to be badly wrong for the Republicans to keep the House.\nInvestors on Wall Street are preparing for a Democratic gain.",
+    "why": "The result will shape which laws the president can pass for the next two years."
+   },
+   {
+    "headline": "Americans vote next week, and polls say the Democrats are ahead",
+    "body": "Americans vote on Tuesday 3 November. These elections are called the midterms because they happen halfway through a president's four years. People choose who will sit in Congress, the group that makes laws for the country. Congress has two parts, called the House and the Senate.\nMost polls say the Democrats are ahead. They are the party that opposes President Trump's Republican party. In one survey of 1,000 voters, 52% wanted Democrats in charge of Congress and 45% wanted Republicans. The Democrats look more likely to win the House than the Senate.\nOnly 40% of people say they approve of how Mr Trump is doing. Ratings of how he handles the economy are the lowest of either of his terms in office. The Republican leader of the House says the polls are wrong. Experts say the polls would have to be badly off for the Republicans to win the House.",
+    "why": "The result will change how much the president can do in the next two years."
+   },
+   {
+    "headline": "Americans vote on Tuesday, and polls say the president's opponents may win",
+    "body": "On Tuesday 3 November, people in America will vote in elections called the midterms. They are called that because they happen in the middle of a president's four years. Voters choose members of Congress, the people who make the laws in America.\nThe president now is Donald Trump. He belongs to the Republican party. His main opponents are the Democrats. Polls ask people who they will vote for. In one poll, more people said Democrats than Republicans. So Democrats might win more seats.\nOnly 40 out of every 100 people say they like how Mr Trump is doing his job. Even fewer are happy with how he handles money and jobs.\nOne Republican leader says the polls are wrong. But experts say the polls would have to be very wrong for the Republicans to keep control of one part of Congress.",
+    "why": "The winners will help decide what laws America makes."
+   },
+   {
+    "headline": "Americans vote on Tuesday to choose who makes the laws",
+    "body": "On Tuesday, people in America will vote. These votes are called the midterms. They are called that because they happen in the middle of the time a president is in charge. The president is Donald Trump.\nPeople will choose members of a group called Congress. Congress makes the laws for America, a bit like a big class council. Two big parties usually win the most seats. They are the Republicans, who are Mr Trump's party, and the Democrats, who disagree with him.\nPolls ask people how they will vote. In one poll, more people said they would vote for the Democrats. So the Democrats might win more seats.\nOnly about four in ten people say they like how Mr Trump is doing his job. One Republican leader says the polls are wrong. Experts say they would have to be very wrong.",
+    "why": "The people who win will help decide what laws America has."
+   },
+   {
+    "headline": "People in America will soon vote to choose their law makers",
+    "body": "Soon the people of America will vote. They will choose some of the people who make the laws. Those people work in a big building called Congress. The leader of the whole country is called the president. His name is Donald Trump.\nImagine your class is choosing helpers. Some children want one helper, and some want another. Everyone votes and the one with most votes wins. In America there are two big teams, called parties. They are the Republicans and the Democrats.\nBefore the vote, grown-ups ask people who they plan to pick. More people said they would pick the Democrats. But asking is not the same as voting. We only find out the real answer when the votes are counted.\nMr Trump is a Republican. Fewer than half of people say they like the job he is doing.",
+    "why": "The winners will help decide what rules America has."
    }
   ]
  }
