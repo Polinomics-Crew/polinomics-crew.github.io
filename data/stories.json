@@ -1,12 +1,12 @@
 [
  {
-  "id": "boe-decision-due",
+  "id": "boe-raises-bank-rate-4",
   "order": 1,
   "topic": "Economy",
   "region": "United Kingdom",
   "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-  "headline": "Bank of England expected to raise Bank Rate to 4% as inflation climbs",
+  "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+  "headline": "Bank of England raises Bank Rate to 4%, its first increase since 2023, and warns inflation could near 5%",
   "terms": [
    {
     "term": "Bank Rate",
@@ -19,633 +19,207 @@
   ],
   "levels": [
    {
-    "headline": "Bank of England expected to raise Bank Rate to 4% as inflation climbs",
-    "body": "The Bank of England is due to announce its latest interest rate decision today, 5 November, and markets strongly expect it to raise Bank Rate by 25 basis points from 3.75% to 4%. The outcome was not available when this edition was compiled.\nIn September the Monetary Policy Committee held the rate at 3.75% by six votes to three, with the three dissenters wanting a rise to 4%. Governor Andrew Bailey said that the longer volatility persists, the more likely the Bank will need to raise rates.\nUK inflation, as measured by the Consumer Prices Index, jumped to 3.5% in the 12 months to September from 3.1% in August, driven largely by motor fuel costs. According to LSEG data cited by CNBC in October, traders put the chance of a rise in November at 98%, with most also expecting another in December. Trading Economics lists a consensus forecast of 4%.",
-    "why": "Bank Rate sets the tone for mortgage, loan and savings rates across the UK economy."
+    "headline": "Bank of England raises Bank Rate to 4%, its first increase since 2023, and warns inflation could near 5%",
+    "body": "The Bank of England raised Bank Rate by 0.25 percentage points, from 3.75% to 4%, on 5 November 2026. It is the first increase since August 2023. The Monetary Policy Committee voted 8 to 1, and the one dissenter wanted a larger rise of 0.5 points, to 4.25%.\nThe Bank blamed energy prices linked to the war involving Iran and disruption around the Strait of Hormuz. It warned that inflation, which was 3.5% in September, could reach about 5% by the middle of 2027.\nGovernor Andrew Bailey said the move should not be read as the start of a long run of rises. He added that unless the Middle East conflict is resolved, it does not look like the last increase either. Markets saw roughly a one-in-four chance of another rise in December, and the next meeting is on 17 December. Earlier reports said two-year mortgage rates had already climbed by nearly half a point since early September.",
+    "why": "Borrowing costs, mortgages and savings rates all move with Bank Rate, and the Bank expects prices to keep climbing."
    },
    {
-    "headline": "Bank of England set to lift interest rates as prices rise faster",
-    "body": "The Bank of England announces its interest rate decision today, 5 November, and the City widely expects it to lift Bank Rate from 3.75% to 4%. The result was not known when this edition was compiled.\nThe Monetary Policy Committee voted six to three to hold rates in September, but three members already wanted a rise to 4%. Governor Andrew Bailey warned that if volatility continued, the Bank would be more likely to need to raise rates.\nSince then, official figures showed consumer price inflation rising to 3.5% in September from 3.1% in August, mostly because of higher fuel prices. Traders told LSEG in October that they saw a 98% chance of a rise this month, and many expect a further increase in December. Trading Economics shows a consensus forecast of 4% for today's decision.",
-    "why": "Interest rate changes feed into mortgages, business loans and savings accounts."
+    "headline": "Bank of England lifts interest rates to 4% and sees inflation heading towards 5%",
+    "body": "The Bank of England has raised its main interest rate, Bank Rate, from 3.75% to 4%. The decision on 5 November was the first rise since August 2023. Eight members of the Monetary Policy Committee backed a quarter-point increase, while one wanted a bigger half-point rise.\nThe Bank pointed to higher energy prices caused by the Middle East conflict. It now expects inflation, 3.5% in September, to reach around 5% by mid-2027.\nGovernor Andrew Bailey said the rise should not be seen as the first of many. But he said that if the conflict is not resolved, this is unlikely to be the final increase. Traders thought there was about a one-in-four chance of another rise at the next meeting on 17 December. Benchmark two-year mortgage rates had already risen by nearly half a percentage point since the start of September.",
+    "why": "Households with mortgages or loans may face higher costs, and savers may see better rates."
    },
    {
-    "headline": "Bank of England expected to raise interest rates today",
-    "body": "The Bank of England will announce today, 5 November, whether it changes interest rates. Most investors expect it to raise Bank Rate from 3.75% to 4%. We did not know the result when this edition was put together.\nIn September, the nine members of the Monetary Policy Committee voted six to three to keep the rate unchanged. The three who lost the vote wanted a rise. Governor Andrew Bailey said that the longer prices stay unstable, the more likely it is that the Bank will have to raise rates.\nInflation, the rate at which prices rise, went up to 3.5% in the year to September, from 3.1% a month earlier, helped by pricier fuel. Market data suggested that traders thought a rise this month was almost certain, and many expect another in December.",
-    "why": "A higher Bank Rate usually makes borrowing more expensive and saving more rewarding."
+    "headline": "Bank of England raises interest rates for the first time in over three years",
+    "body": "The Bank of England has raised its key interest rate from 3.75% to 4%, the first increase since August 2023. The committee that sets the rate voted 8 to 1 for a quarter-point rise. One member wanted a half-point rise instead.\nOfficials said energy prices, pushed up by the conflict in the Middle East, are driving inflation. They expect the rate of price rises to reach about 5% by the middle of 2027, up from 3.5% in September.\nBank Governor Andrew Bailey said people should not take this as the start of a long series of increases. However, he said that unless the conflict ends, it does not look like the last rise. Financial markets see about a one-in-four chance of another increase in December. Mortgage rates had already been rising for weeks before the decision.",
+    "why": "Higher rates make borrowing dearer, which affects homeowners, renters and businesses."
    },
    {
-    "headline": "Bank of England likely to raise interest rates",
-    "body": "The Bank of England is expected to raise its main interest rate from 3.75% to 4% when it announces its decision today, 5 November. The result was not known when this was written.\nIn September the Bank's rate-setting committee voted six to three to leave rates alone, but the three who disagreed wanted a rise. The Bank's Governor, Andrew Bailey, said rates would be more likely to rise the longer uncertainty over prices continued.\nUK inflation reached 3.5% in September, up from 3.1% in August, mainly because of higher fuel costs. Inflation measures how fast prices rise over a year. Traders think a rise is almost certain this month, and many also expect another in December.\nThe rate matters because it affects what banks charge on mortgages and loans.",
-    "why": "Higher rates affect anyone with a loan, a mortgage or savings."
+    "headline": "Bank of England puts up interest rates to 4% as energy costs push prices higher",
+    "body": "The Bank of England has raised interest rates for the first time in more than three years. The main rate went up from 3.75% to 4% on 5 November, after eight of the nine decision-makers voted for the quarter-point rise. The ninth wanted a bigger rise.\nThe Bank says high energy prices, linked to the war in the Middle East, are pushing up the cost of living. It thinks prices could be rising at about 5% a year by the middle of next year. In September the figure was 3.5%.\nGovernor Andrew Bailey said this is not necessarily the first step in a long run of rises. But he said more rises look likely if the conflict carries on. The next decision is due on 17 December, and markets think there is a one-in-four chance of another increase then.",
+    "why": "It affects what people pay on mortgages and loans and what they earn on savings."
    },
    {
-    "headline": "Bank of England expected to put up interest rates today",
-    "body": "The Bank of England will say today, 5 November, whether it is changing interest rates. Almost everyone expects it to raise the main rate, called Bank Rate, from 3.75% to 4%. We did not know the answer when this was written.\nLast time, in September, a group of nine experts voted six to three to keep the rate as it was. The three who lost wanted a rise. The Bank's boss, Andrew Bailey, said a rise becomes more likely the longer prices keep jumping around.\nPrices are going up faster. Inflation, which means the speed prices rise, hit 3.5% in September, up from 3.1%. Higher fuel costs were a big reason. Raising rates is one way the Bank tries to slow price rises down.",
-    "why": "The rate affects how much people pay on loans and earn on savings."
+    "headline": "The Bank of England has raised interest rates, and says prices could rise faster",
+    "body": "The Bank of England has put up its main interest rate from 3.75% to 4%. This is the rate that influences what banks charge for loans and mortgages, and what they pay savers. It is the first rise since 2023. Eight of nine experts on the Bank's committee voted for it. One wanted a bigger rise.\nThe Bank did this because prices are going up faster, mostly because energy costs more after the conflict in the Middle East. Prices rose 3.5% over the year to September. The Bank thinks they could be rising by about 5% a year by the middle of 2027.\nThe Bank's governor, Andrew Bailey, said this is not the start of lots of rises. But he said there could be more if the conflict goes on. The next decision is on 17 December.",
+    "why": "Mortgages and loans could cost more, though savers might earn a little more."
    },
    {
-    "headline": "The Bank of England is likely to raise interest rates today",
-    "body": "The Bank of England decides today, 5 November, what to do with interest rates. Most experts think it will raise the main rate from 3.75% to 4%. We did not know the result when this was written.\nThe Bank sets this rate to keep price rises under control. In September, nine Bank experts voted. Six wanted no change and three wanted a rise. The Bank's boss, Andrew Bailey, said a rise gets more likely if prices stay unsettled.\nPrices are now rising faster. The rate of price rises, called inflation, went from 3.1% to 3.5% over the year to September. Dearer fuel was a main cause. When the Bank raises its rate, borrowing gets dearer, so people tend to spend less, and that can slow price rises.",
-    "why": "Mortgages, loans and savings can all change when the Bank moves its rate."
+    "headline": "Interest rates in the UK go up to 4%",
+    "body": "The Bank of England has raised interest rates. The main rate is now 4%. Before, it was 3.75%. It is the first rise in over three years. The Bank is the part of the country that looks after how much borrowing costs.\nWhy did it do this? Prices are going up faster. Energy costs more because of fighting in the Middle East. When prices rise like this, it is called inflation. Prices rose 3.5% in the year to September. The Bank thinks they could rise by about 5% a year by the middle of next year.\nA higher rate makes loans and mortgages cost more. That can make people spend less, which helps slow price rises. Savers may get paid a little more. The Bank's boss, Andrew Bailey, said more rises could come if the fighting goes on.",
+    "why": "Families with loans or mortgages may have to pay more each month."
    },
    {
-    "headline": "The Bank of England may put interest rates up today",
-    "body": "Today, 5 November, the Bank of England says what it will do with interest rates. Many people expect it to put the main rate up from 3.75% to 4%. We did not know the result when this was written.\nThe Bank's job is to stop prices rising too fast. Prices have been rising faster lately. This is called inflation. It went up to 3.5% in the year to September. A month before it was 3.1%. Fuel costs went up a lot.\nIn September, nine experts at the Bank voted on what to do. Six said keep the rate the same. Three said raise it. The Bank's boss, Andrew Bailey, said a rise is more likely if prices stay bumpy. A higher rate makes loans cost more, which can cool spending.",
-    "why": "It could change what families pay on mortgages and loans."
+    "headline": "Bank of England raises interest rates to try to slow rising prices",
+    "body": "The Bank of England has put up interest rates. They went from 3.75% to 4%. Interest is the extra money you pay when you borrow, or the extra you get when you save. The Bank sets the main rate, and banks follow it.\nPrices are rising faster than the Bank wants. This is called inflation. Fuel and energy cost more because of a war in the Middle East. Prices went up 3.5% in the year to September, and the Bank thinks they may reach about 5% next year.\nBy making borrowing cost more, the Bank hopes people spend less. Then prices should rise more slowly. But it also means people with a mortgage may pay more each month. The Bank's boss said there may be more rises if the war carries on.",
+    "why": "Your family's loans could cost more, but the Bank hopes prices will stop rising so fast."
    },
    {
-    "headline": "Will the Bank of England make borrowing cost more today?",
-    "body": "The Bank of England tells us today, 5 November, if it will change its interest rate. Lots of people think it will go up. We did not know the answer when this was written.\nAn interest rate is the price of borrowing money. If you borrow, you pay extra back. The Bank sets a main rate, and banks use it to set their own. Now it is 3.75%. Experts think it may go to 4%.\nThe Bank does this to keep prices steady. Prices are going up quickly. That is called inflation. It is now 3.5% a year. That means something that cost one pound last year costs about one pound and three and a half pence now. When borrowing costs more, people often spend less, and prices can calm down.",
-    "why": "Higher rates can mean bigger repayments for people who owe money."
+    "headline": "The Bank of England puts up interest rates to slow price rises",
+    "body": "The Bank of England has raised interest rates from 3.75% to 4%. Interest is the extra money you pay when you borrow, and the extra you earn when you save. The Bank sets the main rate, and banks and building societies follow it.\nWhy now? Prices are rising faster. We call that inflation. Energy costs more because of fighting in the Middle East, and that makes many other things dearer. Prices rose 3.5% in the year to September, and the Bank thinks they could rise by about 5% a year by next summer.\nThe Bank hopes that dearer borrowing makes people spend a bit less, so prices rise more slowly. The downside is that mortgages and loans can cost more each month. The Bank's boss, Andrew Bailey, said more rises could come if the fighting carries on.",
+    "why": "Your family's loans and savings can change when this rate changes."
    },
    {
-    "headline": "Why a bank might make borrowing cost more",
-    "body": "Today the Bank of England decides about something called the interest rate. Lots of people think it will go up a little.\nThe interest rate is like a fee for borrowing. Imagine you borrow a pound from a friend and give back a pound and a little extra. That little extra is interest. The Bank of England sets a rate that other banks follow. Right now it is 3.75%. It may go to 4%.\nWhy do this? Prices in shops are going up faster than before. Grown-ups call that inflation. Petrol costs more, and that is part of the reason. If borrowing costs more, people spend less, and then prices tend to stop climbing so fast. Nobody knew the answer when this was written.",
-    "why": "It helps keep the cost of things steady for families."
+    "headline": "Interest rates have gone up in Britain",
+    "body": "The Bank of England is in charge of interest rates. Interest is the extra money you pay back when you borrow money. It went up today from 3.75 to 4 out of every 100 pounds. That is a small step up.\nWhy did it go up? Things in shops cost more than before, and petrol and gas cost more too. This is because of fighting in another part of the world. Grown-ups call this inflation. It means your money buys less than it did.\nWhen borrowing costs more, people spend less. Then prices might stop rising so fast. But families who borrowed money to buy a home may have to pay a bit extra every month. The people at the Bank say prices might keep rising for a while, and rates could go up again.",
+    "why": "It changes how much families pay back on loans, and the Bank hopes it keeps prices steady."
    },
    {
-    "headline": "A big decision about borrowing money",
-    "body": "Today some grown-ups at the Bank of England make a decision about money. They may make borrowing a bit more costly.\nThink of it like pocket money. Say you borrow some from a friend and promise to give back a bit extra. That extra is called interest. The Bank of England chooses a level of interest that banks follow across the country. It is 3.75 now. It may go up to 4.\nWhy would they do that? Things in shops cost more than before. If everyone spends a bit less, prices stop rising so fast, like when fewer children want the same sweets and the shop lowers the price. We do not know yet what they chose.",
-    "why": "It is about keeping the price of everyday things fair."
+    "headline": "The bank that looks after Britain's money made borrowing cost a bit more",
+    "body": "Imagine you borrow a toy from a friend and promise to give back a little extra as a thank you. That extra is called interest. In Britain, one big bank decides how much extra is normal. It is called the Bank of England.\nThis week the bank said the extra should be a bit bigger. It went from 3.75 to 4 coins in every 100.\nWhy? Lots of things in shops now cost more, like food and fuel. The bank wants prices to stop going up so fast. When borrowing costs more, people buy fewer things. Then shops do not need to raise prices as much. It is a bit like when everyone wants the last biscuit, so it costs more. If fewer people want it, the price stays small. Some grown-ups will have to pay a bit more.",
+    "why": "It is one way the grown-ups try to stop everything getting more expensive."
    }
   ]
  },
  {
-  "id": "us-stocks-rally",
+  "id": "sp500-falls-4-percent",
   "order": 2,
   "topic": "Economy",
   "region": "United States",
   "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-  "headline": "S&P 500 closes up 1.58% as Dow posts best day since April 2025 after Democratic midterm win",
+  "url": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
+  "headline": "S&P 500 closes down 4.36% as AI-led sell-off pushes the Nasdaq into correction",
   "terms": [
    {
     "term": "S&P 500",
-    "meaning": "An index tracking the share prices of 500 large US companies, used as a gauge of the whole market."
+    "meaning": "An index tracking the share prices of 500 of the largest companies listed in the United States."
    },
    {
-    "term": "Treasury yields",
-    "meaning": "The return investors get for lending to the US government; they fall when bond prices rise."
+    "term": "Correction",
+    "meaning": "A fall of more than 10% from a recent peak in an index or share price."
    }
   ],
   "levels": [
    {
-    "headline": "S&P 500 closes up 1.58% as Dow posts best day since April 2025 after Democratic midterm win",
-    "body": "The S&P 500 closed up on Wednesday 4 November, the last completed session, rising 1.58% to 7,688.62. The Dow Jones Industrial Average gained 1,569.40 points, or 3.03%, to close at 53,356.12, its best day since April 2025. The Nasdaq Composite rose 1.44% to 25,736.51, according to CNBC; Trading Economics reports a different Nasdaq figure, so that number is the least certain.\nCNBC attributed the rally to Democratic gains in the midterm elections and a sharp fall in oil prices. West Texas Intermediate crude fell more than 8% to settle at $88.12 a barrel.\nThe moves came after earlier volatility: the Nasdaq had suffered its worst day since June on 29 October as investors sold technology shares. US stock markets were due to reopen later today for Thursday's session.",
-    "why": "Wall Street's reaction shows how politics and oil prices are shaping investor confidence."
+    "headline": "S&P 500 closes down 4.36% as AI-led sell-off pushes the Nasdaq into correction",
+    "body": "The S&P 500 closed down on Thursday 5 November, the last completed US session, falling 4.36% to 7,353.73. The Dow Jones Industrial Average lost 1,833.06 points, or 3.44%, to 51,523.06. The Nasdaq Composite dropped 5.52% to 24,315.00.\nThe Nasdaq ended more than 10% below the record it set last month, which is known as a correction. The small-company Russell 2000 index also entered a correction after falling 4.45%. All 11 sectors of the S&P 500 finished lower, and technology fell 7.30%.\nCNBC linked the fall to fears that Democratic wins in the midterm elections could slow the building of AI data centres. Nvidia and Qualcomm each fell more than 9%, and Qualcomm also gave a disappointing forecast for the current quarter. The sell-off wiped out the Dow's 1,569-point jump on the previous day.",
+    "why": "Falls this size hit pension funds and savings, and show how nervous investors are about AI company valuations."
    },
    {
-    "headline": "Wall Street surges: S&P 500 up 1.58%, Dow up more than 3%",
-    "body": "US shares rose sharply on Wednesday 4 November, the latest completed session. The S&P 500 climbed 1.58% to close at 7,688.62. The Dow Jones Industrial Average added 1,569.40 points, or 3.03%, to finish at 53,356.12, its best day since April 2025. CNBC reports the Nasdaq Composite up 1.44% at 25,736.51, though another source quotes a different Nasdaq move.\nCNBC linked the rally to the Democrats' strong midterm showing and falling oil. West Texas Intermediate crude dropped more than 8% to $88.12 a barrel, easing worries about fuel costs and inflation.\nThe gains followed a choppy few days, including a technology sell-off on 29 October that gave the Nasdaq its worst day since June. The Dow closed back above 53,000 for the first time since early September.",
-    "why": "Big swings in US markets can affect pension funds and savings invested in shares."
+    "headline": "US stocks slump as S&P 500 drops 4.36% and Nasdaq enters correction",
+    "body": "US shares fell sharply on Thursday 5 November, the latest completed session. The S&P 500 closed down 4.36% at 7,353.73, the Dow lost 3.44% (1,833.06 points) to finish at 51,523.06, and the Nasdaq Composite fell 5.52% to 24,315.00.\nThe Nasdaq is now more than 10% below its record from last month, which traders call a correction. Smaller companies suffered too, with the Russell 2000 down 4.45%. Every sector of the S&P 500 fell, and technology was worst, down 7.30%.\nInvestors were worried that Democratic election gains could slow spending on AI data centres. Chip makers led the drop, with Nvidia and Qualcomm both down more than 9%. Qualcomm also warned of weaker results ahead. The losses cancelled the large Dow gain from the day before.",
+    "why": "Many pension funds and savings accounts hold US shares, so big falls can affect ordinary savers."
    },
    {
-    "headline": "US stocks jump after midterms as oil prices fall",
-    "body": "US stocks closed higher on Wednesday 4 November, the last full trading day. The S&P 500, which tracks 500 big US companies, rose 1.58% to 7,688.62. The Dow Jones index jumped 3.03%, or 1,569.40 points, to 53,356.12, its best day since April 2025. The Nasdaq, heavy with technology firms, rose 1.44% to 25,736.51.\nCNBC said investors were cheered by the Democrats' strong results in the midterm elections and by a sharp drop in the oil price. US crude oil fell more than 8% to $88.12 a barrel, which eased worries about high fuel costs.\nIt followed a rough week for tech shares. The Nasdaq had its worst day since June on 29 October after investors sold technology stocks.",
-    "why": "Falling oil prices can help households and firms by easing costs."
+    "headline": "Wall Street sinks as tech shares tumble: S&P 500 down 4.36%",
+    "body": "Wall Street suffered a steep sell-off on Thursday 5 November, the most recent full trading day. The S&P 500 ended down 4.36% at 7,353.73. The Dow Jones fell 1,833 points, or 3.44%, to 51,523.06, and the Nasdaq dropped 5.52% to 24,315.00.\nThe Nasdaq has now fallen more than 10% from its record high of last month, a move known as a correction. Technology shares were hit hardest, falling 7.30% as a group, and all other sectors of the S&P 500 also closed lower.\nCNBC reported that investors feared Democratic wins in the midterms could slow the building of data centres for artificial intelligence. Nvidia and Qualcomm each lost more than 9% of their value, and Qualcomm gave a weak outlook. Much of the previous day's rally was wiped out.",
+    "why": "The fall shows how much of the market now depends on AI companies."
    },
    {
-    "headline": "US shares rise sharply after the midterm elections",
-    "body": "American shares rose strongly on Wednesday 4 November, the most recent day of trading. The S&P 500, an index of 500 large US companies, closed up 1.58% at 7,688.62. The Dow Jones, another index, rose 3.03% to 53,356.12, its best day since April 2025. The Nasdaq, which has many tech firms, gained 1.44% to 25,736.51.\nCNBC said two things helped. Democrats did well in the midterm elections, and the price of US crude oil fell more than 8% to $88.12 a barrel. Cheaper oil can ease inflation, which is the rate prices rise.\nThe jump came after a bumpy few days. On 29 October, tech shares were sold off and the Nasdaq had its worst day since June.",
-    "why": "Share prices reflect how confident investors feel about the economy."
+    "headline": "US stock market has its worst day in months, with the S&P 500 down 4.36%",
+    "body": "The US stock market had a bad day on Thursday 5 November. The S&P 500, which tracks 500 of America's biggest companies, closed down 4.36% at 7,353.73. The Dow, another well-known measure, fell 3.44% to 51,523.06. The Nasdaq, which has many technology firms, fell 5.52% to 24,315.00.\nThe Nasdaq is now more than 10% below its record from last month. Traders call that a correction. Every part of the S&P 500 fell, with technology down the most.\nInvestors are worried that political changes after the midterm elections could slow the building of data centres that power artificial intelligence. Shares in chip makers Nvidia and Qualcomm each dropped more than 9%. The falls undid the previous day's big gains.",
+    "why": "If shares stay low, people's pensions and savings could be worth less."
    },
    {
-    "headline": "US share prices go up after elections and cheaper oil",
-    "body": "Share prices in the United States went up a lot on Wednesday 4 November, the last day the market was open. The S&P 500 index, which follows 500 big US firms, rose 1.58% to 7,688.62. The Dow Jones index rose 3.03% to 53,356.12, its best day since April 2025. The Nasdaq, which is full of tech firms, rose 1.44% to 25,736.51.\nCNBC said investors liked two things. Democrats did well in the midterm elections. Also, oil got cheaper. US crude fell more than 8% to $88.12 a barrel. Cheaper oil can mean cheaper fuel and lower costs for firms.\nThe rise followed a bad patch. On 29 October, investors sold many tech shares, and the Nasdaq had its worst day since June.",
-    "why": "Prices in the stock market can affect people's pensions and savings."
+    "headline": "American shares fall sharply, led by technology companies",
+    "body": "Share prices in the United States fell a lot on Thursday 5 November. A share is a small part of a company that you can buy. The S&P 500, a list of 500 big American companies, fell by 4.36%. It ended the day at 7,353.73. Another list, the Dow, fell 3.44%. The Nasdaq, full of tech companies, fell 5.52%.\nThe Nasdaq is now more than 10% lower than its best level last month. People who follow the markets call this a correction.\nWhy did it happen? Some investors worry that new political leaders in America might slow down the building of big computer centres used for artificial intelligence. Two chip firms, Nvidia and Qualcomm, each lost more than 9% of their value. One of them also said its next results may be weak.",
+    "why": "Many people's pensions are invested in shares, so big falls can matter to them."
    },
    {
-    "headline": "US shares rise sharply after elections and cheaper oil",
-    "body": "Share prices in the United States rose sharply on Wednesday 4 November, the latest day the market was open. The S&P 500, which follows 500 big companies, closed up 1.58% at 7,688.62. The Dow Jones rose 3.03% to 53,356.12, its best day since April 2025. The Nasdaq, full of tech firms, rose 1.44% to 25,736.51.\nCNBC said investors were pleased that the Democrats did well in the midterm elections. They also liked a big fall in the price of oil. US crude fell more than 8% to $88.12 a barrel, and cheaper oil can mean lower fuel costs.\nThe rise came after a bad few days for tech shares. On 29 October, investors sold many of them, and the Nasdaq had its worst day since June.",
-    "why": "Share prices affect many people's pensions and savings."
+    "headline": "Share prices in America dropped a lot on Thursday",
+    "body": "Share prices in America dropped on Thursday. A share is a tiny piece of a company. When many people sell their shares, prices fall. That happened on Thursday 5 November.\nThere are lists that follow the biggest companies. The S&P 500 list went down by about 4 out of every 100. The Dow list went down by about 3.4 out of 100. The Nasdaq list, which has lots of technology firms, went down by more than 5 out of 100. That is a big drop for one day.\nWhy? Some investors are worried about big computer centres for artificial intelligence, called AI. They think new election results might slow down the building of these centres. Two chip makers, Nvidia and Qualcomm, lost more than 9% of their value. Pension savings can go down when shares fall.",
+    "why": "Money saved for retirement is often invested in shares, so a drop can matter."
    },
    {
-    "headline": "US share prices jump as oil gets cheaper",
-    "body": "Share prices in the United States jumped on Wednesday 4 November, the latest day the market was open. A share is a small piece of a company. An index follows lots of shares together. The S&P 500 follows 500 big companies. It rose 1.58% to 7,688.62. The Dow Jones index rose 3.03% to 53,356.12. The Nasdaq rose 1.44% to 25,736.51.\nCNBC said investors were happy about two things. The Democrats did well in the elections held on 3 November. And oil, which is used to make petrol, became much cheaper. US oil fell by more than 8% to $88.12 a barrel.\nJust days before, tech companies' shares fell sharply. So this was a big bounce back.",
-    "why": "Many pensions and savings are tied to share prices."
+    "headline": "American company shares fell by a lot",
+    "body": "On Thursday, the price of shares in American companies fell a lot. A share is a small piece of a company. If you own one, you own a tiny part of that company. When lots of people want to sell, the price goes down.\nThe main list of 500 big companies fell by more than four in every hundred. The tech list fell by more than five in every hundred. It is as if a toy that cost 100 pounds suddenly cost 96.\nWhy did this happen? People who own shares got worried about companies that make computer brains, called AI. They are not sure if these companies will keep growing so fast. Two chip makers lost almost a tenth of their value in one day. Sometimes prices go back up, and sometimes they stay low.",
+    "why": "Many families save for the future by owning shares, so falls can worry them."
    },
    {
-    "headline": "Why share prices shot up in America",
-    "body": "Share prices in America went up a lot on Wednesday 4 November. A share is a tiny slice of a company. People buy and sell shares, and prices go up and down each day. An index is a score that follows many shares at once. The S&P 500 follows 500 big companies, and it went up 1.58%. The Dow Jones is another score, and it went up 3.03%. The Nasdaq went up 1.44%.\nWhy? Newspaper reports said investors liked the result of the elections, where the Democrats did well. They also liked that oil got cheaper. Oil is used to make petrol. The price of US oil dropped by more than 8%. When fuel costs less, shops and families can feel better about spending.",
-    "why": "Rising shares can lift pensions, but they can drop again quickly."
+    "headline": "Share prices in America fall as worries about technology grow",
+    "body": "Share prices in America fell sharply on Thursday 5 November. A share is a small part of a company that you can buy. The S&P 500, a list of 500 big American companies, fell by 4.36%. The Dow list fell by 3.44%, and the Nasdaq list fell by 5.52%.\nThe Nasdaq is now more than 10% below its highest level, set last month. Traders call that a correction. Every part of the S&P 500 fell, and technology fell the most.\nInvestors are worried that new political leaders might slow down the building of big computer centres for artificial intelligence. Two chip makers, Nvidia and Qualcomm, each lost more than 9% of their value. Many pensions hold shares, so a fall like this can matter to ordinary families.",
+    "why": "Pensions and savings are often invested in shares, so falls can matter."
    },
    {
-    "headline": "Share prices bounce up like a ball",
-    "body": "On Wednesday 4 November, share prices in America bounced up. A share is a tiny piece of a company, like owning one slice of a huge pizza. When lots of people want to buy, the price goes up. The big score that follows 500 large companies went up by about one and a half in every hundred. Another score, the Dow, went up by about three in every hundred.\nWhy did people want to buy? The grown-ups voted in elections, and many liked the result. Also, oil became cheaper. Oil is what makes petrol for cars. When petrol costs less, families have more money left over, a bit like when sweets in the school shop cost less.",
-    "why": "It shows how happy or worried grown-ups feel about money."
+    "headline": "Share prices in America dropped by a lot in one day",
+    "body": "On Thursday, the price of shares in American companies dropped a lot. A share is a tiny piece of a company. If many people want to sell, the price goes down.\nThe main list of 500 big companies went down by about four in every hundred. The list with lots of technology firms went down by more than five in every hundred. That is a big fall for just one day.\nSome people are worried about the big computer centres that run artificial intelligence, called AI. They think the building of them might slow down. Two chip firms, Nvidia and Qualcomm, lost almost a tenth of their value. Prices can go back up, but nobody knows when. Grown-ups who save for the future may feel worried.",
+    "why": "Savings for the future are often tied to share prices."
    },
    {
-    "headline": "Prices of company pieces went up in America",
-    "body": "On Wednesday, the price of little pieces of big American companies went up a lot. These pieces are called shares. Think of a share like a sticker you can swap. When lots of people want your sticker, it is worth more. That is what happened.\nGrown-ups in America had just voted in an election, and many were happy with how it turned out. Also, oil got cheaper. Oil makes petrol for cars. When it costs less, shops and families can keep more of their money.\nSo the main score for 500 big companies went up by about one and a half in every hundred. A second score went up by about three in every hundred. It is like finding extra sweets in your bag.",
-    "why": "It tells us grown-ups feel more hopeful about money."
+    "headline": "Prices of company shares went down a lot",
+    "body": "Do you remember swapping stickers in the playground? A sticker is worth more when everyone wants it. A share in a company works a bit like that. Lots of grown-ups buy and sell them.\nOn Thursday, many grown-ups in America wanted to sell their shares all at once. So the prices went down. The main score for 500 big companies dropped by about four in every hundred. Think of it like a sweet jar losing a few sweets.\nMost of the sellers owned shares in companies that make clever computers. They were worried that these companies might not grow as fast as hoped. Two of the companies lost almost one tenth of their value in a single day. Prices can go up again, but it can take time. Some people felt worried, and others stayed calm.",
+    "why": "It shows even grown-ups can feel worried about money."
    }
   ]
  },
  {
-  "id": "democrats-win-congress",
+  "id": "ai-selloff-hits-asia",
   "order": 3,
-  "topic": "Politics",
-  "region": "United States",
-  "source": "Euronews",
-  "url": "https://www.euronews.com/2026/11/04/democrats-set-to-seize-control-of-congress-after-long-night-for-republican-party",
-  "headline": "Democrats win control of US Congress in midterm rejection of Trump",
-  "terms": [
-   {
-    "term": "Midterm elections",
-    "meaning": "Elections held halfway through a US president's term to choose all House seats and about a third of the Senate."
-   },
-   {
-    "term": "Veto",
-    "meaning": "A president's power to block a bill passed by Congress."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Democrats win control of US Congress in midterm rejection of Trump",
-    "body": "Democrats have won control of the US Congress in the 3 November midterm elections, according to projections from CNBC and Euronews, though some counts were still changing. Euronews reported Democrats on 220 seats in the 435-seat House, with 218 needed; CNBC's Election Desk projected at least 250.\nDemocrats were projected to flip Senate seats in Iowa, Kansas, North Carolina, Ohio, South Carolina and Texas, and CNBC also named Maine. In Mississippi, Democrat Scott Colom led Republican Cindy Hyde-Smith by 65 votes with about 95% counted.\nA CNBC voter poll found nearly three in four voters said the Iran war was a crucial or major factor. Democrats plan to push a bill to undo Trump's tariffs and to vote again on ending the Iran war, but projections suggest they lack the numbers to override a presidential veto.",
-    "why": "Control of Congress changes what President Trump can pass on tariffs, spending and war powers."
-   },
-   {
-    "headline": "Democrats sweep Congress as voters punish Trump over Iran war and living costs",
-    "body": "Democrats have taken control of the US Congress in the 3 November midterms, according to CNBC and Euronews, although counting was continuing. Euronews put Democrats at 220 House seats, with 218 needed for a majority; CNBC projected at least 250.\nIn the Senate, Democrats were projected to flip Iowa, Kansas, North Carolina, Ohio, South Carolina and Texas, with Maine also named by CNBC. Mississippi was extremely close, with Democrat Scott Colom 65 votes ahead of Republican Cindy Hyde-Smith with around 95% counted.\nEuronews linked the result to anger over living costs, tariffs and the war with Iran. A CNBC poll found nearly three in four voters called the war a major factor. Democrats intend to move a bill to undo Trump's tariffs, but they are projected to fall short of a veto-proof majority.",
-    "why": "The result could reshape US trade policy and the future of the war with Iran."
-   },
-   {
-    "headline": "Democrats win Congress in the US midterm elections",
-    "body": "Democrats have won control of the US Congress in the midterm elections held on 3 November, according to CNBC and Euronews. Some votes were still being counted. Euronews said Democrats held 220 of the 435 House seats, where 218 are needed to win. CNBC projected at least 250.\nDemocrats were expected to take Senate seats from Republicans in six states, including Texas and Ohio. One Mississippi race was so close that Democrat Scott Colom led by only 65 votes.\nEuronews said voters were angry about rising living costs, tariffs and the war with Iran. A CNBC poll found nearly three in four voters said the war mattered a lot. Democrats want to cancel Trump's tariffs and end the war, but Trump can veto laws, and Democrats are projected to lack the numbers to overrule him.",
-    "why": "It limits how freely the president can act on taxes, trade and war."
-   },
-   {
-    "headline": "Democrats take control of Congress in US elections",
-    "body": "The Democratic Party has won control of the US Congress in elections held on 3 November, according to CNBC and Euronews. Counting was still going on in some places. The House of Representatives has 435 seats and a party needs 218 to win. Euronews said Democrats had 220, and CNBC projected at least 250.\nIn the Senate, Democrats were expected to take seats from Republicans in six states, including Texas and Ohio. One race in Mississippi was extremely close, with the Democrat ahead by just 65 votes.\nVoters said they were worried about high prices, tariffs and the war with Iran. Democrats say they will try to end the war and cancel Trump's tariffs. But the president can veto laws, and Democrats are not expected to have enough votes to overrule him.",
-    "why": "It changes how much power President Trump has at home."
-   },
-   {
-    "headline": "Democrats win control of the US Congress",
-    "body": "The Democratic Party has won control of Congress, the part of the US government that makes laws. The elections took place on 3 November. These are called midterms because they come halfway through a president's time in office. Some votes were still being counted.\nCongress has two parts. The House has 435 seats, and a party needs 218 to win. Euronews said the Democrats had 220. In the Senate, they were expected to take seats from Republicans in six states, including Texas and Ohio.\nNews reports said voters were upset about high prices, tariffs, and the war with Iran. The Democrats want to end the war and cancel the tariffs. But President Trump can say no to laws. This is called a veto, and the Democrats are not expected to have enough votes to overrule him.",
-    "why": "The president now has to deal with a Congress run by the other party."
-   },
-   {
-    "headline": "Democrats win control of Congress in US elections",
-    "body": "The Democratic Party has won control of the US Congress in elections held on 3 November, according to CNBC and Euronews. Some votes were still being counted. The House of Representatives has 435 seats and a party needs 218 to be in charge. Euronews said Democrats had 220, and CNBC projected at least 250.\nIn the Senate, Democrats were expected to take seats from Republicans in six states, including Texas and Ohio. One race in Mississippi was so close that the Democrat led by just 65 votes.\nVoters said they were upset about high prices, tariffs and the war with Iran. The Democrats want to end the war and cancel the tariffs, but the president can veto laws. Democrats are not expected to have enough votes to overrule him.",
-    "why": "It changes how much the president can do without the other party."
-   },
-   {
-    "headline": "Democrats win the US elections for Congress",
-    "body": "The Democrats have won control of Congress, which is the group that makes laws in the United States. The election was on 3 November. It is called a midterm because it comes halfway through the president's time in charge. Votes were still being counted in some places.\nThe House has 435 seats. A party needs 218 to be in charge. Euronews said Democrats had 220. In the Senate, the Democrats were expected to win seats from the Republicans in six states, such as Texas and Ohio.\nNews reports said many voters were upset about rising prices, taxes on imports called tariffs, and a war with Iran. The Democrats want to stop the war and the tariffs. But the president can block laws with a veto, and the Democrats are not expected to have enough votes to beat that.",
-    "why": "It could change US decisions on trade and war."
-   },
-   {
-    "headline": "Democrats win big in America's elections",
-    "body": "Voters in the United States have chosen the Democratic Party to run Congress. Congress is the group of people who make laws for the country. The vote was on 3 November. The president, Donald Trump, belongs to the Republican Party, so now the two sides are not on the same team.\nCongress has two halves, the House and the Senate. The Democrats won the House and were expected to win the Senate too. Some votes were still being counted.\nMany voters said they were upset about prices going up and about a war with Iran. The Democrats want to end the war. The president can still say no to new laws, and that is called a veto. The Democrats probably do not have enough votes to overrule him.",
-    "why": "It means the president can no longer do whatever he likes."
-   },
-   {
-    "headline": "The grown-ups in America pick a new team to lead Congress",
-    "body": "People in America have voted for who should make laws. The group that makes the laws is called Congress. Until now it was led by the Republican team. This week, voters chose the Democrat team to lead it instead.\nThink of it like picking captains at school. The president, Donald Trump, is on the Republican side. Now the other team is in charge of the law-making group. That means he has to work with them, or he cannot get things done.\nMany voters said they were upset that things in shops cost more, and that America is in a war with Iran. The new team says it wants to try to stop the war. The president can still say no to new rules, so there may be arguments.",
-    "why": "It shows that voters can change who is in charge by voting."
-   },
-   {
-    "headline": "The people of America vote for a new team",
-    "body": "Lots of grown-ups in America voted this week. They were choosing who should run the group that makes the rules for the whole country. That group is called Congress.\nBefore, one team ran it. Now a different team has won. It is a bit like when a new class captain is picked, and everyone has to listen to a new person in charge.\nThe president is the boss of the whole country, and he is on the old team. So now he has to talk with the new team if he wants things to change.\nMany people voted because things in the shops cost more than before. Some also wanted a war to stop. Now they wait to see what the new team does.",
-    "why": "Votes can change who makes the rules."
-   }
-  ]
- },
- {
-  "id": "uk-autumn-budget",
-  "order": 4,
-  "topic": "Economy",
-  "region": "United Kingdom",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
-  "headline": "Healey's Budget extends zero VAT on electricity, raises bank tax and fully funds defence plan",
-  "terms": [
-   {
-    "term": "Budget",
-    "meaning": "The government's yearly statement setting out taxes and spending."
-   },
-   {
-    "term": "OBR",
-    "meaning": "The Office for Budget Responsibility, the independent body that forecasts the UK economy and public finances."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Healey's Budget extends zero VAT on electricity, raises bank tax and fully funds defence plan",
-    "body": "Chancellor John Healey delivered the Autumn Budget on 28 October, with measures to cut energy costs, tax banks and raise defence spending, according to CNBC and GOV.UK.\nThe 0% VAT rate on domestic electricity is extended to July 2027, expected to cut about £50 from the April 2027 Ofgem price cap. A £100 Household Energy Payment, costing £2.6 billion, goes to households in council tax bands A to D in England from January 2027.\nThe Bank Corporation Tax Surcharge rises from 3% to 6% for 15 months from January 2027, raising £1.5 billion. The £15 billion Defence Investment Plan is fully funded, taking defence spending to 2.7% of GDP in 2027-28. The OBR raised its 2026 growth forecast to 1.2%. CNBC said the bank tax rise was milder than feared and London-listed lenders' shares rose.",
-    "why": "The Budget decides who pays and who benefits from government help with the cost of living."
-   },
-   {
-    "headline": "Budget: energy bill help, a bank tax rise and more money for defence",
-    "body": "Chancellor John Healey presented the Autumn Budget on 28 October, aiming to ease energy bills, tax banks and boost defence, according to CNBC and GOV.UK.\nZero VAT on domestic electricity is extended to July 2027, which should take roughly £50 off the April 2027 Ofgem price cap. Households in council tax bands A to D in England will get a £100 payment from January 2027, at a cost of £2.6 billion.\nBanks face a higher surcharge on corporation tax, rising from 3% to 6% for 15 months from January 2027, raising £1.5 billion. The £15 billion Defence Investment Plan is fully funded, lifting defence spending to 2.7% of GDP in 2027-28. The Office for Budget Responsibility now expects 1.2% growth in 2026. Bank shares rose because the tax rise was smaller than feared.",
-    "why": "It affects household bills and the cost of running the UK's banks and armed forces."
-   },
-   {
-    "headline": "Budget cuts energy costs, taxes banks and funds defence",
-    "body": "Chancellor John Healey delivered his Budget on 28 October, with help for energy bills, a higher tax on banks and more money for defence, according to CNBC and GOV.UK.\nThe zero rate of VAT on household electricity continues until July 2027, which should lower the April 2027 energy price cap by about £50. Households in council tax bands A to D in England will get £100 from January 2027.\nBanks will pay more tax. A surcharge on their profits rises from 3% to 6% for 15 months from January 2027, raising £1.5 billion. The government also fully funded its £15 billion defence plan, taking defence spending to 2.7% of the economy by 2027-28. The independent forecaster, the OBR, now expects the economy to grow 1.2% this year. Bank shares rose, as the tax rise was less than some had feared.",
-    "why": "Households and firms feel Budget choices in their bills and taxes."
-   },
-   {
-    "headline": "UK Budget: help with energy bills, and banks to pay more tax",
-    "body": "The Chancellor, John Healey, set out the government's Budget on 28 October. It included help with energy bills, a higher tax on banks, and more money for the armed forces.\nVAT on household electricity stays at zero until July 2027. That should cut around £50 from the April 2027 cap on energy prices. Some households, those in council tax bands A to D in England, will get £100 from January 2027.\nBanks will pay a higher surcharge on their profits, 6% instead of 3%, for 15 months from January 2027. This should raise £1.5 billion. The £15 billion plan for defence is now fully paid for, taking defence spending to 2.7% of the economy in 2027-28. The independent forecaster, the OBR, expects growth of 1.2% this year. Bank shares rose as the rise was milder than feared.",
-    "why": "It affects energy bills, bank profits and government priorities."
-   },
-   {
-    "headline": "Budget: smaller energy bills, higher bank taxes, more for defence",
-    "body": "The Chancellor, John Healey, told Parliament about the Budget on 28 October. A Budget is when the government says how it will raise and spend money.\nHouseholds will keep paying no VAT on electricity until July 2027. This should cut about £50 from energy bills in April 2027. Homes in council tax bands A to D in England will also get £100 from January 2027.\nBanks will pay more tax on their profits. The extra charge goes from 3% to 6% for 15 months, which should raise £1.5 billion. The government will also pay in full for its £15 billion plan for defence. Experts at the OBR, an independent body, think the economy will grow 1.2% this year. Bank shares went up because the rise was less than feared.",
-    "why": "Budgets decide who pays tax and where the money goes."
-   },
-   {
-    "headline": "Budget: help with energy bills, and banks to pay more tax",
-    "body": "The Chancellor, John Healey, set out the government's plans for money on 28 October. This yearly plan is called the Budget. It says how much tax people and firms will pay and what the government will spend.\nOne change keeps VAT, a tax on sales, at zero on household electricity until July 2027. This should take around £50 off the energy price cap in April 2027. Homes in council tax bands A to D in England will get £100 from January 2027.\nBanks will pay more tax on their profits. The extra charge goes from 3% to 6% for 15 months from January 2027, bringing in £1.5 billion. The government will also fully pay for its £15 billion defence plan. An independent group, the OBR, expects 1.2% growth this year.",
-    "why": "Budgets decide who pays tax and how help is given."
-   },
-   {
-    "headline": "The Budget: help with energy bills, and banks pay more tax",
-    "body": "The Chancellor, John Healey, shared the government's plans for money on 28 October. This yearly plan is called the Budget. It says what taxes will be and what the government will spend.\nOne plan keeps VAT, a sales tax, at zero on household electricity until July 2027. That should take around £50 off energy bills in April 2027. Homes in council tax bands A to D in England will get £100 from January 2027.\nBanks must pay more tax on their profits. The rate goes from 3% to 6% for 15 months, which will bring in £1.5 billion. The government will also pay fully for a £15 billion plan for the armed forces. An independent group called the OBR thinks the economy will grow 1.2% this year.",
-    "why": "It can make household bills lower and decide who pays more tax."
-   },
-   {
-    "headline": "How the government plans to spend and collect money",
-    "body": "The Chancellor is the person in charge of the country's money. His name is John Healey. On 28 October he gave out the Budget. A Budget is a plan for what the government will take in as tax and what it will spend.\nHere are three things. First, VAT, which is a tax added to prices, stays at zero on electricity at home until July 2027. That should cut about £50 from yearly energy bills. Second, some homes in England will get £100 from January 2027. Third, banks will pay more tax on their profits, 6% instead of 3%.\nThe government also said it would fully pay for its £15 billion plan for the army, navy and air force. Experts expect the economy to grow 1.2% this year.",
-    "why": "It shows how a government shares out the country's money."
-   },
-   {
-    "headline": "A plan for the country's money",
-    "body": "The government has a big plan each year for money. It is called the Budget. This year, the person in charge of money, John Healey, shared it on 28 October.\nThink of it like a family planning how to spend its money. First, they said electricity bills would stay a bit lower. They do this by not charging a tax called VAT on it until July 2027. Second, some homes in England will get £100 to help with bills. Third, banks will pay more tax on what they earn.\nThe government will also spend money on keeping the country safe, with its army, navy and air force. All this is meant to help families with prices, while still paying for the things the country needs.",
-    "why": "It affects how much families pay and what they get."
-   },
-   {
-    "headline": "The country makes a plan for money",
-    "body": "Once a year, the people who run the country make a plan for money. It is called the Budget. Think of it like planning how to use pocket money for the whole year.\nThis year, they decided some things. Electricity at home will cost a little less. Some families will get £100 to help pay for it. Banks, which are places that keep money, will pay more tax. Tax is money everybody pays to the country so it can do big jobs.\nThey also set aside money for the people who keep the country safe.\nThe plan is to help families with the cost of things, and still have enough for what the country needs.",
-    "why": "Tax pays for shared things like schools, hospitals and safety."
-   }
-  ]
- },
- {
-  "id": "uk-inflation-3-5",
-  "order": 5,
-  "topic": "Economy",
-  "region": "United Kingdom",
-  "source": "ONS",
-  "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026",
-  "headline": "UK inflation rises to 3.5% in September as fuel costs surge",
-  "terms": [
-   {
-    "term": "CPI",
-    "meaning": "The Consumer Prices Index, the main measure of how fast the prices of everyday goods and services are rising."
-   },
-   {
-    "term": "Core inflation",
-    "meaning": "Inflation leaving out energy, food, alcohol and tobacco, which can swing sharply."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "UK inflation rises to 3.5% in September as fuel costs surge",
-    "body": "UK consumer price inflation rose to 3.5% in the 12 months to September 2026, up from 3.1% in August, according to the Office for National Statistics. The figures were published on 21 October, and CNBC described the reading as hotter than expected, driven by the cost of motor fuels.\nCore CPI, which excludes energy, food, alcohol and tobacco, rose to 2.8% from 2.6% in August. Trading Economics put energy inflation at 17.9%, up from 13.8% the month before.\nCNBC said the figure cemented expectations that the Bank of England will raise interest rates, which it is due to decide on today. The next ONS inflation release is due on 18 November.",
-    "why": "Rising prices reduce what wages and savings can buy, and they drive Bank of England decisions."
-   },
-   {
-    "headline": "Inflation jumps to 3.5% as energy and fuel prices bite",
-    "body": "Inflation in the UK climbed to 3.5% in the year to September 2026 from 3.1% in August, the Office for National Statistics reported on 21 October. CNBC called it hotter than expected, blaming surging motor fuel costs.\nA measure of core inflation, which strips out energy, food, alcohol and tobacco, rose to 2.8% from 2.6%, suggesting price pressures were broadening a little beyond energy. Trading Economics reported energy inflation of 17.9%, against 13.8% in August.\nCNBC said the data cemented expectations of an interest rate rise by the Bank of England, whose decision is due today. The next set of figures from the ONS will be published on 18 November.",
-    "why": "Higher inflation squeezes household budgets and increases pressure on the Bank to act."
-   },
-   {
-    "headline": "UK inflation rises to 3.5% as fuel gets dearer",
-    "body": "The cost of living rose faster in the year to September. The Office for National Statistics said inflation was 3.5%, up from 3.1% in August. CNBC said the figure was higher than economists expected and was driven mostly by dearer petrol and diesel.\nA second measure, called core inflation, leaves out energy, food, alcohol and tobacco because their prices jump around. It also went up, to 2.8% from 2.6%. Trading Economics said energy prices were rising at 17.9% a year, faster than 13.8% the month before.\nThe numbers made an interest rate rise from the Bank of England more likely. It announces its decision today. The ONS will publish the next figures on 18 November.",
-    "why": "It means prices in shops and at the pump are rising faster than wages may be."
-   },
-   {
-    "headline": "UK inflation rises to 3.5% because of fuel costs",
-    "body": "Prices in the UK rose faster in September. The Office for National Statistics said inflation, the rate at which prices rise over a year, was 3.5%. In August it was 3.1%. CNBC said this was higher than expected and was mainly down to more costly petrol and diesel.\nA second measure, core inflation, leaves out energy, food, alcohol and tobacco, whose prices can swing a lot. It rose from 2.6% to 2.8%. One source said energy prices were up 17.9% over the year.\nThe rise made it more likely that the Bank of England will raise interest rates. It announces its decision today. The next official figures are due on 18 November.",
-    "why": "People's money buys less when prices rise faster."
-   },
-   {
-    "headline": "UK prices are rising faster, mainly because of fuel",
-    "body": "Prices in the UK went up faster in September. The Office for National Statistics, which counts these things, said inflation was 3.5% over the year. A month earlier it was 3.1%. Inflation means how fast prices rise. CNBC said the rise was bigger than experts expected, mostly because petrol and diesel cost more.\nThere is also a second count, called core inflation. It leaves out energy, food, alcohol and tobacco, because their prices jump about. That count went up too, from 2.6% to 2.8%.\nThis makes it more likely that the Bank of England will raise interest rates. It tells us its decision today. The next official count is on 18 November.",
-    "why": "Faster price rises mean money does not stretch as far."
-   },
-   {
-    "headline": "UK prices rise faster, mainly because of fuel",
-    "body": "Prices in the UK rose faster in the year to September. The Office for National Statistics, which counts these things, said inflation was 3.5%. A month earlier it was 3.1%. Inflation means how fast prices go up over a year. At 3.5%, something that cost £100 a year ago would now cost about £103.50.\nCNBC said the rise was bigger than experts expected, and that the main cause was more costly petrol and diesel.\nAnother count, called core inflation, leaves out energy, food, alcohol and tobacco, because their prices can jump about. It went up from 2.6% to 2.8%.\nThis makes it more likely that the Bank of England will raise interest rates, which it decides today.",
-    "why": "Faster price rises mean wages and savings buy less."
-   },
-   {
-    "headline": "UK prices rose faster in September",
-    "body": "Prices in the UK rose faster in the year to September. The Office for National Statistics, a group that counts things like prices, said inflation was 3.5%. A month earlier it was 3.1%. Inflation is how quickly prices go up. At 3.5%, something that cost £100 a year ago now costs about £103.50.\nThe main reason was fuel. Petrol and diesel cost more. CNBC said it was more than experts expected.\nThere is also a second count that leaves out energy, food, alcohol and tobacco. It rose from 2.6% to 2.8%.\nBecause of this, the Bank of England may raise interest rates, which it will decide today. The next count is on 18 November.",
-    "why": "It affects how far pocket money, wages and savings go."
-   },
-   {
-    "headline": "Why things cost more now",
-    "body": "Prices in the UK are going up faster. Grown-ups use the word inflation for this. The Office for National Statistics counts it every month. It said that in the year to September, prices went up by 3.5%. In August, they went up by 3.1%.\nHere is an example. A game that cost £100 last year would cost about £103.50 now. Not everything goes up the same amount.\nThe biggest cause was petrol and diesel, which cost much more. Experts at CNBC said the rise was bigger than they expected.\nWhen prices rise quickly, the Bank of England can raise interest rates to slow them down. It will say what it has chosen today.",
-    "why": "It helps explain why shopping and fuel feel more costly."
-   },
-   {
-    "headline": "Prices going up and up",
-    "body": "Prices in shops are going up. Grown-ups call it inflation. Last month they told us how fast it was happening. For one year, prices went up by 3.5%. The month before it was 3.1%.\nHere is an easy way to think of it. If a toy cost £100 last year, now it costs a bit over £103. That is not a lot, but it grows every year if wages do not grow too.\nThe biggest reason was that petrol and diesel cost more. They are what cars use.\nThere is a bank, called the Bank of England, that tries to keep prices steady. Today it decides what to do.",
-    "why": "It shows why money can buy a bit less than before."
-   },
-   {
-    "headline": "Some things cost a bit more",
-    "body": "Some things in shops cost more than they did last year. Grown-ups call this inflation. They checked how much more things cost. It was a bit more than before.\nIt is like the school tuck shop. Say a snack cost £1 last year. Now it costs a little over £1. If this happens to lots of things, your pocket money buys less.\nThe main reason this time was that petrol and diesel cost more. Petrol is what many cars drink.\nThere is a big bank, called the Bank of England. It tries to stop prices from rising too fast. Today it will decide what to do next.",
-    "why": "It explains why pocket money may buy less."
-   }
-  ]
- },
- {
-  "id": "us-strikes-iran-qeshm",
-  "order": 6,
-  "topic": "Politics",
-  "region": "Middle East",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
-  "headline": "US reportedly strikes Iran's Qeshm Island as Vance says diplomacy remains possible",
-  "terms": [
-   {
-    "term": "Strait of Hormuz",
-    "meaning": "A narrow sea passage between Iran and Oman through which a large share of the world's oil is shipped."
-   },
-   {
-    "term": "Mediator",
-    "meaning": "A neutral country or person who helps two sides talk and reach agreement."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "US reportedly strikes Iran's Qeshm Island as Vance says diplomacy remains possible",
-    "body": "The United States reportedly struck Iran's Qeshm Island on Monday 2 November, while both sides said talks were still alive, according to CNBC and Euronews. A US official told MS Now it was a defensive measure after Iranians used surface-to-air missiles against US assets. CENTCOM issued no formal statement, and no Iranian official formally confirmed a direct attack.\nVice President JD Vance said Washington had set no deadline for a deal and was hopeful of a negotiated settlement, though Trump keeps military options open. Qatar and Pakistan are mediating, and Qatar said proposals were being exchanged and it still saw hope.\nIran says its conditions for reopening the Strait of Hormuz must be met first, with nuclear talks only afterwards. Parliament speaker Ghalibaf warned of a new battlefield in the war. Diplomacy has repeatedly broken down earlier this year.",
-    "why": "The war has pushed up fuel prices worldwide and shaped the US midterm vote."
-   },
-   {
-    "headline": "US strike on Iranian island clouds hopes of a deal",
-    "body": "The US reportedly carried out strikes on Iran's Qeshm Island on Monday 2 November, as mediators worked on a deal, CNBC and Euronews reported. A US official called it a defensive measure after Iranians fired surface-to-air missiles at US assets. There was no formal statement from CENTCOM and no formal Iranian confirmation.\nVice President JD Vance said there is no deadline for a peace deal and that Washington hopes for a negotiated settlement, while Trump keeps military options. Qatar and Pakistan are mediating, and Qatar said there was still hope as proposals were exchanged.\nIran insists the Strait of Hormuz will reopen only on its terms, with nuclear talks to follow. Parliament speaker Ghalibaf warned of a new battlefield. Talks have collapsed several times before this year.",
-    "why": "The outcome affects oil prices, inflation and global security."
-   },
-   {
-    "headline": "US reportedly hits Iranian island while talks continue",
-    "body": "The United States reportedly struck Iran's Qeshm Island on Monday 2 November while peace talks were going on, CNBC and Euronews said. A US official told MS Now that it was defensive, after Iranians used missiles against US forces. The US military has not confirmed it, and Iran has not formally confirmed an attack.\nVice President JD Vance said America has no deadline for a deal and hopes for an agreement through talks, though President Trump still has military choices. Qatar and Pakistan are acting as go-betweens. Qatar said it still saw hope.\nIran says the Strait of Hormuz, a key shipping route for oil, will reopen only once its conditions are met, with nuclear talks after that. A senior Iranian politician warned of a new battlefield. Past rounds of talks this year have failed.",
-    "why": "It affects fuel prices and the risk of a wider war."
-   },
-   {
-    "headline": "US reportedly strikes an Iranian island as talks go on",
-    "body": "The US reportedly attacked Iran's Qeshm Island on Monday 2 November while talks to end the war were still going on, CNBC and Euronews reported. A US official said it was to defend US forces after Iran fired missiles. The US military has not confirmed it, and Iran has not formally confirmed it either.\nVice President JD Vance said the US has set no deadline for a peace deal and hopes to settle by talking. Qatar and Pakistan are helping the two sides talk. Qatar said there was still hope.\nIran says it will reopen the Strait of Hormuz, a sea route used to ship oil, only when its demands are met. It says talks on its nuclear work can only start after that. Earlier talks this year have broken down.",
-    "why": "The war affects oil prices and the cost of living around the world."
-   },
-   {
-    "headline": "US reportedly hits Iranian island as talks to end war continue",
-    "body": "The US reportedly hit an Iranian island called Qeshm on Monday 2 November. News reports from CNBC and Euronews say talks to end the war are still going on. A US official said the strike was to defend US forces after Iran fired missiles at them. The US military has not confirmed it, and Iran has not either.\nVice President JD Vance said there is no deadline for a deal and that the US hopes to settle by talking. Two countries, Qatar and Pakistan, are acting as go-betweens.\nIran says it will open the Strait of Hormuz, a narrow sea route that carries a lot of the world's oil, only if its demands are met first. It says talks about its nuclear work come later. Earlier talks this year have failed.",
-    "why": "Oil prices and the cost of living depend on this."
-   },
-   {
-    "headline": "US reportedly hits an Iranian island as talks go on",
-    "body": "The United States reportedly attacked an Iranian island called Qeshm on Monday 2 November while talks to end the war were still going on, CNBC and Euronews said. A US official said it was to defend American forces after Iran fired missiles at them. Neither the US military nor Iran has formally confirmed it.\nVice President JD Vance said the US has set no deadline for a deal and hopes to settle things by talking. Two other countries, Qatar and Pakistan, are helping the sides to talk.\nIran says it will reopen the Strait of Hormuz, a narrow sea route that carries much of the world's oil, only when its demands are met. It says talks about its nuclear work can only come after that.",
-    "why": "It affects oil prices and the chance of a wider war."
-   },
-   {
-    "headline": "The US reportedly attacks an Iranian island while talks go on",
-    "body": "The US reportedly attacked an island belonging to Iran on Monday 2 November. The island is called Qeshm. News reports say the countries are still talking to try to end the war. A US official said the attack was meant to protect US soldiers after Iran fired missiles. Neither the US army nor Iran has said formally that it happened.\nVice President JD Vance said there is no deadline for a deal. He hopes the sides can agree by talking. Two other countries, Qatar and Pakistan, are helping them talk.\nIran controls a narrow sea route called the Strait of Hormuz, which a lot of the world's oil passes through. Iran says it will open it only if its demands are met first. Talks have failed before this year.",
-    "why": "It affects the price of petrol and the risk of a bigger war."
-   },
-   {
-    "headline": "The war with Iran: an attack, and some hope",
-    "body": "The United States and Iran have been in a war for months. On Monday 2 November, news reports said the US attacked an Iranian island called Qeshm. A US official said it was to protect US soldiers. Nobody official has fully confirmed it.\nBut people are also still talking. Two other countries, Qatar and Pakistan, are helping the two sides to talk, like friends who step in when two children are arguing. Vice President JD Vance said the US wants to settle by talking.\nA big problem is a narrow sea route called the Strait of Hormuz. A lot of the world's oil goes through it. Iran says it will open it only if the US meets its demands. This is one reason that petrol costs more.",
-    "why": "The war affects the price of fuel for everyone."
-   },
-   {
-    "headline": "Two countries in a war, and some friends trying to help",
-    "body": "The United States and a country called Iran have been fighting a war. This week there was more fighting. The US reportedly attacked an island belonging to Iran. Iran has not said whether it is true.\nAt the same time, two other countries, Qatar and Pakistan, are trying to help. They are like two friends who step in when two other friends are having a big argument. They carry messages between them so that they can find a way to stop.\nIran also controls a narrow sea road where ships carry lots of oil. Oil is what makes petrol. Iran says it will open the road only if the US does what it asks. That is why petrol costs more now.",
-    "why": "It shows why far-away wars can change prices at home."
-   },
-   {
-    "headline": "Two grown-up countries arguing, and friends trying to help",
-    "body": "Two countries, the United States and Iran, are in a big fight. It is called a war, and it has been going on for some time. This week there was more trouble. The United States reportedly attacked an island that belongs to Iran.\nBut two other countries, Qatar and Pakistan, are trying to help them stop. It is like when a teacher asks two friends to say sorry and make up.\nIran is in charge of a narrow sea road that ships use to carry oil. Oil is used to make petrol for cars. Iran says it will open the road when the US agrees to its rules.\nSo far, they have not agreed.",
-    "why": "Wars can make things more costly for everyone."
-   }
-  ]
- },
- {
-  "id": "parliament-renovation-warning",
-  "order": 7,
-  "topic": "Politics",
-  "region": "United Kingdom",
-  "source": "Euronews",
-  "url": "https://www.euronews.com/2026/11/04/uk-parliament-risks-catastrophic-failure-after-renovation-delay",
-  "headline": "MPs warn Parliament risks 'catastrophic failure' as restoration delay adds £420m a year",
-  "terms": [
-   {
-    "term": "Decant",
-    "meaning": "Moving MPs and peers out of the Palace of Westminster so repair work can be done."
-   },
-   {
-    "term": "Public accounts committee",
-    "meaning": "A cross-party group of MPs that examines how public money is spent."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "MPs warn Parliament risks 'catastrophic failure' as restoration delay adds £420m a year",
-    "body": "MPs on Parliament's public accounts committee warned on Wednesday 4 November that the continuing delay to restoring the Palace of Westminster puts it at risk of a major failure, according to Euronews. The committee chair cited a risk that the chamber could be plunged into darkness during the State Opening of Parliament.\nEach year of delay adds about £420 million to the lifetime cost of the scheme. A June 2026 National Audit Office update gave a range of £320 million to £420 million a year.\nThe building suffers from crumbling masonry, ageing electrics, frequent leaks and high levels of asbestos. The delay stems from MPs failing to agree how to proceed. Parliamentarians voted in 2018 to move out for repairs. A full decant would cost up to £15.6 billion and take between 19 and 24 years. Both houses are expected to vote on a plan later this year.",
-    "why": "Delay is raising the bill for taxpayers and the risk to the home of UK democracy."
-   },
-   {
-    "headline": "Westminster restoration delays risk 'catastrophic failure', MPs say",
-    "body": "A committee of MPs has warned that repeated delays to repairing the Palace of Westminster risk a catastrophic failure, Euronews reported on 4 November. The chair of the public accounts committee said the chamber could be plunged into darkness during the State Opening of Parliament.\nEvery year without a decision adds about £420 million to the long-term cost, according to the committee. A National Audit Office update in June estimated £320 million to £420 million per year.\nThe building has crumbling stonework, ageing electrics, leaks and high asbestos levels. MPs voted in 2018 to leave the building for repairs but have not agreed how. A full decant would cost up to £15.6 billion and take 19 to 24 years. Both Houses are due to vote on a plan later this year.",
-    "why": "The cost keeps rising while the building keeps ageing."
-   },
-   {
-    "headline": "MPs warn Parliament building could fail without repairs",
-    "body": "A group of MPs warned on Wednesday 4 November that the Houses of Parliament could suffer a catastrophic failure because repairs keep being put off, Euronews reported. The chair of the public accounts committee said the main chamber might be plunged into darkness during the State Opening of Parliament.\nThey said each year of delay adds about £420 million to the total cost. The National Audit Office put the extra cost at between £320 million and £420 million a year.\nThe old building has crumbling stone, old wiring, leaks and a lot of asbestos. MPs voted in 2018 to move out so work could begin, but they have not agreed how. Moving everyone out fully could cost up to £15.6 billion and take up to 24 years. Votes are expected later this year.",
-    "why": "Putting off repairs makes them more costly and more risky."
-   },
-   {
-    "headline": "MPs warn Parliament could suffer 'catastrophic failure'",
-    "body": "MPs have warned that the Houses of Parliament risks a major breakdown because repairs keep being delayed, Euronews reported on 4 November. The chair of a committee of MPs said the main chamber could lose its lights during the State Opening of Parliament, when the King opens a new session.\nThe committee said every year of delay adds about £420 million to the total bill. The National Audit Office thinks it is between £320 million and £420 million.\nThe building has crumbling stonework, old electrics, leaks and lots of asbestos. MPs voted in 2018 to move out so repairs could happen, but they have not agreed a plan. A full move could cost up to £15.6 billion and take 19 to 24 years. Both Houses should vote later this year.",
-    "why": "It affects the cost to taxpayers and the safety of the building."
-   },
-   {
-    "headline": "MPs warn Parliament's old building could fail",
-    "body": "A group of MPs has warned that the Houses of Parliament could break down badly because repairs keep being put off. Euronews reported this on 4 November. The chair of the group said the main room might go dark during a big ceremony called the State Opening of Parliament.\nThe group said each year of delay adds around £420 million to the total cost. An official spending watchdog, the National Audit Office, said it was between £320 million and £420 million.\nThe old building has crumbling stone, worn-out wiring, leaks and a lot of asbestos, a harmful material. In 2018 MPs voted to move out so builders could fix it, but they have not agreed how. Moving fully out could cost up to £15.6 billion. MPs and peers should vote later this year.",
-    "why": "Taxpayers pay more for every year of delay."
-   },
-   {
-    "headline": "MPs warn that Parliament's old building could break down",
-    "body": "Some MPs have warned that the Houses of Parliament could break down badly because repairs keep being put off, Euronews reported on 4 November. The chair of a group of MPs said the main chamber might lose its lights during the State Opening of Parliament, a big ceremony that begins a new session.\nThe group said each year of delay adds about £420 million to the total cost. A spending watchdog, the National Audit Office, gave a range of £320 million to £420 million.\nThe building has crumbling stone, old wiring, leaks and lots of asbestos, a harmful material. MPs voted in 2018 to move out so repairs could start but have not agreed how. Moving out fully could cost up to £15.6 billion and take up to 24 years.",
-    "why": "Delays cost taxpayers more every year."
-   },
-   {
-    "headline": "MPs say Parliament's old building could break down",
-    "body": "Some MPs are worried about the building where they work. It is the Houses of Parliament in London. It is very old. Euronews reported on 4 November that the MPs warned it could suffer a serious breakdown because repairs keep being put off.\nOne of them said the lights might even go out during a big ceremony that opens each new session of Parliament.\nThe building has crumbling stone, old wires, leaks and a lot of asbestos, which can harm people. MPs voted in 2018 to move out so builders could fix it. But they have not agreed how to do it.\nEach year of waiting adds about £420 million to the cost. A full move might cost up to £15.6 billion. Votes are due later this year.",
-    "why": "The longer the wait, the more everyone pays."
-   },
-   {
-    "headline": "The Houses of Parliament need urgent repairs",
-    "body": "The Houses of Parliament in London is where MPs meet to make laws. It is very old, and it is falling apart. On 4 November, some MPs said it could break down badly if it is not repaired soon. They said even the lights might go out on a big day when a new session of Parliament starts.\nThe building has crumbling stone, old wires, leaks and a lot of asbestos, which can make people ill.\nIn 2018 MPs agreed to move out so builders could do the work. But they still have not agreed on how. Each year of waiting costs about £420 million more. That money comes from taxpayers, which means all of us. A full move could cost up to £15.6 billion.",
-    "why": "Taxpayer money is being used up while MPs argue."
-   },
-   {
-    "headline": "The old Parliament building is in trouble",
-    "body": "The Houses of Parliament is a huge old building in London where grown-ups called MPs meet to make rules for the country. It is falling apart. MPs said this week that something bad could happen if it is not mended soon.\nThink of an old house with leaky pipes, wobbly wires and crumbling walls. It needs lots of work. In 2018 the MPs agreed they should move out so builders could fix it. But they still argue about how to do it.\nEvery year they wait, it costs about £420 million more. That is paid for with taxes, which is money we all give to the country. Fixing it all might cost over £15 billion.",
-    "why": "Waiting makes the repair bill bigger for everyone."
-   },
-   {
-    "headline": "The old building where the rule-makers work needs mending",
-    "body": "In London there is a very old building where grown-ups meet to make rules for the country. It is called the Houses of Parliament. It is falling apart. It has crumbling stone, leaky roofs and wires that are very old.\nIt is a bit like a school building that has not been fixed for years. Some of the grown-ups who work there said this week that something bad could happen if nobody fixes it soon. Even the lights might go out.\nThe grown-ups agreed years ago that it had to be fixed. But they cannot agree how. Every year they wait, the bill grows by lots of money.",
-    "why": "The longer you wait to fix something, the more it costs."
-   }
-  ]
- },
- {
-  "id": "palestine-action-supreme-court",
-  "order": 8,
-  "topic": "Politics",
-  "region": "United Kingdom",
-  "source": "Euronews",
-  "url": "https://www.euronews.com/2026/11/04/uk-supreme-court-to-hear-appeal-against-ban-on-palestine-action-group",
-  "headline": "Supreme Court hears appeal against Palestine Action ban as police make arrests outside",
-  "terms": [
-   {
-    "term": "Proscription",
-    "meaning": "A government ban that makes membership of, or support for, a group a crime."
-   },
-   {
-    "term": "Supreme Court",
-    "meaning": "The highest court in the UK for most cases."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Supreme Court hears appeal against Palestine Action ban as police make arrests outside",
-    "body": "The UK Supreme Court began hearing an appeal on Wednesday 4 November against the government's ban on Palestine Action, with the two-day hearing continuing on Thursday. Euronews reported that police arrested supporters of the group outside the court. No judgment has been given.\nThe appeal is brought by co-founder Huda Ammori. She was granted permission to challenge the ban on a narrow procedural ground, namely that the Home Office allegedly did not follow its own criteria.\nThe ban came into force on 5 July 2025 and makes membership or support of the group a criminal offence carrying up to 14 years in prison. The High Court found the proscription disproportionate in February, but the Court of Appeal reversed that in June. Euronews says charges linked to the ban could be affected if the appeal succeeds.",
-    "why": "The case tests how far the state can go in banning a protest group as terrorist."
-   },
-   {
-    "headline": "Palestine Action ban reaches the Supreme Court",
-    "body": "The Supreme Court began a two-day hearing on Wednesday 4 November on the appeal against the proscription of Palestine Action, Euronews reported. Police arrested supporters outside the court. There is no ruling yet.\nCo-founder Huda Ammori brings the appeal. She has permission to argue on a narrow procedural ground, that the Home Office allegedly did not follow its own criteria when it decided to ban the group.\nThe ban took effect on 5 July 2025. Support for the group is a criminal offence punishable by up to 14 years in prison. In February the High Court found the ban disproportionate, but in June the Court of Appeal ruled it was not unlawful. Euronews says charges linked to the ban could be affected if the appeal succeeds.",
-    "why": "The outcome could change how many people face prosecution."
-   },
-   {
-    "headline": "UK Supreme Court hears challenge to Palestine Action ban",
-    "body": "The UK Supreme Court started hearing an appeal on Wednesday 4 November against the ban on the group Palestine Action. Euronews said police arrested supporters outside the court. The hearing lasts two days, and there is no decision yet.\nThe appeal was brought by the group's co-founder, Huda Ammori. The court allowed her to argue one narrow point: that the Home Office did not follow its own rules when it banned the group.\nThe ban began on 5 July 2025. Being a member or supporting the group is a crime that can carry up to 14 years in prison. In February the High Court found the ban was disproportionate, but in June the Court of Appeal disagreed. If the appeal wins, charges linked to the ban could be affected.",
-    "why": "A ruling could affect people who have been arrested or charged."
-   },
-   {
-    "headline": "Supreme Court hears appeal over ban on Palestine Action",
-    "body": "The UK's highest court began hearing an appeal on Wednesday 4 November against the ban on the protest group Palestine Action. Euronews said police arrested supporters outside the court. The hearing lasts two days, and judges have not made a decision.\nThe appeal is brought by one of the group's founders, Huda Ammori. She can argue one narrow point: that the Home Office did not follow its own rules when it decided on the ban.\nThe ban began on 5 July 2025. Belonging to the group or backing it is a crime, with a maximum of 14 years in prison. The High Court said in February that the ban was too extreme, but the Court of Appeal disagreed in June. If the appeal wins, some charges might be affected.",
-    "why": "It tests the limits of the government's power to ban groups."
-   },
-   {
-    "headline": "UK's top court hears case about banning Palestine Action",
-    "body": "The UK's highest court, the Supreme Court, began hearing a case on Wednesday 4 November. It is about a ban on a group called Palestine Action. Police arrested some of its supporters outside the court. The hearing lasts two days. Judges have not decided yet.\nOne of the group's founders, Huda Ammori, is asking the court to cancel the ban. She can argue one narrow point: that the Home Office did not follow its own rules when it made the ban.\nThe ban began on 5 July 2025. Being in the group or backing it is a crime, and it can mean up to 14 years in prison. A lower court said in February the ban went too far, but another court said in June it was lawful. If she wins, some charges might change.",
-    "why": "The decision may affect many people and the rules for banning groups."
-   },
-   {
-    "headline": "UK's top court hears case about a banned group",
-    "body": "The UK's highest court, the Supreme Court, began hearing a case on Wednesday 4 November about the ban on Palestine Action. Police arrested some of the group's supporters outside the court. The hearing lasts two days, and the judges have not made a decision yet.\nOne of the group's founders, Huda Ammori, is asking the court to cancel the ban. She can argue one narrow point: that the Home Office did not follow its own rules when it made the ban.\nThe ban began on 5 July 2025. Being a member or backing the group is a crime, and it can bring up to 14 years in prison. The High Court said in February that the ban was disproportionate, but the Court of Appeal disagreed in June.",
-    "why": "The ruling could affect people charged under the ban."
-   },
-   {
-    "headline": "The UK's top court hears a case about a banned group",
-    "body": "The Supreme Court is the highest court in the UK. On Wednesday 4 November it began a two-day case about a group called Palestine Action. The government banned the group in July 2025. Police arrested some of its supporters outside the court this week. The judges have not decided yet.\nOne of the group's founders, Huda Ammori, is asking the court to cancel the ban. She says the Home Office did not follow its own rules. That is the only point the court is hearing.\nBeing in the group or backing it is a crime, with up to 14 years in prison. One court said in February the ban was too strong. Another court said in June it was lawful. This court has the final say.",
-    "why": "This is about how much power the government has to ban groups."
-   },
-   {
-    "headline": "A group's ban is being checked by the top court",
-    "body": "The highest court in the UK is looking at a case this week. It is about a group called Palestine Action. The government banned it in July 2025. That means that joining it, or saying you back it, is against the law.\nOne of its founders, Huda Ammori, says the ban was not done properly. She says the Home Office, the government team that decides on bans, did not follow its own rules. The judges will think about this. They have not said who is right yet.\nOther courts have disagreed. One said in February the ban was too much. Another said in June it was fine. Now the top court has the last word. Police also arrested some of the group's supporters outside the court.",
-    "why": "It decides if the government followed the rules when it banned a group."
-   },
-   {
-    "headline": "Judges check if a ban was fair",
-    "body": "Some very important judges are looking at a case this week. It is about a group called Palestine Action. The government decided the group is not allowed. This is called a ban.\nOne of the people who started the group says the government did not follow its own rules when it made the ban. The judges are listening to both sides. Think of it like a game where players argue about whether the referee got it right. The judges have not said who is right yet.\nOther judges have said different things before. This court is the last one, so what it says counts. Some people who support the group came to the court, and police took some of them away.",
-    "why": "It checks that the people in charge follow their own rules."
-   },
-   {
-    "headline": "Judges decide if a rule was fair",
-    "body": "Some very important judges are listening to people this week. The case is about a group that the government said is not allowed. The group is called Palestine Action.\nOne of the people who began the group says the government did not do things the right way. It is a bit like a teacher giving a punishment without following the school rules. The judges will decide if she is right.\nThey have not said who wins yet. These judges are the last ones to decide. Other judges said different things before.\nPolice also took away some people who came to the court to support the group.",
-    "why": "Rules are meant to be followed by everyone, even the government."
-   }
-  ]
- },
- {
-  "id": "oil-prices-fall",
-  "order": 9,
   "topic": "Economy",
   "region": "Global",
   "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-  "headline": "Oil prices fall for a second day on hopes of a diplomatic end to the Iran war",
+  "url": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+  "headline": "Tech sell-off wipes $1 trillion from the Magnificent 7 and spreads to Asian chip makers",
   "terms": [
    {
-    "term": "Brent crude",
-    "meaning": "The international benchmark price for oil, used to price much of the world's supply."
+    "term": "Magnificent 7",
+    "meaning": "A nickname for seven giant US technology companies whose shares have a big influence on the stock market."
    },
    {
-    "term": "WTI",
-    "meaning": "West Texas Intermediate, the main US benchmark price for oil."
+    "term": "Market value",
+    "meaning": "The total worth of a company's shares, found by multiplying the share price by the number of shares."
    }
   ],
   "levels": [
    {
-    "headline": "Oil prices fall for a second day on hopes of a diplomatic end to the Iran war",
-    "body": "Oil prices fell sharply in the first days of November as markets hoped for a diplomatic end to the US-Iran war, CNBC reported. Brent crude, the international benchmark, settled $8.66, or 7.63%, lower at $104.77 a barrel on Monday 2 November, then shed another $1.17 to $103.60 on Tuesday. US benchmark West Texas Intermediate lost 37 cents to $96.09 on Tuesday.\nOn Wednesday 4 November, as Democrats won big in the US midterms, WTI fell more than 8% to settle at $88.12 a barrel, according to CNBC's stock market coverage. Prices briefly rose on reports of a US strike on Iran's Qeshm Island.\nIran's Foreign Ministry spokesman said Tehran will not accept diplomacy based on coercion. Higher oil prices have fed into fuel costs and inflation in the UK, euro zone and elsewhere.",
-    "why": "Oil prices feed directly into petrol costs, energy bills and inflation."
+    "headline": "Tech sell-off wipes $1 trillion from the Magnificent 7 and spreads to Asian chip makers",
+    "body": "The sell-off in technology shares on Thursday 5 November wiped about $1 trillion from the combined value of the so-called Magnificent 7 giants, CNBC reported. Nvidia lost almost $450 billion in market value, and it and Qualcomm each fell more than 9%. The Nasdaq had its worst day since April 2025.\nQualcomm's weak forecast for the current quarter added to worries that spending on artificial intelligence data centres may slow. Top Democrats have called for limits on the AI building boom after the midterm elections, and one called for a national data centre moratorium.\nThe fall spread to Asia on Friday 6 November. SK Hynix fell more than 8% and Samsung Electronics lost about 7%. CNBC also reported that Japan's Nikkei 225 entered a bear market, and that Softbank and TSMC were among the shares to tumble.",
+    "why": "Chip makers sit at the heart of the AI boom, so their falls can spread across global markets."
    },
    {
-    "headline": "Crude slides as investors bet on a deal with Iran",
-    "body": "Crude oil fell sharply at the start of November on hopes of a diplomatic resolution to the Iran war, according to CNBC. Brent, the global benchmark, settled $8.66 lower, a drop of 7.63%, at $104.77 a barrel on Monday 2 November, and dipped another $1.17 to $103.60 on Tuesday. West Texas Intermediate, the US benchmark, closed at $96.09 on Tuesday.\nOn Wednesday 4 November, WTI fell more than 8% to $88.12 as Democrats won the midterms, CNBC reported. Prices jumped briefly after reports of a US strike on Qeshm Island.\nIran's Foreign Ministry spokesman said Tehran would not accept diplomacy based on coercion. High oil prices have raised inflation and fuel costs in the UK and the euro zone.",
-    "why": "Falling crude could ease the inflation pressure on central banks and households."
+    "headline": "A $1 trillion loss for big tech as the AI sell-off reaches Asia",
+    "body": "The technology sell-off on Thursday 5 November cut about $1 trillion from the combined value of the Magnificent 7, the group of giant US tech firms. Nvidia alone lost almost $450 billion, and both Nvidia and Qualcomm dropped more than 9%. The Nasdaq had its worst day since April 2025.\nQualcomm gave a disappointing outlook, and investors fear less spending on AI data centres. After the midterms, senior Democrats called for tougher controls on the AI building boom, with one demanding a national moratorium on data centres.\nOn Friday 6 November the losses reached Asia. SK Hynix fell more than 8% and Samsung Electronics about 7%. Softbank and TSMC also dropped, and CNBC reported that Japan's Nikkei 225 had entered a bear market.",
+    "why": "A slowdown in AI spending would affect firms, jobs and markets around the world."
    },
    {
-    "headline": "Oil prices drop as markets hope the Iran war will end",
-    "body": "Oil prices dropped in early November as traders hoped for a peaceful end to the war between the US and Iran, CNBC reported. Brent crude, the global benchmark, fell 7.63% to $104.77 a barrel on Monday 2 November. On Tuesday it dipped to $103.60. The US benchmark, WTI, closed at $96.09 on Tuesday.\nOn Wednesday 4 November, WTI fell by more than 8% to $88.12 a barrel, as the Democrats won the US midterm elections. Prices rose briefly after reports of a US strike on an Iranian island.\nIran said it would not accept talks based on pressure. Expensive oil has pushed up petrol prices and inflation in the UK and the euro zone this autumn.",
-    "why": "Cheaper oil can mean lower petrol prices and slower price rises."
+    "headline": "Big tech loses $1 trillion in a day as the sell-off spreads to Asia",
+    "body": "Shares in the big American technology companies known as the Magnificent 7 lost about $1 trillion in value on Thursday 5 November. Chip maker Nvidia alone lost nearly $450 billion, and Nvidia and Qualcomm each fell more than 9%. The Nasdaq had its worst day since April 2025.\nInvestors are concerned that spending on artificial intelligence data centres could slow down. Qualcomm gave a weak forecast, and leading Democrats have called for limits on data centre building after their election wins.\nThe fall spread to Asia on Friday. South Korea's SK Hynix lost more than 8% and Samsung Electronics about 7%. Softbank and TSMC also fell, and Japan's Nikkei 225 index moved into a bear market, which means a fall of 20% or more from its high.",
+    "why": "The AI boom has driven many markets, so a wobble in it is felt worldwide."
    },
    {
-    "headline": "Oil gets cheaper as people hope for peace with Iran",
-    "body": "The price of oil fell in early November because people hoped the war between the US and Iran could end through talks, CNBC reported. Brent crude, a global price used for much of the world's oil, fell 7.63% to $104.77 a barrel on Monday 2 November. It was $103.60 on Tuesday. The US price, called WTI, was $96.09 on Tuesday.\nOn Wednesday 4 November, WTI fell by more than 8% to $88.12 a barrel. This came as the Democrats won the US elections. Prices went up for a short time after reports of a US attack on an Iranian island.\nIran said it will not accept talks based on pressure. Expensive oil has pushed up petrol costs and prices in the UK and Europe.",
-    "why": "Oil is used to make petrol, so its price affects what we pay."
+    "headline": "Tech shares slide worldwide as US giants lose $1 trillion",
+    "body": "Some of the world's biggest technology companies lost a huge amount of value on Thursday 5 November. The group nicknamed the Magnificent 7 lost about $1 trillion in total. Chip maker Nvidia lost nearly $450 billion, and its shares fell more than 9%, as did Qualcomm's.\nThe cause was worry about whether spending on the data centres that run artificial intelligence will keep growing. Qualcomm gave a weak outlook, and some leading Democrats want to limit data centre building after the midterms.\nThe fall then reached Asia on Friday 6 November. SK Hynix dropped more than 8%, and Samsung lost about 7%. Softbank and TSMC also fell. Japan's main share index, the Nikkei 225, entered what traders call a bear market, meaning a fall of 20% or more.",
+    "why": "If AI spending slows, it could affect jobs and share prices in many countries."
    },
    {
-    "headline": "Oil prices fall because people hope for peace",
-    "body": "Oil got cheaper in early November. People who buy and sell oil hoped the war between the US and Iran might end through talks. CNBC reported that Brent crude, a main world price for oil, fell by 7.63% to $104.77 a barrel on Monday 2 November. On Tuesday it was $103.60. The main US price, called WTI, was $96.09 on Tuesday.\nOn Wednesday 4 November, the US price fell by more than 8% to $88.12 a barrel. This was the day the Democrats won the US elections. Prices rose for a short time after reports of a US attack on an Iranian island.\nIran said it will not talk if it is being forced. Expensive oil has made petrol and prices in shops rise in the UK and Europe.",
-    "why": "Cheaper oil may help bring down prices in shops."
+    "headline": "Big tech firms lose $1 trillion as share falls spread to Asia",
+    "body": "Big technology firms lost a huge amount of value on Thursday 5 November. Seven giant American companies, nicknamed the Magnificent 7, lost about $1 trillion between them. That is a very large sum. One chip firm, Nvidia, lost nearly $450 billion on its own. Its shares and those of Qualcomm each fell more than 9%.\nInvestors are worried that companies may spend less on the computer centres needed for artificial intelligence. After the election, some Democrats said there should be limits on building them.\nOn Friday the falls reached Asia. Shares in the Korean firms SK Hynix and Samsung dropped more than 8% and about 7%. Japan's main share index also entered a bear market, which means it has fallen by 20% or more.",
+    "why": "Many people around the world have savings linked to these firms."
    },
    {
-    "headline": "Oil gets cheaper as hopes of peace with Iran grow",
-    "body": "The price of oil fell in early November because people hoped the war between the US and Iran could end through talks, CNBC reported. Brent crude, a main world price for oil, fell 7.63% to $104.77 a barrel on Monday 2 November. On Tuesday it was $103.60. The main US price, called WTI, was $96.09 on Tuesday.\nOn Wednesday 4 November, WTI fell by more than 8% to $88.12 a barrel. That was the day Democrats won big in the US elections. Prices went up for a short time after reports of a US attack on an Iranian island.\nIran said it will not talk if it is being forced. Expensive oil has pushed up petrol costs and prices in shops across the UK and Europe.",
-    "why": "Oil prices affect petrol, bills and shop prices."
+    "headline": "Technology company shares fall in America and then in Asia",
+    "body": "On Thursday, shares in big technology companies fell a lot in America. Seven very large firms lost about $1 trillion in value together. That is a huge amount of money. One chip company, Nvidia, lost nearly $450 billion of it.\nChips are tiny parts inside computers and phones. They are also needed for artificial intelligence, or AI. Some investors now worry that firms will spend less on AI computer centres. One chip firm also said its next results might be weak.\nOn Friday, the falls spread to Asia. Shares in the Korean firms SK Hynix and Samsung fell by about 8% and 7%. In Japan, the main share index fell so far that it is now in what experts call a bear market. That means a drop of one fifth or more.",
+    "why": "Shares in tech firms are held in many pensions, so the falls can matter."
    },
    {
-    "headline": "Oil costs less after hopes of peace",
-    "body": "Oil is a thick liquid from under the ground. It is used to make petrol and diesel for cars. Its price changed a lot this week. A barrel is a unit used to count oil. At the start of November, a barrel of the main world oil cost about $104. That was lower than a few days before.\nIt fell because people hoped the war between the US and Iran might end. Many ships carry oil through the area where the war is happening. By Wednesday 4 November, the US price had dropped to $88.12 a barrel, more than 8% lower in one day.\nHigh oil prices have made petrol, and prices in shops, go up in the UK and Europe.",
-    "why": "Oil prices change the cost of petrol, heating and food."
+    "headline": "Tech firms lose a huge amount of money value in one day",
+    "body": "Some of the biggest tech companies in the world became worth much less on Thursday. Together, seven American firms lost about $1 trillion. Each has a value, which is the price of all its shares added together. One chip firm lost almost $450 billion.\nChips are tiny parts that make computers work. They are needed for AI, which is computer software that can do smart jobs. People are worried that firms may not spend as much on AI in future, so they sold their shares.\nOn Friday, the same thing happened in Asia. Two big Korean firms lost about 8% and 7% of their value. In Japan, a main list of shares fell by one fifth or more from its top. Experts call that a bear market. Prices might recover, but nobody knows when.",
+    "why": "It shows that things based on big hopes for AI can swing a lot."
    },
    {
-    "headline": "Why the price of oil dropped this week",
-    "body": "Oil is used to make petrol and diesel for cars and lorries. It is sold in barrels. Its price went down this week. On Wednesday 4 November, one barrel of the US kind cost $88.12. That was more than 8% less than the day before.\nWhy did it go down? People hoped a war between the US and Iran might end. When there is a war near where oil comes from, buyers worry there will not be enough, so the price goes up. When they feel better, the price falls.\nOil prices matter to families. When oil costs more, petrol costs more, and so do many things in shops, since lorries use fuel to deliver them.",
-    "why": "Oil prices touch almost everything we buy."
+    "headline": "Big technology firms lose a huge amount of value",
+    "body": "Some of the biggest technology companies in the world lost a lot of value on Thursday. Seven American firms, nicknamed the Magnificent 7, lost about $1 trillion together. That is a giant number. One chip firm, Nvidia, lost nearly $450 billion by itself.\nChips are tiny parts inside computers. They are needed for artificial intelligence, or AI. Investors worry that firms may spend less on AI computer centres, so they sold their shares.\nOn Friday the same thing happened in Asia. Two big Korean firms, SK Hynix and Samsung, lost about 8% and 7%. In Japan, the main share list fell into what experts call a bear market, a drop of one fifth or more. Prices could recover, but nobody can be sure.",
+    "why": "It shows how much the world's markets now depend on AI hopes."
    },
    {
-    "headline": "Why the cost of petrol can go up and down",
-    "body": "Cars and lorries need petrol or diesel to move. Both are made from oil. The price of oil changed a lot this week. It got cheaper.\nWhy? There is a war between the United States and Iran, in the part of the world where lots of oil comes from. When grown-ups worry that there will not be enough oil, the price goes up. This week they felt more hopeful that the war might end, so the price came down.\nOn Wednesday, a barrel of US oil cost about $88, which was lower than the day before.\nIt matters because lorries bring food to shops. If fuel costs less, things in shops may cost less too.",
-    "why": "It can change what families pay for fuel and food."
+    "headline": "Some very big computer companies became worth much less",
+    "body": "Some of the biggest companies in the world make things for computers. On Thursday, many people sold their shares in them, so they became worth less. Seven big firms lost about a trillion dollars. That is more than anyone can count on fingers and toes.\nWhy did they sell? The firms make tiny parts for clever computers called AI. People started to worry that the firms might not sell as many parts as they hoped. It is a bit like a sweet shop that thought everyone would buy lots of sweets, then found fewer children came.\nOn Friday, the same worry reached Asia, where other firms that make computer parts also lost value. This does not mean they will stay low. Prices go up and down all the time.",
+    "why": "It reminds us that prices can drop when people are unsure about the future."
    },
    {
-    "headline": "Why petrol can cost more or less",
-    "body": "Cars need petrol to go. Petrol comes from oil, which is a thick black liquid found under the ground. Its price goes up and down.\nThere is a war in a place where lots of oil comes from. When people worry about the war, oil costs more. It is like a sweet that everyone suddenly wants, so the shop raises the price. This week people felt more hopeful that the war might end. So the price of oil fell.\nWhen oil costs less, petrol can cost less too. Lorries that bring food to shops can save money. Then the food might cost a little less too.\nBut it can change again quickly.",
-    "why": "Prices for fuel and food depend on faraway events."
+    "headline": "A playground worry about computer companies",
+    "body": "Imagine everyone in the playground is excited about a new game. Lots of children trade stickers to get a part in it. The stickers become very valuable. Then one day some children say, maybe the game is not so good after all. Suddenly many of them want to sell their stickers at the same time.\nThat is a bit like what happened on Thursday. The stickers are shares in big computer companies. The new game is clever computer software called AI. Some grown-ups got worried the game might not grow as fast as hoped, so they sold. Seven companies lost a huge amount of value.\nOn Friday, children in other places, in Asia, got worried too, and their sticker prices fell. Prices can go up again, and often do.",
+    "why": "It is a reminder that excitement and worry can both change what things are worth."
    }
   ]
  },
  {
   "id": "eurozone-inflation-4",
-  "order": 10,
+  "order": 4,
   "topic": "Economy",
   "region": "Europe",
   "source": "CNBC",
   "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
-  "headline": "Euro zone inflation hits 4% for the first time in three years as ECB rate hike looms",
+  "headline": "Euro zone inflation hits 4% for the first time in three years, with an ECB rate rise looming",
   "terms": [
    {
     "term": "Euro zone",
@@ -658,125 +232,267 @@
   ],
   "levels": [
    {
-    "headline": "Euro zone inflation hits 4% for the first time in three years as ECB rate hike looms",
-    "body": "Euro zone inflation rose to 4% in the 12 months to October, up from 3.8% in September, according to the flash estimate released on 4 November. CNBC and Euronews said it is the highest reading since September 2023, when it was 4.3%.\nEnergy prices ran 20.8% above a year earlier, adding roughly 1.9 percentage points to the headline figure, with reporting linking this to the Iran war. Core inflation, which excludes energy, food, alcohol and tobacco, held at 2.5%.\nItaly's rate jumped to 5.6% from 4.2%, the largest rise, while Germany's fell to 2.8%, mainly because of a fuel tax cut from 1 October.\nThe ECB held its deposit rate at 2.5% on 29 October after raising it in June and September. Markets see about an 84% chance of a quarter-point rise at the 16-17 December meeting.",
-    "why": "Higher euro zone inflation squeezes households and raises the chance of costlier borrowing across Europe."
+    "headline": "Euro zone inflation hits 4% for the first time in three years, with an ECB rate rise looming",
+    "body": "Euro zone inflation rose to 4% in the 12 months to October, up from 3.8% in September, according to the flash estimate published on 4 November. It is the highest reading since September 2023, when it was 4.3%.\nEnergy prices were 20.8% higher than a year earlier, adding roughly 1.9 percentage points to the headline figure. Reporting linked this to the Iran war. Core inflation, which leaves out energy, food, alcohol and tobacco, held at 2.5%. Italy's rate jumped to 5.6% from 4.2%, while Germany's fell to 2.8%, mainly because of a fuel tax cut from 1 October.\nThe European Central Bank held its deposit rate at 2.5% on 29 October, after raising it in June and September. Markets see about an 84% chance of a quarter-point rise at its meeting on 16 and 17 December.",
+    "why": "Higher inflation squeezes households and raises the chance of costlier borrowing across Europe."
    },
    {
-    "headline": "Euro zone inflation reaches 4%, a three-year high",
-    "body": "Inflation across the euro zone climbed to 4% in October from 3.8% in September, according to the flash estimate published on 4 November. CNBC and Euronews described it as the highest since September 2023.\nEnergy was the main driver: prices were 20.8% higher than a year ago, contributing about 1.9 percentage points. Reporting tied this to the Iran war. Core inflation was unchanged at 2.5%, matching forecasts.\nCountries differed. Italy's rate leapt to 5.6% from 4.2%, whereas Germany's eased to 2.8% thanks to a fuel tax cut that began on 1 October.\nThe ECB kept its deposit rate at 2.5% on 29 October after rises in June and September. Markets price around an 84% chance of another quarter-point rise at its 16-17 December meeting.",
-    "why": "It makes further ECB rate rises more likely."
+    "headline": "Euro zone inflation reaches 4%, highest in three years",
+    "body": "Inflation across the euro zone rose to 4% in October from 3.8% in September, a first estimate showed on 4 November. That is the highest since September 2023.\nThe main cause was energy, which cost 20.8% more than a year before and added about 1.9 percentage points to the total. Reports tied this to the war involving Iran. Core inflation, which excludes energy, food, alcohol and tobacco, stayed at 2.5%. Italy saw the biggest rise, from 4.2% to 5.6%, whereas Germany's rate fell to 2.8% helped by a cut in fuel tax.\nThe European Central Bank kept its deposit rate at 2.5% on 29 October after rises in June and September. Traders think there is about an 84% chance it will raise rates by a quarter point at the 16 and 17 December meeting.",
+    "why": "It could mean dearer loans for families and firms across Europe."
    },
    {
-    "headline": "Inflation in the euro zone hits 4%, its highest in three years",
-    "body": "Prices in the euro zone rose 4% in the year to October, up from 3.8% in September, according to an early estimate on 4 November. CNBC and Euronews said it is the highest rate since September 2023.\nThe main cause was energy, which cost 20.8% more than a year before. Reports link this to the war with Iran. A second measure, which leaves out energy, food, alcohol and tobacco, stayed at 2.5%.\nRates differed by country. In Italy prices rose 5.6%, up from 4.2%. In Germany the rate fell to 2.8%, helped by a cut in fuel tax from 1 October.\nThe European Central Bank left its interest rate at 2.5% on 29 October. Markets think there is about an 84% chance it will raise it in December.",
-    "why": "Higher prices hit household budgets across Europe."
+    "headline": "Prices rise faster in the euro zone: inflation hits 4%",
+    "body": "Prices in the countries that use the euro rose 4% in the year to October, faster than the 3.8% in September. A first estimate on 4 November showed it was the highest figure in three years.\nEnergy was the main reason. Energy costs were 20.8% higher than a year ago, linked in reports to the Iran war. Prices excluding energy, food, alcohol and tobacco rose 2.5%, the same as before. Italy's inflation jumped to 5.6%, while Germany's dropped to 2.8% after a cut in fuel tax.\nThe European Central Bank, which sets interest rates for the euro zone, held its rate at 2.5% on 29 October. Financial markets now think it is about 84% likely to raise rates by a quarter point in December.",
+    "why": "Higher prices and borrowing costs would be felt by households across the euro area."
    },
    {
-    "headline": "Euro zone prices rise 4%, the fastest in three years",
-    "body": "Prices in the countries that use the euro rose by 4% in the year to October. In September the rise was 3.8%. An early estimate on 4 November showed it. CNBC and Euronews said this is the fastest since September 2023.\nEnergy was the main cause. It cost 20.8% more than a year before, and reports link this to the war with Iran. A second measure, which leaves out energy, food, alcohol and tobacco, stayed at 2.5%.\nPlaces differ. In Italy prices went up 5.6%, compared with 4.2% before. In Germany the rise slowed to 2.8%, helped by a cut in fuel tax.\nThe European Central Bank kept its interest rate at 2.5% on 29 October. Many traders expect a rise in December.",
-    "why": "Families in Europe are paying more for everyday things."
+    "headline": "Inflation in the euro zone climbs to 4%, a three-year high",
+    "body": "Prices across the euro zone are rising faster. Inflation reached 4% in the year to October, compared with 3.8% in September. It is the highest in three years, according to a first estimate published on 4 November.\nThe biggest factor was the cost of energy, which was 20.8% higher than a year earlier. Reports connected that with the war involving Iran. Excluding energy, food, alcohol and tobacco, prices rose 2.5%. Italy's rate jumped to 5.6%, but Germany's fell to 2.8% because the government cut fuel tax.\nThe European Central Bank kept its main rate at 2.5% on 29 October. Traders think there is an 84% chance it will raise the rate by a quarter of a point in December, to help slow price rises.",
+    "why": "People in Europe may find shopping and borrowing costs rising."
    },
    {
-    "headline": "Prices in the euro zone are rising at their fastest for three years",
-    "body": "Prices in the euro zone went up by 4% in the year to October. The euro zone is the group of countries that use the euro for money. In September, prices went up by 3.8%. Reports on 4 November said this is the fastest rise since September 2023.\nThe biggest cause was energy. It cost 20.8% more than a year before. Reports link this to the war with Iran. Another count, which leaves out energy and food, stayed at 2.5%.\nIt was not the same everywhere. In Italy prices rose 5.6%. In Germany they rose 2.8%, helped by a cut in fuel tax.\nThe European Central Bank sets interest rates for the euro zone. It kept its rate at 2.5% on 29 October. Many people expect a rise in December.",
-    "why": "Faster price rises can lead to higher interest rates."
+    "headline": "Prices in countries using the euro are rising faster",
+    "body": "Prices in the countries that share the euro are going up faster. This is called inflation. In the year to October, prices rose by 4%. In September it was 3.8%. This is the highest it has been for three years.\nThe main reason is energy. It cost more than a fifth more than a year ago. Reports link this to the war involving Iran. If you leave out energy, food, alcohol and tobacco, prices rose 2.5%. In Italy prices rose 5.6%, but in Germany only 2.8%, partly because Germany cut a fuel tax.\nThe European Central Bank looks after interest rates for these countries. It left the rate at 2.5% last month, but traders think it may raise it in December.",
+    "why": "It means everyday things cost more, and loans could cost more too."
    },
    {
-    "headline": "Prices in the euro zone rise at their fastest in three years",
-    "body": "Prices in the euro zone rose by 4% in the year to October. The euro zone is the group of countries that use the euro for money. In September prices rose by 3.8%. CNBC and Euronews said 4% is the fastest rise since September 2023.\nThe main cause was energy, which cost 20.8% more than a year before. Reports link that to the war with Iran. Another count, which leaves out energy and food, stayed at 2.5%.\nThings were not the same in each country. In Italy prices rose 5.6%, while in Germany they rose 2.8%, helped by a cut in fuel tax.\nThe European Central Bank sets interest rates for the euro zone. It kept its rate at 2.5% on 29 October. Many people expect a rise in December.",
-    "why": "Faster price rises can lead to higher interest rates."
+    "headline": "Prices are rising faster in Europe",
+    "body": "In many European countries, people pay in euros. Prices there are going up faster. This is called inflation. In the year to October, prices rose by 4%. It was 3.8% the month before. This is the highest in three years.\nThe main reason is that energy costs a lot more. It was about a fifth dearer than a year ago. People link this to a war in the Middle East. In Italy, prices rose 5.6%. In Germany they rose 2.8%, because the country cut a tax on fuel.\nThe European Central Bank sets the main interest rate for these countries. It kept the rate at 2.5% last month. But traders think it may raise it in December to slow prices down.",
+    "why": "Families may pay more for food, fuel and loans."
    },
    {
-    "headline": "Prices in Europe are going up at the fastest speed in three years",
-    "body": "Prices in the countries that use the euro went up by 4% in the year to October. A month before, it was 3.8%. Reports on 4 November said this is the fastest in three years. Prices going up like this is called inflation.\nEnergy cost much more, 20.8% more than a year ago. Reports link this to the war with Iran. Energy means things like petrol and gas.\nIt was not the same in every country. In Italy prices went up 5.6%. In Germany it was 2.8%, because the government cut a tax on fuel.\nThe European Central Bank decides interest rates for these countries. It kept its rate at 2.5% on 29 October. Many people think it will raise the rate in December.",
-    "why": "It makes shopping and heating cost more for many families."
+    "headline": "Shop prices go up faster across Europe",
+    "body": "Many countries in Europe share the same money, the euro. Prices in those countries are going up faster now. When prices rise, we call it inflation. Over the last year, prices went up by 4 out of every 100. A month before, it was 3.8. This is the highest it has been in three years.\nA big reason is energy, like fuel for cars and gas for heating. It costs about a fifth more than last year. People link this to fighting in the Middle East. In Italy, prices went up by 5.6. In Germany, it was 2.8, because Germany cut a fuel tax.\nThe bank that looks after the euro may raise its interest rate in December. That would make borrowing cost more.",
+    "why": "Families in Europe may have less money left after paying bills."
    },
    {
-    "headline": "Why things cost more in Europe",
-    "body": "In many countries in Europe, things cost more than a year ago. They use the euro for money. Grown-ups call this inflation. This month, they said prices were up by 4% over the year. That is the biggest rise in three years.\nHere is what that means. A bag of shopping that cost 100 euros last year now costs about 104.\nThe biggest reason was energy, like petrol and gas, which cost about a fifth more. Reports say the war with Iran is part of the reason.\nA bank called the European Central Bank can raise interest rates to slow prices. Many people think it will do this in December.",
-    "why": "It explains why families may feel poorer."
+    "headline": "Prices in euro countries rise faster than they have for three years",
+    "body": "Prices in the countries that use the euro are rising faster. We call this inflation. In the year to October, prices went up by 4%. A month earlier it was 3.8%. It is the highest figure for three years.\nThe main reason is energy, such as fuel and gas. It costs about a fifth more than a year ago, and reports link this to the war involving Iran. In Italy prices rose 5.6%. In Germany they rose only 2.8%, partly because Germany cut a fuel tax.\nThe European Central Bank sets the main interest rate for these countries. It left the rate at 2.5% last month, but traders think it may raise it in December to slow price rises. That would make borrowing dearer.",
+    "why": "Families in Europe could pay more for shopping and for loans."
    },
    {
-    "headline": "Prices going up in lots of countries",
-    "body": "In many countries in Europe, shop prices are going up. They use money called the euro. Grown-ups checked how much more things cost than last year. It was 4% more. That is more than at any time in three years.\nImagine a pack of stickers that cost 100 pence last year. Now it costs 104 pence. That is a small rise, but it happens to lots of things at once.\nThe biggest cause was that petrol and gas cost more. A war far away is part of the reason.\nThere is a big bank for these countries. It can change a rate that makes borrowing cost more, so prices stop rising so fast.",
-    "why": "It shows prices can rise in many places at once."
+    "headline": "Things cost more in Europe than a year ago",
+    "body": "Lots of countries in Europe use the same money, called the euro. In these countries, things are costing more than they did a year ago. On average, prices are up by 4 pounds in every 100 pounds. That is the biggest rise for three years.\nWhy is this happening? Energy, like fuel and gas, costs about a fifth more than before. People say this is because of a war far away. In Italy prices rose even more, by 5.6 in every 100. In Germany it was 2.8, since Germany took some tax off fuel.\nA bank in charge of the euro could now make borrowing cost more. It does this to slow price rises. It will decide in December.",
+    "why": "Your family's money can buy less when prices go up."
    },
    {
-    "headline": "Things cost a bit more in lots of countries",
-    "body": "In many countries in Europe, things in the shops cost more than before. This has happened over the last year. Grown-ups worked it out and said things cost 4% more than a year ago.\nThink of the school tuck shop. If a snack cost 100 pence last year, now it costs 104 pence. It is only a little more, but it happens to lots of things.\nThe main reason is that petrol and gas cost more. There is a war far away that is making them dearer.\nThere is a big bank that helps keep prices steady. It might change something in December to help.",
-    "why": "Prices change when the cost of fuel changes."
+    "headline": "Prices in Europe go up faster, like sweets getting more expensive",
+    "body": "Imagine your favourite sweet cost 100 pence last year. This year it costs 104 pence. That is what 4% means. It may not sound like a lot. But when lots of things cost more, pocket money does not stretch as far.\nThis is happening in countries in Europe that share the euro. The biggest reason is the cost of energy, like fuel and gas. It costs about a fifth more than last year. This is because of fighting in the Middle East. In Italy, things cost 5.6% more. In Germany, only 2.8% more.\nA big bank may make borrowing cost more in December. Then people buy less, and prices may stop rising so fast.",
+    "why": "It means pocket money, and grown-ups' pay, buys a little less."
    }
   ]
  },
  {
-  "id": "ukraine-zaporizhzhia-strike",
-  "order": 11,
+  "id": "palestine-action-supreme-court",
+  "order": 5,
   "topic": "Politics",
-  "region": "Europe",
+  "region": "United Kingdom",
   "source": "Euronews",
-  "url": "https://www.euronews.com/2026/11/02/hopes-of-progress-toward-peace-knocked-by-deadly-russian-attack-on-zaporizhzhia-zelenskyy-",
-  "headline": "Deadly Russian strike on Zaporizhzhia overshadows US-mediated talks planned in Abu Dhabi",
+  "url": "https://www.euronews.com/2026/11/04/uk-supreme-court-to-hear-appeal-against-ban-on-palestine-action-group",
+  "headline": "Supreme Court hears two-day appeal against the Palestine Action ban as police arrest supporters outside",
   "terms": [
    {
-    "term": "Double-tap strike",
-    "meaning": "An attack that hits a place twice, the second time as rescuers and survivors gather."
+    "term": "Proscription",
+    "meaning": "A government ban that makes membership of, or support for, a group a crime."
    },
    {
-    "term": "Truce",
-    "meaning": "An agreement to stop fighting for a short time."
+    "term": "Supreme Court",
+    "meaning": "The highest court in the UK for most cases."
    }
   ],
   "levels": [
    {
-    "headline": "Deadly Russian strike on Zaporizhzhia overshadows US-mediated talks planned in Abu Dhabi",
-    "body": "A Russian aerial bomb attack on the Zaporizhzhia region killed at least 24 people on 2 November, according to Ukraine's emergency service, and later regional counts were higher. Euronews reported regional authorities putting the toll at 29, so the exact figure is provisional. Governor Ivan Fedorov described a double-tap strike on a shelter where people were taking cover.\nPresident Zelenskyy said the attack dampened hopes of progress toward peace after a localised truce last week. Kremlin spokesman Dmitry Peskov did not deny the accusations and called the practice normal in such situations.\nUS envoy Steve Witkoff said the US will mediate working-level talks between Ukraine and Russia on 10-11 November in Abu Dhabi. Earlier rounds in February produced a prisoner swap but no breakthrough, and Russia presses Ukraine to leave Donbas, which Kyiv rejects.",
-    "why": "The attack tests whether peace talks can move forward."
+    "headline": "Supreme Court hears two-day appeal against the Palestine Action ban as police arrest supporters outside",
+    "body": "The UK Supreme Court heard a two-day appeal on Wednesday 4 and Thursday 5 November against the government's ban on Palestine Action. No judgment has been given, and Euronews found no date for one.\nThe challenge is brought by co-founder Huda Ammori, who was granted permission to appeal on a narrow procedural ground: that the Home Office did not follow its own criteria. The High Court ruled in Ammori's favour in February, but the Court of Appeal later found the ban was not unlawful. She has said she would go to the European Court of Human Rights if she loses.\nPolice said 25 people were detained outside the court on 4 November on suspicion of supporting a proscribed organisation under the Terrorism Act, with more arrests expected. Supporting the group is a criminal offence, and the outcome could affect charges brought under the ban.",
+    "why": "The case tests how far the state can go in banning a protest group as terrorist."
    },
    {
-    "headline": "Russian strike kills dozens in Zaporizhzhia days before new peace talks",
-    "body": "A Russian air attack on the Zaporizhzhia region killed at least 24 people on 2 November, Ukraine's emergency service said. Euronews reported regional authorities later put the toll at 29, so the figure is provisional. Governor Ivan Fedorov described a double-tap strike on a shelter.\nPresident Zelenskyy said the attack hurt hopes of progress toward peace after a local truce last week. Kremlin spokesman Dmitry Peskov did not deny the accusations and called the practice completely normal in such situations.\nUS envoy Steve Witkoff said the US will mediate working-level talks between Ukraine and Russia in Abu Dhabi on 10-11 November. A February round there led to a prisoner swap but no breakthrough. Russia wants Ukraine to leave Donbas, which Kyiv says it will never accept.",
-    "why": "It shows how fragile hopes of peace in Ukraine remain."
+    "headline": "Palestine Action ban reaches the Supreme Court, with arrests outside",
+    "body": "The Supreme Court in London heard the appeal against the proscription of Palestine Action on Wednesday 4 and Thursday 5 November. Judges have not yet ruled, and no date for a ruling has been reported.\nCo-founder Huda Ammori brings the case on a narrow procedural ground, arguing that the Home Office failed to follow its own criteria. The High Court agreed with her in February, but the government appealed and the Court of Appeal decided the ban was not unlawful. Ammori says she would take the case to the European Court of Human Rights if necessary.\nPolice detained 25 people outside the court on 4 November on suspicion of supporting a banned group under the Terrorism Act, and said more arrests were likely. The result could affect people already charged.",
+    "why": "It could decide whether people can still be prosecuted for supporting the group."
    },
    {
-    "headline": "Russian bomb attack kills many in Zaporizhzhia ahead of peace talks",
-    "body": "A Russian bomb attack on the Zaporizhzhia region of Ukraine killed at least 24 people on 2 November, Ukraine's emergency service said. Euronews said local officials later reported 29 dead, so the number is not final. The regional governor, Ivan Fedorov, said a second bomb hit a shelter where people were hiding after the first.\nPresident Zelenskyy said the attack damaged hopes of peace after a short local truce last week. A Kremlin spokesman, Dmitry Peskov, did not deny the accusations and called the practice normal in such situations.\nThe US plans to host talks between Ukraine and Russia in Abu Dhabi on 10-11 November. Talks there in February led to a prisoner swap but no peace deal. Russia wants Ukraine to leave the Donbas region, and Ukraine refuses.",
-    "why": "It could make a peace deal harder to reach."
+    "headline": "Supreme Court hears challenge to Palestine Action ban",
+    "body": "The UK's Supreme Court has spent two days, 4 and 5 November, hearing an appeal against the ban on the protest group Palestine Action. The judges have not yet announced a decision.\nThe appeal is led by the group's co-founder, Huda Ammori. She argues on a narrow point: that the Home Office did not follow its own rules when it decided to ban the group. The High Court agreed with her in February, but the Court of Appeal later said the ban was lawful. If she loses, she has said she will go to the European Court of Human Rights.\nOutside the court, police arrested supporters. They said 25 people were detained on 4 November on suspicion of backing a banned group, and more arrests were expected. Supporting the group is a crime under the Terrorism Act.",
+    "why": "It matters for protest rights and for people facing charges over the ban."
    },
    {
-    "headline": "Deadly Russian attack on Zaporizhzhia before planned peace talks",
-    "body": "A Russian bomb attack on the Zaporizhzhia region of Ukraine killed at least 24 people on 2 November, Ukraine's emergency service said. Local officials later said 29, so the number may change. The regional governor, Ivan Fedorov, said a second bomb hit a shelter where people had gone to hide after the first.\nPresident Zelenskyy said the attack damaged hopes of peace. A short local truce had been agreed the week before. A Kremlin spokesman, Dmitry Peskov, did not deny the claims and called the practice normal in such situations.\nThe US plans to host talks between Ukraine and Russia in Abu Dhabi on 10-11 November. Talks there in February led to a swap of prisoners but no peace deal. Russia wants Ukraine to leave the Donbas area. Ukraine says it never will.",
-    "why": "Peace talks matter to Ukrainians and to Europe's security."
+    "headline": "UK's highest court hears appeal over the Palestine Action ban",
+    "body": "The UK's highest court, the Supreme Court, has heard an appeal against the government's ban on Palestine Action. The hearing ran for two days, on 4 and 5 November, and the judges have not yet decided.\nThe case is brought by the group's co-founder, Huda Ammori. She says the Home Office did not follow its own criteria when it banned the group, which counts as a terrorist organisation in law. A lower court agreed with her in February. But the Court of Appeal disagreed, so the ban stayed. She says she would take the case to a European court if she loses.\nPolice detained 25 people outside the court on 4 November on suspicion of supporting a banned group, and more arrests were expected. Backing a banned group is a crime.",
+    "why": "The decision could change how the government is able to ban groups."
    },
    {
-    "headline": "Russia attacks a Ukrainian region before peace talks",
-    "body": "A Russian bomb attack on the Zaporizhzhia region of Ukraine killed at least 24 people on 2 November, Ukraine's emergency service said. Local officials later said 29 people died, so the number may change. The governor, Ivan Fedorov, said a second bomb fell on a shelter where people had gone to hide after the first.\nPresident Zelenskyy said the attack hurt hopes of peace. A short truce in the area had been agreed the week before. A Kremlin spokesman, Dmitry Peskov, did not deny the claims and said such things were normal in this kind of situation.\nThe United States will host talks between Ukraine and Russia on 10-11 November in the city of Abu Dhabi. Earlier talks in February only led to a swap of prisoners. Russia wants Ukraine to give up the Donbas area. Ukraine says no.",
-    "why": "It shows how hard it is to end the war."
+    "headline": "The Supreme Court has heard an appeal about banning Palestine Action",
+    "body": "The Supreme Court is the top court in the UK. This week it heard a case about a ban on a group called Palestine Action. The hearing lasted two days, 4 and 5 November. The judges have not said yet what they have decided.\nThe government banned the group by calling it a terrorist group. This is called proscription. It means that being a member or supporting the group is a crime. Huda Ammori, who helped start the group, says the government did not follow its own rules when it made the ban. One court agreed with her in February, but a higher one did not.\nPolice arrested supporters outside the court. They said 25 people were held on 4 November, and they expected more arrests.",
+    "why": "It shows how courts check what the government is allowed to ban."
    },
    {
-    "headline": "Russian bombs hit a Ukrainian region before peace talks",
-    "body": "Russia and Ukraine have been at war for years. On 2 November, Russian bombs hit a part of Ukraine called Zaporizhzhia. At least 24 people died, according to Ukraine's emergency service, and local officials later said 29. The number may change. The governor said a second bomb fell on a shelter where people had gone to hide after the first.\nPresident Zelenskyy said the attack hurt hopes of peace. A short truce in the area had been agreed the week before. A Kremlin spokesman, Dmitry Peskov, did not deny the claims.\nThe United States plans to help host talks between Ukraine and Russia on 10 and 11 November in Abu Dhabi. Talks there in February led to a swap of prisoners, but not to peace.",
-    "why": "Peace depends on whether these talks can make progress."
+    "headline": "Top UK court hears case on a banned protest group",
+    "body": "The top court in the UK, the Supreme Court, held a hearing on 4 and 5 November. It was about a group called Palestine Action. The government has banned the group by saying it is a terrorist group. Under the ban, it is a crime to be a member or to show support.\nOne of the group's founders, Huda Ammori, says the ban was not done properly. She says the Home Office did not follow its own rules. A court agreed with her in February. Then a higher court said the ban was fine. So she went to the Supreme Court.\nThe judges have not yet said what they have decided. Outside the court, police arrested supporters. They said 25 people were held on 4 November, and more arrests were expected.",
+    "why": "Courts make sure that governments follow their own rules."
    },
    {
-    "headline": "Russia bombs part of Ukraine just before peace talks",
-    "body": "Russia has been at war with Ukraine for years. On 2 November, Russian bombs fell on a part of Ukraine called Zaporizhzhia. At least 24 people died, and local leaders later said 29. The number may change. The local governor said a second bomb fell on a shelter where people were hiding after the first.\nUkraine's president, Volodymyr Zelenskyy, said this hurt hopes for peace. A short break from the fighting in that area had been agreed the week before. A Russian spokesman did not deny what had happened.\nThe US plans to host talks between Ukraine and Russia on 10-11 November in Abu Dhabi. Talks there in February led to a swap of prisoners but no end to the war.",
-    "why": "People hope the talks will lead to peace."
+    "headline": "Judges hear a case about a banned group",
+    "body": "This week, the most senior judges in the UK heard a case. It was about a group called Palestine Action. The government banned the group. It said the group was terrorist. After the ban, it became a crime to be part of the group or to say you back it.\nA woman called Huda Ammori helped start the group. She says the government made a mistake in how it made the ban. She says it did not follow its own rules. Some judges agreed with her, and some did not. So the top court, the Supreme Court, had to listen on 4 and 5 November.\nThe judges have not decided yet. Outside, police arrested 25 people on 4 November for showing support.",
+    "why": "It decides whether the government followed fair rules when it banned a group."
    },
    {
-    "headline": "A sad attack in Ukraine before peace talks",
-    "body": "Russia and Ukraine have been at war for years. On 2 November, Russian bombs hit a part of Ukraine called Zaporizhzhia. At least 24 people died, and local leaders said later that it was 29. A second bomb fell on a shelter where people were hiding after the first. That is a very sad thing.\nA short pause in the fighting had been agreed the week before. Ukraine's president, Volodymyr Zelenskyy, said the attack hurt the hope for peace. A Russian spokesman did not deny what happened.\nThe United States plans to help the two sides talk on 10 and 11 November in a city called Abu Dhabi. People hope that talks can bring peace. Past talks only led to a swap of prisoners.",
-    "why": "Peace talks are hard when attacks continue."
+    "headline": "The UK's top court hears a case about a banned group",
+    "body": "The Supreme Court is the highest court in the UK. On 4 and 5 November it heard a case about a group called Palestine Action. The government banned the group by calling it a terrorist group. That means being a member, or showing support, is a crime.\nOne of the group's founders, Huda Ammori, says the ban was not done properly because the Home Office did not follow its own rules. One court agreed with her in February. A higher court did not, so she took the case to the Supreme Court.\nThe judges have not yet said what they have decided. Outside, police arrested 25 people on 4 November on suspicion of supporting a banned group, and said they expected more arrests.",
+    "why": "It tests whether the government followed fair rules when it banned a group."
    },
    {
-    "headline": "People in Ukraine hit by a sad attack",
-    "body": "Two countries, Russia and Ukraine, are in a war. This week, bombs from Russia fell on a part of Ukraine called Zaporizhzhia. Many people died. That is very sad. Some of them were hiding in a shelter, which is a safe place, when a second bomb hit.\nJust before that, the two sides had agreed to a short pause in the fighting. Ukraine's leader said the attack made it harder to find peace.\nThe United States wants to help the two sides talk again. They plan to meet on 10 and 11 November in a faraway city called Abu Dhabi. People hope the talks can end the war. Last time, the sides only swapped prisoners.",
-    "why": "Everyone hopes the war can end safely."
+    "headline": "Britain's top judges listen to a case about a banned group",
+    "body": "The most important judges in Britain have been listening to a case. It is about a group named Palestine Action. The government banned it because it said the group was too dangerous. When a group is banned, people can get in trouble for joining it or saying they support it.\nOne of the people who started the group says the ban is not fair. She says the government did not follow its own steps. Judges have not decided yet. They listened for two days, 4 and 5 November.\nOutside the building, police arrested 25 people on 4 November. They had signs or messages saying they backed the group. Nobody knows yet what the judges will say.",
+    "why": "It shows that even the government has to follow rules."
    },
    {
-    "headline": "A war and a hope for peace",
-    "body": "Two countries, Russia and Ukraine, have been fighting for a long time. This week, some bombs fell on a part of Ukraine and many people were hurt or died. That is very sad.\nJust before, the two sides had agreed to stop fighting for a little while in that area. The leader of Ukraine said the bombs made it harder to find peace.\nBut some other grown-ups want to help the two sides talk again. They plan a meeting on 10 and 11 November in a faraway city. It is like when a teacher asks two arguing children to sit down and talk.\nEveryone hopes that the talking will bring the fighting to an end.",
-    "why": "Talking is the way people hope to end a war."
+    "headline": "Grown-up judges listen to an argument about a ban",
+    "body": "Imagine a school has a rule saying a club is not allowed. Some children in the club say, the teachers did not follow the right steps to ban us. That is a bit like this story, but it is about the whole country.\nThe government banned a group called Palestine Action. After the ban, it became a crime to join it. One of the people who started the group says the ban was not done by the rules. So the top judges in the country listened to both sides on 4 and 5 November.\nThey have not said who is right yet. Outside the court, the police arrested 25 people. Judges will take time to think before they decide.",
+    "why": "It is about making sure everyone, even leaders, follows the rules."
+   }
+  ]
+ },
+ {
+  "id": "ukraine-russia-abu-dhabi-talks",
+  "order": 6,
+  "topic": "Politics",
+  "region": "Europe",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
+  "headline": "Ukraine, Russia and the US plan Abu Dhabi talks on 10 and 11 November as Russian strikes continue",
+  "terms": [
+   {
+    "term": "Ceasefire",
+    "meaning": "An agreement to stop fighting, either for a short time or permanently."
+   },
+   {
+    "term": "Prisoner swap",
+    "meaning": "An exchange of captured soldiers between two sides in a war."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Ukraine, Russia and the US plan Abu Dhabi talks on 10 and 11 November as Russian strikes continue",
+    "body": "Ukraine, Russia and the United States will hold talks in Abu Dhabi on 10 and 11 November, mediated by US officials. US envoy Steve Witkoff announced the meeting, and Zelenskyy, the Kremlin and Washington have all confirmed it. It would be the first three-way talks since February. The agenda is said to cover security arrangements and de-escalation.\nRussia's delegation is expected to be led by Putin aide Vladimir Medinsky, according to Kremlin spokesman Dmitry Peskov.\nStrikes are clouding the outlook. Zelenskyy said Russia launched 289 drones and 17 ballistic missiles overnight on 3 November, and he said more than 50 people were trapped under rubble after a strike on a school used as an aid centre. A short truce ended at the weekend. Earlier Abu Dhabi rounds in January and February produced a 314-prisoner swap but no deal on Donbas.",
+    "why": "The talks are the best current chance of reducing fighting, but heavy strikes make progress hard."
+   },
+   {
+    "headline": "US-mediated Ukraine-Russia talks set for Abu Dhabi as attacks go on",
+    "body": "A new round of talks between Ukraine and Russia, mediated by the United States, is planned for 10 and 11 November in Abu Dhabi. US envoy Steve Witkoff announced it, and Kyiv, Moscow and Washington have confirmed it. These would be the first talks involving all three since February, and are said to focus on security arrangements and de-escalation.\nMoscow's team is to be led by Putin aide Vladimir Medinsky. Meanwhile the fighting continues. Zelenskyy said Russia fired 289 drones and 17 ballistic missiles overnight on 3 November. More than 50 people were reported trapped under rubble after a strike on a school-turned-aid centre.\nA brief truce ended at the weekend. In earlier talks in January and February, the sides agreed a swap of 314 prisoners but not a settlement on the Donbas region.",
+    "why": "Any deal could affect European security, energy prices and the future of the war."
+   },
+   {
+    "headline": "Fresh Ukraine peace talks planned in Abu Dhabi despite heavy Russian strikes",
+    "body": "Ukraine and Russia are due to meet in Abu Dhabi on 10 and 11 November for talks mediated by the United States. US envoy Steve Witkoff announced the date. Ukraine, Russia and the US have all confirmed it. It will be the first meeting of the three sides since February, and it is expected to focus on security and on reducing the fighting.\nRussia's delegation will be led by Vladimir Medinsky, an aide to President Putin.\nBut the attacks have not stopped. Ukraine's president, Volodymyr Zelenskyy, said Russia sent 289 drones and 17 ballistic missiles in one night. He also said more than 50 people were trapped under a building hit in a strike on a school used as an aid centre. A short truce ended over the weekend. Earlier rounds led to a swap of 314 prisoners.",
+    "why": "Peace talks affect the safety of millions and the cost of energy across Europe."
+   },
+   {
+    "headline": "Ukraine and Russia to meet for US-led peace talks in Abu Dhabi",
+    "body": "Ukraine and Russia will send teams to Abu Dhabi on 10 and 11 November for talks led by the United States. The date was announced by US envoy Steve Witkoff, and all three sides have agreed to it. It is the first such meeting since February. The talks are meant to look at security arrangements and ways to cool the conflict.\nPresident Putin's aide, Vladimir Medinsky, will lead Russia's team.\nThe war goes on in the meantime. Ukraine's president, Volodymyr Zelenskyy, said Russia attacked in one night with 289 drones and 17 ballistic missiles. He also said that over 50 people were stuck under rubble after a strike on a school that was being used to give out aid. A short ceasefire ended at the weekend.",
+    "why": "Success or failure at the talks could shape the war and Europe's security."
+   },
+   {
+    "headline": "Ukraine and Russia are going to talk again, even as attacks continue",
+    "body": "Ukraine and Russia are going to meet in Abu Dhabi, a city in the United Arab Emirates, on 10 and 11 November. The United States will help to run the talks. It is the first time all three have met since February. They plan to talk about security and how to calm things down.\nThere is little sign the fighting has eased. Ukraine's president said Russia sent 289 drones and 17 big missiles in a single night. He also said more than 50 people were trapped under rubble after a strike on a school that was being used to hand out aid. A short pause in the fighting ended at the weekend.\nAt talks earlier this year, the two sides swapped 314 prisoners but did not agree on who should control the Donbas region.",
+    "why": "Talks are the main way the war could end, so what happens matters to many people."
+   },
+   {
+    "headline": "Peace talks on the war in Ukraine are planned for next week",
+    "body": "Teams from Ukraine, Russia and the United States will meet in Abu Dhabi on 10 and 11 November. They want to talk about the war in Ukraine. It is the first meeting of all three since February.\nA war is a long fight between countries. Peace talks are meetings where each side tries to agree on how to stop. At earlier talks this year, the two sides only agreed to swap 314 prisoners. They did not agree on who should control a region called Donbas.\nThe fighting has not stopped. Ukraine's president said Russia sent 289 drones and 17 missiles in one night. More than 50 people were trapped under rubble after one strike. A short pause in the fighting ended at the weekend. People hope the talks will help, but it is hard.",
+    "why": "If the talks work, fewer people could be hurt and prices of fuel might stop rising."
+   },
+   {
+    "headline": "Russia and Ukraine will talk about stopping the war",
+    "body": "Russia has been fighting Ukraine for a long time. Now both sides, with help from the United States, will meet in a city called Abu Dhabi. They will meet on 10 and 11 November. It is the first time all three have met since February. They will talk about how to be safer and how to calm things down.\nBut the fighting has not stopped. Ukraine said Russia sent 289 drones and 17 big missiles in one night. More than 50 people were stuck under rubble after a building was hit. It was a school that was used to give out help. A short pause in the fighting ended at the weekend.\nAt earlier meetings, both sides swapped 314 prisoners. They did not agree on everything.",
+    "why": "The talks could help keep people safe, if both sides agree."
+   },
+   {
+    "headline": "Ukraine and Russia will talk again about stopping the war",
+    "body": "Russia and Ukraine have been at war for a long time. Now teams from both countries, helped by the United States, will meet in Abu Dhabi on 10 and 11 November. It is the first time all three have met since February. They plan to talk about safety and how to calm the fighting.\nBut the attacks have not stopped. Ukraine's president said Russia sent 289 drones and 17 big missiles in one night. He also said more than 50 people were trapped under rubble after a school used for giving out aid was hit. A short pause in the fighting ended at the weekend.\nAt earlier talks, the two sides swapped 314 prisoners, but did not agree about the Donbas region.",
+    "why": "The talks are one way the war could eventually end."
+   },
+   {
+    "headline": "Countries will meet to talk about ending a war",
+    "body": "There is a war between two countries, Russia and Ukraine. A third country, the United States, is helping them to talk. They will meet in a city called Abu Dhabi on 10 and 11 November. Talking is how people try to stop fighting.\nBut the fighting is still happening. One night, Russia sent 289 flying machines called drones and 17 big missiles. Ukraine's leader said more than 50 people were stuck under rubble. A school had been turned into a place that gave out help, and it was hit.\nAt earlier meetings this year, they swapped 314 captured soldiers so they could go home. But they did not agree on who should own some land. People hope next week's talks will help.",
+    "why": "People hope that talking will lead to fewer people getting hurt."
+   },
+   {
+    "headline": "Grown-ups plan to talk about ending a big fight",
+    "body": "Think about two children who keep arguing in the playground. A teacher helps them sit down and talk. That is a bit like what is happening with two countries, Russia and Ukraine. Another country, the United States, is the helper.\nThey will sit down on 10 and 11 November in a city far away called Abu Dhabi. They want to talk about how to be safe and calm down.\nBut the fighting has not stopped, and many people have been hurt. Ukraine said that more than 50 people were stuck under rubble after a building was hit. Talking does not always work the first time. Earlier this year they agreed to send some captured people home, but they did not agree on everything. People hope next week will be better.",
+    "why": "Talking is the best way to try to stop a fight."
+   }
+  ]
+ },
+ {
+  "id": "democrats-win-congress",
+  "order": 7,
+  "topic": "Politics",
+  "region": "United States",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/11/04/democrats-set-to-seize-control-of-congress-after-long-night-for-republican-party",
+  "headline": "Democrats projected to win control of Congress in the US midterm elections",
+  "terms": [
+   {
+    "term": "Midterm elections",
+    "meaning": "Elections held halfway through a US president's term to choose all House seats and about a third of the Senate."
+   },
+   {
+    "term": "Veto",
+    "meaning": "A president's power to block a bill passed by Congress."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Democrats projected to win control of Congress in the US midterm elections",
+    "body": "Democrats have been projected to win control of the US Congress in the 3 November midterm elections, according to CNBC and Euronews, although some counts were still changing. Euronews reported Democrats on 220 seats in the 435-seat House, with 218 needed. CNBC's Election Desk projected at least 250.\nDemocrats were projected to flip Senate seats in Iowa, Kansas, North Carolina, Ohio, South Carolina and Texas, and CNBC also named Maine. In Mississippi, Democrat Scott Colom led Republican Cindy Hyde-Smith by 65 votes with about 95% counted.\nA CNBC voter poll found nearly three in four voters said the Iran war was a crucial or major factor. Democrats plan to push a bill to undo President Trump's tariffs and to vote again on ending the Iran war. Projections suggest they lack the numbers to override a presidential veto. Some Democrats have also called for limits on AI data centres.",
+    "why": "Control of Congress changes what President Trump can pass on tariffs, spending and war powers."
+   },
+   {
+    "headline": "Democrats set to take Congress after midterms that turned on the Iran war",
+    "body": "Democrats were projected to win control of the US Congress in the 3 November midterms, though counting continued. Euronews put them on 220 of the 435 House seats, with 218 needed for a majority, while CNBC projected at least 250.\nIn the Senate, Democrats were projected to flip seats in Iowa, Kansas, North Carolina, Ohio, South Carolina and Texas, with CNBC also naming Maine. In Mississippi, Democrat Scott Colom led Republican Cindy Hyde-Smith by just 65 votes with about 95% counted.\nNearly three in four voters told a CNBC poll that the Iran war was a crucial or major factor. Democrats say they will bring a bill to reverse Trump's tariffs and will again vote on ending the war, but projections suggest they cannot override a presidential veto.",
+    "why": "It limits the president's room to act and could change US policy on tariffs and the Iran war."
+   },
+   {
+    "headline": "Democrats projected to win the US Congress",
+    "body": "The Democratic Party is projected to have won control of the US Congress in the midterm elections held on 3 November. Counting was still going on. Euronews said Democrats had 220 seats in the 435-seat House of Representatives, where 218 are needed for a majority. CNBC projected at least 250.\nIn the Senate, Democrats were projected to take seats from Republicans in Iowa, Kansas, North Carolina, Ohio, South Carolina and Texas, and CNBC also named Maine. The Mississippi race was extremely close.\nAbout three in four voters told a CNBC poll that the Iran war was an important factor. Democrats want to pass a bill cancelling Trump's tariffs and to vote again on ending the war. Projections suggest they lack the votes to overrule a presidential veto.",
+    "why": "Divided power in Washington can slow or block the president's plans."
+   },
+   {
+    "headline": "Democrats look set to win control of the US Congress",
+    "body": "Democrats look to have won control of the US Congress in elections on 3 November. These midterm elections take place halfway through a president's term. Some votes were still being counted. Euronews said Democrats had 220 of 435 seats in the House, which is more than the 218 needed. CNBC said at least 250.\nDemocrats were also expected to win Senate seats from Republicans in several states, including Iowa, Kansas, North Carolina, Ohio, South Carolina and Texas. One Mississippi race was decided by only 65 votes so far.\nAbout three in four voters said the Iran war mattered a lot to them. Democrats want to cancel President Trump's tariffs and vote on ending the war. But they probably cannot override his veto, which is his power to block a law.",
+    "why": "It changes how much power the president has to get his own way."
+   },
+   {
+    "headline": "Democrats are expected to win control of the US Congress",
+    "body": "Elections took place in America on 3 November. They are called midterms because they come halfway through the president's four-year term. The Democratic Party looks to have won control of Congress, which is where American laws are made. Votes were still being counted.\nIn the House of Representatives, a party needs 218 of 435 seats to be in charge. One news site said Democrats had 220. Another said at least 250. Democrats were also expected to take several seats in the Senate.\nAbout three in four voters said the war with Iran was an important reason for how they voted. Democrats want to cancel President Trump's tariffs, which are taxes on goods from abroad. They also want to vote on ending the war. The president can still block laws with a veto.",
+    "why": "The president now has to deal with a Congress controlled by the other party."
+   },
+   {
+    "headline": "The Democratic Party looks set to win control of Congress",
+    "body": "America held important elections on 3 November. People voted for members of Congress, the group that makes laws. The election comes in the middle of the president's term, so it is called a midterm. The Democrats, who are the opposing party to President Trump, look to have won most seats. Votes were still being counted.\nA party needs 218 seats in the House of Representatives to be in charge. One report said the Democrats had 220. Another said they had at least 250.\nAbout three in four voters said the war with Iran mattered a lot to them. The Democrats want to stop the tariffs, which are taxes on things from other countries. The president can still use a veto to block a law, so it may not be easy.",
+    "why": "It means the president cannot do everything he wants without agreement."
+   },
+   {
+    "headline": "The party that is against the president looks set to win in America",
+    "body": "In America, people voted on 3 November to choose members of Congress. Congress is a group of people who help make the laws. The vote was halfway through the president's time in charge. This kind of vote is called a midterm.\nThe Democrats look like they won the most seats. They are the party opposed to the president, Donald Trump. Votes were still being counted, so numbers can change. In one place, the race was only 65 votes apart.\nAbout three in four voters said that the war with Iran was a big reason for their choice. Democrats want to stop some taxes on goods from other countries and vote on ending the war. The president can stop a law with a veto, so he still has power.",
+    "why": "It matters because it changes who can make decisions in America."
+   },
+   {
+    "headline": "The party against the president looks set to win Congress",
+    "body": "In America, people voted on 3 November to choose members of Congress. Congress is the group that makes the country's laws. The vote came halfway through President Trump's term, so it is called a midterm. The Democrats, who oppose the president, look to have won control. Votes were still being counted.\nIn the House of Representatives, a party needs 218 of 435 seats. One news site said the Democrats had 220, and another said at least 250.\nAbout three in four voters said the war with Iran mattered a lot. Democrats want to cancel Trump's tariffs, which are taxes on goods from abroad, and vote on ending the war. The president can block a law with a veto, so it may not be easy.",
+    "why": "It changes who has the power to make decisions in America."
+   },
+   {
+    "headline": "People in America chose who will help make the laws",
+    "body": "In America, the grown-ups voted for people to help make the laws. This was on 3 November. The president is in charge of the country, but a group called Congress makes the laws. They share the power, a bit like a teacher and a head teacher making rules together.\nIt looks like the Democratic team won most of the places. The president, Donald Trump, is from the other team, called the Republicans. The votes were still being counted.\nMany voters said they were worried about a war with Iran. The Democrats want to vote on stopping it. They also want to stop some taxes on things bought from other countries. The president can still say no to a new law, and that is called a veto.",
+    "why": "It means the two sides have to work together, or nothing changes."
+   },
+   {
+    "headline": "A big vote in America might change who is in charge of the rules",
+    "body": "Imagine your class votes for who sits on the school council. The head teacher has been picking the rules, but now the council might be mostly made up of pupils who disagree with them. That is a bit like what happened in America.\nOn 3 November, grown-ups voted for people to join Congress, which helps make the country's laws. The team that disagrees with the president, called the Democrats, looks to have won. Votes were still being counted.\nMany voters said a war with Iran worried them. The new team wants to vote on stopping it. The president can still say no to a new rule, which is called a veto, just like a head teacher can. So they will have to talk to each other.",
+    "why": "It means different teams must share power and talk to each other."
    }
   ]
  }
