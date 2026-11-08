@@ -142,8 +142,79 @@
   ]
  },
  {
+  "id": "us-jobs-report-october",
+  "topic": "Economy",
+  "region": "United States",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+  "levels": [
+   {
+    "headline": "US economy adds 165,000 jobs in October, far above forecasts, as unemployment slips to 4.1%",
+    "body": "The US economy added 165,000 jobs in October, well above the consensus forecast of about 59,000, the Labor Department's report showed on Friday 6 November. The unemployment rate edged down to 4.1%, slightly below the 4.2% economists had expected. Earlier months were revised up, with August now at 186,000 and September at 60,000.\nAverage hourly earnings rose 0.4% on the month and 3.1% over the year, and the participation rate, the share of adults in work or looking for it, rose to 61.9%. The weak spot was long-term unemployment: the average spell without work jumped to 27.1 weeks, up 2.3 weeks from September, and about 2 million people, or 27.6% of all jobless workers, had been out of work for 27 weeks or longer.\nThe 10-year Treasury yield rose after the data. Analysts said the strength strengthened the case for the Federal Reserve to consider raising interest rates again at its December meeting, with inflation still above the bank's 2% target.",
+    "why": "Strong jobs data can keep American interest rates higher for longer, which affects borrowing costs and markets around the world."
+   },
+   {
+    "headline": "US adds 165,000 jobs in October, far more than expected, and unemployment falls to 4.1%",
+    "body": "The US economy added 165,000 jobs in October, far more than the 59,000 or so that economists had forecast, according to the official report published on Friday 6 November. The unemployment rate dipped to 4.1% from a forecast of 4.2%. Figures for earlier months were revised up, to 186,000 for August and 60,000 for September.\nPay grew 0.4% in the month and 3.1% over the past year. The participation rate, which counts people who are working or looking for work, rose to 61.9%. However, long-term unemployment is a worry. The average time people spend jobless rose by 2.3 weeks to 27.1 weeks, and about 2 million people, 27.6% of all those out of work, have been jobless for 27 weeks or more.\nBond yields rose after the report. The strong figures gave more support to the idea that the Federal Reserve could raise interest rates in December, as inflation remains above its 2% target.",
+    "why": "Hiring this strong makes higher US interest rates more likely, and that can push up borrowing costs elsewhere too."
+   },
+   {
+    "headline": "American employers add 165,000 jobs in October, well above forecasts",
+    "body": "American employers added 165,000 jobs in October, far above the roughly 59,000 that experts had predicted. The figures were published on Friday 6 November. The unemployment rate fell slightly to 4.1%, a little better than the 4.2% forecast. The numbers for August and September were also revised up, to 186,000 and 60,000.\nWages rose 0.4% in the month and 3.1% over the year. More people were in work or looking for it, with the participation rate rising to 61.9%. One weaker point was long-term unemployment. The average time out of work rose to 27.1 weeks, and about 2 million people, or 27.6% of the unemployed, had been without a job for 27 weeks or more.\nThe yield on US ten-year government debt rose after the report. Strong hiring makes it more likely that the Federal Reserve will consider another interest rate rise in December, because inflation is still above its 2% goal.",
+    "why": "What happens to US interest rates affects mortgages, savings and share prices well beyond America."
+   },
+   {
+    "headline": "US jobs report: far more jobs than expected in October",
+    "body": "The United States added 165,000 jobs in October. That is far more than the 59,000 or so that experts expected. The government published the figures on Friday 6 November. The unemployment rate, the share of people without a job who want one, fell a little to 4.1%. Experts had expected 4.2%. The totals for August and September were also made higher, to 186,000 and 60,000.\nPay went up by 0.4% over the month and 3.1% over the year. More people were working or looking for work. One weak spot was people out of work for a long time. On average, they had been jobless for 27.1 weeks. About 2 million people had been out of work for 27 weeks or more.\nThe cost of US government borrowing rose after the report. Strong hiring means the Federal Reserve, America's central bank, may raise interest rates in December, because prices are still rising faster than its 2% target.",
+    "why": "US interest rates affect borrowing costs around the world, including for people in Britain."
+   },
+   {
+    "headline": "America creates many more jobs than expected",
+    "body": "America created 165,000 new jobs in October. Experts had expected only about 59,000, so this was a big surprise. The numbers came out on Friday 6 November. The unemployment rate, which shows how many people want a job but cannot find one, fell a little to 4.1%.\nPay also went up. Average pay rose 0.4% in a month, and 3.1% over a year. A few more people joined the workforce too. But there is a worry. Some people have been out of work for a long time. About 2 million people have been without a job for half a year or more.\nAfter the news, the cost of borrowing for the US government went up. America's central bank, the Federal Reserve, sets interest rates, which is the price of borrowing money. With so many jobs, it might raise rates again in December. It wants prices to rise by only 2% a year, and they are rising faster.",
+    "why": "What America's central bank does with interest rates can change loan and savings costs far away from the US."
+   },
+   {
+    "headline": "America has many more new jobs than expected",
+    "body": "America made 165,000 new jobs in October. Experts thought it would be only about 59,000. So this was a big surprise. The news came out on Friday 6 November. The share of people who want a job but cannot find one fell a little, to 4.1%.\nPay went up too. Pay is the money people earn from work. It rose by 0.4% in a month, and by 3.1% in a year. A few more people joined the workers, too. But there is a worry. About 2 million people have been without a job for half a year or more. That is a long time.\nThen the cost of borrowing for America's government went up. The central bank, called the Federal Reserve, sets the price of borrowing money. This is called the interest rate. With so many jobs, the bank might put the rate up again in December. It wants prices to rise slowly, and they are rising too fast.",
+    "why": "The price of borrowing money in America can change prices and loans in other countries too."
+   },
+   {
+    "headline": "America finds many more jobs than expected",
+    "body": "In October, America got 165,000 new jobs. Experts thought it would be about 59,000. So it was a big surprise! The news came out on Friday 6 November. A job is work that you get paid for. The number of people who want a job but cannot find one went down a little.\nPeople got a bit more pay as well. Their pay went up by 3.1% over one year. But some people have been without a job for a long time, about half a year or more. There are about 2 million of them. That is a worry.\nAfter the news, the cost of borrowing went up for the American government. The central bank is like the bank for banks. It sets the price of borrowing, called the interest rate. With so many jobs, it might make the price go up in December. It wants prices in shops to rise slowly, and they are rising too fast.",
+    "why": "The price of borrowing money in America can change prices and loans in other countries too."
+   },
+   {
+    "headline": "America has lots of new jobs",
+    "body": "In October, America got lots of new jobs. A job is work that you get paid for. About 165,000 more people got work. Experts thought it would be much fewer, so everyone was surprised. The news came out on Friday 6 November. Fewer people said they wanted a job and could not find one.\nPeople also got a little more pay. Pay is the money you get for doing a job. But some people had been without a job for a long time. They had been looking for work for half a year or more. About 2 million people are in this group. That is worrying.\nAmerica has a big bank for banks. It is called the Federal Reserve. It decides how much extra you pay when you borrow money. This is called interest. With so many jobs, it might ask for a bit more extra in December. It wants prices in shops to rise slowly. Right now, they are rising too fast.",
+    "why": "Money prices in America can change prices in other countries too, even in Britain."
+   },
+   {
+    "headline": "Lots of new jobs in America",
+    "body": "Lots of grown-ups in America found new jobs last month. A job is work that you do and get paid for, like a teacher, a baker or a bus driver. About 165,000 people got new jobs in October. That is a lot of people! Grown-ups who study this thought it would be much fewer. So they were surprised.\nPeople also got a little more pay. It is a bit like getting a little extra pocket money. But some people have been without a job for a long time. They want to work, but they have not found a job yet. About 2 million people are in this group. That is sad, and people hope they find work soon.\nAmerica has a big bank for banks. It decides how much extra you must pay back when you borrow money, a bit like a small fee for borrowing someone's toy. With so many jobs, the bank might make the fee a little bigger.",
+    "why": "Money rules in America can change prices in other countries too."
+   },
+   {
+    "headline": "Good news about jobs in America",
+    "body": "Lots of grown-ups in America found new jobs last month. A job is work that you do to earn money, like a teacher, a baker or a bus driver. About 165,000 people got new jobs. That is more than anyone thought. Grown-ups who study this were very surprised.\nPeople also got a little more pay. It is a bit like getting a little more pocket money for helping at home. But some people still have no job. They have been looking for a long, long time. About 2 million people are in this group. That is hard, and people hope they find work soon.\nAmerica has a big bank for banks. When you borrow money, it decides how much extra you must give back, a bit like a small fee for borrowing a friend's toy. With so many jobs, the bank might make the fee a little bigger.",
+    "why": "What happens to money in America can change prices in other countries too."
+   }
+  ],
+  "terms": [
+   {
+    "term": "Participation rate",
+    "meaning": "The share of adults who are either working or actively looking for work."
+   },
+   {
+    "term": "Federal Reserve",
+    "meaning": "The central bank of the United States, which sets its main interest rate."
+   }
+  ],
+  "headline": "US economy adds 165,000 jobs in October, far above forecasts, as unemployment slips to 4.1%",
+  "order": 3
+ },
+ {
   "id": "uk-inflation-35",
-  "order": 3,
+  "order": 4,
   "topic": "Economy",
   "region": "United Kingdom",
   "source": "Office for National Statistics",
@@ -214,7 +285,7 @@
  },
  {
   "id": "uk-budget-healey",
-  "order": 4,
+  "order": 5,
   "topic": "Politics",
   "region": "United Kingdom",
   "source": "CNBC",
@@ -285,7 +356,7 @@
  },
  {
   "id": "burnham-eu-referendum-possible",
-  "order": 5,
+  "order": 6,
   "topic": "Politics",
   "region": "United Kingdom",
   "source": "Euronews",
@@ -356,7 +427,7 @@
  },
  {
   "id": "palestine-action-supreme-court",
-  "order": 6,
+  "order": 7,
   "topic": "Politics",
   "region": "United Kingdom",
   "source": "Euronews",
@@ -427,7 +498,7 @@
  },
  {
   "id": "democrats-win-congress-midterms",
-  "order": 7,
+  "order": 8,
   "topic": "Politics",
   "region": "United States",
   "source": "Euronews",
@@ -498,12 +569,62 @@
  },
  {
   "id": "iran-hormuz-strikes-diplomacy",
-  "order": 8,
   "topic": "Politics",
   "region": "Middle East",
   "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
-  "headline": "US reportedly strikes Iran's Qeshm Island while Vance seeks a settlement",
+  "url": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+  "levels": [
+   {
+    "headline": "US says it carried out 'minor strikes' on Iran as missiles reportedly hit Qeshm Island, while Trump claims progress in Qatar-led talks",
+    "body": "President Donald Trump said on Friday 6 November that the United States carried out \"minor strikes\" on Iran, saying they knocked out an anti-aircraft device in about 15 minutes, \"maybe five\". He did not explicitly say where. Iranian state media reported that two missiles hit the Suza area of Qeshm Island, near the Strait of Hormuz, and the Tasnim agency said there was no official information on damage.\nThe United States had already struck the island on Monday 3 November, which a US official called a \"defensive measure\" after Iranians used surface-to-air missiles against American assets. Trump insisted \"we are not fighting\" and said there had been \"a lot of progress\" in negotiations led by Qatar. Iran has said it wants more than \"paper commitments\" before entering a new phase of diplomatic talks.\nThe strikes came after the US midterm elections, and analysts had debated whether the vote would push Trump towards escalation or renewed diplomacy. Euronews describes limited new airstrikes in southern Iran, while CNBC notes Trump did not confirm that his strikes were the ones reported on Qeshm.",
+    "why": "The strikes show that fighting and diplomacy are happening at the same time, which affects oil prices and energy bills worldwide."
+   },
+   {
+    "headline": "US says it carried out 'minor strikes' on Iran, while Trump says talks are making progress",
+    "body": "President Donald Trump said on Friday 6 November that the United States carried out \"minor strikes\" on Iran. He said they destroyed an anti-aircraft device in around 15 minutes, \"maybe five\", but he did not clearly say where. Iranian state media reported that two missiles hit the Suza area of Qeshm Island, close to the Strait of Hormuz, and the Tasnim news agency said there was no official word on damage.\nThe US had also hit the island on Monday 3 November. A US official described that as a \"defensive measure\" after Iranians fired surface-to-air missiles at American assets. Trump said \"we are not fighting\" and claimed \"a lot of progress\" in talks led by Qatar. Iran says it wants more than \"paper commitments\" before it moves to a new phase of negotiations.\nThe strikes followed the American midterm elections, and analysts had asked whether the result would push Trump towards escalation or towards a deal. Euronews calls them limited airstrikes in southern Iran. CNBC notes Trump did not confirm they were the Qeshm strikes.",
+    "why": "It shows a war and peace talks running side by side, with real effects on oil prices and the cost of living."
+   },
+   {
+    "headline": "US carries out 'minor strikes' on Iran as Trump claims talks are progressing",
+    "body": "The United States has carried out what President Donald Trump calls \"minor strikes\" on Iran. He said on Friday 6 November that they knocked out an anti-aircraft device in about 15 minutes, \"maybe five\". Iranian state media said two missiles hit Qeshm Island, near the Strait of Hormuz, and one news agency said it had no official information about damage.\nThe US had already struck the island on Monday 3 November. A US official called that a \"defensive measure\", saying Iranians had fired surface-to-air missiles at American assets. Trump says \"we are not fighting\" and that there has been \"a lot of progress\" in talks led by Qatar. Iran says it wants more than \"paper commitments\" from Washington before a new round of talks.\nThe strikes came just after the American midterm elections. Some experts had wondered whether the vote would make Trump more likely to escalate or to seek a deal. Euronews says the strikes were limited. CNBC points out that Trump did not say for certain that these were the strikes on Qeshm.",
+    "why": "It matters because the Strait of Hormuz carries much of the world's oil, so the conflict can change what people pay for fuel."
+   },
+   {
+    "headline": "US says it has made 'minor strikes' on Iran while talks continue",
+    "body": "The United States says it has carried out \"minor strikes\" on Iran. President Donald Trump said so on Friday 6 November. He said the strikes took out an anti-aircraft weapon in about 15 minutes, maybe five. He did not clearly say where they happened. Iranian state media said two missiles hit Qeshm Island, an island near an important sea route called the Strait of Hormuz.\nThe US also hit the island earlier, on Monday 3 November. A US official said that was a \"defensive measure\", because Iranians had fired missiles at American equipment. Mr Trump says the two countries are \"not fighting\" and that talks, led by Qatar, have made \"a lot of progress\". Iran says it wants more than promises on paper before it agrees to the next stage of talks.\nThe strikes came just after elections in the United States. Experts had asked whether the result would lead to more attacks or to a deal. The reports do not agree on every detail.",
+    "why": "The sea route near Iran carries a lot of the world's oil, so events there can change fuel prices for everyone."
+   },
+   {
+    "headline": "US carries out limited strikes on Iran while talks go on",
+    "body": "The United States says it carried out \"minor strikes\" on Iran. President Trump said this on Friday 6 November. He said the strikes destroyed an anti-aircraft weapon, and that it took only a few minutes. Iranian media said two missiles landed on Qeshm Island. This island sits close to the Strait of Hormuz, a narrow stretch of sea that a lot of the world's oil ships pass through.\nThe US had also hit the island earlier in the week, on Monday 3 November. A US official said that was done to defend American forces, after Iran fired missiles at them. Mr Trump says the two sides are \"not fighting\" and that talks led by Qatar are going well. Iran says it wants real action, not just promises on paper.\nThese events happened just after the American elections. People had wondered whether the result would lead to more fighting or more talking. Some reports differ on the details, so more may become clear soon.",
+    "why": "A war near the world's busiest oil route can push up the price of fuel and heating for ordinary families."
+   },
+   {
+    "headline": "America says it made small strikes on Iran, but talks go on",
+    "body": "America says it made some small attacks on Iran. President Trump said this on Friday 6 November. He said the attacks destroyed a weapon that shoots at aircraft, and that it took only a few minutes. Iranian news said two missiles hit an island called Qeshm. The island is next to a narrow sea path that many oil ships use.\nAmerica also hit the island earlier, on Monday 3 November. An American official said it was to protect American forces, because Iran had fired missiles at them. Mr Trump says the two countries are \"not fighting\" and that talks are going well. A small country called Qatar is helping them talk. Iran says it wants real action, not just promises on paper.\nAll this came just after the American elections. People had wondered if the result would bring more fighting or more talking. News reports do not agree on every detail yet.",
+    "why": "Fighting near an oil route can make petrol and heating cost more, even for people far away."
+   },
+   {
+    "headline": "America and Iran: small attacks, but still talking",
+    "body": "America says it made some small attacks on Iran. The American leader, President Trump, said so on Friday 6 November. He said the attacks broke a gun that shoots at planes. He said it took just a few minutes. Iran's news said two rockets hit an island called Qeshm. The island is next to a narrow sea path. Many ships carrying oil use that path.\nAmerica had also hit the island earlier that week, on Monday. An American official said this was to keep American soldiers safe. He said Iran had fired rockets at them first. Mr Trump says the two countries are \"not fighting\". He says the talks are going well. A small country called Qatar is helping them talk. Iran says it wants more than promises on paper.\nThis happened right after the American vote for new leaders in Congress. Reports do not agree on every detail yet.",
+    "why": "Oil travels along that sea path, so trouble there can make petrol cost more for families."
+   },
+   {
+    "headline": "America and Iran: some small attacks, and some talking",
+    "body": "Two countries, America and Iran, are in a long fight. On Friday 6 November, the American leader, Mr Trump, said America made some small attacks on Iran. He said the attacks broke a gun that shoots at planes. He said it took just a few minutes. Iran's news said two rockets hit an island called Qeshm. The island sits next to a narrow sea path. Lots of ships that carry oil use that path.\nAmerica had hit the island on Monday, too. An American official said this was to keep American soldiers safe, because Iran had fired rockets at them first. Mr Trump says the two countries are \"not fighting\" and that the talks are going well. A small country called Qatar is helping them talk. Iran says it wants more than promises on paper.\nNot all the news reports agree on every part of the story.",
+    "why": "Oil ships use that sea path, so trouble there can make petrol and heating cost more."
+   },
+   {
+    "headline": "Two countries are fighting a little and talking a little",
+    "body": "Two countries, America and Iran, have been in a fight for a long time. Fights between countries are called wars. Last Friday, the American leader, Mr Trump, said America made some small attacks on Iran. He said they broke a gun that shoots at planes. It took only a few minutes.\nThe attacks were near a narrow sea path. Big ships carrying oil use it to get oil to people all over the world. Oil is what makes cars and lorries go. America also made an attack there earlier in the week. An American official said it was to keep American soldiers safe.\nMr Trump says the two countries are not really fighting now and are talking. A small country called Qatar is helping them talk. Iran says it wants real action, not just promises written on paper. Some news reports do not agree on every part of the story.",
+    "why": "Oil ships use that sea path, so trouble there can make petrol cost more for families everywhere."
+   },
+   {
+    "headline": "Two countries that are cross with each other",
+    "body": "Imagine two children in the playground who have been cross with each other for a long time. That is a bit like America and Iran. They are two countries, and they have been fighting. Fighting between countries is called a war.\nLast Friday, the leader of America said his country made some small attacks on Iran. He said they broke a gun that shoots at planes. Another small country, called Qatar, is acting like a helper. It is trying to get the two sides to sit down and talk, the way a teacher might when two friends fall out.\nThe leader of America says the talks are going well. Iran says it wants real actions, not just promises written on paper. Near where this happened, there is a narrow sea path. Big ships use it to carry oil. Oil helps cars and buses to go. So everyone hopes the two sides can make friends again soon.",
+    "why": "Oil ships use that sea path, and calm there helps keep petrol prices steady for everyone."
+   }
+  ],
   "terms": [
    {
     "term": "Strait of Hormuz",
@@ -514,62 +635,12 @@
     "meaning": "A country or person who helps two sides in a dispute talk to each other."
    }
   ],
-  "levels": [
-   {
-    "headline": "US reportedly strikes Iran's Qeshm Island while Vance seeks a settlement",
-    "body": "US officials said American forces struck Qeshm Island in Iran on Monday 3 November, calling the action defensive and a response to Iranian surface-to-air missile fire. US Central Command did not formally confirm or deny the accounts, and no Iranian official formally confirmed a direct attack on the island.\nVice President Vance said he was optimistic about a negotiated settlement. Iran's foreign minister said Tehran was not holding direct talks with the US, with Qatar and Pakistan playing active mediating roles. Iran says the Strait of Hormuz could reopen in as little as two days if Washington meets a series of conditions.\nSources conflict on the strait's status. CENTCOM says US and partner forces control it, which Iran rejects. Reports say Israel's prime minister urged Trump to resume strikes after the midterms, while Trump wants to give diplomacy more time. Shipping through the strait remains heavily disrupted.",
-    "why": "The conflict is pushing up energy prices and the cost of living worldwide."
-   },
-   {
-    "headline": "US and Iran trade strikes and signals as talks over Hormuz continue",
-    "body": "US officials said American forces struck Qeshm Island, in Iranian waters, on Monday 3 November, calling it a defensive response to Iranian missile fire. US Central Command has not formally confirmed this, and no Iranian official formally confirmed a direct attack on the island.\nVice President Vance said he is optimistic about reaching a settlement. Iran says it is not holding direct talks with the US, but Qatar and Pakistan are acting as mediators. Tehran says the Strait of Hormuz could reopen within two days if the US meets certain conditions.\nThe two sides disagree about who controls the strait, and shipping is heavily disrupted. Reports say Israel's prime minister wants Trump to resume strikes now the midterms are over, while Trump wants to allow more time for diplomacy.",
-    "why": "The outcome will affect oil prices, shipping and the risk of a wider war."
-   },
-   {
-    "headline": "US reported to strike Iranian island as diplomacy over Hormuz continues",
-    "body": "American officials say US forces struck Qeshm Island in Iran on 3 November in response to Iranian anti-aircraft fire, and described it as defensive. The US military has not formally confirmed this, and Iran has not formally confirmed a direct attack.\nVice President Vance says he hopes for an agreement. Iran says it is not holding direct talks with Washington. Qatar and Pakistan are helping the two sides communicate. Iran says the Strait of Hormuz, the key shipping route for oil, could reopen in two days if its conditions are met.\nThe US says it controls the strait, but Iran disagrees, and ships are still being badly disrupted. Reports say Israel's leader wants new US strikes after the midterms, while President Trump wants to give talks more time.",
-    "why": "It affects fuel and energy prices that families pay everywhere."
-   },
-   {
-    "headline": "US reportedly hits Iranian island as talks over a key oil route go on",
-    "body": "The United States says it struck Qeshm Island in Iran on Monday 3 November. Officials said it was a defensive reply after Iran fired missiles at US forces. The US military has not formally confirmed the strike, and Iran has not formally confirmed that it was attacked.\nAt the same time, Vice President Vance says he hopes for a deal. Iran says it is not talking directly to the US. Instead, Qatar and Pakistan are passing messages between them as mediators. Iran says the Strait of Hormuz, a narrow sea route that much of the world's oil passes through, could reopen within two days if the US meets its conditions.\nThe two sides disagree about who controls the strait, and shipping is still disrupted. President Trump wants to give talks more time, though Israel's prime minister reportedly wants more strikes.",
-    "why": "The route carries much of the world's oil, so the dispute affects prices everywhere."
-   },
-   {
-    "headline": "US reportedly strikes an Iranian island as talks over the Strait of Hormuz go on",
-    "body": "US officials said American forces hit Qeshm Island in Iran on Monday 3 November. They called it a defensive reply to Iranian missile fire. The US military has not formally confirmed this, and Iran has not formally said it was attacked.\nAt the same time, Vice President Vance says he hopes for a deal. Iran says it is not talking directly to the US. Qatar and Pakistan are acting as mediators, which means they help the two sides communicate. Iran says the Strait of Hormuz, a narrow sea route that much of the world's oil passes through, could reopen in two days if its conditions are met.\nThe US says it controls the strait, and Iran disagrees. Trump wants to give talks more time, though Israel's prime minister reportedly wants new strikes.",
-    "why": "The route carries much of the world's oil, so the dispute affects prices everywhere."
-   },
-   {
-    "headline": "The US reportedly strikes an Iranian island while leaders try to talk",
-    "body": "The United States and Iran have been in a conflict for months. On Monday 3 November, US officials said American forces hit Qeshm Island in Iran. They said it was to defend themselves after Iran fired missiles. The US military has not officially confirmed this, and Iran has not officially said it was attacked.\nAt the same time, American leader Vance said he hopes for a peace deal. Iran says it is not talking straight to the US. Qatar and Pakistan are acting as go-betweens, which are called mediators.\nThey are talking about the Strait of Hormuz, a narrow sea path that carries a lot of the world's oil. Ships have been struggling to use it. Iran says it could open in two days if the US agrees to some conditions.",
-    "why": "Disrupted oil shipping makes petrol, gas and electricity cost more."
-   },
-   {
-    "headline": "The US reportedly hit an Iranian island, but talks are going on",
-    "body": "The US and Iran have been fighting in a war for months. On Monday 3 November, American officials said US forces hit an island in Iran called Qeshm. They said it was to defend themselves after Iran fired missiles. The US military has not said so officially, and Iran has not said it was attacked.\nAt the same time, the US Vice President, Vance, said he hopes for a peace deal. Iran says it is not talking directly to the US. Instead, two other countries, Qatar and Pakistan, are helping them pass messages.\nThe talks are about a narrow sea path called the Strait of Hormuz. Lots of the world's oil goes through it. Right now ships find it hard to use. Iran says it could reopen in two days if some conditions are met.",
-    "why": "When oil is hard to ship, prices go up for everyone."
-   },
-   {
-    "headline": "A war near an important sea path",
-    "body": "Two countries, the United States and Iran, have been fighting in a war. A narrow sea path called the Strait of Hormuz is at the centre of it. Lots of the world's oil ships go through it. When ships cannot use it easily, oil costs more, and so do petrol and heating.\nOn Monday 3 November, American officials said they hit an island in Iran after Iran fired missiles at them. Iran has not agreed that this happened in the way the US said.\nAt the same time, American leaders say they hope to make a deal. Iran says it is not talking directly to them. Two other countries, Qatar and Pakistan, are helping by passing messages. Iran says it could open the sea path again within two days if some conditions are met.",
-    "why": "The war affects what families pay for fuel and heating."
-   },
-   {
-    "headline": "Leaders try to talk about a war",
-    "body": "Two countries, the United States and Iran, are in a war. There is a narrow sea path between them that boats carrying oil use. It is called the Strait of Hormuz. Right now it is hard for ships to use. That makes oil cost more around the world.\nThis week, American leaders said they hit an island in Iran. They said they were defending themselves. Iran did not agree with the way they told it.\nBut leaders are also trying to talk. They want a deal to stop the fighting. Two other countries, Qatar and Pakistan, are helping them talk, a bit like friends who pass messages between two people who have fallen out. Iran says the sea path could open again soon if some conditions are met.",
-    "why": "If the fighting stops, oil could get cheaper."
-   },
-   {
-    "headline": "Two sides who have fallen out",
-    "body": "Imagine two children have fallen out in the playground. They are not talking to each other. Two other children carry messages between them. This is a bit like what is happening between the United States and Iran. They are in a war.\nThere is a narrow path of sea between them. Many ships that carry oil sail through it. Because of the fighting, it is hard for ships to use. That makes oil cost more, which makes petrol and heating cost more too.\nThis week, American leaders said they hit an island in Iran. But they also say they hope for a deal. Two other countries are carrying the messages. Iran says it could open the sea path again in two days if some conditions are met.",
-    "why": "A deal could make fuel and heating cheaper."
-   }
-  ]
+  "headline": "US says it carried out 'minor strikes' on Iran as missiles reportedly hit Qeshm Island, while Trump claims progress in Qatar-led talks",
+  "order": 9
  },
  {
   "id": "oil-prices-weekly-fall",
-  "order": 9,
+  "order": 10,
   "topic": "Economy",
   "region": "Global",
   "source": "CNBC",
@@ -640,7 +711,7 @@
  },
  {
   "id": "ukraine-russia-talks-abu-dhabi",
-  "order": 10,
+  "order": 11,
   "topic": "Politics",
   "region": "Europe",
   "source": "Euronews",
@@ -711,7 +782,7 @@
  },
  {
   "id": "eurozone-inflation-4",
-  "order": 11,
+  "order": 12,
   "topic": "Economy",
   "region": "Europe",
   "source": "Euronews",
@@ -782,7 +853,7 @@
  },
  {
   "id": "paraguay-ueno-bank-collapse",
-  "order": 12,
+  "order": 13,
   "topic": "Politics",
   "region": "Americas",
   "source": "Euronews",
@@ -850,5 +921,76 @@
     "why": "People need to be able to trust the place that keeps their money."
    }
   ]
+ },
+ {
+  "id": "krakow-main-square-shooting",
+  "topic": "Politics",
+  "region": "Europe",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/11/07/at-least-five-killed-in-shooting-in-krakow-polish-police-say",
+  "levels": [
+   {
+    "headline": "Gunman kills six and injures about 15 in Kraków's Main Square; Poland declares two days of mourning",
+    "body": "A 25-year-old Polish man opened fire in Kraków's Main Square, in the historic Old Town, on Saturday 7 November, killing six people and injuring around 15 others, Polish authorities said. Euronews reported 16 injured, including two police officers. Police shot and wounded the suspect. Early reports had put the death toll at five.\nInterior Minister Marcin Kierwiński said the suspect held \"very radical\", \"ultra-nationalistic\" views and was fascinated with far-right ideologies. He had not been on police records. Police said he acted alone and that the public was safe, and denied reports of a second attacker. Defence Minister Władysław Kosiniak-Kamysz called it an \"act of terror\".\nPrime Minister Donald Tusk said the bodies of three of the suspect's close family members were found at his home in Ostrowiec Świętokrzyski. At least three of the dead women were Polish, and one victim was a UK citizen. President Karol Nawrocki announced two days of national mourning, on 8 and 9 November. Details may change as investigators confirm them.",
+    "why": "The attack shocked a major European tourist city and, with a British victim, has drawn attention in the UK as well."
+   },
+   {
+    "headline": "Six killed in Kraków shooting as Poland's government calls it an 'act of terror'",
+    "body": "A 25-year-old Polish man opened fire on people in Kraków's Main Square, in the Old Town, on Saturday 7 November. Six people died and around 15 were injured, according to Polish authorities. Euronews counted 16 injured, among them two police officers. Police shot and wounded the suspect. First reports had said five people were dead.\nInterior Minister Marcin Kierwiński said the man was fascinated with far-right ideas and held \"ultra-nationalistic\" views. He was not previously known to police. Police said he acted alone and that there was no second attacker. Defence Minister Władysław Kosiniak-Kamysz described it as an \"act of terror\".\nPrime Minister Donald Tusk said the bodies of three of the suspect's close relatives were found at his home in Ostrowiec Świętokrzyski. At least three of the women killed were Polish, and one victim was British. President Karol Nawrocki declared national mourning for 8 and 9 November. Some details could still change.",
+    "why": "A British person was among the dead, and the attack raises questions about extremism and safety in busy European city centres."
+   },
+   {
+    "headline": "Six people killed in shooting in Kraków's Old Town, Polish authorities say",
+    "body": "A 25-year-old Polish man shot at people in the main square of Kraków's Old Town on Saturday 7 November. Six people died and about 15 were hurt, Polish authorities said. Euronews reported 16 injured, including two police officers. Police shot and wounded the suspect. Early reports had said five people had died.\nPoland's interior minister, Marcin Kierwiński, said the man had \"ultra-nationalistic\" views and was fascinated by far-right ideas. Police had no earlier record of him. They said he acted alone and that the public was safe. The defence minister called the shooting an \"act of terror\".\nPrime Minister Donald Tusk said police found the bodies of three of the man's close family members at his home. At least three of the dead women were Polish, and one victim was a UK citizen. President Karol Nawrocki announced two days of national mourning, on 8 and 9 November. Investigators are still confirming some details.",
+    "why": "It is a major attack in a popular tourist city, and it included a British victim."
+   },
+   {
+    "headline": "Six people killed in a shooting in the Polish city of Kraków",
+    "body": "A 25-year-old man shot at people in the main square of Kraków, a popular city in Poland, on Saturday 7 November. Six people died and about 15 were hurt, Polish officials said. Police shot the man and wounded him. At first, officials had said five people had died, but the number later rose to six.\nPoland's interior minister said the man held extreme, far-right views. Police had no earlier record of him. They said he acted alone and that people in the city are now safe. The defence minister called the shooting an \"act of terror\", meaning an attack meant to frighten many people.\nThe prime minister, Donald Tusk, said police found the bodies of three of the man's close family members at his home. At least three of the women who died were Polish, and one victim was from the UK. The president announced two days of national mourning, on 8 and 9 November. Officials say more details may change.",
+    "why": "The attack happened in a place many tourists visit, and one victim was British."
+   },
+   {
+    "headline": "Gunman kills six in Kraków",
+    "body": "A 25-year-old man shot at people in the main square of Kraków on Saturday 7 November. Kraków is an old and popular city in Poland. Six people died and about 15 were hurt, Polish officials said. Police shot the man and hurt him. Officials first said five people had died, but later the number went up to six.\nThe interior minister said the man held extreme, far-right views. This means he believed in very harsh ideas about his own country and other people. Police said they did not know about him before. They said he acted alone and that people are now safe. The defence minister called it an \"act of terror\", which means an attack meant to scare many people.\nThe prime minister, Donald Tusk, said police found three of the man's close family members dead at his home. One of the people who died was from the UK. The president announced two days of national sadness, called mourning, on 8 and 9 November.",
+    "why": "A visitor from the UK was among the dead, so people in Britain are following the news closely."
+   },
+   {
+    "headline": "A sad shooting in a Polish city",
+    "body": "On Saturday 7 November, a 25-year-old man shot at people in the main square of Kraków. Kraków is a big, old city in Poland where many tourists go. Six people died and about 15 were hurt. Police shot the man and hurt him. Officials first said five people had died, but later it was six.\nThe minister who looks after the police said the man held extreme, far-right ideas. These are very harsh ideas about other people. Police said he had never been known to them before. They said he was alone, and that people are now safe. The defence minister called it an \"act of terror\". That means an attack meant to scare lots of people.\nThe prime minister said police found three of the man's family members dead at his home. One person who died was from the UK. Poland's president said there will be two days of mourning, on 8 and 9 November. Mourning means a time to be sad together.",
+    "why": "A person from the UK died, so many people in Britain are thinking of the families."
+   },
+   {
+    "headline": "A very sad day in a Polish city",
+    "body": "On Saturday, a man shot at people in the main square of Kraków. Kraków is a big, old city in a country called Poland. Lots of tourists go there. Six people died. About 15 more were hurt. Police shot the man and hurt him. At first, officials said five people had died, but later it was six.\nThe minister in charge of the police said the man held extreme ideas. These are very harsh ideas about other people. Police had not known about him before. They said he was alone, and that people are now safe. Another minister called it an \"act of terror\". That means an attack made to scare lots of people.\nPolice also found three of the man's family members dead at his home. One of the people who died was from the UK. Poland's president said there will be two days of mourning. That means days when everyone can be sad together.",
+    "why": "Someone from the UK died, so many people in Britain feel sad for the families."
+   },
+   {
+    "headline": "A very sad day in the city of Kraków",
+    "body": "On Saturday, a man shot at people in a big square in a city called Kraków. It is in a country called Poland. Many visitors go there to see the old buildings. Six people died. About 15 more were hurt. Police stopped the man. At first, people thought five had died, but later they knew it was six.\nA minister said the man had very unkind ideas about other people. The police had not known about him before. They say he was on his own, and that the city is safe now. Another minister said it was an \"act of terror\". That means a very bad act that tries to scare lots of people.\nThe police also found three of the man's family at his home. They had died too. One person who died was from the UK. Poland's president said there will be two days of mourning. That means everyone can be sad together and remember those who died.",
+    "why": "Someone from the UK died, so many people here feel sad for the families."
+   },
+   {
+    "headline": "A sad day in a Polish city",
+    "body": "On Saturday, something very sad happened in a city called Kraków. It is in a country called Poland. It is a pretty place with old buildings, and many visitors go there. A man hurt a lot of people in a big square. Six people died. About 15 more were hurt. The police stopped him.\nOfficials said the man had very unkind ideas about other people. Police say that he was on his own, and that the city is safe now. Police also found that three people from his own family had died at his home.\nOne person who died was from the UK, which is our country. Poland's president said there will be two days of mourning. Mourning is when everybody is sad together and remembers the people who died. Many people are thinking of the families who are very sad now.",
+    "why": "Someone from the UK died, so many people here are thinking of the families."
+   },
+   {
+    "headline": "A sad day far away",
+    "body": "Something very sad happened in a city called Kraków. It is in a country called Poland, a long way from here. It is a pretty city with old buildings. A man hurt many people in a big square, which is like a very big playground made of stone. Six people died, and some more were hurt. The police stopped the man, so now people are safe.\nWhen something sad like this happens, the grown-ups in charge help. Police find out what happened. Doctors help the people who are hurt. The leader of Poland said there will be two days when everyone can be sad together. That is called mourning. People light candles and remember those who died.\nOne of the people who died was from the UK, so many people here are thinking about the families. It is okay to feel sad. Talking to a grown-up you trust can help.",
+    "why": "Someone from the UK died, so many people here are thinking about the families."
+   }
+  ],
+  "terms": [
+   {
+    "term": "National mourning",
+    "meaning": "Days set aside by a government for the whole country to remember those who died."
+   },
+   {
+    "term": "Far-right",
+    "meaning": "Extreme political views that put a particular nation or group above others."
+   }
+  ],
+  "headline": "Gunman kills six and injures about 15 in Kraków's Main Square; Poland declares two days of mourning",
+  "order": 14
  }
 ]
