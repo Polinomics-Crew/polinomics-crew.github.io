@@ -75,79 +75,79 @@
   ]
  },
  {
-  "id": "wall-street-rebounds-after-tech-rout",
-  "order": 2,
+  "id": "sp500-best-day-since-april",
   "topic": "Economy",
   "region": "United States",
   "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
-  "headline": "S&P 500 closes up 0.31% at 7,376.86 on Friday as Nasdaq rebounds from steep sell-off",
+  "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+  "headline": "S&P 500 jumps 2.35% to 7,549.94 on Monday, its best day since April",
   "terms": [
    {
     "term": "S&P 500",
-    "meaning": "An index of 500 large US companies, used as a guide to the whole stock market."
+    "meaning": "An index tracking 500 large US companies, used to judge how the market is doing."
    },
    {
     "term": "Correction",
-    "meaning": "A fall of 10% or more from a recent peak."
+    "meaning": "A fall of more than 10% from a recent high."
    },
    {
-    "term": "Nasdaq Composite",
-    "meaning": "An index dominated by technology companies."
+    "term": "Consumer price index",
+    "meaning": "A measure of how fast prices for everyday goods and services are rising."
    }
   ],
   "levels": [
    {
-    "headline": "S&P 500 closes up 0.31% at 7,376.86 on Friday as Nasdaq rebounds from steep sell-off",
-    "body": "The S&P 500 closed higher on Friday 6 November, the last completed trading session, gaining 0.31% to finish at 7,376.86. The Nasdaq Composite rose 1.09% to 24,579.42, while the Dow Jones Industrial Average slipped 0.46%, or 237.33 points, to 51,285.73.\nThe rebound followed a severe sell-off on Thursday, when the S&P 500 fell 4.36% to 7,353.73, the Nasdaq dropped 5.52% to 24,315.00 and the Dow lost 3.44%. The Nasdaq entered correction territory, meaning a fall of more than 10% from its recent record, and the so-called Magnificent Seven group of big tech firms lost about $1 trillion in value.\nInvestors had feared that the Democratic sweep in the midterm elections would slow the building of data centres for artificial intelligence. Chipmakers recovered on Friday, and technology was the strongest sector. Analysts disagree on whether more turbulence lies ahead.",
-    "why": "Share prices affect pensions and savings, and a tech sell-off can signal how nervous investors are."
+    "headline": "S&P 500 jumps 2.35% to 7,549.94 on Monday, its best day since April",
+    "body": "The S&P 500 closed up 2.35% at 7,549.94 on Monday 9 November, its best day since 8 April. The Dow Jones Industrial Average gained 1,104.02 points, or 2.15%, to 52,389.75, and the Nasdaq Composite rose 2.74% to 25,253.14.\nThe rebound followed a rough week in which the Nasdaq fell into correction territory, meaning it dropped more than 10% from its recent high. Analysts linked the recovery to investors reconsidering fears of slower spending on artificial intelligence and infrastructure, and to lower oil prices.\nTuesday's session had not finished when this edition was written. Investors were waiting for the October US consumer price index, with economists polled by Dow Jones expecting headline prices to rise 0.3% on the month and core prices, which exclude food and energy, 0.2%.",
+    "why": "Moves of this size in US shares affect pension funds, savings and borrowing costs well beyond Wall Street."
    },
    {
-    "headline": "US stocks edge higher on Friday after Thursday's sharp tech sell-off",
-    "body": "The S&P 500 ended Friday 6 November up 0.31% at 7,376.86, according to CNBC. The Nasdaq Composite gained 1.09% to 24,579.42, but the Dow Jones Industrial Average fell 0.46% to 51,285.73. Friday was the last completed session.\nIt was a calmer day after Thursday's rout, when the S&P 500 lost 4.36%, the Nasdaq fell 5.52% into correction territory and the Dow dropped 3.44%. About $1 trillion was wiped off the value of the Magnificent Seven tech giants, with chipmaker Nvidia hit hardest.\nInvestors worried that Democratic wins in the midterms could slow data-centre building, which AI firms depend on. On Friday chipmakers bounced back and information technology led the market. Some analysts expect more turbulence in the days ahead, while others see it as a reset of high valuations.",
-    "why": "The AI boom has driven much of the market, so a wobble matters to savers with pensions invested in shares."
+    "headline": "US shares rebound sharply, with the S&P 500 up 2.35% on Monday",
+    "body": "US stocks rallied strongly on Monday 9 November. The S&P 500 finished up 2.35% at 7,549.94, its best day since 8 April, while the Dow added 1,104.02 points (2.15%) to close at 52,389.75 and the Nasdaq gained 2.74% to 25,253.14.\nThe bounce came after a difficult week for technology shares, when the Nasdaq slid into a correction, a fall of more than 10% from its peak. Analysts said investors were rethinking worries that spending on AI and related infrastructure might slow, and were also encouraged by cheaper oil.\nThe most recent completed session was Monday's. On Tuesday, traders were braced for October's US consumer price index, with forecasts of a 0.3% monthly rise in headline prices and 0.2% in core prices.",
+    "why": "Share prices feed into pensions and savings, and signal how confident investors are about the economy."
    },
    {
-    "headline": "Wall Street rebounds a little after a big tech sell-off",
-    "body": "US shares ended Friday 6 November mostly higher. The S&P 500, which tracks 500 big American companies, rose 0.31% to 7,376.86. The Nasdaq, packed with tech firms, gained 1.09% to 24,579.42. The Dow Jones Industrial Average fell 0.46% to 51,285.73.\nThe day followed a very bad Thursday. The S&P 500 dropped 4.36%, the Nasdaq fell 5.52% and the Dow lost 3.44%. The Nasdaq is now in what traders call a correction, a drop of more than 10% from its high. The biggest tech firms lost about $1 trillion in value between them.\nInvestors are worried that Democratic election wins could slow the building of data centres for artificial intelligence. On Friday, chipmakers recovered some ground. Experts are split on whether the sell-off is over.",
-    "why": "Falling share prices can hit pension pots and make firms more cautious about spending."
+    "headline": "Wall Street has its best day since April as technology shares recover",
+    "body": "Wall Street had its strongest day since April on Monday 9 November. The S&P 500 rose 2.35% to 7,549.94. The Dow climbed 1,104.02 points, or 2.15%, to 52,389.75, and the Nasdaq jumped 2.74% to 25,253.14.\nIt followed a bruising week in which technology shares fell so far that the Nasdaq entered what traders call a correction, a drop of over 10% from its recent high. Analysts said investors were reassessing fears that spending on artificial intelligence might slow, and that falling oil prices also helped.\nAttention now turns to US inflation figures for October, due on Tuesday. Economists expect headline prices to rise by 0.3% over the month and core prices, which leave out food and energy, by 0.2%.",
+    "why": "A recovery in US shares can ease worries about a wider downturn that would affect jobs and investments."
    },
    {
-    "headline": "US stocks bounce back slightly after a big fall",
-    "body": "On Friday 6 November, the last full day of trading, US shares rose a little. The S&P 500, an index of 500 big companies, gained 0.31% to close at 7,376.86. The tech-heavy Nasdaq rose 1.09% to 24,579.42. The Dow Jones, which tracks 30 large firms, fell 0.46% to 51,285.73.\nThis came after a sharp drop on Thursday. The S&P 500 fell 4.36%, the Nasdaq fell 5.52% and the Dow fell 3.44%. The Nasdaq is now more than 10% below its peak, which traders call a correction. Big tech firms lost around $1 trillion in value.\nInvestors fear that the Democrats' election wins could slow the building of data centres used for artificial intelligence. Computer chip firms recovered on Friday. Some experts expect more ups and downs this week.",
-    "why": "Pensions and savings are often invested in shares, so big falls can matter to ordinary people."
+    "headline": "US stocks surge as the S&P 500 posts its best day since April",
+    "body": "US stocks surged on Monday 9 November. The S&P 500, a measure of 500 large American companies, rose 2.35% to close at 7,549.94, its best day since April. The Dow gained 2.15% to 52,389.75 and the Nasdaq rose 2.74% to 25,253.14.\nThe jump followed a week of heavy selling in technology companies, which left the Nasdaq more than 10% below its recent high. Analysts said investors had grown less worried that spending on artificial intelligence would slow, and cheaper oil also lifted the mood.\nInvestors are now waiting for US consumer price figures for October, which show how fast prices are rising. Forecasts suggest headline prices rose 0.3% in the month and core prices 0.2%.",
+    "why": "Rising share prices can protect pension pots, but sharp swings show how nervous markets remain."
    },
    {
-    "headline": "US shares recover a little after a scary day",
-    "body": "US shares went up a little on Friday 6 November. An index called the S&P 500, which follows 500 big firms, rose 0.31%. It closed at 7,376.86. The Nasdaq, full of tech firms, rose 1.09%. The Dow, which follows 30 big firms, fell 0.46%.\nThursday was much worse. The S&P 500 fell 4.36% and the Nasdaq fell 5.52%. That is a big drop in one day. Together, the largest tech companies lost about $1 trillion in value. A fall of more than 10% from the top is called a correction, and the Nasdaq is now in one.\nInvestors worry that new political changes could slow down the building of big computer centres for AI. On Friday chip makers bounced back. Nobody knows what will happen next week.",
-    "why": "Many pensions are invested in shares, so big swings can affect people's savings."
+    "headline": "US shares bounce back strongly, with the S&P 500 up 2.35% in a day",
+    "body": "American shares bounced back strongly on Monday 9 November. The S&P 500 index, which tracks 500 big US firms, ended the day up 2.35% at 7,549.94. That was its best day since April. The Dow, another index, rose 2.15% to 52,389.75, and the Nasdaq, which has many tech firms, rose 2.74% to 25,253.14.\nThe week before had been bad for tech shares. The Nasdaq fell by more than 10% from its high, which is called a correction. Investors had been worried that companies might spend less on artificial intelligence. Those worries eased, and oil got cheaper too.\nOn Tuesday, people were waiting for new inflation figures, which measure how quickly prices go up. Experts expected prices to rise 0.3% in October.",
+    "why": "Big moves in the US market can affect savings and pensions around the world."
    },
    {
-    "headline": "American shares rise a little after a big fall",
-    "body": "Shares are small parts of companies that people can buy and sell. On Friday 6 November, American shares mostly went up a little. The S&P 500 index, which follows 500 big firms, rose 0.31%. The Nasdaq, which has lots of tech firms, rose 1.09%. The Dow, which follows 30 firms, fell 0.46%.\nThe day before was much worse. Prices fell 4.36% for the S&P 500 and 5.52% for the Nasdaq. Big tech firms like Nvidia lost a lot of value. People were worried that new election results might slow down AI computer centres.\nOn Friday, chip makers got some of their value back. Experts are not sure if prices will keep falling. Many pensions are invested in shares, so this matters to ordinary people.",
-    "why": "It shows how worried investors are, and it can affect pensions and jobs."
+    "headline": "Stock prices in the US jump by the most since April",
+    "body": "Share prices in the United States jumped on Monday 9 November. The main index, the S&P 500, rose by 2.35% to 7,549.94. It was the biggest one-day rise since April. Two other well-known measures also went up: the Dow by 2.15% and the Nasdaq by 2.74%.\nThe jump came after a bad week. Shares in technology firms had dropped a lot, and the Nasdaq was more than 10% below its top. People had feared that firms would spend less on artificial intelligence. Those fears eased, and cheaper oil also helped.\nNext, people are waiting for new inflation figures, which show how fast prices are going up. Experts think prices rose by about 0.3% in October.",
+    "why": "When shares rise and fall quickly, it can change how safe people feel about their savings."
    },
    {
-    "headline": "US shares rise a little after a big drop",
-    "body": "Shares are small parts of companies. People buy and sell them every day. On Friday 6 November, the price of shares in big American companies went up a little. The main list of 500 big firms rose 0.31%. The list full of tech firms rose 1.09%. A list of 30 older, large firms fell 0.46%.\nThursday had been much worse. Prices dropped 4.36% on the main list and 5.52% on the tech list. A fall of more than 10% from the top is called a correction, and the tech list is in one. The biggest tech firms lost about a trillion dollars in value between them.\nPeople worry that new political changes could slow the building of computer centres for AI. Chip makers bounced back on Friday. No one is sure what happens next.",
-    "why": "Falling prices can make people nervous about their pensions and savings."
+    "headline": "US share prices go up a lot after a bad week",
+    "body": "Share prices in the United States went up a lot on Monday 9 November. A share is a small piece of a company. The S&P 500, a list of 500 big American companies, rose by 2.35%. That is its best day since April.\nThe week before was bad. Prices of technology companies fell hard. Some investors worried that firms would spend less money on artificial intelligence, or AI. On Monday those worries got smaller. Oil also got cheaper, which helped.\nThe Dow rose by 2.15% and the Nasdaq rose by 2.74%. On Tuesday, people were waiting for new figures on inflation. Inflation means prices going up over time. Experts thought prices rose by about 0.3% in October.",
+    "why": "Share prices can change the value of pensions and savings that many families rely on."
    },
    {
-    "headline": "Share prices wobble, then rise a little",
-    "body": "Shares are tiny pieces of a company. People buy them hoping the company does well. When many people sell at once, prices fall. That happened on Thursday in America. Prices of tech companies dropped fast.\nOn Friday, prices rose a little. One list of 500 big companies went up 0.31%. A list full of tech companies went up 1.09%. A list of 30 old, big companies went down 0.46%. Tech firms lost about a trillion dollars in value on Thursday. That is a number too big to picture.\nSome people were worried about computer centres that run AI. They thought new election results could slow them down. Experts disagree about what happens next.",
-    "why": "Falling prices can make people and firms nervous about spending."
+    "headline": "American share prices bounce back after a rough week",
+    "body": "Share prices in America went up a lot on Monday. A share is a tiny part of a company that people can buy. The S&P 500 is a list of 500 big firms, and its price rose by 2.35%. It was the best day since April.\nLast week was hard for technology firms. Their share prices fell a lot, because people worried the firms might spend less on AI, which means smart computer programs. On Monday the worry got smaller, and oil prices also fell. Oil helps run cars and factories, so cheaper oil is good news.\nOn Tuesday, people waited for new numbers on inflation. That is how fast prices go up in shops.",
+    "why": "Many people save money in shares, so big changes can matter to families."
    },
    {
-    "headline": "The share market had a bad day, then a better day",
-    "body": "A share market is like a giant swap shop for tiny pieces of companies. This week, lots of people wanted to sell shares in big computer companies. When many people sell, prices fall.\nOn Thursday, prices fell a lot. On Friday, they went up a little. It is like losing five stickers one day and getting one back the next. The main list of 500 big firms went up by a small amount. The list of tech firms went up a bit more.\nSome people worried because of new election results in America. They thought it might slow down building big computer centres. Grown-ups are watching to see what happens.",
-    "why": "Grown-ups save money in shares, so they care when prices go up and down."
+    "headline": "Share prices in the US shoot up",
+    "body": "Share prices in the United States shot up on Monday. A share is a small piece of a company. People buy shares hoping the company will do well. The main list of 500 big firms went up by 2.35%. That is the best day since April.\nThe week before, prices fell. Many of the firms that make computer things had lost a lot of value. Some people feared these firms would spend less money on smart computer programs. On Monday, those fears got smaller. Oil got cheaper too, and that helped.\nNow people are waiting for news about prices in shops. If prices rise slowly, that is good news for families.",
+    "why": "Shares are one way people save money, so big changes can matter to families."
    },
    {
-    "headline": "Prices at the big shares market went down, then up",
-    "body": "Imagine a huge toy swap at school. This week lots of children wanted to swap their toys for coins at once. When that happens, toys are worth less.\nThat is a bit like what happened to some big companies. On Thursday their shares lost lots of value. On Friday they won a little back. It was like finding a few coins in your pocket after losing some in the playground.\nGrown-ups are not sure what will happen next. They are worried about computer centres, which help machines learn. They will keep watching to see if the prices settle down.",
-    "why": "Many families keep savings in shares, so grown-ups pay attention when prices change."
+    "headline": "Share prices go up, like a toy getting more popular",
+    "body": "Share prices in America went up a lot on Monday. Think of a toy that lots of children want. When more children want it, its price goes up. A share is like a tiny piece of a company, and when lots of people want it, its price goes up too.\nLast week, grown-ups got worried about some big computer firms, so fewer people wanted their shares and prices dropped. On Monday, the worry got smaller. People wanted the shares again, so the prices went back up. Cheaper oil, which makes cars and factories go, helped too.\nIt was the best day since April. Now grown-ups are waiting to hear if prices in shops are rising slowly. Slow rises are better for families.",
+    "why": "Many families keep savings in shares, so these changes can matter to them."
    }
-  ]
+  ],
+  "order": 2
  },
  {
   "id": "tougher-settlement-rules-ilr-ten-years",
@@ -375,8 +375,225 @@
   ]
  },
  {
+  "id": "rubio-iran-talks-oil-eases",
+  "topic": "Politics",
+  "region": "Middle East",
+  "source": "CNBC",
+  "url": "https://cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html",
+  "headline": "Rubio says Iran talks are far from a breakthrough as oil slips on Trump's restraint",
+  "terms": [
+   {
+    "term": "Brent crude",
+    "meaning": "The international benchmark price for oil."
+   },
+   {
+    "term": "Sanctions",
+    "meaning": "Penalties that limit a country's trade and finances."
+   },
+   {
+    "term": "Strait of Hormuz",
+    "meaning": "A narrow Gulf waterway through which much of the world's oil passes."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Rubio says Iran talks are far from a breakthrough as oil slips on Trump's restraint",
+    "body": "US Secretary of State Marco Rubio said on Monday 9 November that talks with Iran are not close to a breakthrough, calling some Iranian demands unacceptable and in some cases outrageous. Iran's Foreign Ministry says Tehran wants US sanctions lifted and the war ended on all fronts before negotiations begin.\nPresident Donald Trump meanwhile said renewed attacks on Iran were unlikely provided talks keep moving, and Brent crude fell on Monday. It had already dropped 16% the previous week to a two-month low of $93.22 a barrel. Analysts at Eurasia Group put the chance of renewed US strikes at 60%, down from 65%.\nShipping has still been hit in or near the Strait of Hormuz, the Gulf waterway through which much of the world's oil passes. Eurasia Group said escalation could send Brent to between $110 and $125.",
+    "why": "Oil prices feed into petrol, heating and inflation, so the Iran talks matter to household bills."
+   },
+   {
+    "headline": "Iran talks stall publicly while oil prices ease on Trump's softer tone",
+    "body": "Secretary of State Marco Rubio said on Monday 9 November that talks with Iran are not near a breakthrough and described some Iranian demands as outrageous. Iran says it wants US sanctions lifted and the war ended on every front before it will negotiate.\nPresident Trump said new attacks were unlikely if talks make progress, and oil prices dipped. Brent crude had already fallen 16% the previous week to a two-month low of $93.22 a barrel. Eurasia Group now rates the chance of renewed US strikes at 60%, down from 65%.\nFighting has not stopped completely: both sides report ships hit near the Strait of Hormuz, a narrow route for much of the world's oil. Eurasia Group warned an escalation could lift Brent to between $110 and $125.",
+    "why": "The outcome affects energy prices and therefore inflation and interest rates around the world."
+   },
+   {
+    "headline": "Oil eases as Trump downplays new strikes, though Rubio sees no Iran breakthrough",
+    "body": "Oil prices eased on Monday 9 November after President Trump said fresh attacks on Iran were unlikely as long as talks continue. Yet Secretary of State Marco Rubio said the talks were not close to a breakthrough and called some Iranian demands outrageous.\nIran says it wants US sanctions lifted and the war ended on all fronts before negotiations start. Brent crude, the international oil benchmark, fell 16% the week before to a two-month low of $93.22 a barrel. Analysts at Eurasia Group put the chance of renewed US strikes at 60%, down from 65%.\nShips have still been hit near the Strait of Hormuz, a narrow channel carrying much of the world's oil. Eurasia Group said an escalation could push Brent up to a range of $110 to $125.",
+    "why": "Higher oil prices push up petrol and energy bills, which can keep inflation and interest rates high."
+   },
+   {
+    "headline": "Oil prices dip as Trump signals restraint, but Iran talks look far from a deal",
+    "body": "Oil prices dipped on Monday 9 November after President Trump said new strikes on Iran were unlikely if talks keep moving. But Secretary of State Marco Rubio said a breakthrough was not close and called some of Iran's demands outrageous.\nIran wants US sanctions lifted and the war ended on all fronts before it talks. Brent crude, the main global oil price, fell 16% last week to a two-month low of $93.22 a barrel. Analysts at Eurasia Group put the chance of new US strikes at 60%, down from 65%.\nBoth sides say ships have been hit near the Strait of Hormuz, the narrow sea route through which much of the world's oil travels. Eurasia Group said a wider conflict could push Brent to between $110 and $125.",
+    "why": "Oil prices affect what people pay for petrol and heating, and how fast prices rise generally."
+   },
+   {
+    "headline": "Oil gets cheaper as Trump goes easy on Iran, but a peace deal still looks far away",
+    "body": "Oil got cheaper on Monday 9 November. President Trump said new attacks on Iran were unlikely as long as talks go on. But Secretary of State Marco Rubio said the talks were not close to a deal, and he called some of Iran's demands outrageous.\nIran says it wants US sanctions, which are penalties on its trade, lifted first. It also wants the war ended on all fronts. Brent crude, a key oil price, dropped 16% last week to $93.22 a barrel. A research group, Eurasia Group, thinks there is a 60% chance of new US strikes.\nShips have still been hit near the Strait of Hormuz, a narrow sea route for much of the world's oil. Eurasia Group says that if fighting grows, oil could cost $110 to $125.",
+    "why": "When oil costs more, petrol, heating and many goods cost more as well."
+   },
+   {
+    "headline": "Oil prices fall a little, but talks with Iran are stuck",
+    "body": "Oil prices fell a little on Monday 9 November. US President Donald Trump said new attacks on Iran were unlikely if talks keep going. But the US foreign minister, Marco Rubio, said a deal was not close. He called some of what Iran wants outrageous.\nIran wants the US to drop its sanctions, which are limits on trade, and to end the war everywhere before it will talk. Brent crude, an oil price used around the world, fell by 16% last week to $93.22 a barrel. One research group puts the chance of new US strikes at 60%.\nShips are still being hit near the Strait of Hormuz, a narrow sea road that carries much of the world's oil. If fighting grows, oil could cost $110 to $125 a barrel.",
+    "why": "Oil prices change what we pay for petrol and heating, so what happens with Iran can reach our homes."
+   },
+   {
+    "headline": "Oil gets cheaper while the US and Iran argue",
+    "body": "Oil got cheaper on Monday 9 November. US President Donald Trump said he did not expect new attacks on Iran if talks go on. But the US foreign minister, Marco Rubio, said the two sides were not close to a deal. He called some of Iran's demands outrageous.\nIran wants the US to drop its sanctions, which are limits on trade, and end the war everywhere before it will talk. Brent, a kind of oil used as a world price, fell 16% last week to $93.22 a barrel. A barrel is a large container for oil. One research group says new US strikes have a 60% chance.\nShips have still been hit near the Strait of Hormuz, a narrow sea road for much of the world's oil. If the fighting grows, oil could cost much more, and so could petrol.",
+    "why": "Oil prices change what families pay for petrol and heating."
+   },
+   {
+    "headline": "The price of oil dips while the US and Iran still disagree",
+    "body": "The price of oil dipped on Monday 9 November. The US president, Donald Trump, said he did not expect new attacks on Iran if talks continue. But the US foreign minister, Marco Rubio, said no deal was close. He said some of Iran's demands were outrageous.\nIran says the US must end its sanctions, which are rules that stop it trading, and stop the war everywhere first. Oil is sold by the barrel, a big container. A type called Brent fell by 16% last week to $93.22 a barrel.\nShips have still been hit near the Strait of Hormuz, a narrow stretch of sea that much of the world's oil sails through. If the fighting grows, a barrel could cost far more. That would make petrol dearer.",
+    "why": "Oil makes petrol and heating, so its price can change how much families pay."
+   },
+   {
+    "headline": "Oil gets a bit cheaper, but two countries still disagree",
+    "body": "Oil got a bit cheaper on Monday. Oil is a thick liquid from under the ground. It is used to make petrol for cars and to heat buildings. The leader of the United States, Donald Trump, said he did not plan new attacks on Iran while talks go on.\nBut another US leader, Marco Rubio, said the two countries were not close to agreeing. Iran wants the US to stop blocking its trade and to end the war. The US says some of these wants are not fair.\nShips have still been hit near the Strait of Hormuz, a narrow sea path for oil ships. If the fighting grows, oil could cost much more, and so could petrol. That is why people watch this closely.",
+    "why": "Oil prices change what families pay for petrol and heating."
+   },
+   {
+    "headline": "Oil gets a little cheaper, like sweets in the tuck shop",
+    "body": "Oil got a little cheaper on Monday. Oil is what makes cars go and keeps many buildings warm. When oil costs more, lots of things in shops cost more, like sweets at the tuck shop when the sugar gets dearer.\nTwo countries, the United States and Iran, are in a big fight. They are talking to try to stop it. One leader said he did not plan new attacks while they talk. That made oil cheaper. But another leader said they were not close to making peace yet.\nShips carrying oil have still been hit on a narrow sea path. If the fight grows, oil could cost much more again. Grown-ups are watching closely.",
+    "why": "When oil costs more, many things cost more, and that matters to families."
+   }
+  ],
+  "order": 6
+ },
+ {
+  "id": "palestine-action-supreme-court",
+  "topic": "Politics",
+  "region": "United Kingdom",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/11/04/uk-supreme-court-to-hear-appeal-against-ban-on-palestine-action-group",
+  "headline": "Supreme Court hears Palestine Action's appeal against its terror ban; ruling awaited",
+  "terms": [
+   {
+    "term": "Proscription",
+    "meaning": "Officially banning a group as a terrorist organisation under UK law."
+   },
+   {
+    "term": "Supreme Court",
+    "meaning": "The highest court in the UK for most cases."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Supreme Court hears Palestine Action's appeal against its terror ban; ruling awaited",
+    "body": "The UK Supreme Court heard a two-day appeal on 4 and 5 November against the government's proscription of Palestine Action as a terrorist group. Huda Ammori, who co-founded the group, was granted permission to challenge the ban on a narrow procedural ground: that the Home Office did not follow its own criteria. No judgment has been reported yet.\nThe High Court ruled in February that the ban was disproportionate, but the Court of Appeal overturned that decision in June. Ammori has said she would take the case to the European Court of Human Rights if she loses.\nPolice arrested supporters outside the Supreme Court on 4 November. More than 4,000 arrests have been made under the ban, which makes it a criminal offence to show support for the group.",
+    "why": "The ruling will decide whether a major use of UK terrorism powers against a protest group stands."
+   },
+   {
+    "headline": "Palestine Action ban: Supreme Court hears appeal, judgment still to come",
+    "body": "The Supreme Court heard an appeal on 4 and 5 November against the proscription of Palestine Action under terrorism law. Huda Ammori, a co-founder, was allowed to argue on a narrow ground: that the Home Office failed to follow its own criteria. No ruling has been reported.\nThe High Court found the ban disproportionate in February, but the Court of Appeal reversed that in June. Ammori says she would go to the European Court of Human Rights if she loses.\nSupporters were arrested outside the court on 4 November. More than 4,000 people have been arrested under the ban, which makes showing support for the group a crime.",
+    "why": "The case tests how far terrorism powers can be used against protest groups."
+   },
+   {
+    "headline": "Supreme Court hears challenge to the Palestine Action terror ban",
+    "body": "The Supreme Court spent two days, 4 and 5 November, hearing a challenge to the ban on Palestine Action. The group was banned under terrorism law. Huda Ammori, who co-founded it, was allowed to challenge the ban on a narrow ground: that the Home Office did not follow its own criteria. A judgment has not yet been reported.\nThe High Court said in February that the ban was disproportionate. The Court of Appeal overturned that in June. Ammori says she would take the case to the European Court of Human Rights if she lost.\nPolice arrested supporters outside the court on 4 November. More than 4,000 people have been arrested under the ban, which makes it an offence to show support for the group.",
+    "why": "The decision could affect how the government uses terrorism powers against protest groups."
+   },
+   {
+    "headline": "Supreme Court hears appeal against the Palestine Action ban",
+    "body": "The UK Supreme Court has heard an appeal against the ban on Palestine Action, which the government classed as a terrorist group. The hearing lasted two days, 4 and 5 November. Huda Ammori, a co-founder of the group, argues the Home Office did not follow its own rules when it made the ban. No decision has been announced.\nA lower court, the High Court, said in February that the ban went too far. The Court of Appeal disagreed in June. Ammori says she would go to the European Court of Human Rights if she loses.\nSupporters were arrested outside the Supreme Court on 4 November. More than 4,000 people have been arrested under the ban, because showing support for the group is now a crime.",
+    "why": "The ruling will say whether the use of terrorism law against a protest group was lawful."
+   },
+   {
+    "headline": "The Supreme Court has heard a case about banning the group Palestine Action",
+    "body": "The UK's highest court, the Supreme Court, has heard a case about the ban on Palestine Action. The government banned the group by calling it a terrorist group. The court met for two days, on 4 and 5 November. We do not yet know what it will decide.\nHuda Ammori helped start the group. She says the Home Office did not follow its own rules when it made the ban. In February, a lower court said the ban went too far. In June, a higher court disagreed. Ammori says she would go to a European court if she loses.\nPolice arrested people outside the court on 4 November. More than 4,000 people have been arrested because it is now a crime to show support for the group.",
+    "why": "The decision will show how far the government can go when it bans a protest group."
+   },
+   {
+    "headline": "The top UK court has looked at the ban on Palestine Action",
+    "body": "The top court in the UK, the Supreme Court, has looked at the ban on a group called Palestine Action. The government banned it by calling it a terrorist group. Judges listened for two days, on 4 and 5 November. They have not said yet what they decide.\nHuda Ammori helped start the group. She says the Home Office, the government team in charge of policing and borders, did not follow its own rules. A lower court agreed in February that the ban went too far. A higher court said no in June.\nPolice arrested people outside the court on 4 November. More than 4,000 people have been arrested, because showing support for the group is now a crime.",
+    "why": "The decision will show how far the government can go when it bans a group."
+   },
+   {
+    "headline": "Judges hear a case about a banned protest group",
+    "body": "The most senior judges in the UK have heard a case about a group called Palestine Action. The government banned the group and said it was a terrorist group. That means it is against the law to say you support it. The judges listened on 4 and 5 November. They will tell us their decision later.\nA woman called Huda Ammori helped start the group. She says the government did not follow its own rules when it made the ban. One court agreed with her in February. A higher court did not, in June.\nMore than 4,000 people have been arrested for showing support for the group. Some were arrested outside the court on 4 November.",
+    "why": "The case asks how far a government can go in banning groups that protest."
+   },
+   {
+    "headline": "Judges hear a case about a group that the government banned",
+    "body": "The most important judges in the UK have heard a case about a group called Palestine Action. The government banned it and called it a terrorist group. That makes it a crime to say you support it. The judges listened on 4 and 5 November. We do not know yet what they will decide.\nA woman who helped start the group says the government did not follow its own rules when it made the ban. One court agreed with her in February. A higher court did not, in June. She says she would go to a court in Europe if she loses.\nMore than 4,000 people have been arrested for showing support for the group. Some were arrested outside the court on 4 November.",
+    "why": "Courts check that governments follow their own rules, and this case tests that."
+   },
+   {
+    "headline": "Judges hear a case about a group that was banned",
+    "body": "The most important judges in the UK have been listening to a case. It is about a group called Palestine Action. The government banned this group and called it a terrorist group. That means it is against the law to say you support it. The judges listened on 4 and 5 November. We are waiting to hear what they decide.\nA woman who helped start the group says the government did not follow its own rules. One court agreed with her. Another court did not.\nMore than 4,000 people have been arrested for showing support for the group. The case is about whether the ban is fair.",
+    "why": "Courts check that governments follow the rules, and this case tests that."
+   },
+   {
+    "headline": "Judges listen to a big argument about a banned group",
+    "body": "Some very important judges have been listening to an argument. It is about a group of people who protest. The government banned the group and said it was dangerous. Now, saying you like the group is against the law. The judges listened for two days. We are still waiting for them to decide.\nOne woman who helped start the group says the government did not follow its own rules. Judges are like referees in a game. They check that everybody follows the rules, even the government.\nLots of people have been arrested for saying they support the group. Now everyone is waiting to hear if the judges think the ban was fair.",
+    "why": "Judges make sure everyone follows the rules, even the government."
+   }
+  ],
+  "order": 7
+ },
+ {
+  "id": "ukraine-russia-abu-dhabi-talks",
+  "topic": "Politics",
+  "region": "Europe",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/11/09/eu-to-send-joint-team-to-ukraine-russia-peace-talks-in-abu-dhabi",
+  "headline": "US-hosted Ukraine-Russia peace talks begin in Abu Dhabi as Europe seeks a seat",
+  "terms": [
+   {
+    "term": "Trilateral talks",
+    "meaning": "Negotiations involving three parties, here Ukraine, Russia and the United States."
+   },
+   {
+    "term": "Annex",
+    "meaning": "To take over territory and claim it as part of your own country."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "US-hosted Ukraine-Russia peace talks begin in Abu Dhabi as Europe seeks a seat",
+    "body": "Peace talks between Ukraine and Russia, hosted by the United States, are due in Abu Dhabi on 10 and 11 November, the first trilateral negotiations since February. Russia's delegation is led by Putin aide Vladimir Medinsky, and the US side includes envoys Steve Witkoff and Jared Kushner.\nThe EU is sending a joint team, alongside France, Germany and the UK, though it is unclear whether Europeans will meet the Russians face to face. President Trump has spoken of a strong inclination to end the war and has said post-war Ukraine will have a different shape.\nThe core dispute is territorial. Vladimir Putin has demanded that Ukraine withdraw from four regions Moscow claimed to annex in 2022, while Ukraine rejects ceding territory. On 7 November Russia struck power facilities around Kyiv and damaged a major bridge.",
+    "why": "The talks could shape European security, energy prices and defence spending for years."
+   },
+   {
+    "headline": "Ukraine and Russia due to hold US-brokered talks in Abu Dhabi as strikes continue",
+    "body": "Ukraine and Russia are due to hold US-hosted talks in Abu Dhabi on 10 and 11 November, their first three-way negotiations with the United States since February. Russia's delegation is led by Vladimir Medinsky, and Washington is sending envoys Steve Witkoff and Jared Kushner.\nEurope is trying to secure a role. The EU is sending a joint team, with France, Germany and the UK, but it is not clear whether Europeans will meet Russian officials directly. President Trump has said he sees a strong inclination to end the war.\nThe main obstacle is land. Vladimir Putin wants Ukraine to withdraw from four regions Russia claimed to annex in 2022, and Ukraine refuses. Russia struck power sites near Kyiv on 7 November.",
+    "why": "Any deal would redraw security arrangements in Europe and affect energy markets."
+   },
+   {
+    "headline": "Russia and Ukraine prepare for US-hosted peace talks in Abu Dhabi",
+    "body": "Russia and Ukraine are set to hold peace talks in Abu Dhabi on 10 and 11 November, hosted by the United States. They are the first three-way talks since February. Russia's team is led by Vladimir Medinsky, and the US is sending envoys Steve Witkoff and Jared Kushner.\nEuropean governments want a place at the table. The EU is sending a joint team along with France, Germany and the UK, but it is unclear whether they will meet the Russians face to face. President Trump says he sees a strong inclination to end the war.\nThe biggest disagreement is territory. Vladimir Putin demands that Ukraine pull out of four regions Moscow claimed to annex in 2022, which Ukraine rejects. Russia hit power facilities around Kyiv on 7 November.",
+    "why": "The outcome could change Europe's security and the cost of energy."
+   },
+   {
+    "headline": "Peace talks on Ukraine open in Abu Dhabi with the main dispute unresolved",
+    "body": "Ukraine and Russia are sending delegations to Abu Dhabi for talks on 10 and 11 November, hosted by the United States. It is the first time the three have met since February. Russia's team is led by Vladimir Medinsky, and US envoys Steve Witkoff and Jared Kushner will take part.\nThe EU is sending a joint team, together with France, Germany and the UK, although it is not certain they will meet the Russians directly. President Trump says he sees a strong inclination to end the war.\nThe main sticking point is land. Vladimir Putin wants Ukraine to withdraw from four regions Russia says it annexed in 2022, an annexation most countries do not recognise. Ukraine refuses. Russia struck power facilities near Kyiv on 7 November.",
+    "why": "A deal or a failure would affect European security and energy costs."
+   },
+   {
+    "headline": "Ukraine and Russia meet for peace talks in Abu Dhabi, but they disagree about land",
+    "body": "Ukraine and Russia are sending teams to Abu Dhabi on 10 and 11 November for peace talks. The United States is hosting them. This is the first meeting of the three since February. Russia's team is led by a man called Vladimir Medinsky, and two US envoys, Steve Witkoff and Jared Kushner, will take part.\nEuropean countries want a say. The EU is sending a joint team, with France, Germany and the UK, but it is not clear if they will meet the Russians. US President Donald Trump says he wants the war to end.\nThe big problem is land. Russian leader Vladimir Putin wants Ukraine to leave four regions Russia says it took in 2022. Ukraine says no. On 7 November, Russia hit power sites near Kyiv.",
+    "why": "The talks could decide whether the war ends and how safe Europe feels."
+   },
+   {
+    "headline": "Ukraine and Russia hold peace talks in Abu Dhabi",
+    "body": "Ukraine and Russia are holding peace talks in Abu Dhabi on 10 and 11 November. The United States is the host. It is the first meeting of the three countries since February. Russia's team is led by Vladimir Medinsky. Two US envoys, Steve Witkoff and Jared Kushner, are there too.\nCountries in Europe want to take part. The EU is sending a team, along with France, Germany and the UK. It is not clear if they will meet the Russians. US President Donald Trump says he wants the war to end.\nThe big problem is land. Russia's leader, Vladimir Putin, wants Ukraine to leave four regions that Russia says it took in 2022. Ukraine says no. On 7 November, Russia hit power sites near Kyiv.",
+    "why": "If the talks work, the war could end. If not, the fighting may go on."
+   },
+   {
+    "headline": "Ukraine and Russia talk about peace in Abu Dhabi",
+    "body": "Ukraine and Russia are talking about peace in Abu Dhabi on 10 and 11 November. The United States is the host. It is the first time the three have met since February. Russia's team is led by Vladimir Medinsky, and the US has sent two envoys, Steve Witkoff and Jared Kushner.\nCountries in Europe want to help. The EU is sending a team, as are France, Germany and the UK. It is not clear if they will meet the Russians. US President Donald Trump says he wants the war to end.\nThe big problem is land. Russia's leader, Vladimir Putin, wants Ukraine to leave four regions Russia says it took in 2022. Ukraine says no. On 7 November, Russia hit power sites near the capital, Kyiv, which can leave families without light and heat.",
+    "why": "If the talks work, the fighting could stop and Europe could be safer."
+   },
+   {
+    "headline": "Ukraine and Russia talk about peace in the United Arab Emirates",
+    "body": "Ukraine and Russia are talking about peace this week in Abu Dhabi, a city in the United Arab Emirates. The talks are on 10 and 11 November. The United States invited both sides. They have not all met like this since February.\nThe war began when Russia attacked Ukraine. Other countries in Europe want to help. The European Union is sending a team, as are France, Germany and the UK. It is not clear if they will meet the Russians face to face.\nThe hardest thing to agree on is land. Russia's leader, Vladimir Putin, wants Ukraine to give up four regions. Ukraine says no. Just days ago, Russia hit power sites near the capital, Kyiv.",
+    "why": "Peace would end the suffering in Ukraine and make Europe feel safer."
+   },
+   {
+    "headline": "Two countries at war meet to try to talk about peace",
+    "body": "Two countries at war, Russia and Ukraine, are meeting this week to talk about peace. They are meeting in Abu Dhabi, a city far away from both of them. The talks are on 10 and 11 November. The United States is helping to run them.\nOther countries in Europe want to help too. They are sending a team, but nobody is sure if they will sit with the Russians. The US president says he wants the war to end.\nThe hardest part is land. Russia wants Ukraine to give up four regions. Ukraine says they belong to Ukraine, and it will not give them up. Just days ago, Russia hit power stations near the city of Kyiv, so people there lost light and heat.",
+    "why": "Peace would help the people of Ukraine and make Europe safer."
+   },
+   {
+    "headline": "Two sides in a big argument sit down to talk, like at school",
+    "body": "Imagine two children who have been fighting for a very long time. A teacher invites them to sit down and talk. That is what is happening this week. Russia and Ukraine are two countries that have been at war, and they are meeting in a city called Abu Dhabi on 10 and 11 November.\nThe United States is like the teacher helping them. Other countries in Europe want to help too, and they are sending a team to listen.\nThe hard part is that they disagree about who owns some land. Russia wants Ukraine to give up four regions. Ukraine says no. Just days ago, Russia hit power stations near Kyiv, so some families lost light and heat. Everyone hopes the talk helps the fighting stop.",
+    "why": "If the talks work, children and families in Ukraine could be safe again."
+   }
+  ],
+  "order": 8
+ },
+ {
   "id": "democrats-win-congress-midterms",
-  "order": 6,
+  "order": 9,
   "topic": "Politics",
   "region": "United States",
   "source": "CNBC",
@@ -451,7 +668,7 @@
  },
  {
   "id": "us-jobs-report-october-165000",
-  "order": 7,
+  "order": 10,
   "topic": "Economy",
   "region": "United States",
   "source": "CNBC",
@@ -525,158 +742,8 @@
   ]
  },
  {
-  "id": "us-strikes-iran-talks-continue",
-  "order": 8,
-  "topic": "Politics",
-  "region": "Middle East",
-  "source": "Euronews",
-  "url": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran",
-  "headline": "US launches limited strikes on Iran as Trump claims progress in Qatar-mediated talks",
-  "terms": [
-   {
-    "term": "Strait of Hormuz",
-    "meaning": "A narrow sea passage in the Gulf used for a large share of the world's oil."
-   },
-   {
-    "term": "Mediator",
-    "meaning": "A third party that helps two sides reach agreement."
-   },
-   {
-    "term": "Sanctions",
-    "meaning": "Penalties, usually economic, imposed on a country."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "US launches limited strikes on Iran as Trump claims progress in Qatar-mediated talks",
-    "body": "US forces carried out limited strikes in southern Iran on Friday night, which President Donald Trump called minor, even as he said the United States had made a lot of progress in talks with Tehran. Qatar, which is mediating, said on Saturday that negotiations continue and denied reports that the sides had failed to reach a deal.\nA senior Iranian official said Iran had submitted a nuclear proposal to Washington through Qatar, but that discussions depended on the US first meeting seven Iranian demands, which include sanctions relief, access to frozen assets and war reparations. Washington insists nuclear issues must be part of the initial talks. Iran has said it can reopen the Strait of Hormuz within two days if the US accepts its conditions.\nIranian media suggested later blasts were Iranian military activity rather than US strikes, and both sides have continued to hit ships in the Strait. The war began when the US and Israel attacked Iran on 28 February. Analysts are split: one puts the chance of fighting resuming at 80%, while others see the end of the US midterms as a possible opening for diplomacy.",
-    "why": "The war has pushed up energy prices and inflation worldwide, so a deal or a collapse of talks affects living costs."
-   },
-   {
-    "headline": "US carries out new strikes on Iran while talks via Qatar go on",
-    "body": "The United States carried out limited strikes in southern Iran on Friday night. President Donald Trump described them as minor and said the US had made a lot of progress in talks with Tehran. Qatar, the mediator, said on Saturday that negotiations continue and denied that they had failed.\nA senior Iranian official said Tehran had sent a nuclear proposal to Washington through Qatar. Iran says talks depend on the US first meeting seven demands, including sanctions relief, frozen assets and reparations. Washington wants nuclear issues dealt with at the start. Iran says it could reopen the Strait of Hormuz within two days if its conditions are met.\nIranian media suggested later explosions were Iranian military activity, not US attacks, and both sides continue to strike vessels in the Strait. The war began on 28 February. Analysts disagree on what comes next, with one seeing an 80% chance fighting resumes.",
-    "why": "Whether the talks succeed will influence oil prices, inflation and interest rates around the world."
-   },
-   {
-    "headline": "US strikes Iran again as both sides say talks are still alive",
-    "body": "The United States carried out limited attacks in southern Iran on Friday night. President Donald Trump called them minor and said there had been a lot of progress in talks with Iran. Qatar, which is helping the two sides talk, said on Saturday that the talks go on.\nAn Iranian official said Iran had sent a nuclear proposal through Qatar. But Iran says it wants the US to meet seven demands first, such as lifting sanctions, releasing frozen money and paying for war damage. The US says nuclear issues must be part of the first talks. Iran says it could reopen the Strait of Hormuz, a key route for oil, within two days if its conditions are met.\nThe war started on 28 February when the US and Israel attacked Iran. Ships in the Strait are still being hit. Experts are divided on whether fighting will start again.",
-    "why": "The war affects oil, petrol prices and inflation everywhere."
-   },
-   {
-    "headline": "US hits Iran again, but talks to end the war carry on",
-    "body": "The United States carried out limited strikes in southern Iran on Friday night. President Donald Trump called them minor. He also said that talks with Iran were making a lot of progress. Qatar is helping to pass messages between the two sides. It said on Saturday that the talks go on.\nIran says it has sent a proposal about its nuclear programme. But it wants the US first to meet seven demands. These include ending sanctions, freeing frozen money and paying for war damage. The US wants nuclear issues discussed first. Iran says it could reopen the Strait of Hormuz, a key route for oil ships, within two days of a deal.\nThe war began on 28 February. Ships are still being hit in the Strait. Experts disagree about what will happen next.",
-    "why": "It affects oil prices, and so the cost of fuel and energy for everyone."
-   },
-   {
-    "headline": "The US and Iran keep talking, even as the US hits Iran again",
-    "body": "The United States has hit places in the south of Iran. This happened on Friday night. President Donald Trump said the attacks were small. He also said talks with Iran were going well. A country called Qatar is helping the two sides to talk. It said on Saturday that the talks have not ended.\nIran says it has sent a plan about its nuclear work. But Iran wants the US to agree to seven things first. They include ending sanctions, which are rules that hurt its trade, and paying for war damage. The US wants to talk about nuclear work first. Iran says it could reopen a narrow sea route called the Strait of Hormuz, which oil ships use, within two days.\nThe war began on 28 February. Experts do not agree on what will happen next.",
-    "why": "The war makes oil and fuel more expensive for many families."
-   },
-   {
-    "headline": "The US hits Iran, but talks to end the war go on",
-    "body": "There is a war involving the United States and Iran. It began on 28 February. The US attacked Iran again on Friday night. The American president, Donald Trump, said the attack was small. He also said talks were going well. A country called Qatar helps them speak to each other.\nIran says it wants some things before the talks go further. It wants the US to lift rules that stop it trading. It wants frozen money back, and money for damage. The US wants to talk about Iran's nuclear work first. Iran says it could open a key sea route for oil ships within two days of a deal.\nIt is hard to say what will happen next. Some experts think the fighting will start again.",
-    "why": "The war pushes up the price of oil and fuel for everyone."
-   },
-   {
-    "headline": "A war between America and Iran is still not over",
-    "body": "America and Iran have been fighting since 28 February. This week, America attacked Iran again, but only a little. The American president, Donald Trump, said the attack was small. Both countries say they are still talking. A small country called Qatar helps them to talk.\nIran wants some things first. It wants the other side to stop its rules that hurt Iran's trade, and to give back money that is frozen. Iran also says it could open a sea road for oil ships within two days.\nWhy does this matter? Much of the world's oil goes through that sea road. When it is blocked, petrol and energy cost more. Some experts think the fighting will start again.",
-    "why": "It affects what we pay for petrol and energy."
-   },
-   {
-    "headline": "Two sides keep talking even while still arguing",
-    "body": "Two countries, America and Iran, are in a war that started in February. This week, America sent in a small attack. But both sides also say they are still talking. A friend country, Qatar, helps them talk.\nEach side wants something before it will agree. Iran wants America to stop rules that hurt Iran's money and to give back some frozen money. America wants to talk about Iran's nuclear work. Iran also says it could open a blocked sea road for ships carrying oil.\nThe war matters to people far away. Oil costs more when ships cannot move. That makes petrol and heating cost more.",
-    "why": "It affects the price of petrol and heating."
-   },
-   {
-    "headline": "Two sides argue but keep talking",
-    "body": "Imagine two children have an argument that has gone on for months. Each wants the other to say sorry first. A friend tries to help them talk. That is a bit like what is happening between America and Iran.\nThey have been in a war since February. This week, America made a small attack. But both said they still want to talk. A friend country, Qatar, is in the middle, passing messages.\nWhy does it matter? Oil ships pass through a narrow sea road near Iran. The war stopped some of them. When oil is hard to get, petrol and heating cost more for everyone.",
-    "why": "It can change the price of petrol and energy for families."
-   },
-   {
-    "headline": "Friends try to help two sides stop arguing",
-    "body": "Imagine two children are cross with each other. They are having a very big argument. A friend tries to help. The friend runs between them with messages. That is a bit like Qatar, which is helping America and Iran.\nThe two countries have been fighting since February. This week there was another small attack. But they both said they would keep talking. Each wants something before it will agree.\nThe fight matters to everyone, because oil ships are stuck. When oil is hard to get, it costs more. That means petrol and heating cost more, too.",
-    "why": "It may make petrol and heating cost more."
-   }
-  ]
- },
- {
-  "id": "brent-crude-swings-near-98",
-  "order": 9,
-  "topic": "Economy",
-  "region": "Global",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
-  "headline": "Brent crude settles at $98.32 after a week of swings driven by Iran diplomacy",
-  "terms": [
-   {
-    "term": "Brent crude",
-    "meaning": "The main international benchmark price for oil, quoted per barrel."
-   },
-   {
-    "term": "Barrel",
-    "meaning": "A unit of oil, about 159 litres."
-   },
-   {
-    "term": "Settle",
-    "meaning": "The final price at the close of trading."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Brent crude settles at $98.32 after a week of swings driven by Iran diplomacy",
-    "body": "Brent crude futures, the international oil benchmark, settled at $98.32 a barrel on Friday 6 November, up 3 cents on the day. Oil fell over the week as investors weighed the risk of conflict with Iran after the US midterm elections.\nThe week was volatile. Brent lost 7.6% on 2 November to settle at $104.77 on hopes of diplomacy, then fell to $94.62 on 4 November, a near two-month low, before recovering to around $96 to $97 on 5 November. Reports that Iran had sent a nuclear proposal to Washington through Qatar drove much of the movement. Brent is about 54.5% higher than a year ago.\nAnalysts are split. Rapidan Energy Group's Bob McNally puts the chance of military fighting resuming at 80% and says both main benchmarks could rise above $100 a barrel. Trading Economics forecasts about $100.92 by the end of the quarter. The war began on 28 February and has disrupted shipping through the Strait of Hormuz.",
-    "why": "Oil prices feed into petrol, heating bills and inflation, so swings affect household costs and interest rate decisions."
-   },
-   {
-    "headline": "Oil ends a volatile week near $98 a barrel as markets watch US-Iran talks",
-    "body": "Brent crude, the global oil benchmark, closed Friday 6 November at $98.32 a barrel, a rise of 3 cents. It finished the week lower as traders weighed the chance of renewed conflict with Iran after the midterms.\nEarly in the week Brent fell 7.6% to $104.77 on hopes of a diplomatic breakthrough, then dropped to $94.62 on 4 November, its lowest in almost two months, before bouncing to about $96 to $97. Reports of an Iranian nuclear proposal sent through Qatar were a big influence. The price is still about 54.5% above a year ago.\nRapidan Energy Group's Bob McNally sees an 80% probability that fighting resumes, which could push prices above $100. Trading Economics projects about $100.92 by the end of this quarter. The Iran war has disrupted shipping in the Strait of Hormuz since February.",
-    "why": "Higher oil feeds through to fuel and energy bills and can keep inflation and interest rates high."
-   },
-   {
-    "headline": "Oil price ends a wild week close to $98 a barrel",
-    "body": "The price of Brent crude, a main world oil price, finished Friday 6 November at $98.32 a barrel. That was up 3 cents on the day. For the week, oil prices fell as traders weighed the risk of fighting with Iran.\nOn 2 November the price dropped 7.6% to $104.77 on hopes of talks. On 4 November it fell to $94.62, the lowest in almost two months. Then it rose again to around $96 or $97. News that Iran had sent a nuclear plan to the US through Qatar moved the price. It is still about 54.5% higher than a year ago.\nOne expert, Bob McNally, thinks there is an 80% chance that fighting will start again. He says prices could go above $100. Another forecaster expects about $100.92 by the end of the quarter.",
-    "why": "Oil prices change what we pay for petrol and heating."
-   },
-   {
-    "headline": "Oil prices swing wildly as markets watch Iran",
-    "body": "The price of oil ended last week at $98.32 a barrel for Brent, the main world price. It had a bumpy week. On Monday it fell 7.6% to $104.77 because people hoped for peace talks. By Wednesday it was $94.62, the lowest in almost two months.\nThen it went up again. News that Iran had sent a nuclear plan to the US through Qatar moved the price up and down. Oil is still about 54.5% more expensive than a year ago. The war with Iran began in February and has made it harder to ship oil through a narrow sea route called the Strait of Hormuz.\nOne expert says there is an 80% chance that fighting will start again, which could push the price above $100. Others hope for a deal.",
-    "why": "Higher oil prices mean dearer petrol and energy, and can keep prices rising."
-   },
-   {
-    "headline": "Oil costs a lot, and the price keeps jumping",
-    "body": "Oil is used to make petrol, diesel and many other things. A barrel of the main world kind, called Brent, cost $98.32 on Friday 6 November. That is about 54% more than a year ago. During the week the price jumped around a lot.\nIt fell on Monday to $104.77 when people hoped America and Iran would agree to talk. It fell again to $94.62 on Wednesday. Then it rose a bit. A war with Iran, which began in February, has made it harder to move oil by ship through a narrow sea route.\nOne expert thinks fighting will start again and the price could go above $100. Others hope a deal will bring it down.",
-    "why": "Oil affects how much petrol and heating cost for families."
-   },
-   {
-    "headline": "Oil costs a lot and its price keeps changing",
-    "body": "Oil is used to make petrol for cars. It is also used for heating and to make plastic. The price of oil changes every day. On Friday, a barrel of the main world kind cost $98.32. That is more than it was a year ago.\nThe price went up and down this week. It fell when people hoped the war with Iran would end. It went up when people feared it would go on. A war can make oil more expensive, because ships find it hard to carry the oil.\nOne expert thinks the price could go above $100 if the fighting starts again. Others hope for peace and cheaper oil.",
-    "why": "Dearer oil can mean higher petrol prices and higher bills."
-   },
-   {
-    "headline": "The price of oil goes up and down",
-    "body": "Oil is a black liquid from under the ground. We use it to make petrol for cars. It is also used for heating. People buy and sell oil all over the world. The price changes every day.\nThis week one barrel cost about $98. It is higher than last year. It went up and down a lot. When people thought the war between America and Iran might end, the price fell. When they thought it might get worse, the price rose.\nIf oil costs more, petrol costs more too. Some people think the price may go above $100. Others think it will fall.",
-    "why": "It affects the cost of petrol and heating."
-   },
-   {
-    "headline": "Oil is dearer and bounces about",
-    "body": "Oil is a liquid found under the ground. People use it to make petrol for cars and fuel for planes. It costs a lot of money. This week it cost about $98 for one big barrel. That is more than last year.\nThe price went up and down this week. When people hoped for peace between two countries, the price went down. When they worried about more fighting, it went up. Ships carry oil. A war can stop the ships.\nIf oil costs more, petrol costs more too. That makes it dearer to get around.",
-    "why": "It changes what families pay for petrol."
-   },
-   {
-    "headline": "Why petrol can cost more",
-    "body": "Imagine you sell lemonade. If lemons become hard to find, they cost more. Then your lemonade costs more too. Oil is a bit like the lemons. It is used to make petrol.\nThis week oil cost a lot. It was about $98 for one big barrel. The price went up and down. There is a war far away, and ships find it hard to carry oil. When ships cannot move, there is less oil to buy.\nIf oil costs more, petrol costs more too. Grown-ups pay more to drive. People hope the war will end and the price will drop.",
-    "why": "It decides how much grown-ups pay for petrol."
-   },
-   {
-    "headline": "Why things cost more when something is hard to find",
-    "body": "Imagine a sweet shop. If the shop runs out of your favourite sweets, other shoppers still want them. The shop can ask for more money. Oil works in a similar way. If there is less oil to buy, it costs more.\nThis week, oil cost a lot of money, about $98 for a big barrel. A war far away has made it hard to ship oil. When ships cannot carry it, there is less to buy.\nOil is used to make petrol. If oil costs more, petrol costs more. Grown-ups pay more to drive cars. Everyone hopes the war ends soon.",
-    "why": "It explains why petrol can cost more."
-   }
-  ]
- },
- {
   "id": "israel-eisenkot-mandate-form-government",
-  "order": 10,
+  "order": 11,
   "topic": "Politics",
   "region": "Middle East",
   "source": "CNBC",
@@ -746,81 +813,6 @@
     "headline": "A tricky vote in a faraway country",
     "body": "Imagine your class is voting for a class captain. The vote is so close that no one wins by enough. So the teacher asks one child to try to get others to team up.\nIn Israel, people have voted for their leaders. It was very close. The president asked a man called Gadi Eisenkot to try to team up with other groups. He has about four weeks.\nThe old leader, Benjamin Netanyahu, wants to keep his job. If no team forms, they may vote again.",
     "why": "It decides who will lead the country."
-   }
-  ]
- },
- {
-  "id": "zaporizhzhia-strike-abu-dhabi-talks",
-  "order": 11,
-  "topic": "Politics",
-  "region": "Europe",
-  "source": "Euronews",
-  "url": "https://www.euronews.com/2026/11/02/hopes-of-progress-toward-peace-knocked-by-deadly-russian-attack-on-zaporizhzhia-zelenskyy-",
-  "headline": "Deadly Russian strike on Zaporizhzhia clouds Ukraine peace talks due in Abu Dhabi on 10 and 11 November",
-  "terms": [
-   {
-    "term": "Double-tap strike",
-    "meaning": "An attack followed by a second strike on the same place, often hitting rescuers."
-   },
-   {
-    "term": "Mediate",
-    "meaning": "To act as a go-between to help two sides reach agreement."
-   },
-   {
-    "term": "Working-level talks",
-    "meaning": "Negotiations between officials rather than between leaders."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Deadly Russian strike on Zaporizhzhia clouds Ukraine peace talks due in Abu Dhabi on 10 and 11 November",
-    "body": "A Russian attack on a humanitarian aid site in Ukraine's Zaporizhzhia region has killed 33 people, with more than 50 still missing, Euronews reported, as the United States prepares to mediate talks between Kyiv and Moscow in Abu Dhabi on 10 and 11 November.\nEarly reports put the toll lower, at 24 including two rescue workers and four police officers, and figures have kept changing. Ukrainian officials said the site was a school. President Volodymyr Zelenskyy said that after the first aerial bomb there was a double-tap strike with nine more bombs. The Kremlin did not deny the accusations, and spokesman Dmitry Peskov called the practice completely normal in such situations.\nUS envoy Steve Witkoff said the United States will mediate working-level negotiations between Ukraine and Russia in Abu Dhabi, and Moscow has agreed to return to three-way talks. Mr Zelenskyy said the attack knocked hopes of progress towards peace. Russia also launched 289 drones and 17 ballistic missiles overnight at Ukraine on 3 November.",
-    "why": "The talks are a rare chance to move towards ending the war, and attacks on civilians test whether they can succeed."
-   },
-   {
-    "headline": "Ukraine peace talks in Abu Dhabi overshadowed by deadly Zaporizhzhia attack",
-    "body": "Russian strikes on a humanitarian aid site in Zaporizhzhia have killed 33 people, with more than 50 missing. The attack comes days before US-mediated talks between Ukraine and Russia in Abu Dhabi on 10 and 11 November.\nCasualty figures have risen since early reports of at least 24. Ukrainian officials said the site was a school and President Zelenskyy said a second wave of nine bombs followed the first strike. Kremlin spokesman Dmitry Peskov described such tactics as completely normal in such situations and did not deny the accusations.\nUS envoy Steve Witkoff announced that the US will mediate working-level talks, and Moscow has agreed to attend three-way negotiations. Mr Zelenskyy said the strike damaged hopes of progress towards peace. Russia launched 289 drones and 17 ballistic missiles on 3 November.",
-    "why": "The outcome could affect the war, energy prices and European security."
-   },
-   {
-    "headline": "Deadly Russian attack hits Ukrainian city days before peace talks",
-    "body": "A Russian attack on an aid site in the Ukrainian region of Zaporizhzhia has killed 33 people. More than 50 people are still missing. The attack came a few days before talks between Ukraine and Russia in Abu Dhabi on 10 and 11 November, which the United States will help to organise.\nEarly reports gave a lower toll, and the numbers have kept changing. Ukrainian officials said the site was a school. President Volodymyr Zelenskyy said a second set of bombs hit after the first. The Kremlin did not deny the claims, and its spokesman said such tactics are normal in such situations.\nUS envoy Steve Witkoff said the US will mediate talks between officials. Moscow has agreed to take part. Mr Zelenskyy said the attack damaged hopes of progress towards peace.",
-    "why": "It affects hopes of an end to the war and the safety of Ukrainian civilians."
-   },
-   {
-    "headline": "Russian attack kills 33 in Ukraine before peace talks",
-    "body": "A Russian attack on an aid centre in Zaporizhzhia in Ukraine has killed 33 people. More than 50 are still missing. Talks between Ukraine and Russia are due in Abu Dhabi on 10 and 11 November, with the United States helping the two sides to talk.\nAt first the number of dead was lower. Ukrainian officials said the place was a school. The Ukrainian president, Volodymyr Zelenskyy, said that after the first bomb, nine more bombs fell. Russia's government did not deny it. Its spokesman said this kind of attack is normal in such situations.\nAn American envoy, Steve Witkoff, said the US will help the talks. Mr Zelenskyy said the attack hurt hopes of peace.",
-    "why": "It could affect whether the war can end."
-   },
-   {
-    "headline": "A deadly attack in Ukraine ahead of peace talks",
-    "body": "A Russian attack in the Ukrainian region of Zaporizhzhia has killed 33 people. Over 50 more are still missing. The place that was hit was a centre giving out help to people. Ukrainian officials said it was a school.\nThe attack came just before talks. Ukraine and Russia are due to meet in a city called Abu Dhabi on 10 and 11 November. America will help them to talk. President Volodymyr Zelenskyy said the attack hurt hopes of peace. He said bombs hit twice.\nRussia's government did not deny it. A spokesman said this kind of attack is normal in such situations. Russia also sent hundreds of drones at Ukraine on 3 November.",
-    "why": "People hope the talks will end the war."
-   },
-   {
-    "headline": "Many people killed in Ukraine just before peace talks",
-    "body": "Russia and Ukraine have been at war for a long time. Last week, a Russian attack on a place in Ukraine that was giving out help killed 33 people. More than 50 people are missing. Some officials said the place was a school.\nA few days later, the two countries are due to talk in a city called Abu Dhabi. America is helping them to talk. They will meet on 10 and 11 November. The Ukrainian president, Volodymyr Zelenskyy, said the attack hurt hopes of peace.\nRussia has not said the attack did not happen. A spokesman said this kind of thing is normal in war.",
-    "why": "People want the war to end and the talks might help."
-   },
-   {
-    "headline": "Lots of people hurt in Ukraine before peace talks",
-    "body": "Russia and Ukraine are at war. Last week, Russia attacked a place in Ukraine where people got help. Thirty-three people died. More than fifty are missing. This is very sad.\nSoon, the two countries will talk in a city called Abu Dhabi. They will meet on 10 and 11 November. America will help them to talk. The Ukrainian leader said the attack made it harder to hope for peace.\nRussia did not say the attack was wrong. Many people hope the talks will help to end the war.",
-    "why": "People want the war to end."
-   },
-   {
-    "headline": "Sad news before an important talk",
-    "body": "There is a war between two countries called Russia and Ukraine. Last week, an attack in Ukraine killed 33 people. It was at a place where people got help. Many more people are still missing. This is very sad.\nSoon the two countries will talk. They will meet in a city far away called Abu Dhabi. A friend country, America, will help them to talk. They hope to find a way to stop the war.\nThe Ukrainian leader said the attack made peace harder. Many people hope the talks will still help.",
-    "why": "People hope the talks help end the fighting."
-   },
-   {
-    "headline": "Two sides try to stop a very long fight",
-    "body": "Imagine two children who have been fighting for a very long time. A friend wants them to stop. The friend asks them to sit down and talk. That is what is happening with Russia and Ukraine.\nLast week, there was a very sad attack in Ukraine. Thirty-three people died. It happened at a place where people got help. Soon, the two sides will meet to talk. A friend country, America, will help.\nEveryone hopes the talks will help the fighting to stop.",
-    "why": "Many people hope the fighting ends."
-   },
-   {
-    "headline": "A sad event before a talk",
-    "body": "Imagine two children have been in a big argument for years. The head teacher says they must sit and talk. But just before they talk, one of them does something very unkind to the other.\nThat is a bit like what happened with Russia and Ukraine. They are in a war. Last week, an attack in Ukraine hurt many people. It was at a place where people got help.\nSoon they will meet to talk. A friend country will help them. Many people hope it will be a step towards peace.",
-    "why": "Many people hope the fighting ends soon."
    }
   ]
  },
