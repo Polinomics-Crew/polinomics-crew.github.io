@@ -1,677 +1,752 @@
 [
  {
-  "id": "boe-warns-inflation-near-5",
-  "order": 1,
+  "id": "rwe-kkr-12bn-offshore-wind",
   "topic": "Economy",
   "region": "United Kingdom",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
-  "headline": "Bank of England raises rate to 4% and warns inflation could reach about 5% by mid-2027",
+  "source": "GOV.UK",
+  "url": "https://www.gov.uk/government/news/prime-minister-hails-major-investment-in-uk-renewables",
+  "headline": "Prime Minister hails £12bn RWE and KKR offshore wind investment for Norfolk",
   "terms": [
    {
-    "term": "Base rate",
-    "meaning": "The interest rate set by the Bank of England, which influences what banks charge on loans and pay on savings."
+    "term": "Offshore wind",
+    "meaning": "Wind turbines built in the sea, where winds are stronger and steadier than on land."
    },
    {
-    "term": "Monetary Policy Committee",
-    "meaning": "The nine-member Bank of England group that votes on interest rates."
+    "term": "Gigawatt",
+    "meaning": "A unit of power equal to a billion watts, enough for hundreds of thousands of homes."
    },
    {
-    "term": "Basis point",
-    "meaning": "One hundredth of a percentage point, so 25 basis points is 0.25%."
+    "term": "Investment",
+    "meaning": "Money put into a project now in the hope of a return later."
    }
   ],
   "levels": [
    {
-    "headline": "Bank of England raises rate to 4% and warns inflation could reach about 5% by mid-2027",
-    "body": "The Bank of England raised its base rate by 25 basis points, from 3.75% to 4%, on 5 November. It was the first increase since August 2023. The Monetary Policy Committee voted 8 to 1, with one member wanting a larger rise of 50 basis points to 4.25%.\nThe Bank now expects UK inflation to climb to about 5% by the middle of 2027. The latest official figure from the Office for National Statistics put CPI inflation at 3.5% in the 12 months to September, up from 3.1% in August, with transport costs a main driver. The next inflation figures are due on 18 November.\nGovernor Andrew Bailey said he could see the argument for a further rise unless energy price risks ease. Markets were pricing roughly a one-in-four chance of another increase at the next decision on 17 December. HMRC has said its interest rates on late and overpaid tax will be revised to match, from 16 November for quarterly instalment payments and 24 November for other instalments.",
-    "why": "Higher borrowing costs and faster price rises affect mortgages, savings and the cost of living for most households."
+    "headline": "Prime Minister hails £12bn RWE and KKR offshore wind investment for Norfolk",
+    "body": "The Government announced on 11 November that the energy company RWE and the investment firm KKR will together invest £12 billion in the Vanguard West and Vanguard East offshore wind projects off Norfolk. Ministers say it is possibly the largest investment of its kind in UK history.\nThe wind farms are expected to be operating by 2030. The announcement came as Prime Minister Andy Burnham prepared to travel to the COP31 climate summit in Antalya, Türkiye, which runs from 9 to 20 November.\nThe same Government release also highlighted Berwick Bank, off Scotland's east coast, which it says could become the world's largest offshore wind farm at full capacity, supplying more than 6% of current UK electricity demand.\nBackground: RWE and KKR agreed their partnership on the Norfolk Vanguard projects after a record auction in which the UK secured 8.4 gigawatts of new offshore wind. The £12 billion figure and the 'largest ever' claim come from the Government's own release, and no independent confirmation was found.",
+    "why": "Large energy projects shape bills, jobs and the UK's reliance on imported fuel."
    },
    {
-    "headline": "Bank of England lifts interest rates to 4% and says inflation could approach 5%",
-    "body": "The Bank of England increased Bank Rate by a quarter of a percentage point to 4% on 5 November, its first rise since August 2023. Eight members of the Monetary Policy Committee backed the move, while one argued for a bigger half-point increase.\nPolicymakers now think inflation will rise to about 5% by the middle of next year. In September, official figures showed consumer price inflation at 3.5%, up from 3.1% a month earlier, mainly because transport prices rose. New figures are due on 18 November.\nGovernor Andrew Bailey told reporters he could see the case for more increases if energy price risks do not fade. Financial markets saw about a 25% chance of a further rise when the Bank next meets on 17 December. HMRC will also raise the interest it charges on late tax payments, starting on 16 November for some instalments.",
-    "why": "Interest rate decisions shape what people pay on loans and mortgages and what they earn on savings."
+    "headline": "£12bn offshore wind deal announced as PM heads to COP31",
+    "body": "RWE and KKR will invest £12 billion in two Norfolk offshore wind farms, Vanguard West and Vanguard East, the Government said on 11 November. It described the sum as possibly the biggest investment of its kind in UK history.\nThe farms should be running by 2030. Prime Minister Andy Burnham welcomed the news just before travelling to the COP31 climate summit in Antalya, Türkiye, which lasts until 20 November.\nThe release also pointed to Berwick Bank, off Scotland's east coast. At full capacity the Government says it could be the world's largest offshore wind farm, meeting over 6% of today's UK electricity demand.\nThe partnership between RWE and KKR follows a record auction that secured 8.4 gigawatts of offshore wind capacity. The headline figure and the 'largest ever' description are the Government's own, and could not be checked against independent reports.",
+    "why": "Where electricity comes from affects household bills and the country's energy security."
    },
    {
-    "headline": "Interest rates go up to 4% as the Bank of England warns prices could rise faster",
-    "body": "The Bank of England has put up interest rates from 3.75% to 4%. This is the first rise since August 2023. Eight of the nine people on the committee that decides rates voted for it, and one wanted a bigger rise.\nThe Bank said it expects inflation, the rate at which prices go up, to reach about 5% by the middle of 2027. In September it was 3.5%, up from 3.1% in August, partly because transport costs rose.\nGovernor Andrew Bailey said he could see the argument for another rise unless risks to energy prices ease. Markets think there is about a one in four chance of that happening at the next decision on 17 December. The tax authority, HMRC, will also change the interest it charges on late tax payments to match.",
-    "why": "Many families and businesses will feel the change through the cost of borrowing and the price of everyday goods."
+    "headline": "Government says £12bn will be invested in two Norfolk wind farms",
+    "body": "The Government says the energy firm RWE and investment company KKR will invest £12 billion in two offshore wind farms off Norfolk, called Vanguard West and Vanguard East. Ministers believe it may be the biggest investment of its kind in UK history.\nThe turbines are due to be working by 2030. The announcement came on 11 November, just before Prime Minister Andy Burnham went to the COP31 climate summit in Antalya, Türkiye.\nThe Government also mentioned Berwick Bank off the Scottish coast. When complete, it says, the wind farm could be the largest of its kind in the world and supply more than 6% of the electricity the UK uses now.\nThe companies teamed up after a record government auction for offshore wind. The £12 billion total comes from the Government rather than an independent source.",
+    "why": "More home-grown power can mean steadier prices and more jobs."
    },
    {
-    "headline": "Bank of England raises interest rates to 4% because it fears prices will rise faster",
-    "body": "The Bank of England has raised its main interest rate to 4%, up from 3.75%. It is the first increase in more than two years. Eight of the nine members of the committee that sets the rate voted yes, and one wanted an even bigger rise.\nThe reason is inflation, which means prices going up over time. In September, prices were 3.5% higher than a year before. The Bank thinks that figure could reach about 5% by the middle of 2027. Higher interest rates make borrowing more expensive, which tends to slow spending and so can help to cool price rises.\nGovernor Andrew Bailey said another rise is possible if energy price worries do not ease. The next decision is on 17 December. The tax office, HMRC, will also raise what it charges for late tax payments.",
-    "why": "If you borrow money, such as a mortgage, it may cost more, while savers may earn a little more."
+    "headline": "£12 billion for new wind farms off the Norfolk coast",
+    "body": "The Government has announced that two companies, RWE and KKR, plan to spend £12 billion on two wind farms in the sea off Norfolk. They are called Vanguard West and Vanguard East. Ministers say it could be the biggest deal of its kind the UK has ever seen.\nThe wind farms should start producing power by 2030. Prime Minister Andy Burnham welcomed the news on 11 November, before he left for COP31, a big international climate meeting in Türkiye.\nThe Government also talked about Berwick Bank, off the east coast of Scotland. It says this could one day be the largest offshore wind farm in the world, powering more than 6% of what the UK uses today.\nThe £12 billion figure comes from the Government, and we could not find anyone else confirming it.",
+    "why": "Making power at home helps protect the UK from price shocks abroad."
    },
    {
-    "headline": "Interest rates rise to 4%: the Bank of England says prices could go up faster",
-    "body": "The Bank of England has made borrowing a little more expensive. Its key interest rate, which affects what banks charge on loans and pay on savings, has gone up from 3.75% to 4%. Eight of the nine people who vote on it agreed. One wanted a bigger rise.\nThe Bank did this because it is worried about inflation. Inflation is how quickly prices rise. In September it was 3.5%, which is higher than the month before. The Bank thinks it could reach about 5% by the middle of next year, which is well above its usual aim.\nThe Bank's boss, Andrew Bailey, said more rises could follow if energy costs stay a worry. The next decision is on 17 December, and the tax office will change its rates on late payments too.",
-    "why": "Prices and loan costs touch almost everyone, from shoppers to people with a mortgage."
+    "headline": "Two firms plan £12bn of wind farms off Norfolk",
+    "body": "Two companies, RWE and KKR, plan to spend £12 billion building wind farms in the sea off Norfolk. The Government announced it on 11 November and says it may be the biggest investment of its kind in UK history.\nThe wind farms are called Vanguard West and Vanguard East. They should be making electricity by 2030. Offshore wind farms are built at sea because the wind there blows harder and more steadily than on land.\nPrime Minister Andy Burnham welcomed the news as he got ready to go to COP31, a world climate meeting in Türkiye. The Government also said a wind farm called Berwick Bank, off Scotland, could one day be the largest in the world.\nThe £12 billion figure is the Government's own number.",
+    "why": "Cheaper, home-made power could help keep energy bills down in future."
    },
    {
-    "headline": "The Bank of England raises interest rates and says prices may climb faster",
-    "body": "The Bank of England has raised interest rates from 3.75% to 4%. The Bank is where the country's rate for borrowing money is set. Eight of the nine members of its rate-setting group voted for the rise. One wanted it to be bigger.\nThe main worry is rising prices, which is called inflation. In September, prices were 3.5% higher than a year earlier. The Bank thinks that could reach about 5% by the middle of next year. Raising rates makes loans cost more, so people tend to spend less, and that helps slow price rises.\nThe Bank's governor, Andrew Bailey, said another rise could come if energy costs stay a concern. The next decision is on 17 December. The tax office will also charge more on late tax payments.",
-    "why": "Anyone with a loan or a mortgage could pay more, while people who save may earn more."
+    "headline": "Big companies will spend £12bn on wind farms at sea",
+    "body": "Two big companies, RWE and KKR, say they will spend £12 billion on two wind farms in the sea near Norfolk. The Government shared the news on 11 November. It says this may be the biggest deal like it ever in the UK.\nThe wind farms are called Vanguard West and Vanguard East. They are meant to be finished and working by 2030. Wind farms use the wind to spin big blades, and that makes electricity for homes and shops.\nPrime Minister Andy Burnham was pleased about the news. He was about to go to COP31, a large meeting where countries talk about the climate.\nThe Government says another wind farm, Berwick Bank in Scotland, could one day be the biggest in the world. The £12 billion figure comes from the Government.",
+    "why": "Using the wind for power could help keep bills steadier and the air cleaner."
    },
    {
-    "headline": "The Bank of England puts up interest rates to 4%",
-    "body": "The Bank of England has raised interest rates. They went up from 3.75% to 4%. This is the first rise since 2023.\nThe Bank did it because prices are rising faster. Inflation means the cost of things like food, fuel and travel goes up over time. In September, prices were 3.5% higher than a year earlier. The Bank thinks it could reach about 5% next year.\nWhen interest rates go up, borrowing money costs more. People spend a bit less, and that can slow price rises down. Savers may get paid more by their banks.\nThe Bank's boss, Andrew Bailey, said another rise could come if energy prices stay a worry. The Bank will decide again on 17 December. Most of its voters, eight out of nine, agreed with this rise.",
-    "why": "It could change how much families pay each month on loans and mortgages."
+    "headline": "New wind farms at sea will cost £12 billion",
+    "body": "Some big companies want to build two new wind farms in the sea near Norfolk. They will spend £12 billion, which is a huge amount of money. The Government told people about it on 11 November.\nA wind farm is a group of tall machines called turbines. The wind turns their blades, and this makes electricity. At sea, the wind is stronger, so the turbines can make more power.\nThe farms are called Vanguard West and Vanguard East. They should be working by 2030, which is about four years away.\nThe Prime Minister, Andy Burnham, said he was happy about the plan. The money figure comes from the Government, so we cannot be sure others agree with it.",
+    "why": "Electricity made from wind does not run out, and it can help keep bills lower."
    },
    {
-    "headline": "Interest rates go up and prices may rise faster",
-    "body": "The Bank of England has put up interest rates from 3.75% to 4%. Interest is the extra money you pay back when you borrow, or the extra money a bank pays you when you save.\nWhy do it now? Prices are going up quickly. This is called inflation. A year ago, a snack might have cost a pound. Now it might cost a little more. In September, prices were 3.5% higher than a year before, and the Bank thinks they could go up by about 5% next year.\nWhen borrowing costs more, people tend to spend less, and prices can stop rising so fast. Eight out of nine experts on the Bank's committee voted for the change. The next decision is on 17 December. The boss, Andrew Bailey, said more rises are possible.",
-    "why": "It affects the cost of mortgages and loans that families pay, and what savers earn."
+    "headline": "Two giant wind farms are planned in the sea",
+    "body": "Two companies want to build wind farms in the sea. The sea is near Norfolk, in England. The plan will cost £12 billion. That is a very big pile of money.\nA wind farm has tall machines called turbines. Wind pushes their blades round and round. The turning makes electricity. We use electricity for lights, phones and TVs.\nThe wind farms should start working in 2030. The Prime Minister, Andy Burnham, said he was pleased. He told people the news on 11 November.\nNobody else has checked the money number yet. It was given by the Government. Wind is free and never runs out, so people like using it to make power.",
+    "why": "Wind power can give homes electricity without burning fuel."
    },
    {
-    "headline": "The Bank of England makes borrowing cost more",
-    "body": "The Bank of England is the bank for the whole country. This week it made borrowing money cost more. The cost of borrowing is called the interest rate. It went up from 3.75 to 4 out of every 100 pounds each year.\nWhy? Prices have been going up. When prices go up over time, we call it inflation. Last year, a pound bought more than it does now. The Bank thinks prices could keep going up and may rise by about 5% by the middle of next year.\nMaking borrowing dearer can slow things down. People spend less, so prices stop climbing so fast. Eight of nine people on the Bank's team voted yes. They will decide again on 17 December. Their boss, Andrew Bailey, said they might raise rates again.",
-    "why": "Families who borrow money may pay a bit more, and people who save may earn a bit more."
+    "headline": "Big wind farms will be built at sea",
+    "body": "Some people want to build giant wind machines in the sea. They want to put them near a place called Norfolk. It will cost a huge amount of money. Grown-ups say it is £12 billion.\nThe machines are called turbines. They look like very tall fans. The wind blows and spins them. When they spin, they make electricity. Electricity makes lamps shine and lets you watch TV.\nThey should be ready in the year 2030. The leader of the country, called the Prime Minister, said it was good news.\nThe wind is free. It never runs out. So wind machines are a clever way to get power.",
+    "why": "Wind is a free way to make the power we need at home."
    },
    {
-    "headline": "The people who look after our money made a change",
-    "body": "Think of the Bank of England as the grown-up who looks after the country's money. This week it made a change. It made borrowing money a little more expensive.\nImagine you borrow a toy from a friend and promise to give back the toy plus a small extra gift. That extra gift is like interest. The Bank made the extra gift a bit bigger.\nWhy? Because things in shops have been getting more expensive, like when sweets cost more pocket money than before. The Bank is worried they might cost even more soon. When borrowing costs more, people spend a little less, and prices can stop climbing so fast.\nThe Bank's boss, Andrew Bailey, said they may do it again if they need to. They will think about it again on 17 December.",
-    "why": "Grown-ups pay more when they borrow, which can change how much money families have for treats."
+    "headline": "Giant windmills in the sea",
+    "body": "Think of a windmill at the seaside, spinning in the breeze. Now think of lots of them, standing in the sea. That is what some people plan to build near a place called Norfolk.\nWhen the wind pushes the big blades, they spin, and that makes electricity for homes and schools. It is a bit like how you make a pinwheel turn by blowing on it.\nIt costs a lot of money. Grown-ups say it is £12 billion. That is more pocket money than anyone could count.\nThe windmills should be ready in the year 2030. The wind is free, so these windmills help us make power without using up anything.",
+    "why": "Windmills at sea help make power in a gentle way."
    }
-  ]
+  ],
+  "order": 1
  },
  {
-  "id": "us-stocks-fall-hot-cpi",
-  "order": 2,
+  "id": "us-stocks-rally-coreweave-nvidia",
   "topic": "Economy",
   "region": "United States",
   "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
-  "headline": "S&P 500 closes down 0.38% at 7,520.93 as hot inflation data fuels rate-hike fears",
+  "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
+  "headline": "S&P 500 closes up about 1.3% at 7,619 as CoreWeave results and an Nvidia rebound lift tech",
   "terms": [
    {
     "term": "S&P 500",
-    "meaning": "An index tracking 500 large US companies, used to judge how the stock market is doing."
+    "meaning": "An index tracking 500 of the biggest US-listed companies, widely used to judge the health of the stock market."
    },
    {
-    "term": "Consumer price index",
-    "meaning": "A measure of how fast prices for everyday goods and services are rising."
+    "term": "Nasdaq Composite",
+    "meaning": "An index dominated by technology companies."
    },
    {
-    "term": "Federal Reserve",
-    "meaning": "The central bank of the United States, which sets US interest rates."
+    "term": "Dow Jones Industrial Average",
+    "meaning": "An index of 30 large American companies."
    }
   ],
   "levels": [
    {
-    "headline": "S&P 500 closes down 0.38% at 7,520.93 as hot inflation data fuels rate-hike fears",
-    "body": "The S&P 500 closed down 0.38% at 7,520.93 on Tuesday 10 November, its first negative session in three. The Dow Jones Industrial Average fell 0.3% to 52,231.89, and the Nasdaq Composite dropped 0.74% to 25,065.87. Nvidia was the biggest drag on the market. This was the last completed session before this edition.\nStocks fell after October's US consumer price index came in hotter than forecast. Prices rose 0.4% on the month against 0.3% expected, and core prices, which exclude food and energy, rose 0.3% against 0.2%. The Bureau of Labor Statistics published no annual rate, because October 2025 data were not collected during the government shutdown.\nTraders now fully price a quarter-point Federal Reserve rate rise at its 8 to 9 December meeting. Dallas Fed President Lorie Logan said she sees a need for two more quarter-point increases. The Fed's range is currently 3.75% to 4%. The fall followed Monday's 2.35% jump to 7,549.94.",
-    "why": "US share prices and interest rate expectations ripple through pensions, savings and borrowing costs worldwide."
+    "headline": "S&P 500 closes up about 1.3% at 7,619 as CoreWeave results and an Nvidia rebound lift tech",
+    "body": "The S&P 500 closed higher on Wednesday 11 November, the last completed session, rising about 1.3% to finish at 7,619.38, according to CNBC's market coverage.\nThe Nasdaq Composite gained about 1.6% to close near 25,466. The Dow Jones Industrial Average rose about 255 points, or 0.49%, to around 52,486. One other data provider reported a larger Nasdaq gain of 2.3%, so the Nasdaq figure varies by source.\nCNBC attributed the rally to strong earnings from CoreWeave and a rebound in Nvidia shares. It followed a fall on Tuesday after hotter-than-expected US inflation data, and a strong Monday 9 November in which the S&P 500 had its best day since April.\nA separate CNBC article suggested a much larger fall on another date, but its date did not match the Wednesday rally and could not be verified, so it is not relied on here.",
+    "why": "Share prices affect pensions, savings and how confident businesses feel about spending."
    },
    {
-    "headline": "Wall Street falls after hotter US inflation figures raise the prospect of more Fed rate rises",
-    "body": "US shares fell on Tuesday 10 November. The S&P 500 closed down 0.38% at 7,520.93, the Dow lost 0.3% to finish at 52,231.89 and the Nasdaq fell 0.74% to 25,065.87. Nvidia was the biggest drag. It was the most recent completed trading session.\nThe fall came after US consumer prices for October rose 0.4% on the month, ahead of the 0.3% economists expected, with core prices up 0.3% rather than 0.2%. No annual figure was published because data for October 2025 were never collected during a government shutdown.\nInvestors now fully expect the Federal Reserve to raise rates by a quarter of a point at its 8 to 9 December meeting. Dallas Fed President Lorie Logan said she sees a need for two more quarter-point rises. The Fed's policy range is currently 3.75% to 4%. On Monday the S&P 500 had jumped 2.35%.",
-    "why": "Expectations for US interest rates influence mortgage costs, savings returns and markets around the world."
+    "headline": "Wall Street rebounds on Wednesday as tech recovers",
+    "body": "US shares rose on Wednesday 11 November, the last completed trading day. The S&P 500 closed up about 1.3% at 7,619.38, according to CNBC.\nThe Nasdaq Composite finished about 1.6% higher near 25,466, although another data provider put its gain at 2.3%. The Dow Jones Industrial Average added around 255 points, or 0.49%, to close near 52,486.\nCNBC said strong results from CoreWeave and a bounce in Nvidia shares drove the gains. Markets had fallen on Tuesday after a hot US inflation report, having jumped on Monday, when the S&P 500 had its best day since April.\nThe figures differ slightly between sources, and a separate report of a much steeper fall carried a date that did not fit, so it was left out.",
+    "why": "Moves in US shares can affect UK investments and pension funds."
    },
    {
-    "headline": "US stocks end lower on Tuesday after prices rise faster than expected",
-    "body": "US stock markets closed lower on Tuesday 10 November, the latest completed trading day. The S&P 500, which tracks 500 big companies, fell 0.38% to 7,520.93. The Dow Jones lost 0.3% to close at 52,231.89, and the Nasdaq dropped 0.74% to 25,065.87. Chipmaker Nvidia pulled the market down most.\nThe fall came after new figures showed US prices rose 0.4% in October, more than the 0.3% experts expected. Prices not counting food and energy rose 0.3%. That worried investors that the US central bank, the Federal Reserve, will keep raising interest rates.\nTraders now expect a quarter-point rise on 8 to 9 December. One Fed official, Lorie Logan, said she thinks two more rises may be needed. Shares had jumped 2.35% the day before.",
-    "why": "What happens to US shares and rates can affect savings, pensions and prices in the UK too."
+    "headline": "US stocks climb as technology shares bounce back",
+    "body": "US stocks closed higher on Wednesday 11 November, the latest completed session. The S&P 500 rose about 1.3% to 7,619.38, CNBC reported.\nThe tech-heavy Nasdaq Composite was up roughly 1.6% at about 25,466, though one other source gave a bigger rise of 2.3%. The Dow Jones Industrial Average gained about 255 points, or 0.49%, to near 52,486.\nThe gains were put down to strong results from the computing company CoreWeave and a recovery in the chip maker Nvidia. Tuesday had seen a fall after inflation came in hotter than forecast, and Monday had been the S&P 500's best day since April.\nSources differ a little on the Nasdaq figure, so it should be treated as approximate.",
+    "why": "Share prices show how confident investors are about the economy and company profits."
    },
    {
-    "headline": "US shares fall as prices rise faster than expected",
-    "body": "US shares ended lower on Tuesday 10 November. The S&P 500 index, which follows 500 large companies, closed down 0.38% at 7,520.93. The Dow Jones fell 0.3% to 52,231.89 and the Nasdaq slipped 0.74% to 25,065.87. A big chipmaker, Nvidia, was the biggest drag.\nThe reason was new inflation news. Inflation means prices rising over time. Prices in the US went up 0.4% in October, which is more than the 0.3% experts had guessed. That makes some investors think the US central bank, called the Federal Reserve, may put up interest rates again.\nTraders now expect a rise of a quarter of a point in early December. A Fed official, Lorie Logan, said she thinks two more rises could be needed. Higher rates make borrowing dearer and can pull share prices down.",
-    "why": "US interest rates affect the whole world's markets, including the value of pensions and savings."
+    "headline": "Wall Street ends higher as chip and computing firms recover",
+    "body": "Shares in the United States rose on Wednesday 11 November, the most recent full trading day. The S&P 500, which tracks 500 big companies, closed up about 1.3% at 7,619.\nThe Nasdaq, which has many technology firms, rose about 1.6% to around 25,466. The Dow, which follows 30 large companies, was up about 0.49% at roughly 52,486.\nCNBC said the rise came from good results at CoreWeave, a company that provides computing power, and from Nvidia, a chip maker, recovering some earlier losses. On Tuesday shares had fallen after prices in America rose faster than expected.\nOne source gave a different Nasdaq rise, so the exact figure is uncertain.",
+    "why": "What happens to US shares often spreads to markets around the world."
    },
    {
-    "headline": "US shares slip as new figures show prices rising faster than expected",
-    "body": "US shares went down on Tuesday 10 November. The S&P 500, a measure of 500 big companies, fell 0.38% to 7,520.93. The Dow Jones lost 0.3% and the Nasdaq lost 0.74%. The chipmaker Nvidia was the biggest drag.\nThe cause was a report on prices. Prices in the US rose 0.4% in October, faster than the 0.3% experts expected. Prices not counting food and energy rose 0.3%. This matters because it makes it more likely that the US central bank, the Federal Reserve, will raise interest rates again.\nTraders now expect a rise of a quarter of a point on 8 to 9 December. A Fed official, Lorie Logan, said she thinks two more rises could be needed. Higher interest rates can make shares less attractive, so some investors sold.",
-    "why": "US markets influence pensions, savings and borrowing costs well beyond America."
+    "headline": "US share prices rise after a bumpy week",
+    "body": "Share prices in the United States went up on Wednesday 11 November. The S&P 500, a measure of 500 big companies, rose by about 1.3% and closed at 7,619.\nThe Nasdaq, full of tech companies, went up by around 1.6%. The Dow, which follows 30 big firms, rose by about 0.49%.\nCNBC reported two main reasons. A computing company called CoreWeave shared good results, and Nvidia, which makes computer chips, saw its share price bounce back. Shares had dropped the day before because prices in the shops were rising faster than people hoped.\nWhere sources disagreed on the Nasdaq rise, we have used the more common figure.",
+    "why": "Share prices can affect pensions and the money firms have to grow."
    },
    {
-    "headline": "US shares fall and investors worry about higher interest rates",
-    "body": "US share prices fell on Tuesday 10 November. The S&P 500, which follows 500 big companies, closed down 0.38% at 7,520.93. Two other measures, the Dow Jones and the Nasdaq, fell as well. A chip company called Nvidia pulled the market down most.\nInvestors were reacting to a report that showed prices in the US rising by 0.4% in October. That is more than experts had expected. When prices rise quickly, the country's central bank, the Federal Reserve, can raise interest rates to cool things down. Traders now think it will do that in December.\nHigher interest rates make it dearer to borrow money. That can mean companies make less profit, so some people sell their shares. The day before, shares had risen a lot, so this was a step back.",
-    "why": "Interest rates in America can affect savings and prices in other countries too."
+    "headline": "Shares in America go up on Wednesday",
+    "body": "On Wednesday 11 November, shares in the United States went up. The S&P 500, which follows 500 big companies, closed about 1.3% higher at 7,619.\nThe Nasdaq, which has lots of technology firms, rose about 1.6%. The Dow, which follows 30 large companies, rose about 0.49%.\nCNBC said a company called CoreWeave, which supplies computing power, shared strong results. Nvidia, a chip maker, also recovered. Both helped shares to rise.\nOn Tuesday, shares had fallen because prices in America rose faster than hoped. So Wednesday won some of that back. Sources differ a little on the exact Nasdaq rise.",
+    "why": "Moves in share prices can affect pensions and savings."
    },
    {
-    "headline": "US share prices drop after a report shows prices rising faster",
-    "body": "Share prices in the United States went down on Tuesday 10 November. A share is a small piece of a company. The S&P 500, which tracks 500 big companies, fell 0.38% to 7,520.93. The Dow Jones fell 0.3% and the Nasdaq fell 0.74%. Both are other ways of measuring the market. The chip company Nvidia was a big reason for the fall.\nA new report showed that prices in the US rose 0.4% in October. Experts had expected 0.3%, so this was worse than hoped. When prices climb fast, the US bank that sets interest rates, the Federal Reserve, may raise rates to slow things down.\nInvestors now think a rise of a quarter of a point is coming in December. Higher rates can make companies less valuable, so people sell shares.",
-    "why": "Stock markets can affect pensions and savings, and US decisions often reach the UK."
+    "headline": "American shares go up again on Wednesday",
+    "body": "On Wednesday 11 November, the main list of US company shares, the S&P 500, closed 1.3% higher. A share is a small piece of a company. When more people want to buy than sell, prices rise.\nThe Nasdaq, a list full of technology firms, went up around 1.6%. The Dow, a list of 30 large companies, went up about 0.49%.\nThe rise came because a company called CoreWeave had good news about its money. Nvidia, which makes computer chips, also recovered after a bad spell.\nThe day before, shares had fallen. That was because prices for things in America rose faster than hoped, which made people worry.",
+    "why": "Changes in share prices can touch the pensions many people will rely on."
    },
    {
-    "headline": "American shares fall a little after prices rise faster",
-    "body": "On Tuesday 10 November, shares in American companies went down a little. Shares are tiny parts of a company that people can buy. One way to measure them is the S&P 500, which follows 500 big firms. It fell by 0.38%, to 7,520.93. Two other measures, the Dow Jones and the Nasdaq, fell too.\nThe day before, shares had gone up a lot. So Tuesday was a small step back.\nThe cause was news about prices. In the US, prices rose 0.4% in October. That is faster than experts thought. When prices rise fast, the bank in charge of interest rates, called the Fed, may make borrowing cost more. Investors expect this might happen in December.\nCostlier borrowing can make companies earn less, so some people sold their shares.",
-    "why": "What happens to big American firms can touch savings and pensions far away."
+    "headline": "Share prices in America go up",
+    "body": "Share prices in America went up on Wednesday. A share is a tiny slice of a company. If you own a slice, you own a little bit of that business.\nThe S&P 500 is a list of 500 big companies. Its prices rose by about 1.3% that day. The Nasdaq, a list with many tech firms, rose by about 1.6%. The Dow, a list of 30 firms, rose by less than 0.5%.\nTwo companies had good news. CoreWeave told people its results were strong. Nvidia, which makes computer chips, bounced back.\nOn the day before, share prices had dropped. So Wednesday helped to win some of that back.",
+    "why": "Share prices show how people feel about companies and can affect savings."
    },
    {
-    "headline": "Share prices dip in America after bad news about prices",
-    "body": "On Tuesday, share prices in the United States went down a little. A share is a tiny piece of a company. If lots of people want to sell their pieces, the price goes down.\nThere is a list called the S&P 500 that follows 500 large companies. It fell by 0.38%. That is a small fall, less than half of one penny in each pound. Two other lists, the Dow Jones and the Nasdaq, fell too.\nWhy? New figures showed that prices in shops and for bills went up faster than experts thought. This is called inflation. The bank in charge of money in America, the Fed, may now raise interest rates. That makes borrowing cost more, and companies may earn less. So some people sold shares.",
-    "why": "Prices and interest rates matter because they change how far money stretches."
+    "headline": "Shares go up in America",
+    "body": "On Wednesday, many shares in America got more expensive. A share is a tiny piece of a company. People buy and sell them every day.\nThere are lists that show how a group of shares is doing. One is called the S&P 500, and it follows 500 big companies. It went up by a little over one in every hundred. Another list is called the Nasdaq, and it went up a bit more.\nShares went up because two firms had good news. One makes computer chips and the other helps big computers work. The day before, shares had gone down, so this was a bounce back.\nShares can go up and down every single day.",
+    "why": "Share prices rising or falling can change how safe people feel about their savings."
    },
    {
-    "headline": "Share prices fall a little in America",
-    "body": "Imagine a big market where people buy and sell tiny pieces of companies. These pieces are called shares. On Tuesday, more people wanted to sell than buy, so prices went down a little.\nA list called the S&P 500 follows 500 big companies. It went down by 0.38%. That is like a pound coin losing less than half a penny. The day before, it had gone up a lot, so this was a small step back.\nWhy did it happen? The cost of things in America went up faster than people hoped. When that happens, the bank that looks after American money, the Fed, may make borrowing cost more. People worry that firms will earn less, so some sold shares.",
-    "why": "Money news from a big country can reach other places and change what people earn and pay."
+    "headline": "The shop where people buy bits of companies",
+    "body": "Imagine a big school fair with a stall where people swap tiny bits of companies, like trading stickers. Prices go up when lots of children want a sticker, and down when few do.\nOn Wednesday, in America, lots of people wanted these tiny bits. So the prices went up. The big list of 500 companies went up by about one penny in every pound.\nTwo companies had good news, a bit like winning a sports day race, so more people wanted their stickers. The day before, prices had gone down. So Wednesday was a step back up.\nPrices at the stall wobble every day.",
+    "why": "Prices of company shares go up and down just like swapping stickers."
    }
-  ]
+  ],
+  "order": 2
  },
  {
-  "id": "trump-iran-war-effectively-over",
-  "order": 3,
+  "id": "us-cpi-october-fed-hike-bets",
+  "topic": "Economy",
+  "region": "United States",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+  "headline": "US inflation hotter than expected in October, raising bets on a Federal Reserve rate rise in December",
+  "terms": [
+   {
+    "term": "Consumer price index (CPI)",
+    "meaning": "A measure of how much the prices of everyday goods and services rise."
+   },
+   {
+    "term": "Core inflation",
+    "meaning": "Inflation leaving out food and energy, which can swing sharply."
+   },
+   {
+    "term": "Treasury yield",
+    "meaning": "The return investors get from lending to the US government; it affects borrowing costs."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "US inflation hotter than expected in October, raising bets on a Federal Reserve rate rise in December",
+    "body": "US consumer prices rose a seasonally adjusted 0.4% in October, above the 0.3% economists expected, according to the report released on 10 November. Core CPI, which excludes food and energy, rose 0.3% against a forecast of 0.2%.\nNo official annual rate was available because last year's government shutdown left gaps in October 2025 data. Bank of America estimated annual inflation at 3.8% for the headline figure and 2.7% for core.\nThe 10-year Treasury yield briefly rose back above 5% before easing just below it. The Fed held its rate at 3.75% to 4% at its October meeting, and traders are now fully pricing in a quarter-point rise when it meets on 8 to 9 December. Governor Christopher Waller said a hot report could justify a half-point rise, and Dallas Fed President Lorie Logan said she saw a need for two more quarter-point increases.",
+    "why": "Rising US interest rates raise borrowing costs worldwide and can affect UK mortgages and markets."
+   },
+   {
+    "headline": "US prices rise faster than forecast, pushing the Fed towards a rate rise",
+    "body": "US consumer prices rose 0.4% in October, more than the 0.3% forecast, the 10 November report showed. Core prices, excluding food and energy, rose 0.3% against a forecast of 0.2%.\nThere is no official yearly figure because last year's government shutdown disrupted October 2025 data. Bank of America put annual headline inflation at an estimated 3.8% and core at 2.7%.\nThe 10-year Treasury yield briefly went back above 5% and then eased slightly. The Federal Reserve kept rates at 3.75% to 4% in October. Traders now fully expect a quarter-point rise on 8 to 9 December. Fed governor Christopher Waller suggested a half-point move could be justified, while Lorie Logan, president of the Dallas Fed, said she wanted two more quarter-point rises.",
+    "why": "Higher US rates can push up borrowing costs for governments and households elsewhere."
+   },
+   {
+    "headline": "Hot US inflation figures make a December interest rate rise look certain",
+    "body": "Prices in the US rose by 0.4% in October, faster than the 0.3% economists predicted. Prices excluding food and energy, known as core, rose 0.3%, against a forecast of 0.2%.\nA government shutdown last year left gaps in the October 2025 figures, so there is no official annual rate. Bank of America estimated 3.8% overall and 2.7% for core.\nThe 10-year government bond yield briefly passed 5%. The Federal Reserve held its rate between 3.75% and 4% in October, but traders now fully expect a quarter-point rise when it meets on 8 to 9 December. Governor Christopher Waller said a half-point rise could be justified, and Dallas Fed president Lorie Logan said two more quarter-point rises might be needed.",
+    "why": "The Fed's decisions influence interest rates and the value of money around the world."
+   },
+   {
+    "headline": "US inflation comes in higher than expected, and the Fed is expected to raise rates",
+    "body": "US consumer prices rose by 0.4% in October. Economists had expected 0.3%. Core prices, which leave out food and energy because they swing a lot, rose 0.3%, against 0.2% expected.\nBecause of a government shutdown in 2025, official yearly figures are missing. Bank of America estimates annual inflation at 3.8%, or 2.7% for core.\nThe yield, or return, on 10-year US government bonds briefly went above 5%. The Federal Reserve, America's central bank, kept its rate at 3.75% to 4% in October. Traders now fully expect it to raise the rate by 0.25 points on 8 to 9 December. One Fed official, Christopher Waller, said a bigger rise could be justified.",
+    "why": "The US sets the tone for global borrowing costs, which reach UK households too."
+   },
+   {
+    "headline": "US prices rise faster than forecast, so a December rate rise looks likely",
+    "body": "Prices in the United States rose by 0.4% in October, which was faster than the 0.3% experts expected. Prices rose 0.3% when food and energy were left out, against a forecast of 0.2%.\nThere is no official yearly figure, because a government shutdown last year left gaps in the data. Bank of America thinks prices are about 3.8% higher than a year ago.\nThe Federal Reserve is America's central bank, and it sets the cost of borrowing. In October it left the cost unchanged. Now traders expect it to raise the cost by a quarter of a percentage point when it meets on 8 to 9 December. A few officials think it may need to go further.",
+    "why": "Higher US borrowing costs can spread to other countries."
+   },
+   {
+    "headline": "Prices rise faster in America, so interest rates may go up",
+    "body": "Prices in the United States went up by 0.4% in October. That is more than the 0.3% experts expected. When food and energy are left out, prices rose by 0.3%, instead of the expected 0.2%.\nThere is no official yearly number, because a shutdown of the US government last year left gaps in the data. Bank of America guesses that prices are about 3.8% higher than a year ago.\nThe Federal Reserve, which sets interest rates in America, held them at 3.75% to 4% in October. Now traders expect it to raise them by a quarter of a percentage point in December. Some Fed officials think they may need to go further.",
+    "why": "When US interest rates rise, borrowing can become more expensive in many countries."
+   },
+   {
+    "headline": "American prices go up faster, so the Fed may raise interest rates",
+    "body": "Prices in America went up by 0.4% in October. People had thought it would be 0.3%, so it was a bit worse than hoped. Prices went up when food and energy were left out too, by 0.3%.\nThere is no official figure for the whole year. A shutdown of the government last year meant some information was missing. Bank of America thinks prices are about 3.8% higher than a year ago.\nThe Fed is the bank that looks after America's money. It decides how much it costs to borrow. In October it left that cost alone. Now people expect it to make borrowing cost a bit more in December, to slow rising prices.",
+    "why": "Higher borrowing costs in America can affect prices and loans in other countries too."
+   },
+   {
+    "headline": "Shop prices rose more than expected in America",
+    "body": "Prices in American shops rose by 0.4% in October. This is called inflation, which means things cost more than before. Experts had thought prices would rise by 0.3%, so this was higher than they hoped.\nThe Fed is America's central bank. Its job is to try to keep prices steady. It can do that by changing interest rates, the extra money you pay when you borrow. If borrowing costs more, people spend less, and prices usually rise more slowly.\nThe Fed left its rate alone in October. Now people who buy and sell money and bonds expect it to raise the rate in December. A few Fed leaders even think it may need to go up more than once.",
+    "why": "Rising prices and rising interest rates can make life more expensive for families."
+   },
+   {
+    "headline": "Prices climb in America, and borrowing may cost more",
+    "body": "Prices in America are going up faster than people wanted. In October they rose by 0.4%. That is a small step, but experts had thought it would be a smaller one.\nPrices going up is called inflation. It means your pocket money buys a little less than before. To slow it down, a bank called the Fed can make borrowing cost more. That is called raising interest rates.\nThe Fed did not change the cost in October. But now many people think it will raise the cost in December. A few of the Fed's leaders think it may need to do this more than once.\nRaising rates can slow prices, but it can also make loans harder to pay.",
+    "why": "When prices rise, the cost of loans can rise too, which touches many families."
+   },
+   {
+    "headline": "When sweets cost more",
+    "body": "Imagine your favourite sweets cost 50p last month, and this month they cost a little more. Your pocket money buys fewer sweets now. That is what grown-ups call inflation.\nIn America, prices went up by a little more than people had guessed in October. The bank that looks after American money is called the Fed. It is like a teacher who tries to keep the playground fair.\nIf prices rise too fast, the Fed can make borrowing money cost more. Then people spend a bit less, and prices rise more slowly. The Fed thinks it may do this in December.\nIt is a bit like asking everyone to slow down in the playground.",
+    "why": "Rising prices mean money buys less, so leaders try to slow them down."
+   }
+  ],
+  "order": 3
+ },
+ {
+  "id": "ukraine-russia-abu-dhabi-talks",
+  "topic": "Politics",
+  "region": "Europe",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/11/11/constructive-abu-dhabi-talks-resume-but-a-ceasefire-is-nowhere-near",
+  "headline": "Abu Dhabi talks between Russia and Ukraine bring a prisoner exchange but no ceasefire",
+  "terms": [
+   {
+    "term": "Ceasefire",
+    "meaning": "An agreement to stop fighting, even if the war is not over."
+   },
+   {
+    "term": "Donbas",
+    "meaning": "A region of eastern Ukraine claimed by Russia and partly held by its forces."
+   },
+   {
+    "term": "Mediator",
+    "meaning": "A person or country that helps two sides talk to each other."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Abu Dhabi talks between Russia and Ukraine bring a prisoner exchange but no ceasefire",
+    "body": "US-mediated talks between Ukraine and Russia took place in Abu Dhabi on 10 and 11 November, nine months after the last round. The only concrete result reported by Euronews was a large prisoner exchange, with no breakthrough on a ceasefire or on territory.\nRussian Foreign Minister Sergei Lavrov rejected a truce, accusing Europeans of wanting one so they could deploy troops to Ukraine. He dismissed the European officials who had travelled to Abu Dhabi, saying: 'Let them sit there in the hotel.'\nUS officials were more positive. Marco Rubio called the talks 'very productive' and Jared Kushner said the gaps had narrowed, though he admitted: 'we are pushing a boulder uphill' towards a meeting of Vladimir Putin and Volodymyr Zelenskyy.\nThe main sticking point is territory. Moscow still demands the whole of Donbas, including areas it has failed to capture, while Kyiv refuses to give up land.",
+    "why": "The war shapes European security, energy prices and the cost of defence for UK taxpayers."
+   },
+   {
+    "headline": "Ukraine peace talks end with prisoner swap but no truce",
+    "body": "Talks between Ukraine and Russia, mediated by the United States, were held in Abu Dhabi on 10 and 11 November. They were the first in nine months. Euronews reported that the only tangible outcome was a large prisoner exchange.\nRussian Foreign Minister Sergei Lavrov rejected a ceasefire, saying Europeans wanted one to send troops into Ukraine. He mocked the European delegates, saying: 'Let them sit there in the hotel.'\nWashington sounded upbeat. Marco Rubio called the talks 'very productive', and Jared Kushner said the sides were closer, while admitting: 'we are pushing a boulder uphill' to arrange a Putin and Zelenskyy meeting.\nTerritory remains the main obstacle. Russia demands the entire Donbas region, which Ukraine will not give up.",
+    "why": "A lasting peace would change Europe's security, energy markets and public spending."
+   },
+   {
+    "headline": "No ceasefire after two days of Russia-Ukraine talks in Abu Dhabi",
+    "body": "Russia and Ukraine held two days of US-mediated talks in Abu Dhabi on 10 and 11 November, the first for nine months. Euronews said a large prisoner exchange was the only concrete result.\nRussian Foreign Minister Sergei Lavrov turned down a ceasefire. He accused European countries of wanting a truce so they could put troops in Ukraine, and said of their officials in Abu Dhabi: 'Let them sit there in the hotel.'\nUS Secretary of State Marco Rubio called the talks 'very productive'. Jared Kushner said the gaps had narrowed, but also said: 'we are pushing a boulder uphill' to get Putin and Zelenskyy together.\nThe biggest disagreement is land. Russia insists on all of the Donbas region, and Ukraine refuses.",
+    "why": "The outcome affects European safety and what governments spend on defence."
+   },
+   {
+    "headline": "Russia and Ukraine talk in Abu Dhabi but fail to agree a ceasefire",
+    "body": "Russia and Ukraine met in Abu Dhabi on 10 and 11 November for talks organised by the United States. It was their first meeting in nine months. The only real result, Euronews reported, was a large exchange of prisoners.\nRussia's foreign minister, Sergei Lavrov, said no to a ceasefire, a pause in the fighting. He said European countries wanted one to send troops to Ukraine, and he brushed off European officials who had come to the city.\nUS officials spoke warmly of the talks. Marco Rubio said they were 'very productive'. But Jared Kushner said it was like pushing 'a boulder uphill' to get the two leaders into one room.\nThe hardest issue is land: Russia wants all of eastern Ukraine's Donbas region.",
+    "why": "A deal or no deal affects the safety of Europe and the price of defence and energy."
+   },
+   {
+    "headline": "Russia and Ukraine hold peace talks in Abu Dhabi, but no ceasefire",
+    "body": "Russia and Ukraine held talks in Abu Dhabi on 10 and 11 November, with the United States acting as go-between. It was the first meeting in nine months.\nThe main result was a large swap of prisoners. A ceasefire, meaning a pause in the fighting, was not agreed. Russia's foreign minister, Sergei Lavrov, rejected one and said Europeans wanted it so they could send troops to Ukraine.\nUS officials called the talks 'very productive'. Still, one of them said it was like 'pushing a boulder uphill' to get the Russian and Ukrainian presidents together.\nThe big problem is land. Russia wants the whole Donbas region in eastern Ukraine, and Ukraine will not give it up.",
+    "why": "The war affects safety in Europe and the cost of defence and energy."
+   },
+   {
+    "headline": "Ukraine and Russia talk again, but the fighting goes on",
+    "body": "Ukraine and Russia held talks in Abu Dhabi on 10 and 11 November. The United States helped to set them up. It was the first time in nine months that the two sides had met like this.\nThe only clear result was that each side let a large group of prisoners go. Russia's foreign minister, Sergei Lavrov, said Russia did not want a ceasefire, which is a pause in the fighting. He also said European countries only wanted one so they could send soldiers to Ukraine.\nAmerican leaders said the talks were useful. Even so, one of them said it was like 'pushing a boulder uphill' to get the leaders of the two countries together.\nBoth sides still disagree about land in eastern Ukraine.",
+    "why": "Whether the war ends affects safety in Europe and the cost of living."
+   },
+   {
+    "headline": "Russia and Ukraine meet for peace talks, but no pause in the war",
+    "body": "Russia and Ukraine met in a city called Abu Dhabi on 10 and 11 November. The United States helped to organise the meeting. It was the first one in nine months.\nThe talks did not end the war. The only clear result was that both sides swapped a large group of prisoners. A ceasefire, which would stop the fighting for a while, was not agreed. Russia's foreign minister said Russia did not want one.\nAmerican leaders said the talks were useful. One of them said that getting the two presidents to meet was like pushing a heavy rock up a hill.\nThe biggest problem is land. Russia wants all of a region in eastern Ukraine called Donbas, but Ukraine says no.",
+    "why": "The war affects people's safety and the cost of things in many countries."
+   },
+   {
+    "headline": "Talks about the war in Ukraine bring no ceasefire",
+    "body": "Leaders from Russia and Ukraine met in a place called Abu Dhabi on 10 and 11 November. They were trying to talk about stopping a war. The war has gone on for a long time.\nAn American team helped them to talk. After two days, the countries had agreed to swap a lot of prisoners. That was good news for those families. But they did not agree to stop fighting.\nRussia's foreign minister said no to a pause in the fighting. He said other European countries wanted a pause for the wrong reasons.\nThe biggest problem is land. Russia wants a big part of Ukraine called Donbas. Ukraine says that land belongs to Ukraine.",
+    "why": "Wars cause great suffering, so people hope that talks will bring peace."
+   },
+   {
+    "headline": "Countries talk about stopping a war, but not yet",
+    "body": "Two countries, Russia and Ukraine, have been fighting for a long time. This week they sat down in a city called Abu Dhabi to talk. A helper country, the United States, helped them.\nThey agreed to swap prisoners. That means each side let some people go home. That is a good thing for families who missed them.\nBut they did not agree to stop the fighting. They still argue about who should own a piece of land called Donbas. It is a bit like two children both saying a toy is theirs.\nA helper tried to get the leaders to meet. One helper said it was like pushing a big rock up a hill.",
+    "why": "Talking is the first step towards stopping a war."
+   },
+   {
+    "headline": "Two sides talk but cannot agree yet",
+    "body": "Imagine two children who both say the same playground corner belongs to them. They argue for a long time. Then a teacher asks them to come and talk.\nThat is a bit like what happened this week. Two countries, Russia and Ukraine, talked in a place called Abu Dhabi. Another country, the United States, was the helper in the middle.\nThey agreed to let some prisoners go home, which is kind. But they did not agree to stop the fighting. One country wants the corner, and the other will not give it up.\nThe helper says it is hard work, like pushing a big boulder up a hill.",
+    "why": "Talking is a good start, but it takes time to fix a big argument."
+   }
+  ],
+  "order": 4
+ },
+ {
+  "id": "uk-eu-summit-20-november",
+  "topic": "Politics",
+  "region": "United Kingdom",
+  "source": "GOV.UK",
+  "url": "https://www.gov.uk/government/news/prime-minister-to-attend-uk-eu-summit-in-brussels-on-20-november",
+  "headline": "Burnham to attend UK-EU summit in Brussels on 20 November as rejoin question stays open",
+  "terms": [
+   {
+    "term": "Customs union",
+    "meaning": "An agreement where countries charge the same taxes on goods from outside and trade freely with each other."
+   },
+   {
+    "term": "Single market",
+    "meaning": "The EU area where goods, services, money and people move freely under shared rules."
+   },
+   {
+    "term": "Manifesto",
+    "meaning": "A document where a party sets out what it will do if elected."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Burnham to attend UK-EU summit in Brussels on 20 November as rejoin question stays open",
+    "body": "Prime Minister Andy Burnham will attend a UK-EU summit in Brussels on 20 November. Items under discussion include a food and drink trade deal, progress on linking emissions trading schemes, a youth experience scheme and deeper cooperation on immigration. It remains unclear whether agreements can be reached in time.\nBurnham has said that a referendum on rejoining the EU 'wouldn't be the right thing to do right now', but has declined to rule out putting one in a future Labour manifesto. He has listed options including staying as now, a customs union, the single market, or 'going all the way'. He remains committed to the 2024 manifesto, which ruled out free movement, the single market and a customs union.\nThe EU's foreign policy chief has said the UK should focus on joining EU defence frameworks for now. A recent YouGov survey suggested 56% of British voters would support rejoining.",
+    "why": "The UK's relationship with the EU affects trade, prices, travel and jobs."
+   },
+   {
+    "headline": "UK-EU summit set for 20 November amid talk of closer ties",
+    "body": "Andy Burnham will go to a UK-EU summit in Brussels on 20 November. The agenda covers a food and drink trade deal, emissions trading, a youth experience scheme and closer immigration cooperation, though it is not certain deals will be ready.\nThe Prime Minister has said a rejoin referendum 'wouldn't be the right thing to do right now' but would not rule out a pledge in a future manifesto. He has set out choices from staying as now to a customs union, the single market or 'going all the way'. He has committed to the 2024 manifesto, which excluded free movement, the single market and a customs union.\nThe EU's foreign policy chief urged the UK to focus on defence cooperation first. A YouGov survey suggested 56% of voters would back rejoining.",
+    "why": "The summit could shape trade and travel rules affecting businesses and young people."
+   },
+   {
+    "headline": "Prime Minister to meet EU leaders in Brussels on 20 November",
+    "body": "Prime Minister Andy Burnham will attend a summit with EU leaders in Brussels on 20 November. Talks could cover a food and drink trade deal, the carbon trading schemes of both sides, a youth experience scheme and closer cooperation on immigration. It is unclear whether any of these will be finished in time.\nBurnham has said a referendum on rejoining the EU would not be right now, but has not ruled out including one in a future manifesto. He has described options from staying as things are to a customs union, the single market, or rejoining fully. He is bound by Labour's 2024 manifesto, which ruled out free movement and a customs union.\nA YouGov poll suggested 56% of voters would support rejoining.",
+    "why": "What is agreed could change trade, travel and costs for UK businesses and families."
+   },
+   {
+    "headline": "UK and EU leaders to meet on 20 November to talk trade and more",
+    "body": "The Prime Minister, Andy Burnham, will meet EU leaders in Brussels on 20 November. They may talk about a deal on food and drink trade, a youth experience scheme, and links between their schemes for pricing carbon pollution. They also plan to talk about working together on immigration. It is not clear whether any deals will be ready.\nBurnham has said holding a vote now on rejoining the EU would not be right, but he has not ruled out promising one at a future election. He has talked about a range of options, from staying as things are to rejoining fully. He has said he will keep to Labour's 2024 promises not to bring back free movement.\nA poll found 56% of voters would back rejoining.",
+    "why": "Deals with the EU can change prices, jobs and travel for young people."
+   },
+   {
+    "headline": "Prime Minister heads to Brussels to meet EU leaders",
+    "body": "Andy Burnham, the Prime Minister, will go to Brussels on 20 November to meet EU leaders. Brussels is where the EU has its main offices. They could talk about trade in food and drink, a scheme to let young people live and work abroad, and working together on immigration.\nIt is not yet clear whether they will agree anything. Burnham has said that holding a vote on rejoining the EU would not be right now. But he has not ruled out putting that idea in his party's plan for a future election.\nHe has said he will stick to his party's 2024 promise not to bring back free movement, which lets people live and work in any EU country.\nA poll found that 56% of British voters would support rejoining.",
+    "why": "A deal could make trade easier and give young people new chances to work abroad."
+   },
+   {
+    "headline": "UK leader to meet EU leaders about trade and young people",
+    "body": "The Prime Minister, Andy Burnham, will meet EU leaders in Brussels on 20 November. The EU is a group of European countries that work together. The UK left it in 2020, after a vote called Brexit.\nThey might talk about selling food and drink more easily, and a scheme that lets young people spend time abroad. They also want to talk about working together on people moving between countries. They may not agree on everything.\nMr Burnham says a vote on rejoining the EU is not right now. But he will not say it could never happen. He will keep to his party's promise not to bring back free movement.\nA poll found that 56% of people would like to rejoin.",
+    "why": "How close the UK is to the EU changes trade, travel and prices."
+   },
+   {
+    "headline": "UK and Europe to talk about closer links",
+    "body": "The Prime Minister, Andy Burnham, will meet leaders of the European Union on 20 November. The EU is a group of countries in Europe that work together. The UK used to be in it, but left after a vote called Brexit.\nThey may talk about making it easier to sell food and drink. They may also talk about letting young people go and work or study abroad for a while. It is not certain they will agree.\nSome people want the UK to rejoin the EU. The Prime Minister says a vote on this is not right now, but it could come in future. A poll found that 56% of people would like to rejoin.",
+    "why": "How the UK works with Europe can change prices and chances for young people."
+   },
+   {
+    "headline": "Meeting with our European neighbours",
+    "body": "The leader of the UK, Prime Minister Andy Burnham, will meet leaders of the European Union on 20 November. The EU is a group of nearby countries that work together as a team.\nThe UK left that team a few years ago. Now the leaders will talk about working together again on some things, like selling food and drink to each other, and letting young people go abroad for a while.\nSome people would like the UK to join the team again. A poll found that 56 out of every 100 people would say yes. The Prime Minister says it is not the right time to vote on that, but he has not said never.\nIt is not sure they will agree on everything.",
+    "why": "Countries that work together can make it easier to trade and travel."
+   },
+   {
+    "headline": "The UK and its neighbours",
+    "body": "Imagine the UK is a child who left a big team of friends, called the EU. Now the two sides are going to sit down and chat. The chat is on 20 November.\nThey might talk about swapping snacks, which are food and drink, more easily. They might talk about letting young people visit each other. It is a bit like a school exchange trip.\nSome people would like the UK to rejoin the team. The leader, called the Prime Minister, says it is not the time to ask everyone to vote. But he has not said no for ever.\nThey might not agree on everything, and that is okay.",
+    "why": "Friends can still be friendly even when they choose different teams."
+   },
+   {
+    "headline": "Visiting the neighbours",
+    "body": "The UK has some neighbours called the European Union, which is a group of countries that share some rules. The UK used to be one of them, but left a while ago.\nOn 20 November, the leader of the UK, called the Prime Minister, will go and visit them. They will talk about working together a bit more, like making it easier to trade food and drink.\nSome people want the UK to join them again. The Prime Minister says now is not the time for everyone to vote on it. He says maybe later.\nIt is like making up after a quarrel. You can be friends again slowly.",
+    "why": "Friendly neighbours can help each other with trade and travel."
+   }
+  ],
+  "order": 5
+ },
+ {
+  "id": "uk-earned-settlement-rules",
+  "topic": "Politics",
+  "region": "United Kingdom",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/11/02/british-government-sets-out-tougher-rules-for-migrants-looking-to-settle-in-the-uk",
+  "headline": "Government sets out 'earned settlement' with a 10-year default wait to settle in the UK",
+  "terms": [
+   {
+    "term": "Settlement",
+    "meaning": "Permission to live in the UK permanently, without time limits on stay."
+   },
+   {
+    "term": "Earned settlement",
+    "meaning": "A system where people must meet conditions and wait longer before they can stay permanently."
+   },
+   {
+    "term": "Consultation",
+    "meaning": "A period when the public and groups are asked for views before a policy is decided."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Government sets out 'earned settlement' with a 10-year default wait to settle in the UK",
+    "body": "The Government has set out an 'earned settlement' model that doubles the time many foreign workers must wait before they can settle permanently. The standard route becomes 10 years.\nHigh earners can settle after 3 years, and some public service workers such as doctors, nurses and teachers after 5. People who have broken immigration rules face at least 20 years, and anyone who arrived by small boat or other clandestine means faces an extra 10 years.\nAll applicants must meet four conditions, including a clean criminal record and no debt owed to the taxpayer. Care workers earning at least £25,000 who met their visa conditions can settle after 5 years, a concession after pushback from unions and some Labour figures. Those already settled are unaffected.\nThe changes follow a consultation with over 200,000 responses and are reported to take effect next year. Prime Minister Andy Burnham said the UK had 'lost control of immigration' after Brexit and backed Home Secretary Shabana Mahmood. Reform has pledged to scrap indefinite leave to remain.",
+    "why": "The rules decide who can build a permanent life in the UK, and shape the workforce in the NHS and care."
+   },
+   {
+    "headline": "New settlement rules double the usual wait to 10 years",
+    "body": "Ministers have announced an 'earned settlement' system under which many foreign workers will wait twice as long before they can settle permanently. The default is now 10 years.\nHigh earners can settle in 3 years, and some public service workers, including doctors, nurses and teachers, in 5. Those who have breached immigration rules face at least 20 years, and people who arrived by small boat or other clandestine route face an additional 10.\nEveryone must meet four conditions, including a spotless criminal record and no debts to the taxpayer. Care workers earning at least £25,000 can settle after 5 years, a concession made after criticism from unions and some Labour MPs. People who already have settled status are not affected.\nThe plan followed a consultation with more than 200,000 responses and is reportedly due next year. Prime Minister Andy Burnham said the country had 'lost control of immigration', while Reform has pledged to abolish indefinite leave to remain.",
+    "why": "The rules affect migrant workers, employers and public services such as the NHS."
+   },
+   {
+    "headline": "Migrants to wait longer to settle in the UK under new Government plan",
+    "body": "The Government has unveiled an 'earned settlement' model that will double the usual wait for many foreign workers who want to settle in the UK for good. The normal route will now take 10 years.\nHigh earners can settle within 3 years, and some doctors, nurses and teachers within 5. Anyone who has broken immigration rules must wait at least 20 years, and people who arrived by small boat or similar routes face an extra 10.\nApplicants must also meet four conditions, such as having no criminal record and owing no debt to the taxpayer. After criticism from unions and some Labour figures, care workers earning at least £25,000 will be able to settle after 5 years. Existing settled status is not affected.\nMore than 200,000 people responded to a consultation. The rules are reportedly due to start next year. Prime Minister Andy Burnham said Britain had 'lost control of immigration'.",
+    "why": "This could change who stays in the UK long term and who fills jobs in key services."
+   },
+   {
+    "headline": "New rules make people wait longer to stay in the UK for good",
+    "body": "The UK Government has announced new rules for people from abroad who want to settle in the UK permanently. Under a plan called 'earned settlement', the usual wait will double to 10 years.\nSome people can settle faster. High earners can do so in 3 years, and some public service workers, such as doctors, nurses and teachers, in 5. People who have broken immigration rules must wait at least 20 years, and those who came by small boat must wait an extra 10.\nEveryone must meet four conditions, including no criminal record and no debts owed to the taxpayer. Care workers who earn at least £25,000 can settle after 5 years. People who have already settled are not affected.\nThe plan is reported to start next year. Prime Minister Andy Burnham said the country had 'lost control of immigration'.",
+    "why": "It affects who can build a permanent life in the UK and who works in jobs like care."
+   },
+   {
+    "headline": "UK to double the wait for many migrants to settle permanently",
+    "body": "The Government has said many people who come to work in the UK will have to wait longer before they can settle here permanently. Settling means being allowed to stay for good. The normal wait will double to 10 years under a plan called 'earned settlement'.\nSome people will have a shorter wait. People on high pay can settle after 3 years. Some doctors, nurses and teachers can settle after 5 years. People who broke the rules will wait at least 20 years. Anyone who came by small boat will wait an extra 10 years.\nAll applicants must also meet four conditions, including having no criminal record and owing no money to the taxpayer. Care workers who earn at least £25,000 can settle after 5 years.\nThe changes are reported to start next year.",
+    "why": "Many families and workers will need to plan for a longer wait."
+   },
+   {
+    "headline": "New rules mean a longer wait to live in the UK for good",
+    "body": "The Government has made new rules for people who move to the UK and want to stay for good. The wait before they can do that will now be 10 years for most people. Before, it was about half that.\nSome people can wait for less time. People who are paid a lot can stay after 3 years. Some doctors, nurses and teachers can stay after 5 years. People who broke the rules will wait at least 20 years. People who came across the sea in small boats will wait 10 years longer.\nEveryone must also have no crime record and owe no money to the taxpayer. Care workers who earn at least £25,000 can stay after 5 years.\nThe Prime Minister, Andy Burnham, said the country had 'lost control' of who comes in. The rules should begin next year.",
+    "why": "The new rules decide who can make their home in the UK for good."
+   },
+   {
+    "headline": "Longer wait to stay in the UK for good",
+    "body": "The Government has changed the rules for people who come from other countries to live in the UK. They want to stay here for good one day. The wait for most people will now be 10 years.\nSome people wait less time. People who earn a lot wait 3 years. Some doctors, nurses and teachers wait 5 years. People who broke the rules wait at least 20 years.\nPeople also have to show they have not broken the law and do not owe the government money. Care workers who earn at least £25,000 can wait just 5 years.\nPeople who are already allowed to stay for good will not be affected. The new rules are meant to start next year.",
+    "why": "Rules like this change the lives of families who move to a new country."
+   },
+   {
+    "headline": "New rules about who can stay in the UK",
+    "body": "The UK has made new rules for people who move here from other countries. Some people want to live here for the rest of their lives. The rules say how long they must wait first.\nFor most people, the wait is now 10 years. That is a long time. People who earn a lot of money wait 3 years. Doctors, nurses and teachers might wait 5 years. People who broke the rules must wait 20 years.\nPeople also have to show they have been good and do not owe money to the government. People who are already allowed to stay will not have to change anything.\nThe leader of the country, called the Prime Minister, said the country needs better control of who comes in.",
+    "why": "The rules decide how long families must wait to make a new country their home."
+   },
+   {
+    "headline": "Waiting for a new home",
+    "body": "Imagine you move to a new school. You want to join the football team for good, but the team says you must wait before you can join. Now the wait is longer than it was.\nThat is a bit like the new rules in the UK. When people move here from other countries, they have to wait before they can stay for ever. For most people, the wait is now 10 years. Some wait less, like doctors, nurses and teachers. Some wait more if they broke the rules.\nThe leaders of the country say this is fair. Others think it is too long. They are still talking about it.\nThe rules should start next year.",
+    "why": "Rules about moving countries are a big deal for families."
+   },
+   {
+    "headline": "Rules for joining the UK for good",
+    "body": "Think of a club. If you want to be a member for good, the club says you must wait and follow its rules. In the UK, there is a club-like rule for people who move here from other countries.\nThe wait to stay for ever is now 10 years for most people. That is longer than before. Doctors and nurses may wait only 5 years, because we need them. People who break the rules wait longer.\nThe leader, the Prime Minister, said the country had lost control of who comes in. Some people think the new rules are fair. Others think they are too hard.\nThe new rules should start next year.",
+    "why": "Moving to a new country is a big step for any family."
+   }
+  ],
+  "order": 6
+ },
+ {
+  "id": "krakow-market-square-shooting",
+  "topic": "Politics",
+  "region": "Europe",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/11/08/what-we-know-about-the-krakow-shooting-that-left-six-people-dead",
+  "headline": "Poland mourns after Krakow Main Market Square shooting that left six dead",
+  "terms": [
+   {
+    "term": "Terrorism",
+    "meaning": "Violence used to frighten the public or push a political aim."
+   },
+   {
+    "term": "Prosecutors",
+    "meaning": "Lawyers who decide whether to bring criminal charges and lead cases in court."
+   },
+   {
+    "term": "Silent march",
+    "meaning": "A peaceful walk without chanting, held to remember victims."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Poland mourns after Krakow Main Market Square shooting that left six dead",
+    "body": "A gunman opened fire in Krakow's Main Market Square on Saturday 7 November, and Euronews reported six people dead. About 15 or 16 were wounded, depending on the source, including two police officers.\nPolice named the suspect as Michał Oksiński, a 24-year-old Polish citizen (some reports say 25), who had no previous convictions. Officers found the bodies of three of his relatives in the flat where he lived. He died in hospital early on Monday 9 November.\nPrime Minister Donald Tusk called the attack terrorism and prosecutors treated it as a terrorist offence. Officials first pointed to far-right ideology but later appeared to step back, and the justice minister said the investigation would establish whether he acted alone or was inspired by a group.\nThe square reopened on Sunday, and Poland's president and prime minister joined a silent march for the victims.",
+    "why": "Attacks in public places raise questions about security and how societies respond."
+   },
+   {
+    "headline": "Six killed in shooting in Krakow's historic square",
+    "body": "A masked man in military-style clothing drove onto Krakow's Main Market Square on Saturday 7 November and opened fire, Euronews reported. Six people were reported dead and around 15 or 16 were wounded, including two police officers.\nPolice identified the suspect as Michał Oksiński, a 24-year-old Polish citizen, though some sources give 25. Three relatives' bodies were found in his flat. He died in hospital on Monday.\nPrime Minister Donald Tusk called it terrorism. Early comments pointing to far-right ideology were softened, and the justice minister said investigators would test whether he acted alone or was inspired by any group.\nThe square reopened on Sunday 8 November. Poland's president and prime minister walked in a silent march to remember the victims.",
+    "why": "It shows how quickly everyday places can be hit and why investigations take time."
+   },
+   {
+    "headline": "Poland in shock after deadly shooting in Krakow",
+    "body": "A gunman wearing military-style clothing and a mask drove a car onto Krakow's Main Market Square on Saturday 7 November and began shooting, according to Euronews. Six people were reported dead and 15 or 16 injured, including two police officers.\nThe suspect was named as Michał Oksiński, a 24-year-old Polish citizen with no previous convictions. Police found the bodies of three relatives in his flat. He died in hospital on Monday morning.\nPrime Minister Donald Tusk described the attack as terrorism. Officials first suggested far-right motives but later appeared to retreat, and the justice minister said investigators were still working out whether he acted alone.\nOn Sunday the square reopened, and Poland's president and prime minister joined a silent march.",
+    "why": "The case raises questions about security and about what drove the attacker."
+   },
+   {
+    "headline": "Gunman kills six in Krakow's Main Market Square",
+    "body": "A man in a mask and army-style clothes drove a car onto the busy Main Market Square in Krakow, Poland, on Saturday 7 November. He then opened fire, Euronews reported. Six people died and around 15 or 16 were hurt, including two police officers.\nPolice said the suspect was Michał Oksiński, a 24-year-old Polish man. He had no criminal record. Police also found the bodies of three of his relatives in his flat. He died in hospital on Monday.\nPrime Minister Donald Tusk called it terrorism. At first, officials said he held far-right views, but they later seemed less sure. The justice minister said police would look into whether he acted alone.\nThe square opened again on Sunday, and leaders took part in a silent march.",
+    "why": "Public attacks make people think about safety and how to prevent them."
+   },
+   {
+    "headline": "A deadly shooting shocks the city of Krakow in Poland",
+    "body": "On Saturday 7 November, a man in a mask drove a car into the main square in the city of Krakow, in Poland. Then he began to shoot. Six people died and about 15 or 16 were hurt. Two of the hurt people were police officers.\nThe police said the man was called Michał Oksiński. He was 24 years old and from Poland. The police also found three people from his family dead in his flat. He died in hospital on Monday.\nThe Polish Prime Minister, Donald Tusk, said it was an act of terrorism. Police are still finding out why it happened and whether anyone helped him.\nOn Sunday the square opened again. The country's president and prime minister took part in a quiet walk to remember the victims.",
+    "why": "People gather to remember those who were lost and to support each other."
+   },
+   {
+    "headline": "Shooting in a busy square in Poland",
+    "body": "On Saturday 7 November, there was a terrible attack in the main square of Krakow, a city in Poland. A man drove a car into the square and began shooting. Six people died and many more were hurt, including two police officers.\nThe police said the man was 24 and from Poland. He had never been in trouble with the police before. Police also found the bodies of three of his family members in his flat. He later died in hospital.\nThe country's leader, Donald Tusk, said it was terrorism. That means a crime meant to scare many people. Police are still trying to learn why he did it and if anyone helped.\nOn Sunday, leaders joined a silent walk to remember the people who died.",
+    "why": "The attack has shocked people in Poland and around Europe."
+   },
+   {
+    "headline": "A sad attack in a city square in Poland",
+    "body": "A very sad thing happened in the city of Krakow in Poland on Saturday 7 November. A man drove into a busy square and used a gun. Six people died. Many others were hurt, including two police officers.\nThe man was 24 years old. He had never been in trouble with the police. He died in hospital two days later. Police also found three people from his family dead in his home.\nThe leader of Poland, Donald Tusk, said it was an act of terrorism. This means someone hurts people to scare others. The police are now looking into why he did it.\nOn Sunday, people walked quietly through the city to remember those who died.",
+    "why": "People come together to remember those who were hurt or lost."
+   },
+   {
+    "headline": "A frightening day in a Polish city",
+    "body": "A frightening thing happened in a Polish city called Krakow. On a Saturday, a man went to a busy square where many people were walking. He used a gun and hurt many people. Six of them died.\nThe police found out who he was. He was 24 years old. He died in hospital two days later. The police are still working out why he did it.\nThe leader of Poland said it was an act of terrorism, which is when someone tries to scare lots of people.\nOn the next day, the square opened again. Leaders and many people walked quietly together to remember those who died. They wanted to show they care about each other.",
+    "why": "When something sad happens, people can help each other by being kind."
+   },
+   {
+    "headline": "A sad day in a Polish square",
+    "body": "Sometimes something very sad happens in the world. In a city called Krakow, in Poland, a man hurt many people in a busy square. Six people died.\nThe police are working very hard to find out why this happened. They are the helpers whose job is to keep people safe.\nOn the next day, the square opened again. The grown-ups of the city walked together very quietly. They did this to say they were thinking of the people who were lost and of their families.\nWhen sad things happen, it helps to be near people who care about you.",
+    "why": "Being kind and staying together can help when something sad happens."
+   },
+   {
+    "headline": "When people feel sad together",
+    "body": "Sometimes people far away have a very sad day. In a city called Krakow, in Poland, a bad thing happened in a square where people walk and shop. Some people were hurt, and some died.\nPolice and other helpers came to look after everybody. They are working to find out what happened. Their job is to keep us safe.\nThe next day, the leaders and lots of people walked quietly together in the city. They did it to show they cared and were thinking of everyone who was sad.\nIf you hear sad news, it is okay to feel sad. Talking to a grown-up you trust can help.",
+    "why": "Caring for each other helps us feel safer when sad things happen."
+   }
+  ],
+  "order": 7
+ },
+ {
+  "id": "israel-eisenkot-tasked-government",
   "topic": "Politics",
   "region": "Middle East",
   "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
-  "headline": "Trump says Iran war is 'effectively over' and will end 'fairly soon' as Tehran denies planned talks",
+  "url": "https://www.cnbc.com/2026/11/07/israel-eisenkot-netanyahu.html",
+  "headline": "Israel's president asks Gadi Eisenkot to form a government after inconclusive election, a setback for Netanyahu",
   "terms": [
    {
-    "term": "Blockade",
-    "meaning": "Using warships to stop ships entering or leaving a place."
+    "term": "Knesset",
+    "meaning": "Israel's parliament, with 120 seats."
    },
    {
-    "term": "Strait of Hormuz",
-    "meaning": "A narrow sea route in the Gulf through which a large share of the world's oil ships."
+    "term": "Coalition",
+    "meaning": "A government formed by several parties that agree to work together."
    },
    {
-    "term": "Midterm elections",
-    "meaning": "US elections held halfway through a president's term, mainly for Congress."
+    "term": "Mandate",
+    "meaning": "Official permission to try to form a government."
    }
   ],
   "levels": [
    {
-    "headline": "Trump says Iran war is 'effectively over' and will end 'fairly soon' as Tehran denies planned talks",
-    "body": "President Donald Trump said on 9 and 10 November that the war with Iran could end \"fairly soon\", describing it as \"militarily, effectively over\" and new strikes as \"quite unlikely\", while saying the US was ready to act if needed. The US naval blockade and the \"Operation Iron Gate\" land task force remain in place.\nIran's Foreign Minister denied that any meeting was being planned. Tasnim reported that Tehran would not hold talks until Washington took concrete steps within the framework of Iran's seven conditions. Secretary of State Marco Rubio reported no progress, and Qatar said it could not say how close an agreement was.\nAnalyst Fereidun Fesharaki said the two sides were too far apart to bridge, arguing Iran would not restore pre-war oil flows through the Strait of Hormuz. Trump's softer tone followed midterm elections in which Republicans lost both chambers of Congress. Earlier ceasefire and deal claims this year have fallen through.",
-    "why": "The war has disrupted oil supplies and raised prices worldwide, so any end or escalation affects household costs."
+    "headline": "Israel's president asks Gadi Eisenkot to form a government after inconclusive election, a setback for Netanyahu",
+    "body": "Israeli President Isaac Herzog asked opposition leader Gadi Eisenkot, head of the Yashar party, to try to form the next government on 7 November, a setback for Prime Minister Benjamin Netanyahu. Factions with 67 Knesset members backed Eisenkot and 46 backed Netanyahu.\nNeither side won the 61 seats needed for a majority in the 27 October election. Eisenkot, a former military chief, has 28 days to build a coalition, which can be extended by up to 14 days. He would probably need Arab-led parties, which have joined a governing coalition only once in Israel's history, and some potential partners object to relying on them.\nOn Iran, Eisenkot shares Netanyahu's hard line, so analysts say policy on Iran, the Palestinians and security may change little. Netanyahu's Likud alleged fraud and foreign interference in the vote, but the election commission said no fraud was found.",
+    "why": "Who governs Israel affects the war in Gaza, tensions with Iran and the wider Middle East."
    },
    {
-    "headline": "Trump says the Iran war is 'effectively over', but Tehran denies talks are planned",
-    "body": "Donald Trump said on 9 and 10 November that the Iran war could end \"fairly soon\". He called it \"militarily, effectively over\" and said fresh strikes were \"quite unlikely\", while insisting the US could act again if needed. The naval blockade and the \"Operation Iron Gate\" task force are still in place.\nIran's foreign minister denied any meeting was planned, and Tasnim said Tehran would only talk after Washington took concrete steps under Iran's seven conditions. Marco Rubio reported no progress, and Qatar would not say how near a deal was.\nAnalyst Fereidun Fesharaki argued the gap between the sides cannot be bridged, since Iran is unlikely to restore pre-war oil flows through the Strait of Hormuz. Mr Trump's tone has softened since Republicans lost both houses of Congress in the midterms. Previous claims of ceasefires and deals this year have collapsed.",
-    "why": "A lasting settlement or a new round of fighting would shape fuel prices and global security."
+    "headline": "Eisenkot given first chance to replace Netanyahu",
+    "body": "President Isaac Herzog on 7 November tasked Gadi Eisenkot, leader of the Yashar party and a former military chief, with forming Israel's next government. It is a setback for Benjamin Netanyahu. Factions with 67 members of the Knesset backed Eisenkot, while 46 backed Netanyahu.\nThe 27 October election left neither bloc with the 61 seats needed. Eisenkot has 28 days to form a coalition, extendable by up to 14, and will probably need Arab-led parties, who have been in a governing coalition just once. Some possible partners dislike that idea.\nBoth men take a hard line on Iran, so one analysis suggests policy on Iran and security may not shift much. Likud alleged fraud, but the election commission found none.",
+    "why": "The outcome shapes Israel's approach to Gaza, Iran and relations with its neighbours."
    },
    {
-    "headline": "Trump says the Iran war is almost over, but Iran says no talks are planned",
-    "body": "President Donald Trump said this week that the war with Iran could end \"fairly soon\". He said it was \"militarily, effectively over\" and that more strikes were \"quite unlikely\", though the US would act if it had to. American ships are still blockading Iran, and a land task force called \"Operation Iron Gate\" remains in place.\nIran's foreign minister said no meeting was planned. Iranian media said Tehran will not talk until the US takes steps that meet Iran's seven conditions. The US Secretary of State, Marco Rubio, said there had been no progress, and Qatar said it could not tell how close a deal was.\nOne analyst said the two sides are too far apart. Mr Trump's tone changed after his party lost control of Congress in the midterm elections. Earlier hopes of a deal this year have failed.",
-    "why": "The war has pushed up the cost of oil and fuel, so peace or more fighting matters for prices everywhere."
+    "headline": "Israeli president turns to Netanyahu's rival to form a government",
+    "body": "Israel's president, Isaac Herzog, has asked Gadi Eisenkot to try to form the next government. Eisenkot leads the Yashar party and used to head the army. The decision on 7 November is a setback for Prime Minister Benjamin Netanyahu. In all, 67 members of parliament backed Eisenkot and 46 backed Netanyahu.\nNeither side won a majority of 61 seats in the 27 October election. Eisenkot has 28 days to build a coalition, with a possible extension of up to 14. He would likely need parties led by Arab citizens, who have been in a governing coalition only once, and some partners are uneasy.\nOn Iran, both men are hawkish. The election commission found no fraud, despite claims from Netanyahu's Likud.",
+    "why": "The next Israeli government will influence the Gaza conflict and tensions with Iran."
    },
    {
-    "headline": "Trump says the Iran war is nearly over, but Iran does not agree that talks are happening",
-    "body": "US President Donald Trump has said the war with Iran could end \"fairly soon\". He described it as \"effectively over\" in military terms and said more attacks were unlikely, but he added that the US could strike again if needed. American warships are still blocking Iranian ports, and a land force remains in place.\nIran says no meeting is planned. Its news agency said the country will only talk if the US meets Iran's seven conditions. America's top diplomat, Marco Rubio, said talks have made no progress. Qatar, which has been helping, said it could not say how close a deal is.\nOne expert said the two sides are too far apart. Mr Trump's mood has softened since his party lost both parts of Congress in elections last week. Earlier promises of a deal this year came to nothing.",
-    "why": "The conflict has made oil and fuel more expensive, so the outcome affects people far from the Middle East."
+    "headline": "Netanyahu's rival is asked to build Israel's next government",
+    "body": "Israel's president, Isaac Herzog, has asked Gadi Eisenkot to try to form a new government. Eisenkot is a former army chief who leads the Yashar party. This is bad news for Prime Minister Benjamin Netanyahu. Members of parliament backed Eisenkot by 67 to 46.\nIn the 27 October election, neither side won the 61 seats needed to form a majority. Eisenkot now has 28 days to put together a coalition, which means a group of parties that agree to govern together. He can get up to 14 more days. He would probably need parties led by Arab citizens, who have joined a government only once before.\nBoth men are tough on Iran.",
+    "why": "The government Israel ends up with will affect peace efforts and tension across the region."
    },
    {
-    "headline": "Trump says the war with Iran is nearly over, but Iran says there are no talks",
-    "body": "The American president, Donald Trump, says the war with Iran may end \"fairly soon\". He says the fighting is \"effectively over\" and that new attacks are unlikely. But he says America could strike again if it needs to. American ships are still stopping boats from reaching Iran, which is called a blockade.\nIran says no meeting is planned. It says it will only talk if America does certain things first, which Iran calls its seven conditions. America's top diplomat, Marco Rubio, said talks have not moved forward. Qatar, a country helping to pass messages, would not say how close a deal is.\nAn expert said the two sides are very far apart. Earlier this month, Mr Trump's party lost control of Congress in elections. Earlier hopes of a deal this year did not come true.",
-    "why": "The war has made oil dearer, so what happens next could change petrol and energy prices."
+    "headline": "Israel's president asks a new leader to try to form a government",
+    "body": "Israel held an election on 27 October, but no group won enough seats to rule alone. A party needs 61 of the 120 seats to have a majority. On 7 November, the president, Isaac Herzog, asked a man called Gadi Eisenkot to try to form a government.\nEisenkot used to lead the army and now leads a party called Yashar. More members of parliament supported him, 67, than supported the current Prime Minister, Benjamin Netanyahu, who got 46.\nEisenkot has 28 days to find partners, and he may get up to 14 more. He will probably need parties led by Arab citizens, which is rare. The election commission said there was no cheating in the vote.",
+    "why": "The new government will make big choices about the war and peace in the region."
    },
    {
-    "headline": "Trump says the war with Iran is nearly over, but Iran says no talks are planned",
-    "body": "The American president, Donald Trump, says the war with Iran could end \"fairly soon\". He says it is \"effectively over\" and that more attacks are unlikely, but America could strike again if it needed to. American ships are still blocking Iranian ports.\nIran says no meeting is planned. It says it will talk only if America meets seven conditions. The American Secretary of State, Marco Rubio, said talks had made no progress. Qatar, which is helping, said it could not say how close a deal was.\nOne expert said the two sides are too far apart. Mr Trump has sounded softer since his party lost control of Congress in elections. Earlier promises of a deal this year have failed.",
-    "why": "The war has pushed up fuel costs, so peace or more fighting matters to families everywhere."
+    "headline": "Israel may get a new leader after an unclear election",
+    "body": "Israel held an election on 27 October. No party or group won a majority. That means no one had enough seats to run the country alone. A majority is 61 out of 120 seats.\nOn 7 November, the president, Isaac Herzog, asked a man called Gadi Eisenkot to try to form a new government. He used to be in charge of Israel's army. More politicians supported him than supported the Prime Minister, Benjamin Netanyahu.\nNow Eisenkot has 28 days to find enough partners. He may get more time if he needs it. Some of the partners he may need are parties led by Arab citizens. That has happened only once before.",
+    "why": "Who runs Israel can change what happens in a very tense part of the world."
    },
    {
-    "headline": "Trump says the Iran war is almost finished, but Iran says it is not talking",
-    "body": "The war between America and Iran has gone on for months. This week the American president, Donald Trump, said it could end \"fairly soon\". He said new attacks were unlikely, but that America could still attack if it needed to.\nIran does not agree that talks are coming. Its foreign minister said no meeting was planned. Iran says it will only talk if America does certain things first. America's top diplomat, Marco Rubio, said talks had not moved forward.\nA blockade is when ships are used to stop other ships coming in or out. American ships are still doing this near Iran. The war has also hurt oil supplies, because oil travels by ship through a narrow sea called the Strait of Hormuz.\nOne expert said the two sides are still too far apart. Earlier hopes of a deal have already failed this year.",
-    "why": "The war has made fuel more expensive, so peace would be welcome news for families."
+    "headline": "Israel's leaders are choosing who will run the country",
+    "body": "Israel had an election on 27 October. Nobody won enough votes to run the country alone. So, the president asked a man named Gadi Eisenkot to try to put together a new government.\nA government needs at least 61 out of 120 seats in parliament. Eisenkot used to be the head of the army. More politicians said they would back him than said they would back Benjamin Netanyahu, who is the Prime Minister now.\nEisenkot has 28 days to find partners. He may have a little more time if he needs it. If he cannot do it, Israel may have to choose again.",
+    "why": "The leaders of Israel make choices that can matter far beyond Israel."
    },
    {
-    "headline": "America says its war with Iran is nearly over, but Iran says no",
-    "body": "There has been a war between America and Iran for many months. This week the American president, Donald Trump, said it could end soon. He said he thought there would be no more attacks. But he said he could still attack if he had to.\nIran said no. It said no meeting was planned. Iran says America must do some things first, and it has made a list of seven.\nAmerica's top diplomat, Marco Rubio, said talks had not got anywhere. A small country called Qatar is helping the two sides talk, but it said it could not tell if a deal was close.\nThe war has made oil harder to get, because oil ships must pass through a narrow sea. That has made petrol cost more.",
-    "why": "If the war ends, oil and petrol could get cheaper for families."
+    "headline": "Israel needs a new team to lead",
+    "body": "Israel had a vote to choose its leaders. But no one won by enough. It is a bit like a game where nobody has scored enough points to win.\nSo the president asked a man called Gadi Eisenkot to try to form a team that can lead the country. A team like this is called a government. He needs lots of people to join him.\nHe has 28 days to find enough friends to join. The man who leads now, Benjamin Netanyahu, would like to stay as leader, but the president picked Eisenkot to go first.\nIf Eisenkot cannot find enough friends, it will be someone else's turn.",
+    "why": "Countries pick leaders by voting, and sometimes they need to talk to find a team."
    },
    {
-    "headline": "A big argument between two countries, and what was said this week",
-    "body": "America and Iran are two countries that have been fighting. It is a bit like a very big, very serious argument that has gone on for months. This week the leader of America, Donald Trump, said the fighting could stop soon. He said he did not expect more attacks.\nBut Iran said it was not talking to America at all. Iran said America must do some things first before there can be any talks. They have not agreed on much.\nIt matters to everyone because oil, which makes petrol, travels by ship through a narrow sea near Iran. During the fighting the ships have been in danger, and that has made oil cost more.\nSome people hope the argument ends. Others think it could start again.",
-    "why": "If the fighting stops, it might help fuel get cheaper for families."
+    "headline": "Choosing a team captain",
+    "body": "Imagine your class picks a captain for the football team. Some children want one person, and some want another. Nobody gets enough votes. So the teacher asks one child to go and try to find enough friends who agree.\nThat is a bit like what happened in Israel. There was a vote, and no one won by enough. The president asked a man named Gadi Eisenkot to see if he could gather enough friends to be the leader.\nHe has 28 days to try. If he finds enough friends, he leads. If not, someone else gets a turn.\nVoting and talking are how countries pick who leads them.",
+    "why": "Picking a leader fairly often means a lot of talking."
    },
    {
-    "headline": "Two countries have been fighting, and one says it will stop soon",
-    "body": "Imagine two children who have been having a big quarrel in the playground for a very long time. Other children have been caught up in it, and some can't get past.\nThis week, one of them said the quarrel was almost over. The other said they weren't even talking yet. They still don't agree on how to stop.\nThe two are the countries America and Iran. A leader called a president, Donald Trump, spoke for America. Because ships near Iran carry oil to the whole world, the quarrel has made things like petrol cost more.\nA friend called Qatar is trying to help them talk. Lots of people hope they make friends again soon.",
-    "why": "If they stop quarrelling, petrol and bills could cost less for families."
+    "headline": "Picking someone to lead",
+    "body": "Sometimes a group cannot agree who should be in charge. The grown-ups in Israel had a vote, and no one got enough votes to be the boss.\nSo the person in charge of choosing, called the president, picked a man called Gadi Eisenkot to try first. He has to find enough people who say yes to him. He has 28 days.\nIt is a bit like asking friends to join your team in the playground. You need enough friends to play the game.\nIf he cannot find enough friends, someone else will have a turn.",
+    "why": "Countries choose leaders by asking people, and it can take time."
    }
-  ]
+  ],
+  "order": 8
  },
  {
-  "id": "oil-two-month-low-hormuz",
-  "order": 4,
+  "id": "oil-falls-iran-talks-hopes",
   "topic": "Economy",
   "region": "Middle East",
   "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/11/oil-rises-from-two-month-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes.html",
-  "headline": "Oil edges up from a two-month low as Hormuz shipping attacks offset hopes of an Iran truce",
+  "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+  "headline": "Oil prices fall back as markets weigh hopes of an Iran deal against stalled nuclear talks",
   "terms": [
    {
     "term": "Brent crude",
-    "meaning": "The main international price benchmark for oil, set in barrels."
+    "meaning": "The main international benchmark price for oil, quoted in dollars per barrel."
    },
    {
-    "term": "Strait of Hormuz",
-    "meaning": "A narrow sea route in the Gulf through which a large share of the world's oil ships."
+    "term": "Barrel",
+    "meaning": "The standard unit for oil, about 159 litres."
    },
    {
-    "term": "Surplus",
-    "meaning": "When there is more supply of something than buyers need."
+    "term": "Enriched nuclear material",
+    "meaning": "Uranium processed to a higher purity, which can be used for power or, at very high levels, for weapons."
    }
   ],
   "levels": [
    {
-    "headline": "Oil edges up from a two-month low as Hormuz shipping attacks offset hopes of an Iran truce",
-    "body": "Oil prices rose on Wednesday 11 November after falling to two-month lows the previous day. Brent futures gained 71 cents, or 0.78%, to $92.20 a barrel, and US West Texas Intermediate rose 49 cents, or 0.57%, to $86.53. On Tuesday Brent briefly dipped below $90 for the first time since August.\nPrices have been pulled down by President Donald Trump's remarks that new strikes on Iran are unlikely, while attacks on shipping in the Strait of Hormuz keep supply worries alive. Brent plunged 16% last week, its steepest weekly fall since the start of the Covid-19 pandemic. Trading Economics says crude is still about 41% higher than a year ago.\nAnalysts disagree. Rapidan Energy's Bob McNally puts an 80% probability on fighting resuming, which could send both benchmarks above $100. JPMorgan says the return of Gulf supply has pushed the global market back into surplus after months of disruption.",
-    "why": "Oil prices feed into petrol, heating and the price of almost everything, so they influence inflation and interest rates."
+    "headline": "Oil prices fall back as markets weigh hopes of an Iran deal against stalled nuclear talks",
+    "body": "Oil prices have dropped sharply since the US midterm elections as investors weigh hopes of a diplomatic end to the Iran war. Brent crude fell below $90 a barrel for the first time since August, and CNBC reported it down 6.9% for the week after losing 16.4% the week before. Trading Economics showed crude at $86.15 on 12 November, down 0.44% on the day.\nPrices have bounced at times and remain well above a year ago. A key obstacle remains: Iran has said it will not surrender its enriched nuclear material.\nThe wider effect is on inflation. The Bank of England has said the energy shock from the Middle East conflict is the main driver behind inflation that it expects to reach about 5% by mid-2027. In the US, energy remains a worry for the Fed, with Governor Christopher Waller warning that earlier energy shocks may keep affecting prices into 2027.",
+    "why": "Oil prices feed into petrol, heating and food costs and so into interest rates."
    },
    {
-    "headline": "Oil rebounds slightly from a two-month low as Hormuz attacks cloud hopes of an Iran truce",
-    "body": "Oil rose a little on Wednesday 11 November after touching two-month lows on Tuesday. Brent crude was up 71 cents, or 0.78%, at $92.20 a barrel, while US benchmark West Texas Intermediate gained 49 cents, or 0.57%, to $86.53. On Tuesday Brent briefly slipped under $90, a level last seen in August.\nThe slide came as Donald Trump played down the chance of fresh strikes on Iran, even though attacks on ships in the Strait of Hormuz continue to threaten supplies. Brent fell 16% last week, its sharpest weekly drop since the pandemic began, but is still around 41% above a year ago.\nForecasts differ. Rapidan Energy's Bob McNally sees an 80% chance that fighting resumes and prices top $100. JPMorgan argues that returning Gulf supply has put the market back in surplus after months of disruption.",
-    "why": "Fuel and energy costs shape household bills and the Bank of England's task of controlling inflation."
+    "headline": "Crude slides on hopes of diplomacy with Iran",
+    "body": "Oil has fallen sharply since the US midterms as investors bet on a diplomatic end to the Iran war. Brent crude dropped below $90 a barrel for the first time since August, and CNBC said it was down 6.9% for the week after a 16.4% fall the week before. Trading Economics put crude at $86.15 on 12 November.\nPrices have bounced at times and are still well above a year ago. Iran has said it will not hand over its enriched nuclear material, a major obstacle to a deal.\nLower oil would ease pressure on inflation. The Bank of England blames the energy shock for inflation it expects to near 5% by mid-2027, and Fed governor Christopher Waller has warned energy shocks could affect US prices into 2027.",
+    "why": "Oil costs reach households through fuel, transport and heating bills."
    },
    {
-    "headline": "Oil prices tick up after hitting a two-month low",
-    "body": "Oil prices rose slightly on Wednesday 11 November, one day after dropping to their lowest in two months. Brent crude, the world benchmark, gained 71 cents to $92.20 a barrel. The US benchmark rose 49 cents to $86.53. On Tuesday, Brent briefly fell below $90 for the first time since August.\nPrices have dropped because President Trump said new strikes on Iran were unlikely. But attacks on ships in the Strait of Hormuz, a key route for oil, are still worrying traders. Last week Brent fell 16%, its biggest weekly fall since the start of the pandemic, though it is still around 41% higher than a year ago.\nExperts disagree about what comes next. One, Bob McNally, thinks fighting is likely to restart and send prices above $100. JPMorgan says supplies are returning, leaving the world with more oil than it needs.",
-    "why": "Cheaper oil can lower petrol and energy prices, but the risk of renewed conflict could push them up again."
+    "headline": "Oil prices drop as investors hope for an end to the Iran conflict",
+    "body": "Oil prices have fallen sharply this month as investors hope the Iran war can be settled by talks. Brent crude went below $90 a barrel for the first time since August. CNBC reported a 6.9% weekly fall after a 16.4% drop the week before. Trading Economics showed crude at $86.15 on 12 November.\nThe price has recovered at times and remains well above where it was a year ago. Iran has said it will not give up its enriched nuclear material, which is a key obstacle in the talks.\nThe fall matters for inflation. The Bank of England says the energy shock is the main reason it expects UK inflation to reach about 5% by mid-2027. A Fed governor, Christopher Waller, has also warned that energy effects could last into 2027.",
+    "why": "Cheaper oil can ease the cost of living, but the gains may not last."
    },
    {
-    "headline": "Oil prices rise slightly after falling to their lowest level in two months",
-    "body": "Oil prices went up a little on Wednesday 11 November, after falling to a two-month low a day earlier. A barrel of Brent crude, the main international price, rose to $92.20. On Tuesday it briefly dropped below $90 for the first time since August.\nOil has been getting cheaper because President Trump said new attacks on Iran are unlikely and hopes of a truce have grown. But ships in the Strait of Hormuz, a narrow sea route that much of the world's oil passes through, are still being attacked. That keeps some traders nervous. Last week oil fell 16%, its biggest weekly drop since the pandemic began.\nOne expert thinks fighting may start again and send prices over $100. Another view, from JPMorgan, is that there is now more oil than buyers need.",
-    "why": "The price of oil affects what you pay for petrol, energy and many goods in the shops."
+    "headline": "Oil gets cheaper as people hope for a deal with Iran",
+    "body": "The price of oil has fallen a lot since the US midterm elections. Investors hope the war involving Iran can end through talks. Brent crude, the main world price, went below $90 a barrel for the first time since August. It fell 6.9% in one week, after a 16.4% fall the week before. On 12 November, crude was about $86 a barrel.\nThe price has bounced up at times, and it is still well above where it was a year ago. Iran says it will not give up its enriched nuclear material, which is a big problem for the talks.\nThis matters because oil costs affect petrol and heating. The Bank of England says the energy shock is behind its warning that UK inflation could reach about 5% by mid-2027.",
+    "why": "Oil prices affect what we pay for petrol, heating and shopping."
    },
    {
-    "headline": "Oil prices tick up, but remain near a two-month low",
-    "body": "The price of oil rose a little on Wednesday 11 November. But it is still close to its lowest in two months. A barrel of Brent oil, the main world price, cost $92.20. On Tuesday it dipped below $90 for the first time since August.\nWhy has it fallen? The American president, Donald Trump, said new attacks on Iran are unlikely. People hoped the war might end. But ships are still being attacked in the Strait of Hormuz. This is a narrow stretch of water where lots of the world's oil travels by ship. If the ships cannot pass, oil becomes harder to get, and prices rise.\nExperts disagree. One thinks fighting will start again. Another says there is now more oil than the world needs.",
-    "why": "Oil prices change what we pay for fuel and bills, and how quickly prices rise generally."
+    "headline": "Oil prices drop as people hope for peace talks with Iran",
+    "body": "Oil prices have dropped over the past couple of weeks. People who buy and sell oil hope that talks can end the war with Iran. The main world price, called Brent crude, went below $90 a barrel for the first time since August. A barrel is the standard amount of oil that is bought and sold. On 12 November the price was about $86.\nThe price has gone up and down, and it is still much higher than a year ago. Iran says it will not give up its special nuclear material, which makes a deal harder.\nOil matters to everyone. When it costs more, petrol and heating can cost more too. The Bank of England thinks this could push UK prices up by about 5% by the middle of 2027.",
+    "why": "Oil costs touch fuel, heating and the price of everyday things."
    },
    {
-    "headline": "Oil gets a little dearer after a big fall earlier this week",
-    "body": "The price of oil rose a little on Wednesday 11 November, after it fell to its lowest level in two months. A barrel of Brent oil, the main world price, now costs about $92. It briefly went below $90 on Tuesday.\nOil has become cheaper because the American president, Donald Trump, said new attacks on Iran are unlikely. People hoped the war would end. But ships are still being attacked in the Strait of Hormuz, a narrow sea route where a lot of the world's oil is shipped. That keeps some people worried that oil could become hard to get.\nExperts disagree. One thinks the fighting will return and push the price above $100. Another says there is now more oil than the world needs.",
-    "why": "Cheaper oil can bring down petrol and energy costs, but conflict can quickly push them up again."
+    "headline": "Oil costs less, but the worry has not gone away",
+    "body": "The price of oil has gone down a lot in recent weeks. Many people hope that talks will end the war with Iran. Oil is a liquid fuel that is used for petrol and for making many things. The main world price went below $90 a barrel, and it was about $86 on 12 November.\nThe price still goes up and down. And it is higher than a year ago. Iran says it will not give up some special nuclear material. This makes it hard to make a deal.\nWhen oil costs more, shops and drivers pay more, and prices can rise for everyone. The Bank of England thinks prices in the UK could rise by about 5% by the middle of 2027.",
+    "why": "What oil costs affects almost everything we buy."
    },
    {
-    "headline": "Oil gets a little dearer after a big fall",
-    "body": "Oil is a liquid that is turned into petrol, diesel and heating fuel. Its price went up a little on Wednesday 11 November. But last week it fell a lot, by 16%. That was its biggest fall in a week since 2020.\nOne price for oil is called Brent. It is now about $92 for a barrel. Earlier this week it briefly went below $90 for the first time since August.\nWhy the fall? The American president, Donald Trump, said he did not think there would be more attacks on Iran. People hoped the war might end. But ships are still being attacked near the Strait of Hormuz, a narrow sea road for oil tankers. That worries buyers.\nSome experts think fighting will come back and prices will rise again. Others say there is plenty of oil now.",
-    "why": "Cheaper oil can make petrol and energy bills lower, but wars can quickly push them up again."
+    "headline": "Oil prices go down as people hope for peace",
+    "body": "The price of oil has gone down in the past few weeks. People hope that a war involving Iran might end soon. Oil is used to make petrol for cars and to heat some buildings.\nThe price went below $90 for a barrel of oil, and on 12 November it was about $86. A barrel is a big container of oil. A year ago, the price was a lot lower than now.\nIran says it will not hand over some special nuclear material. This makes it harder to agree on peace.\nWhen oil costs more, many other things cost more too. When it costs less, that can help families.",
+    "why": "Cheaper oil can mean cheaper petrol and heating."
    },
    {
-    "headline": "Oil costs a little more again after getting cheaper",
-    "body": "Oil is what we make petrol from. Its price has been going down, but on Wednesday it went up a little. A barrel of oil now costs about $92. It was higher a few weeks ago.\nThe price fell because people hoped a war between America and Iran might end soon. The American president said more attacks looked unlikely. When people think there will be lots of oil to buy, the price goes down. It is like when a shop has lots of apples, so it sells them cheaper.\nBut ships carrying oil are still being attacked in a narrow stretch of sea called the Strait of Hormuz. That worries people. If oil is hard to get, it costs more.",
-    "why": "Oil prices change what petrol costs, and what families pay for fuel and for many other things."
+    "headline": "Oil gets cheaper",
+    "body": "Oil is a thick liquid from under the ground. We use it to make petrol for cars and lorries. The price of oil has gone down lately. People hope a war might end soon.\nOne big barrel of oil costs about $86 now. A week ago it cost more. But it is still more than it was a year ago.\nWhen oil costs less, petrol can cost less too. Food can cost less because lorries use less money to carry it.\nA country called Iran has said it will not give up some things that worry other countries. So the war is not over yet.",
+    "why": "When oil is cheaper, many things we need can cost less."
    },
    {
-    "headline": "Why oil costs more or less, and what happened this week",
-    "body": "Oil is what makes cars and lorries go, and it heats some homes. Oil is dug up in some countries and sent on ships to others. When lots of oil is for sale, the price goes down. When it is hard to get, the price goes up.\nThis week the price fell, because people hoped a war would end and ships would travel safely again. On Wednesday the price crept up a little. Ships in one narrow sea, called the Strait of Hormuz, are still being attacked, and that makes people nervous.\nA barrel of the oil called Brent costs about $92. Some experts think the war will start again and prices will climb. Others think there is plenty of oil.",
-    "why": "When oil is cheaper, petrol and bills can cost less, which helps families."
+    "headline": "Why oil prices matter",
+    "body": "Think of oil as the juice that makes cars and lorries go. When the juice costs more, it costs more to drive and to carry food to shops. Then the shops put up their prices a little.\nIn the last few weeks, the price of oil has gone down. People hope that a war might end soon. When people feel calmer, the price goes down.\nBut the war is not over yet, so the price could go up again. It is a bit like the price of a toy that keeps changing in the shop window.\nWhen oil is cheaper, families can sometimes spend less on petrol.",
+    "why": "The price of oil can change how much we pay for lots of things."
    },
    {
-    "headline": "Why the price of fuel goes up and down",
-    "body": "Think about a sweet shop. If the shop has lots of sweets, it sells them for less. If a lorry full of sweets is stuck on the road, the sweets cost more, because there are fewer to buy.\nOil is a bit like that. Oil is used to make petrol for cars and to heat buildings. This week, oil got cheaper because people hoped a war far away would stop, so oil could travel safely again. On Wednesday, the price went up a little. Some ships were still being attacked in a narrow stretch of sea where lots of oil travels, and that made people worry.\nSo the price goes up and down as people hope or worry.",
-    "why": "When oil gets cheaper, grown-ups may spend less on petrol and heating."
-   }
-  ]
- },
- {
-  "id": "uk-eu-summit-free-movement-debate",
-  "order": 5,
-  "topic": "Politics",
-  "region": "United Kingdom",
-  "source": "Euronews",
-  "url": "https://www.euronews.com/2026/10/25/uk-prime-minister-andy-burnham-wants-honest-discussion-on-return-to-eu-free-movement",
-  "headline": "Burnham heads to the 20 November UK-EU summit as the debate over free movement and rejoining grows",
-  "terms": [
-   {
-    "term": "Free movement",
-    "meaning": "The right of citizens to live and work in any country in a group, such as the EU, without a visa."
-   },
-   {
-    "term": "Schengen",
-    "meaning": "The EU area where people can cross borders without passport checks."
-   },
-   {
-    "term": "Dynamic alignment",
-    "meaning": "Automatically following new EU rules as they change."
+    "headline": "Juice for cars",
+    "body": "Cars, lorries and trains need something to make them go. A lot of the time that is a thing called oil. People buy and sell oil all over the world.\nThe price of oil changes all the time. Lately, it has gone down. That is because people hope a war might end soon.\nWhen oil costs less, it can cost less to get food to the shops, and it can cost less to drive a car. That helps families.\nBut the price can change again. It is like the price of sweets that keeps going up and down.",
+    "why": "Cheaper oil can help families spend less on petrol."
    }
   ],
-  "levels": [
-   {
-    "headline": "Burnham heads to the 20 November UK-EU summit as the debate over free movement and rejoining grows",
-    "body": "Prime Minister Andy Burnham will attend a UK-EU summit in Brussels on 20 November. His government says it will focus on growth and illegal immigration. On the table are a trade deal on food and drink, progress on emissions trading and linking energy systems, a youth experience scheme, and deeper cooperation on immigration.\nMr Burnham has said he wants an \"honest discussion\" about how immigration has changed since Brexit, and has ruled out joining Schengen or the euro. He has said the most ambitious option would be to go \"all the way\" and rejoin the EU, but that now is not the time to re-run the referendum. He has called a rejoin referendum in a future manifesto \"possible\" and has ruled out an early election.\nCoverage notes Brussels would require free movement, European Court of Justice jurisdiction and dynamic alignment with EU rules. Nigel Farage called the free movement comments a \"total betrayal of Brexit Britain\". No outcome is confirmed.",
-    "why": "The summit could set the direction of UK trade, immigration policy and relations with the EU for years."
-   },
-   {
-    "headline": "Burnham prepares for the UK-EU summit as arguments over free movement and rejoining intensify",
-    "body": "Andy Burnham will go to Brussels on 20 November for a UK-EU summit that his government says will focus on growth and illegal immigration. Issues include a food and drink trade deal, emissions trading, linking energy systems, a youth experience scheme and closer cooperation on immigration.\nThe prime minister has asked for an \"honest discussion\" about immigration since Brexit and ruled out joining Schengen or the euro. He has said the boldest option would be to rejoin the EU, but that the time is not right to rerun the referendum. A rejoin referendum in a future manifesto is \"possible\", he says, and he has ruled out a snap election.\nBrussels would insist on free movement, the jurisdiction of the European Court of Justice and dynamic alignment with EU rules. Nigel Farage described the free movement remarks as a \"total betrayal of Brexit Britain\". No deal has been confirmed.",
-    "why": "Decisions made here could shape trade, travel and immigration rules for the UK."
-   },
-   {
-    "headline": "Prime Minister to attend a UK-EU summit as the row over free movement and rejoining grows",
-    "body": "Prime Minister Andy Burnham will go to Brussels on 20 November for a summit between the UK and the European Union. His government says it will focus on economic growth and illegal immigration. Ideas include a trade deal on food and drink, work on carbon trading, a youth experience scheme and more cooperation on immigration.\nMr Burnham has asked for an \"honest discussion\" about how immigration has changed since Brexit. He has ruled out joining the euro or the Schengen area. He says the biggest step would be rejoining the EU, but he does not think it is time for another referendum. He says one in a future manifesto is \"possible\" and he has ruled out an early election.\nThe EU says rejoining would mean free movement and following EU rules. Nigel Farage called the idea a betrayal.",
-    "why": "The talks could change how easy it is for people to trade, travel and work between the UK and Europe."
-   },
-   {
-    "headline": "The Prime Minister is going to a UK-EU summit, and people disagree about how close to Europe the UK should be",
-    "body": "On 20 November, Prime Minister Andy Burnham will meet EU leaders in Brussels. His government says the main topics are growth and illegal immigration. They may talk about easier trade in food and drink, cutting pollution, a scheme for young people to live or work abroad, and working together on immigration.\nMr Burnham wants an \"honest discussion\" about how immigration has changed since Brexit, the UK's departure from the EU. He has said the UK will not join the euro or the Schengen area, where people cross borders freely. He says rejoining the EU is the biggest option, but he does not want another vote yet.\nThe EU says rejoining would mean free movement of people and following EU rules. Nigel Farage called the idea a betrayal. Nothing has been agreed.",
-    "why": "The UK's choices about Europe can affect trade, prices and who can live and work here."
-   },
-   {
-    "headline": "The UK Prime Minister will meet EU leaders, and people argue about how close the UK should be to Europe",
-    "body": "The UK left the European Union in what people call Brexit. On 20 November, Prime Minister Andy Burnham will meet EU leaders in Brussels to talk about the future. His government says the talks will be about growth and illegal immigration. They might also cover easier trade in food and drink, and a scheme for young people to spend time abroad.\nMr Burnham says he wants an honest talk about how immigration has changed since Brexit. He has said the UK will not use the euro. He has also said rejoining the EU is the biggest possible step, but now is not the time for another vote.\nThe EU says rejoining would mean free movement, which lets people live and work in any member country. Nigel Farage strongly disagrees with the idea.",
-    "why": "This could change how easily people and goods move between the UK and Europe."
-   },
-   {
-    "headline": "The Prime Minister will talk to EU leaders, and people disagree about going back closer to Europe",
-    "body": "The UK left the European Union a few years ago. This is called Brexit. On 20 November, the Prime Minister, Andy Burnham, will go to Brussels to talk with EU leaders. His government says they will talk about growth and stopping illegal boats and other illegal travel. They may also talk about easier trade in food and drink.\nMr Burnham says he wants an honest talk about how the number of people moving to the UK has changed since Brexit. He says the UK will not join the euro, which is the money many EU countries use.\nHe says the biggest step would be rejoining, but now is not the time for another vote. The EU says rejoining would mean free movement for people. Nigel Farage strongly disagrees.",
-    "why": "It matters because the UK's links with Europe affect trade, jobs and travel."
-   },
-   {
-    "headline": "The UK Prime Minister will meet EU leaders for important talks",
-    "body": "The UK used to be part of a group of European countries called the EU. It left a few years ago. This is called Brexit. On 20 November, the Prime Minister, Andy Burnham, will meet leaders of the EU in a city called Brussels.\nHe wants to talk about helping the economy grow and stopping people from coming to the UK illegally. They may also talk about easier trade in food and drink.\nSome people want the UK to be closer to the EU again. Others do not. Mr Burnham said the biggest step would be to join again, but he does not think it is time for another vote. Nigel Farage said he strongly disagrees with getting closer.\nNothing has been decided yet.",
-    "why": "These talks could change how we trade and travel with Europe."
-   },
-   {
-    "headline": "Britain's leader will talk with Europe's leaders",
-    "body": "Britain used to be in a team of countries called the European Union, or EU. A few years ago, Britain left the team. Now the Prime Minister, Andy Burnham, is going to Brussels on 20 November to talk to the team's leaders.\nHe wants to talk about making money and jobs grow. He also wants to talk about stopping people who come to Britain in ways that are against the rules.\nSome people would like Britain to get closer to the team again. Some do not. The Prime Minister says joining again is the biggest step, but now is not the time to vote on it.\nThe leaders have not made any decisions yet. They will just talk.",
-    "why": "What they agree could change how we shop, travel and work with our neighbours."
-   },
-   {
-    "headline": "A leader goes to talk to old friends",
-    "body": "Imagine Britain was in a club with lots of other countries in Europe. Then Britain left the club. Some people were happy about that. Others were sad. Now, the leader of Britain, Andy Burnham, is going to visit the club to talk about how to be friends again.\nHe wants to talk about helping everyone earn more money and about people coming to Britain in ways that break the rules. He does not want to rejoin the club yet, and he says there would need to be another vote first.\nSome people want to be closer friends with the club. Some do not. No one has decided anything yet. First they need to talk.",
-    "why": "Being friends with our neighbours can make shopping, travel and jobs easier."
-   },
-   {
-    "headline": "A leader visits our neighbours to talk",
-    "body": "Britain has neighbours in Europe. A while ago, Britain left a big group of them, called the EU. Now the Prime Minister, Andy Burnham, will visit them on 20 November to talk.\nHe wants to talk about helping everyone earn money and about people who come to Britain in ways that break the rules. He might also talk about food. Britain and its neighbours may be able to sell food to each other more easily.\nSome people want Britain to be closer to its neighbours again. Others want to stay as we are. Mr Burnham says that if Britain ever joined again, there should be another vote first.\nNo one has decided anything yet. They will start by talking, like friends do.",
-    "why": "Good talks with neighbours can make things easier for families."
-   }
-  ]
+  "order": 9
  },
  {
-  "id": "merz-eu-budget-ukraine-aid",
-  "order": 6,
-  "topic": "Politics",
-  "region": "Europe",
-  "source": "Euronews",
-  "url": "https://www.euronews.com/2026/11/10/eu-budget-battle-erupts-as-four-countries-defy-merz-over-ukraine-aid",
-  "headline": "Four EU countries defy Merz as he ties the next EU budget to new Ukraine funding",
-  "terms": [
-   {
-    "term": "Veto",
-    "meaning": "The power to block a decision, which in the EU often needs every member country to agree."
-   },
-   {
-    "term": "Joint debt",
-    "meaning": "Money borrowed together by EU countries, with all of them responsible for repaying it."
-   },
-   {
-    "term": "EU budget",
-    "meaning": "The EU's long-term spending plan, agreed by member countries."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Four EU countries defy Merz as he ties the next EU budget to new Ukraine funding",
-    "body": "German Chancellor Friedrich Merz has told European Council President António Costa, in a letter, that fresh funding for Ukraine is an \"essential prerequisite\" for approving the EU's next long-term budget. He also wants a lasting arrangement that covers interest already owed on the existing €90 billion loan.\nKyiv faces a shortfall of about €70 billion. The EU has promised to cover two-thirds of it, roughly €45 billion, through an instrument not yet defined, with a new round of joint debt emerging as the frontrunner.\nSlovak Prime Minister Robert Fico called the move a \"textbook case of blackmail\" and threatened a veto. Czechia, Hungary and Bulgaria also resisted, and the four want to opt out of any future loan to Ukraine. Czech Prime Minister Andrej Babiš noted that money from the budget would not be available until 2028. Costa has sought to reassure Merz, saying both issues will be discussed at a special summit in Brussels at the end of the month.",
-    "why": "How Europe funds Ukraine and its own budget affects EU unity, spending and the war."
-   },
-   {
-    "headline": "Merz links EU budget to Ukraine aid and meets resistance from four member states",
-    "body": "Chancellor Friedrich Merz has written to European Council President António Costa saying new Ukraine funding is an \"essential prerequisite\" for approving the EU's next long-term budget. He also wants a lasting deal covering interest already built up on the existing €90 billion loan.\nUkraine faces a gap of roughly €70 billion. The EU has promised to cover two-thirds, about €45 billion, through an instrument still to be decided, and fresh joint borrowing is the leading option.\nSlovakia's Robert Fico called the demand \"blackmail\" and threatened a veto. Czechia, Hungary and Bulgaria also pushed back, and the four want to stay out of any future Ukraine loan. Andrej Babiš pointed out that the budget money would not arrive until 2028. António Costa has tried to calm matters, saying both topics will be taken up at a special Brussels summit at the end of the month.",
-    "why": "The row tests whether EU countries can agree on both their own finances and support for Ukraine."
-   },
-   {
-    "headline": "Germany's chancellor says there will be no EU budget without new money for Ukraine",
-    "body": "Germany's chancellor, Friedrich Merz, has told the head of the European Council, António Costa, that the EU cannot agree its next long-term budget unless it first agrees fresh funding for Ukraine. He also wants a lasting plan to deal with interest owed on an existing €90 billion loan.\nUkraine is short of about €70 billion. The EU has said it will cover about two-thirds of that, around €45 billion, but has not decided how. Borrowing together, known as joint debt, looks the most likely method.\nFour countries disagree. Slovakia's leader, Robert Fico, called it \"blackmail\" and said he might use his veto. Czechia, Hungary and Bulgaria also objected. Costa said the issues will be discussed at a special summit in Brussels later this month.",
-    "why": "The argument could delay the EU's budget and Ukraine's access to help."
-   },
-   {
-    "headline": "Germany ties the EU budget to help for Ukraine, and four countries push back",
-    "body": "The German chancellor, Friedrich Merz, has said the European Union should not approve its next long-term budget until it agrees new money for Ukraine. He wrote to the head of the European Council, António Costa, to say so. He also wants a plan for interest on an older €90 billion loan.\nUkraine needs about €70 billion more. The EU has said it will pay about two-thirds of this, roughly €45 billion, but it has not said how. Borrowing together looks likely.\nFour countries are unhappy: Slovakia, Czechia, Hungary and Bulgaria. Slovakia's leader, Robert Fico, called the demand \"blackmail\" and said he may block it with a veto. Costa said the issue will be talked about at a special meeting in Brussels at the end of this month.",
-    "why": "Decisions about Ukraine and the EU's money affect Europe's security and every member country's spending."
-   },
-   {
-    "headline": "Germany says no deal on Ukraine money means no EU budget, and some countries are angry",
-    "body": "Friedrich Merz, the leader of Germany, wants the European Union to agree to give Ukraine more money before it agrees its big spending plan for the coming years. He wrote to the head of the European Council, António Costa, to say this. The EU budget is the plan for how the countries spend money together.\nUkraine is missing about €70 billion. The EU has promised about two-thirds of that, which is roughly €45 billion, but not decided how to find it. One idea is for countries to borrow together.\nFour countries do not like Mr Merz's plan. Slovakia's Robert Fico called it \"blackmail\" and said he might use his veto, which is the power to say no and block a decision. The leaders will talk about it at the end of the month.",
-    "why": "The EU needs every country to agree, so this argument could slow help for Ukraine."
-   },
-   {
-    "headline": "Germany wants Ukraine money agreed before the EU budget, and four countries disagree",
-    "body": "The European Union is a group of countries that share a big spending plan, called the EU budget. Germany's leader, Friedrich Merz, now says the plan should not be agreed until the EU has promised more money to Ukraine, which is fighting a war.\nUkraine is short of about €70 billion. The EU has promised to pay about two-thirds of this. It has not yet worked out how. One idea is to borrow money together.\nFour EU countries, Slovakia, Czechia, Hungary and Bulgaria, do not like this. Slovakia's leader, Robert Fico, called it \"blackmail\". He said he might use his veto, which means the power to stop a decision.\nThe EU's leaders will talk about it at a special meeting in Brussels at the end of the month.",
-    "why": "EU countries have to agree for anything to happen, so arguments like this can slow things down."
-   },
-   {
-    "headline": "A big argument in Europe about money for Ukraine",
-    "body": "The EU is a group of countries that work together. They share a plan for how to spend money, which is called the EU budget. Germany's leader, Friedrich Merz, says that plan should wait until the countries agree to give Ukraine more money. Ukraine is a country that is in a war and needs help to pay its bills.\nUkraine is short of about €70 billion. The EU says it will pay about two-thirds of it, but has not decided how. One idea is for the countries to borrow together.\nFour countries disagree. One leader called the plan \"blackmail\". He said he might use a veto, which means the power to say no and stop it. The leaders will talk about it again at the end of the month.",
-    "why": "Countries that work together have to agree, and this argument shows how hard that can be."
-   },
-   {
-    "headline": "Countries in Europe argue about how to share money",
-    "body": "Many countries in Europe are in a group called the EU. They put money into a pot and agree together how to spend it. This week the leader of Germany, Friedrich Merz, said the group should first agree to help another country, Ukraine, before they agree how to spend the pot.\nUkraine is in a war. It needs about €70 billion, which is a very big amount of money. The EU says it will give about two-thirds of that, but has not worked out where the money will come from.\nFour countries said no to Mr Merz's idea. One leader called it unfair and said he might say no to the whole plan. Everyone will talk about it again at the end of the month.",
-    "why": "When a group has to agree, one disagreement can hold everyone up."
-   },
-   {
-    "headline": "Friends argue about how to share money to help someone",
-    "body": "Imagine a class where everyone puts pocket money in a jar to pay for class trips. The class also wants to help a friend from another school who is in trouble and needs money.\nOne child, called Friedrich, says, \"We should not decide about the class trips until we agree to help our friend.\" Some of the other children do not like this. One says it is unfair, like being told what to do. They each have a say, and if one says no, nothing can happen.\nIn real life, the class is a group of countries called the EU, and the friend is Ukraine. Ukraine is in a war and needs a lot of money. The leaders will talk again at the end of the month.",
-    "why": "When people share money, they sometimes disagree about what to do first."
-   },
-   {
-    "headline": "Some countries disagree about helping a friend",
-    "body": "There is a group of countries in Europe that share money in a big jar. They want to use some of it to help a country called Ukraine. Ukraine is having a hard time because of a war.\nOne leader, called Friedrich, said, \"Let's agree to help Ukraine first. Then we can agree how to use the rest of the jar.\" Four other countries did not like being told what to do. One said it was unfair.\nIt is a bit like when a group of friends cannot agree where to go for lunch. Nobody moves until everyone says yes.\nThe leaders will meet again at the end of the month to try to agree. Many people hope they will find a way to help.",
-    "why": "Working together is hard, but it matters when someone needs help."
-   }
-  ]
- },
- {
-  "id": "lagarde-successor-race-ecb",
-  "order": 7,
+  "id": "uk-unemployment-4-9-ons",
   "topic": "Economy",
-  "region": "Europe",
-  "source": "Euronews",
-  "url": "https://www.euronews.com/2026/11/10/europe-today-eu-joins-ukraine-peace-talks-in-abu-dhabi-as-race-to-replace-lagarde-heats-up",
-  "headline": "Race to replace Christine Lagarde at the ECB heats up, with two nominees in the running",
-  "terms": [
-   {
-    "term": "ECB",
-    "meaning": "The European Central Bank, which sets interest rates for the 21 euro countries."
-   },
-   {
-    "term": "Nominee",
-    "meaning": "A person put forward for a job."
-   },
-   {
-    "term": "European Council",
-    "meaning": "The EU body of national leaders, which takes the final decision on this appointment."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Race to replace Christine Lagarde at the ECB heats up, with two nominees in the running",
-    "body": "Christine Lagarde will step down as President of the European Central Bank on 7 February next year, nearly nine months before her term ends in October 2027. The race to succeed her has two official nominees: Pablo Hernández de Cos, General Manager of the Bank for International Settlements, and Klaas Knot, the former head of the Dutch central bank.\nSpain's economy minister, Carlos Cuerpo, has made the case for Hernández de Cos, who is Spanish. Finance ministers were due to review the names on 9 November. Under the EU process, the European Council takes the decision on the basis of a Council recommendation.\nThe ECB sets interest rates for the countries that use the euro, so who leads it will help decide how it responds to inflation and economic shocks. Euronews paired the story with news that the EU is joining Ukraine peace talks in Abu Dhabi, but the sources do not link the two.",
-    "why": "The head of the ECB influences borrowing costs and prices for hundreds of millions of people in the euro area."
-   },
-   {
-    "headline": "Two candidates emerge as the search for Lagarde's successor at the ECB accelerates",
-    "body": "Christine Lagarde will leave the presidency of the European Central Bank on 7 February, almost nine months before her term is due to end in October 2027. Two candidates have been formally nominated to replace her: Pablo Hernández de Cos, who runs the Bank for International Settlements, and Klaas Knot, formerly governor of the Dutch central bank.\nSpain's economy minister Carlos Cuerpo has backed Hernández de Cos. Finance ministers were scheduled to look at the names on 9 November. The final decision will be taken by the European Council after a Council recommendation.\nThe ECB sets interest rates across the euro area, so its next president will shape the response to inflation and slowdowns. Euronews covered the race in a daily briefing alongside the Ukraine talks in Abu Dhabi, though nothing links them.",
-    "why": "The ECB's leadership affects mortgage rates, savings and prices across the euro area."
-   },
-   {
-    "headline": "Two people are in the running to take over from Christine Lagarde at the European Central Bank",
-    "body": "Christine Lagarde is leaving her job as head of the European Central Bank on 7 February next year. That is almost nine months before her term was due to end. Two people have been officially put forward to replace her. One is Pablo Hernández de Cos, who leads the Bank for International Settlements. The other is Klaas Knot, who used to run the Dutch central bank.\nSpain's economy minister, Carlos Cuerpo, supports Hernández de Cos. Finance ministers were due to discuss the names on 9 November. The final choice will be made by the European Council, which brings together EU leaders.\nThe ECB sets interest rates for the countries that use the euro, so its leader matters for prices and loans.",
-    "why": "The person chosen will help set interest rates for the euro area, which affects trade with the UK too."
-   },
-   {
-    "headline": "The search for a new head of the European Central Bank is under way",
-    "body": "Christine Lagarde will stop being the president of the European Central Bank on 7 February next year, nearly nine months early. Two names are officially in the race to replace her. They are Pablo Hernández de Cos, who works at the Bank for International Settlements, and Klaas Knot, a former head of the Dutch central bank.\nSpain's economy minister, Carlos Cuerpo, has said he supports Hernández de Cos. Ministers who look after finance in the EU countries were due to look at the names on 9 November. EU leaders, meeting as the European Council, will make the final decision.\nThe ECB decides interest rates for the countries that use the euro. That makes the choice important for prices and loans in Europe.",
-    "why": "A new boss can change the way interest rates are set for millions of people."
-   },
-   {
-    "headline": "Who will lead the European Central Bank next? Two people are in the race",
-    "body": "The European Central Bank, or ECB, is the bank in charge of money for the countries that use the euro. Its boss, Christine Lagarde, will leave on 7 February next year. That is nearly nine months before her job was due to end.\nTwo people have been put forward to take over. One is Pablo Hernández de Cos, who comes from Spain and now works at an international bank for banks. The other is Klaas Knot, who used to run the central bank of the Netherlands.\nSpain's economy minister supports Hernández de Cos. Ministers from across the EU were due to talk about the two names on 9 November. Then EU leaders will decide.\nThe ECB sets interest rates, which affect the cost of borrowing.",
-    "why": "The ECB's boss helps decide how expensive loans are across Europe."
-   },
-   {
-    "headline": "Two people want to run Europe's central bank after Christine Lagarde leaves",
-    "body": "Many European countries use the same money, the euro. A bank called the European Central Bank, or ECB, looks after it. Its boss, Christine Lagarde, will leave her job on 7 February next year. That is earlier than planned.\nTwo people have been put forward to take over. Pablo Hernández de Cos is from Spain. Klaas Knot used to be in charge of the central bank in the Netherlands. A minister from Spain says Mr Hernández de Cos would be a good choice.\nMinisters from EU countries have been talking about the two names. In the end, the leaders of the EU countries will choose.\nThe ECB sets interest rates, which are the cost of borrowing money. That is why people care who gets the job.",
-    "why": "The boss of the ECB can change how much it costs people in Europe to borrow money."
-   },
-   {
-    "headline": "Europe is choosing a new boss for the bank that looks after the euro",
-    "body": "Lots of countries in Europe use the same money. It is called the euro. A special bank looks after it. It is called the European Central Bank. The boss of this bank is a woman called Christine Lagarde, and she will leave her job in February.\nNow the countries need to pick a new boss. Two people have been put forward. One is called Pablo Hernández de Cos, from Spain. The other is called Klaas Knot, from the Netherlands. A minister from Spain said Mr Hernández de Cos would do a good job.\nThe leaders of the countries will choose in the end. The boss helps decide how expensive it is to borrow money, so it is an important job.",
-    "why": "The new boss will help decide how much people pay when they borrow money."
-   },
-   {
-    "headline": "Choosing a new boss for a very important bank",
-    "body": "Some countries in Europe share the same money, called the euro. A big bank looks after it. This bank has a boss called Christine Lagarde. She is going to leave in February.\nSo the countries need to find a new boss. Two people have been picked as possible choices. They are called Pablo and Klaas. Pablo comes from Spain and Klaas comes from the Netherlands. A minister from Spain said Pablo would be good.\nThe leaders of the countries will vote, a bit like choosing a new class captain. The bank boss helps decide how much extra people must pay when they borrow money, so lots of people care about who is picked.",
-    "why": "It is a big job that can change how much money costs to borrow."
-   },
-   {
-    "headline": "Picking a new captain for a team",
-    "body": "Imagine a team of many players from different countries. They all use the same kind of coins. The team has a captain called Christine, and the captain looks after the coins and helps decide how much extra to pay when you borrow from the team.\nChristine is going to stop being captain in February. Now the team needs a new one. Two players have been picked as choices. One is called Pablo and comes from Spain. The other is called Klaas and comes from the Netherlands.\nThe team leaders will decide, like voting for a class captain. Everyone wants to pick someone good, because the captain's job matters to the whole team.",
-    "why": "A captain who makes good choices helps the whole team, and a bank boss helps lots of people."
-   },
-   {
-    "headline": "A team needs a new leader",
-    "body": "Think of a big team that looks after the money for lots of countries. The team's leader is called Christine. She has been doing the job for a while, and she has decided to leave in February.\nNow the team needs someone new. Two people have been put forward. One is Pablo, who is from Spain. The other is Klaas, who is from the Netherlands.\nThe grown-ups in charge will talk about them and then choose, like when your school picks a new head girl or head boy.\nThe leader of this team makes choices about money. Those choices can make things a little cheaper or a little dearer for families.",
-    "why": "A good leader helps keep things fair and steady for lots of families."
-   }
-  ]
- },
- {
-  "id": "palestine-action-supreme-court-appeal",
-  "order": 8,
-  "topic": "Politics",
   "region": "United Kingdom",
-  "source": "Euronews",
-  "url": "https://www.euronews.com/2026/11/04/uk-supreme-court-to-hear-appeal-against-ban-on-palestine-action-group",
-  "headline": "Supreme Court hears Palestine Action appeal against its ban, with a ruling still awaited",
+  "source": "ONS",
+  "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/october2026",
+  "headline": "UK unemployment stood at 4.9% in the latest official figures, with new ONS data due on 17 November",
   "terms": [
    {
-    "term": "Proscription",
-    "meaning": "A government ban that makes it a crime to belong to or support a group."
+    "term": "Unemployment rate",
+    "meaning": "The share of people who are looking for work and able to start, out of everyone who is working or looking."
    },
    {
-    "term": "Supreme Court",
-    "meaning": "The highest court in the UK for most cases."
+    "term": "ONS",
+    "meaning": "The Office for National Statistics, the UK's official statistics body."
    },
    {
-    "term": "Judicial review",
-    "meaning": "A court case that checks whether a public body acted lawfully."
+    "term": "Employment rate",
+    "meaning": "The share of people aged 16 to 64 who are in work."
    }
   ],
   "levels": [
    {
-    "headline": "Supreme Court hears Palestine Action appeal against its ban, with a ruling still awaited",
-    "body": "The UK Supreme Court heard Huda Ammori's appeal against the ban on Palestine Action over two days, 4 and 5 November, in an expedited hearing. No judgment has been published yet. Police arrested 25 people outside the court on 4 November on suspicion of supporting a proscribed organisation.\nMs Ammori was granted permission to challenge the ban on a narrow procedural ground: that the Home Office failed to follow its own criteria. Her team will also argue that only three of the 385 actions carried out by the group over five years were assessed as meeting the legal definition of terrorism.\nThe High Court ruled in February that the ban was \"disproportionate\", but the Court of Appeal reversed that in June, finding the decision was not unlawful. If she loses, Ms Ammori has said she will go to the European Court of Human Rights. Charges linked to the ban could be affected if the appeal succeeds.",
-    "why": "The ruling will decide whether supporting the group remains a crime and how far ministers can use anti-terror powers."
+    "headline": "UK unemployment stood at 4.9% in the latest official figures, with new ONS data due on 17 November",
+    "body": "The most recent official figures from the Office for National Statistics, published on 20 October, put the UK unemployment rate at 4.9% for June to August 2026. The employment rate rose slightly and the unemployment rate fell a little in the quarter.\nThe next labour market release is due on 17 November. It will be watched closely because the Bank of England raised interest rates by 0.25 points to 4% on 5 November and expects inflation to climb to about 5% by mid-2027. A weak jobs market could strengthen arguments against further rises.\nThe ONS figures are based on a survey, and one other data provider listed an older unemployment reading of 4.7% that conflicts with the ONS figure. The ONS number is the one used here. This summary does not include wage growth because that figure could not be verified.",
+    "why": "Jobs figures help to shape interest rates, pay and how secure workers feel."
    },
    {
-    "headline": "Palestine Action appeal against ban heard at the Supreme Court, judgment awaited",
-    "body": "The Supreme Court on 4 and 5 November heard Huda Ammori's appeal against the proscription of Palestine Action, in a hearing fixed on an expedited basis. No ruling has yet been reported. On 4 November police arrested 25 people outside the court on suspicion of supporting a banned organisation.\nShe has permission to argue on a narrow procedural point, that the Home Office did not follow its own criteria. Her lawyers also say just three of the 385 actions by the group over five years met the definition of terrorism.\nThe High Court found the ban \"disproportionate\" in February, but the Court of Appeal overturned that in June, holding the decision lawful. If the appeal fails, Ms Ammori has indicated she will turn to the European Court of Human Rights. A win could affect charges linked to the ban.",
-    "why": "The decision will clarify how far the government can ban groups under terrorism law."
+    "headline": "Unemployment 4.9% in latest ONS data, with new figures due on 17 November",
+    "body": "The Office for National Statistics reported on 20 October that UK unemployment was 4.9% in the three months to August 2026. The employment rate edged up and the unemployment rate edged down.\nNew figures are due on 17 November. They matter because the Bank of England raised its rate by 0.25 points to 4% on 5 November and says inflation could near 5% by mid-2027. Weak jobs data could argue against further rises.\nThe ONS estimates come from a survey. One data provider showed an earlier reading of 4.7%, which conflicts with the ONS figure, so the ONS number is used. Wage growth is not covered because it could not be verified.",
+    "why": "The jobs market affects pay, spending and what the Bank of England does next."
    },
    {
-    "headline": "The Supreme Court has heard an appeal against the ban on Palestine Action, and a decision is expected later",
-    "body": "The UK's highest court, the Supreme Court, held a two-day hearing on 4 and 5 November. It was about the government's ban on the group Palestine Action. Huda Ammori is challenging the ban. No decision has been published yet. Police arrested 25 people outside the court on 4 November on suspicion of supporting a banned group.\nShe is allowed to argue on a narrow point: that the Home Office did not follow its own rules when it made the ban. Her side also says only three of the group's 385 actions over five years were judged to count as terrorism.\nThe High Court said the ban was \"disproportionate\" in February. The Court of Appeal disagreed in June. If she loses, she plans to go to the European Court of Human Rights.",
-    "why": "The decision could change whether people can be arrested for supporting the group."
+    "headline": "Jobs market in focus as new unemployment figures approach",
+    "body": "The latest official figures show UK unemployment at 4.9% in the three months to August 2026, according to the Office for National Statistics. The employment rate rose slightly and unemployment fell a little.\nThe next figures are published on 17 November. Economists will watch them because the Bank of England has just raised interest rates to 4% and expects inflation to rise to about 5% by the middle of 2027. If the jobs market weakens, that could make further rate rises less likely.\nThe ONS figures come from a survey. A separate website listed an older figure of 4.7%, which did not match, so the ONS number is used here. Pay data is not included, as it could not be confirmed.",
+    "why": "Unemployment affects how safe jobs feel and how much people spend."
    },
    {
-    "headline": "The UK's highest court has heard the case against the ban on Palestine Action",
-    "body": "The Supreme Court is the UK's highest court. On 4 and 5 November it heard an appeal against the ban on Palestine Action, a group that was banned under terrorism laws. Huda Ammori is challenging the ban. A decision has not yet been announced. Outside the court on 4 November, police arrested 25 people on suspicion of supporting a banned group.\nShe can argue on only one narrow point: that the Home Office did not follow its own rules when it made the ban. Her lawyers also say only three of the group's 385 actions over five years counted as terrorism.\nThe High Court said the ban was too harsh in February, but the Court of Appeal disagreed in June. If she loses, she has said she will take the case to the European Court of Human Rights.",
-    "why": "The ruling will show how far the government can use terrorism laws against protest groups."
+    "headline": "UK unemployment is 4.9%, and new figures are coming",
+    "body": "The Office for National Statistics, the UK's official number-counting body, says unemployment was 4.9% between June and August 2026. That means about 5 in every 100 people who wanted a job did not have one. The share of people in work went up a little, and unemployment went down a little.\nNew figures are due on 17 November. They will be watched because the Bank of England has just raised interest rates to 4%. It expects prices to rise by about 5% a year by mid-2027.\nIf fewer people have jobs, the Bank may be less keen to raise rates again. The ONS figures come from a survey, so they are estimates. We could not confirm wage figures.",
+    "why": "Job figures show how the economy is doing and what may happen to rates."
    },
    {
-    "headline": "The Supreme Court has listened to arguments about the ban on Palestine Action",
-    "body": "The Supreme Court is the highest court in the UK. On 4 and 5 November it listened to an appeal about the government's ban on a group called Palestine Action. The government banned the group using terrorism laws, so it became a crime to support it. Huda Ammori is trying to have the ban removed. The court has not given its answer yet. Police arrested 25 people outside the court on 4 November for supporting a banned group.\nMs Ammori can only argue that the Home Office did not follow its own rules. Her lawyers say just three of the group's 385 actions over five years counted as terrorism.\nEarlier courts disagreed with each other. If she loses, she says she will go to a European court.",
-    "why": "The decision will affect whether people can be arrested for supporting the group."
+    "headline": "About 5 in every 100 people looking for work cannot find a job",
+    "body": "New official numbers show that 4.9% of people in the UK who wanted to work could not find a job between June and August 2026. That is almost 5 in every 100 people. The group that counts these numbers is called the Office for National Statistics, or ONS.\nA few more people were in work than before, and a few fewer were without a job.\nThe ONS will publish new numbers on 17 November. People will look at them because the Bank of England has just raised interest rates. It thinks prices could rise by about 5% in a year by the middle of 2027.\nThe numbers come from a survey, so they are close guesses rather than exact counts.",
+    "why": "If more people have jobs, families can feel safer about paying bills."
    },
    {
-    "headline": "The UK's top court has heard a case about a group that the government banned",
-    "body": "The Supreme Court is the top court in the UK. On 4 and 5 November, it listened to a case about a group called Palestine Action. The government banned the group by calling it a terrorist group. This means it is a crime to support it. Huda Ammori, wants the ban removed.\nHer lawyers say the Home Office did not follow its own rules when it made the ban. They also say only three of the group's 385 actions over five years counted as terrorism.\nThe court has not decided yet. Earlier, one court said the ban was too strong, but a higher court said it was fine. On the first day, police arrested 25 people outside the court. If Ms Ammori loses, she says she will go to a European court.",
-    "why": "The ruling will show how far the government can go when it bans a group."
+    "headline": "Almost 5 in every 100 workers are looking for work",
+    "body": "New numbers from the Office for National Statistics show that 4.9% of people who wanted a job did not have one between June and August 2026. That is nearly 5 in every 100 people.\nA few more people had jobs than before, and a few fewer were looking for work.\nThe ONS will share new numbers on 17 November. Many people are watching because the Bank of England has just raised interest rates, which makes borrowing cost more. The Bank thinks prices will keep rising.\nThe numbers come from asking lots of people questions, so they are good guesses, not perfect counts.",
+    "why": "Having a job helps people pay for their homes and food."
    },
    {
-    "headline": "A court has listened to a case about a group that was banned",
-    "body": "The Supreme Court is the most important court in the UK. This week it listened to a case about a group called Palestine Action. The government banned the group by saying it was a terrorist group. Because of the ban, it is a crime to say you support it.\nA woman called Huda Ammori is challenging the ban, and she thinks it is wrong. Her lawyers say the government did not follow its own rules. They also say that only a few of the things the group did were really terrorism.\nThe court has not decided yet. Police arrested 25 people outside the court when they showed support for the group. The judges will think about it and give an answer later.",
-    "why": "The answer will decide if the ban stays, and how the government can use its powers."
+    "headline": "How many people do not have a job?",
+    "body": "Every few weeks, a group called the Office for National Statistics counts how many people in the UK want a job but cannot find one. The newest number says it is 4.9%. That is almost 5 out of every 100 people.\nA few more people had jobs than before, and a few fewer were looking. So things got a tiny bit better.\nThe group will share new numbers on 17 November. Grown-ups will look at them closely because the bank that helps look after the UK's money has just made borrowing cost more.\nThe group asks lots of people questions to work this out, so the number is a good guess.",
+    "why": "Having a job helps people look after their families."
    },
    {
-    "headline": "The most important court listens to a case about a banned group",
-    "body": "The government can ban a group if it thinks the group is dangerous. A banned group is against the law. This week, the most important court in the country, the Supreme Court, listened to a case about one banned group, called Palestine Action.\nA woman called Huda Ammori wants the ban to be lifted. Her lawyers say the government did not follow its own rules. They also say that only a few things the group did were really terrorism. The government disagrees.\nThe judges listened for two days. They have not decided yet. Outside, the police arrested 25 people who showed support for the group. The judges will give their answer later.",
-    "why": "It matters because it is about how fair the rules are and when a group can be banned."
+    "headline": "Counting people who want a job",
+    "body": "Some grown-ups want a job but cannot find one. A group called the ONS counts them. The newest count says it is about 5 out of every 100 people.\nThat is a small number but it matters. Having a job means you can pay for food, a home and fun things for your family.\nThe group will count again soon, on 17 November, and say if it has changed.\nThey do not ask every single person. They ask lots of people and use the answers to make a very good guess.",
+    "why": "Jobs let families buy the things they need."
    },
    {
-    "headline": "A court listens carefully to a hard question",
-    "body": "Sometimes people disagree about a rule. A judge is like a referee who listens to both sides and decides who is right. The most important judges in the country sit in a court called the Supreme Court.\nThis week the judges listened to a case about a group of people who were banned by the government. The government said the group was too dangerous. A woman who started the group said the ban was not fair. She said the government did not follow its own rules.\nThe judges listened for two days. They have not decided yet. They will think hard and then give their answer.",
-    "why": "The answer will help decide what is fair for everyone."
+    "headline": "Grown-ups who need jobs",
+    "body": "Grown-ups go to work to earn money. Money is how they buy food, clothes and toys. Some grown-ups want a job but cannot find one yet. That is hard for them.\nA group counted how many grown-ups were looking for work. About 5 out of every 100 were. If your class had 100 grown-ups, about 5 would be looking for a job.\nA few more people had jobs than before, so that is a little good news.\nThe group will count again soon to see if it changes.",
+    "why": "Work gives families the money to look after each other."
    },
    {
-    "headline": "Judges listen to both sides of an argument",
-    "body": "Imagine two children argue over a game and ask a teacher to decide. The teacher listens to both children carefully and then gives an answer.\nThis week, something like that happened in real life. A group of people were told by the government that they were not allowed to be a group any more. One of them did not agree and said it was unfair. So the case went to the most important judges in the country.\nThe judges listened for two days to both sides. They have not decided yet. They will think carefully, and then tell everyone the answer.",
-    "why": "Courts help make sure rules are fair for everyone."
-   }
-  ]
- },
- {
-  "id": "representation-of-the-people-bill-donations",
-  "order": 9,
-  "topic": "Politics",
-  "region": "United Kingdom",
-  "source": "GOV.UK (MHCLG)",
-  "url": "https://mhclgmedia.blog.gov.uk/2026/11/02/the-representation-of-the-people-bill-lords-committee-stage/",
-  "headline": "Elections bill reaches the Lords as government proposes a £100,000 annual cap on donations from overseas electors",
-  "terms": [
-   {
-    "term": "Committee stage",
-    "meaning": "The stage when peers go through a bill line by line and can propose changes."
-   },
-   {
-    "term": "Overseas electors",
-    "meaning": "British citizens living abroad who are registered to vote in the UK."
-   },
-   {
-    "term": "Cap",
-    "meaning": "A limit on how much can be given or spent."
+    "headline": "Looking for a job",
+    "body": "When you grow up, you may go to work. People work to earn money so they can buy food and a home. Some people look for a job for a while before they find one.\nA group of people counted how many grown-ups in the UK were looking for a job. It was about 5 out of every 100. Imagine a class of 100 grown-ups. Five of them would be looking for work.\nThey will count again soon to see if it changes.\nWhen more people have jobs, more families can buy what they need.",
+    "why": "Work helps people feel safe and happy at home."
    }
   ],
-  "levels": [
-   {
-    "headline": "Elections bill reaches the Lords as government proposes a £100,000 annual cap on donations from overseas electors",
-    "body": "The Representation of the People Bill has entered its Lords Committee Stage, where peers examine the legislation in detail. According to the Ministry of Housing, Communities and Local Government, the bill would put a cap of £100,000 a year on donations from overseas electors.\nThe government says this closes a loophole that has let large sums flow into UK politics from people who live outside the country. Overseas electors are British citizens abroad who are registered to vote in the UK, and political parties can accept donations from people on the electoral register.\nThe committee stage is where amendments can be tabled and debated, so the measure could still change before the bill becomes law. The government's announcement is the main source for these details, and this report does not cover the bill's other measures.",
-    "why": "Rules on who can fund political parties influence trust in elections and how much sway big donors have."
-   },
-   {
-    "headline": "Peers begin detailed scrutiny of the Representation of the People Bill, including a £100,000 cap on overseas donations",
-    "body": "The Representation of the People Bill is now at Lords Committee Stage, the point where peers go through it clause by clause. The government department responsible, the Ministry of Housing, Communities and Local Government, says it includes a £100,000 annual cap on donations from overseas electors.\nMinisters say that this would close a loophole allowing large sums to reach UK politics from those living outside the country. Overseas electors are British citizens abroad who are on the electoral register, which makes their donations permissible to parties.\nAmendments can be proposed and debated at this stage, so the proposal may be altered. This report relies on the government's own account and does not cover the rest of the bill.",
-    "why": "The rules decide how political parties can be funded and who can influence elections."
-   },
-   {
-    "headline": "A new elections bill reaches the House of Lords with a limit on donations from voters living abroad",
-    "body": "A bill that changes election rules, the Representation of the People Bill, has reached the stage in the House of Lords where peers study it in detail. The government says it would limit donations from overseas electors to £100,000 a year.\nOverseas electors are British citizens who live abroad but are still registered to vote in the UK. At the moment, parties can take donations from people on the electoral register, and ministers say that has let large sums come into UK politics from people who live outside the country. They say the cap would close that loophole.\nPeers can suggest changes during this stage, so the plan could still be altered. This report uses the government's own announcement and does not cover everything in the bill.",
-    "why": "The limit is meant to make political funding fairer and more open."
-   },
-   {
-    "headline": "Peers study an elections bill that would limit donations from British people living overseas",
-    "body": "The Representation of the People Bill has reached the House of Lords, where peers are checking it line by line. This stage is called the committee stage. The government says the bill would limit donations from overseas electors to £100,000 a year.\nOverseas electors are British citizens who live abroad but are registered to vote in the UK. Parties can accept gifts from people on the electoral register. The government says this has allowed big sums of money to come into UK politics from people who live outside the country, and that the cap would close that gap.\nPeers can propose changes at this stage, so the plan might still change. This report uses the government's own news post and does not cover other parts of the bill.",
-    "why": "The rules affect who is allowed to pay for political campaigns."
-   },
-   {
-    "headline": "A new election law is being checked in the Lords, with a limit on gifts from people living abroad",
-    "body": "A new law about elections is being checked by the House of Lords. It is called the Representation of the People Bill. The Lords is the part of Parliament where members look closely at new laws and suggest changes. The stage is called committee stage.\nThe government says the bill would stop people who live abroad giving political parties more than £100,000 a year. These people are British citizens who are still on the voting list in the UK. The government says very large sums have come into UK politics this way. It says the limit would close a loophole.\nThe Lords can still suggest changes, so the plan might be different by the end.",
-    "why": "Rules on political gifts help people trust that elections are fair."
-   },
-   {
-    "headline": "Peers check a new elections law that would limit gifts from voters living abroad",
-    "body": "The House of Lords is checking a new elections law, called the Representation of the People Bill. The Lords is the part of Parliament where members read a bill closely and can suggest changes. This part of the process is called committee stage.\nThe government says the bill would limit gifts to political parties from British people living abroad to £100,000 a year. These people are called overseas electors, because they are still on the UK voting list. Political parties use money from gifts to pay for campaigns.\nMinisters say the limit closes a loophole that allowed very large sums to come into UK politics from people who live outside the country. The Lords can still suggest changes, so the rule may be different in the end.",
-    "why": "Clear rules on political gifts help people trust that elections are fair."
-   },
-   {
-    "headline": "The Lords is checking a new elections law, including a limit on gifts from voters abroad",
-    "body": "Before a new law is made in the UK, it has to be checked by Parliament. The House of Lords is one part of Parliament. Its members, called peers, read a bill line by line and can suggest changes. This week it started doing this for a new elections law, called the Representation of the People Bill.\nThe government says the bill would set a limit of £100,000 a year on gifts to political parties from British people living abroad who are still on the voting list. The government says large sums have come in this way.\nThe peers can still change the plan.",
-    "why": "A fair way to pay for politics helps people trust elections."
-   },
-   {
-    "headline": "A new election law is being checked, and it would limit big gifts of money from abroad",
-    "body": "In the UK, new laws are made in Parliament. A new idea for a law is called a bill. A bill goes through both the Commons and the Lords. This week, the Lords began studying a bill about elections.\nThe bill says that British people living abroad could not give a political party more than £100,000 each year. Parties are groups of people who want to run the country. They use money to pay for posters and adverts. The government says some people have given very large amounts and it wants to stop that.\nThe Lords can still suggest changes, so the rule might not stay exactly the same.",
-    "why": "It stops very rich people from having too much power in elections."
-   },
-   {
-    "headline": "Checking a new rule about giving money to politicians",
-    "body": "Parties are groups of people who want to help run the country. They spend money on things like leaflets and adverts, and people can give them money to help.\nThe government wants a new rule. It says people who live in another country, but are still allowed to vote here, should only be allowed to give a party up to £100,000 each year. This is a lot of money, but the government thinks some have given far more.\nThe rule is part of a new law that the House of Lords is now studying. The Lords is where older, experienced people check new laws. They might suggest changes before it is finished.",
-    "why": "A fair rule means no one can buy too much power."
-   },
-   {
-    "headline": "Making a fair rule for giving money to the people who run the country",
-    "body": "Imagine your class is choosing a class captain. Everybody can make posters. But what if one child's rich uncle paid for a thousand posters? That would not be fair.\nThe country has a similar worry. The government wants a rule to stop people who live far away from giving a political party too much money. It says they should only give up to £100,000 a year. That is still a lot of money.\nThe rule is in a new law. A group called the House of Lords is now reading the new law carefully. They may change it before it is finished. They want to make sure it is fair for everyone.",
-    "why": "Fair rules help everyone have a say, not just people with lots of money."
-   }
-  ]
+  "order": 10
  }
 ]
