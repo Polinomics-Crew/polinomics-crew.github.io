@@ -355,8 +355,83 @@
   ]
  },
  {
-  "id": "ukraine-eu-peace-talks-team",
+  "id": "us-donbas-nato-offer",
   "order": 6,
+  "topic": "Politics",
+  "region": "Europe",
+  "source": "CNBC / Euronews",
+  "url": "https://www.cnbc.com/2026/11/14/zelenskyy-us-ukraine-donbas-nato-membership.html",
+  "headline": "Zelenskyy says US floated Ukraine giving up Donbas in return for NATO membership",
+  "terms": [
+   {
+    "term": "Donbas",
+    "meaning": "A region of eastern Ukraine, partly held by Russia."
+   },
+   {
+    "term": "Referendum",
+    "meaning": "A vote in which all citizens decide a single question."
+   },
+   {
+    "term": "Security guarantees",
+    "meaning": "Promises from other countries to help protect Ukraine if it is attacked again."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Zelenskyy says US floated Ukraine giving up Donbas in return for NATO membership",
+    "body": "President Volodymyr Zelenskyy said on 14 November that US negotiators had floated the idea of Ukraine withdrawing from its eastern Donbas region in exchange for membership of NATO, the Western military alliance. He said it was the first time such an offer had been raised, speaking after the latest round of peace talks in Abu Dhabi, CNBC and Euronews reported.\nZelenskyy said Kyiv was not ready to give up territory. He said that if Ukraine received a comprehensive package, including security guarantees, a strong army and money for rebuilding, he would put the question to a national referendum, because he has no right to decide it alone.\nRussia has shown no sign of softening. Vladimir Putin signalled that Moscow would not back down on its territorial demands and rejected foreign peacekeeping troops in Ukraine. Russian foreign ministry spokesperson Maria Zakharova said the idea was not discussed in talks with US envoys Steve Witkoff and Jared Kushner in Moscow.\nIn December 2025 Zelenskyy had offered to drop Ukraine's NATO ambitions in return for security guarantees.",
+    "why": "Land and NATO membership are now at the centre of the effort to end the war in Ukraine."
+   },
+   {
+    "headline": "Zelenskyy: US raised idea of Ukraine leaving Donbas for NATO place",
+    "body": "Ukraine's president, Volodymyr Zelenskyy, said on 14 November that American negotiators had suggested Ukraine could withdraw from the eastern region of Donbas in return for joining NATO. He said this was the first time the idea had been put to Kyiv, and he spoke after the latest round of talks in Abu Dhabi, according to CNBC and Euronews.\nHe said Ukraine was not ready to concede land. If Kyiv were offered a full package, with security guarantees, a strong army and funds for rebuilding, he would ask Ukrainians to decide in a national referendum, since he has no right to make the choice alone.\nMoscow has not moved. Vladimir Putin indicated that Russia would keep its territorial demands and rejected foreign peacekeepers in Ukraine. Spokesperson Maria Zakharova said the proposal was not discussed in talks with US envoys Steve Witkoff and Jared Kushner in Moscow.\nZelenskyy had offered in December 2025 to give up NATO membership in return for guarantees.",
+    "why": "The proposal shows how far territory and alliance membership are tied together in any peace deal."
+   },
+   {
+    "headline": "Zelenskyy says US suggested Ukraine give up Donbas to join NATO",
+    "body": "Volodymyr Zelenskyy, Ukraine's president, said on 14 November that the United States had floated a deal in which Ukraine would pull out of its eastern Donbas region and in return be allowed to join NATO, the Western defence alliance. He said it was the first time this had been suggested. His comments followed another round of peace talks in Abu Dhabi, CNBC and Euronews reported.\nHe said Ukraine was not ready to give up land. But if it were offered a full package, including security guarantees, a strong army and money to rebuild, he would put the question to a referendum. He said he has no right to decide this on his own.\nRussia has not shifted. Vladimir Putin signalled he would not back down on territory and rejected foreign troops in Ukraine as peacekeepers. A Russian spokesperson, Maria Zakharova, said the idea was not raised in Moscow talks with US envoys.\nZelenskyy offered in December 2025 to drop NATO plans in return for guarantees.",
+    "why": "Any deal that changes Ukraine's borders would reshape European security."
+   },
+   {
+    "headline": "US floats Ukraine ceding Donbas in return for NATO membership, says Zelenskyy",
+    "body": "Ukraine's president, Volodymyr Zelenskyy, has said the United States floated the idea of Ukraine leaving the eastern Donbas region in exchange for a place in NATO. He told reporters on 14 November that this was the first time it had been raised, after peace talks in Abu Dhabi, CNBC and Euronews said.\nZelenskyy said Kyiv is not ready to hand over land. If Ukraine were offered a complete package, with security guarantees, a strong army and rebuilding money, he would ask the public to vote in a referendum. He said he has no right to decide alone.\nRussia has not changed its stance. Vladimir Putin said Moscow would not back down on its demands for territory and rejected the idea of foreign peacekeeping troops. Russian spokesperson Maria Zakharova said the plan was not discussed in talks with US envoys Steve Witkoff and Jared Kushner.\nIn December 2025 Zelenskyy said Ukraine could drop its NATO hopes in return for guarantees.",
+    "why": "The talks will decide where Ukraine's borders lie and who protects it in future."
+   },
+   {
+    "headline": "US suggests Ukraine leaves Donbas to join NATO, Zelenskyy says",
+    "body": "Ukraine's president, Volodymyr Zelenskyy, says the United States has suggested a trade. Ukraine would leave Donbas, a region in the east of the country, and in return it could join NATO, an alliance of countries that promise to defend each other. He said on 14 November that nobody had put this idea to him before. It came after talks in Abu Dhabi.\nHe said Ukraine is not ready to give up land. If it got a full package, with promises of protection, a strong army and money to rebuild, he would ask people to vote in a referendum, which is a vote on one big question. He said it is not his decision alone.\nRussia has not changed its mind. President Putin said Russia still wants control of parts of Ukraine and does not want foreign troops there. A Russian spokesperson said the idea was not talked about in Moscow.\nLast December, Ukraine said it could drop NATO plans if it got guarantees.",
+    "why": "A peace deal would change life for millions of people in Ukraine and across Europe."
+   },
+   {
+    "headline": "Zelenskyy says the US wants Ukraine to give up land for NATO",
+    "body": "Ukraine's leader, Volodymyr Zelenskyy, says the United States has suggested a swap. Ukraine would give up Donbas, a region in the east of the country, and in return it could join NATO. NATO is a group of countries that agree to defend one another. He said on 14 November that this was the first time anyone had suggested it, after talks held in Abu Dhabi.\nHe said Ukraine is not ready to hand over land. If Ukraine were offered a whole package, with promises of protection, a strong army and money to rebuild, he would let people vote on it. He said the choice is not his alone to make.\nRussia has not budged. Its leader, Vladimir Putin, wants to keep control of some Ukrainian land and does not want foreign soldiers in Ukraine. A Russian official said the idea was not discussed at talks in Moscow.\nIn 2025, Ukraine said it might drop its NATO plans if it got safety promises.",
+    "why": "Decisions about land and safety in Ukraine affect people far beyond its borders."
+   },
+   {
+    "headline": "US asks if Ukraine would leave Donbas to join NATO",
+    "body": "The war in Ukraine is still going on, and leaders are talking about how to stop it. On 14 November, Ukraine's president, Volodymyr Zelenskyy, said the United States had asked a big question. Would Ukraine leave Donbas, a region in the east, if it could join NATO? NATO is a team of countries that promise to help defend each other. He said nobody had asked this before.\nHe said Ukraine is not ready to give up land. If Ukraine got a full package, with promises to keep it safe, a strong army and money to rebuild, he would let everyone vote on it. A vote like this is called a referendum. He said he cannot decide alone.\nRussia has not changed its mind. Its leader, Vladimir Putin, wants to keep some Ukrainian land. He does not want foreign soldiers in Ukraine. A Russian official said the idea was not talked about in Moscow.",
+    "why": "Peace talks decide whether families in Ukraine can feel safe again."
+   },
+   {
+    "headline": "A big question about land and safety for Ukraine",
+    "body": "Ukraine and Russia have been at war for a long time, and leaders are trying to find a way to stop it. On 14 November, Ukraine's president, Volodymyr Zelenskyy, said America had asked a new question. Would Ukraine give up an area called Donbas, in the east, to join NATO? NATO is a club of countries that promise to protect each other if one is attacked.\nMr Zelenskyy said Ukraine is not ready to give away land. He said that if Ukraine were offered a whole package, with promises of safety, a strong army and money to rebuild homes, he would ask the people to vote. He said it is too big a choice for one person.\nRussia has not changed its mind. Its leader, Vladimir Putin, wants to keep some of the land. He does not want foreign soldiers in Ukraine.",
+    "why": "The talks are about whether people can live safely and rebuild their homes."
+   },
+   {
+    "headline": "Ukraine is asked to swap land for safety",
+    "body": "Ukraine and Russia are at war. Many people want it to stop. On 14 November, Ukraine's leader, Mr Zelenskyy, said America had asked a big question. Would Ukraine give up a part of its land, called Donbas? In return, Ukraine could join NATO. NATO is a group of countries that promise to help each other if one is attacked.\nMr Zelenskyy said no, not now. Ukraine does not want to give away land. He said that if Ukraine got a full set of promises, with safety, a strong army and money to fix broken homes, the people could vote. He said one person should not choose alone.\nRussia has not changed its mind. Its leader, Mr Putin, still wants some of the land. He does not want soldiers from other countries in Ukraine. Talks are still going on.",
+    "why": "The talks are about how to keep people safe and let them rebuild."
+   },
+   {
+    "headline": "Two countries argue over land and who will keep them safe",
+    "body": "Imagine two neighbours who have been fighting over a bit of the playground. That is a little like Ukraine and Russia. Ukraine's leader, Volodymyr Zelenskyy, said on 14 November that America had asked a new question. Would Ukraine give up a part of its country called Donbas, if it could join NATO? NATO is like a big team where every member promises to help the others if there is trouble.\nMr Zelenskyy said Ukraine is not ready to give away land. He said that if Ukraine got a whole package, with promises of safety, a strong army and money to fix broken buildings, he would ask everyone to vote. He said one person should not choose alone.\nRussia has not changed its mind. Its leader, Vladimir Putin, wants to keep some of the land. He does not want other countries' soldiers in Ukraine.",
+    "why": "Leaders are trying to help people in Ukraine feel safe and build their homes again."
+   }
+  ]
+ },
+ {
+  "id": "ukraine-eu-peace-talks-team",
+  "order": 7,
   "topic": "Politics",
   "region": "Europe",
   "source": "Euronews",
@@ -427,7 +502,7 @@
  },
  {
   "id": "nvidia-huang-steps-down",
-  "order": 7,
+  "order": 8,
   "topic": "Economy",
   "region": "United States",
   "source": "CNBC / Euronews",
@@ -498,7 +573,7 @@
  },
  {
   "id": "oil-weekly-decline-iran-blockade",
-  "order": 8,
+  "order": 9,
   "topic": "Economy",
   "region": "Middle East",
   "source": "CNBC / Trading Economics",
@@ -569,7 +644,7 @@
  },
  {
   "id": "votes-at-16-bill-lords",
-  "order": 9,
+  "order": 10,
   "topic": "Politics",
   "region": "United Kingdom",
   "source": "GOV.UK",
@@ -640,7 +715,7 @@
  },
  {
   "id": "spain-general-strike-housing",
-  "order": 10,
+  "order": 11,
   "topic": "Politics",
   "region": "Europe",
   "source": "CNBC / Euronews",
@@ -710,8 +785,154 @@
   ]
  },
  {
+  "id": "france-fifth-saturday-protests",
+  "order": 12,
+  "topic": "Politics",
+  "region": "Europe",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/11/14/france-sees-fifth-consecutive-saturday-of-nationwide-protests",
+  "headline": "France sees fifth consecutive Saturday of nationwide protests, with turnout well below earlier weekends",
+  "terms": [
+   {
+    "term": "Yellow vests",
+    "meaning": "A French protest movement that began over fuel prices and living costs."
+   },
+   {
+    "term": "Interior ministry",
+    "meaning": "The French government department responsible for policing and public order."
+   },
+   {
+    "term": "Cost of living",
+    "meaning": "How much people must pay for everyday things such as food, rent and energy."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "France sees fifth consecutive Saturday of nationwide protests, with turnout well below earlier weekends",
+    "body": "Demonstrators took to the streets across France on Saturday 14 November for the fifth Saturday in a row, Euronews reported. The interior ministry counted about 106,000 people nationwide, including 24,000 in Paris. Organisers claimed 200,000, including 100,000 in the capital.\nTurnout was lower than on earlier weekends. The ministry put the 17 October protests at around 550,000 people and the 24 October protests at more than 400,000. The biggest recent demonstration came on the Thursday before, during a union-led strike, which drew more than half a million people.\nThe movement brings together cost-of-living protesters, including yellow vests, with students and education unions. Their grievances include education funding and a new police bill.\nThe protests began in October and earlier weekends saw widespread violence, with more than 1,300 arrests reported across France on one weekend.",
+    "why": "Weeks of unrest in France put pressure on its government and affect Europe's second-largest economy."
+   },
+   {
+    "headline": "Fifth Saturday of French protests draws smaller crowds",
+    "body": "Protesters gathered across France on Saturday 14 November for the fifth Saturday running, according to Euronews. The interior ministry estimated about 106,000 people nationwide, 24,000 of them in Paris. Organisers said 200,000 attended, including 100,000 in Paris.\nThe numbers were well below earlier weekends. The ministry counted around 550,000 on 17 October and more than 400,000 on 24 October. The biggest recent turnout was on the Thursday before, when a union-led strike brought out more than half a million people.\nThe movement joins cost-of-living campaigners, including yellow vests, with students and education unions. Their complaints include education funding and a new police bill.\nEarlier weekends in October saw widespread violence, and more than 1,300 arrests were reported across France on one weekend.",
+    "why": "Prolonged protests can weaken a government's authority and unsettle markets."
+   },
+   {
+    "headline": "France sees fifth straight Saturday of protests, but crowds shrink",
+    "body": "Thousands of people marched across France on Saturday 14 November, the fifth Saturday in a row, Euronews reported. The interior ministry said about 106,000 took part, including 24,000 in Paris. Organisers claimed 200,000, with 100,000 in the capital.\nThat is fewer than on earlier weekends. The ministry put the 17 October turnout at around 550,000 and the 24 October turnout at more than 400,000. The biggest recent protest was on the Thursday before, during a strike led by unions, when more than half a million people came out.\nThe movement mixes people angry about the cost of living, including yellow vests, with students and teaching unions. They are unhappy about education funding and a new police bill.\nSome earlier protests turned violent, and over 1,300 arrests were reported on one weekend.",
+    "why": "The protests show how strongly many French people feel about living costs and public services."
+   },
+   {
+    "headline": "Fifth weekend of protests in France, but fewer people turn out",
+    "body": "People protested across France on Saturday 14 November, the fifth Saturday in a row, Euronews reported. The government's interior ministry said about 106,000 people took part, including 24,000 in Paris. The organisers said the number was 200,000, with 100,000 in Paris.\nThat is lower than before. The ministry said around 550,000 people joined on 17 October and more than 400,000 on 24 October. The biggest protest recently was on the Thursday before, when unions held a strike and more than half a million people took part.\nThe protesters include people worried about the cost of living, such as the yellow vests, as well as students and teachers' unions. They are unhappy about school funding and a new police bill.\nSome earlier protests turned violent, with more than 1,300 arrests on one weekend.",
+    "why": "It shows how worries about prices and public services can lead to long protests."
+   },
+   {
+    "headline": "Protests in France continue for a fifth Saturday",
+    "body": "People marched in towns and cities across France on Saturday 14 November. It was the fifth Saturday in a row. The government said about 106,000 people came, 24,000 of them in Paris. The organisers said there were 200,000 people, with 100,000 in Paris. The two sides often count differently.\nFewer people came than before. The government said around 550,000 joined on 17 October and more than 400,000 on 24 October. The biggest recent day was the Thursday before, when workers' unions held a strike and more than half a million people took part.\nThe protesters are worried about the cost of living, which means how much everyday things cost. They include students and teachers' unions. They are also upset about school money and a new police law.\nSome earlier protests turned violent.",
+    "why": "Big protests can lead to changes in the laws and money plans of a country."
+   },
+   {
+    "headline": "People in France keep protesting about prices and schools",
+    "body": "People marched in towns and cities across France on Saturday 14 November. It was the fifth Saturday in a row. The government said about 106,000 people came, and 24,000 of them were in Paris, the capital. The organisers said 200,000 came. Each side counts in its own way.\nFewer people came than in earlier weeks. In October, the government said about 550,000 came one Saturday and more than 400,000 the next. The biggest day lately was the Thursday before, when workers' unions stopped work and more than half a million people joined in.\nThe protesters are upset about the cost of living, which is how much food, rent and bills cost. Students and teachers are also upset about money for schools and a new police law.\nSome earlier protests turned violent.",
+    "why": "It shows people can speak up when they are worried about prices and schools."
+   },
+   {
+    "headline": "Thousands march in France for a fifth Saturday",
+    "body": "On Saturday 14 November, thousands of people walked through the streets of France. It was the fifth Saturday in a row. This is called a protest. People do it to show leaders that they are unhappy. The government said about 106,000 people came. The organisers said 200,000. They did not agree on the number.\nFewer people came than before. In October, about 550,000 came on one Saturday, the government said. On the Thursday before this Saturday, unions told their workers to stop work for the day, and more than half a million people joined in.\nThe people are upset about the cost of living. That means food, rent and bills cost a lot. Students and teachers are also upset about school money and a new police law.",
+    "why": "It shows how worried many people are about money and schools."
+   },
+   {
+    "headline": "People in France say they are worried about prices",
+    "body": "On Saturday 14 November, lots of people walked through the streets of France. They did this for the fifth Saturday in a row. It is called a protest. It is a way to tell leaders you are unhappy about something. The government said about 106,000 people came. The people who planned it said 200,000. They counted differently.\nFewer people came than in earlier weeks. In October, more than 400,000 came on some Saturdays. This week, on a Thursday, workers' groups called unions asked workers to stay home from work, and over half a million people joined.\nThe people are worried that things cost too much, like food and rent. Students and teachers also want more money for schools.",
+    "why": "Leaders listen when many people tell them what worries them."
+   },
+   {
+    "headline": "Lots of people in France march about money",
+    "body": "On Saturday 14 November, many people walked through the streets of France. They did it for the fifth Saturday in a row. This is called a protest. People protest to show leaders that they are unhappy. The government said about 106,000 people came. The people who planned it said 200,000. They counted in different ways.\nFewer people came than in earlier weeks. A few weeks ago, more than 400,000 came on some Saturdays. On a Thursday, workers' groups called unions asked workers to stay home, and more than half a million people joined in.\nThe people are upset because things cost a lot. Food, rent and bills have all gone up. Students and teachers also want more money for schools. They are also upset about a new police law.",
+    "why": "It shows people speak up when they are worried about money."
+   },
+   {
+    "headline": "Lots of people walk the streets to say they are worried",
+    "body": "Imagine everyone in your town saying that the tuck shop prices have gone up too much, and they all walk to the head teacher to say so. That is a little like a protest. On Saturday 14 November, lots of people in France did this. It was the fifth Saturday in a row. The government said about 106,000 people came. The people who planned it said 200,000.\nFewer people came than before. A few weeks ago, more than 400,000 came on some Saturdays. On a Thursday, workers' groups called unions asked workers to stay home, and over half a million people joined in.\nThe people are worried that food and rent cost too much. Students and teachers also want more money for schools.",
+    "why": "Grown-ups in France are asking their leaders to make life cheaper and schools better."
+   }
+  ]
+ },
+ {
+  "id": "turkey-qatar-defence-pact",
+  "order": 13,
+  "topic": "Politics",
+  "region": "Middle East",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/11/14/qatar-and-turkey-sign-defence-agreement-for-unified-position-facing-external-attacks",
+  "headline": "Qatar and Turkey sign mutual defence agreement aimed at a unified position against external attack",
+  "terms": [
+   {
+    "term": "Mutual defence agreement",
+    "meaning": "A deal in which countries promise to act together if one of them is attacked."
+   },
+   {
+    "term": "Joint statement",
+    "meaning": "An official message issued by two or more governments together."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Qatar and Turkey sign mutual defence agreement aimed at a unified position against external attack",
+    "body": "Turkey and Qatar signed a mutual defence agreement in Istanbul, Euronews reported on 14 November. Turkish President Recep Tayyip Erdogan and Qatar's Emir, Sheikh Tamim bin Hamad Al Thani, met to co-chair the two countries' Supreme Strategic Committee, which concluded a wide range of bilateral agreements.\nAccording to the joint statement, the pact aims to adopt a unified position in the face of any external armed attack targeting either or both parties. It also covers consultations on security threats, joint military exercises, defence industry projects and training for personnel. The statement gives no detail on what military obligations each side would take on if an attack happened.\nFive documents were signed in total. The others include a memorandum on peace, reconciliation and conflict resolution, signed by the foreign ministers, and one on consumer protection.\nIn October, Qatar, Turkey, Pakistan and Indonesia signed a separate memorandum on defence industry cooperation.",
+    "why": "The pact links two influential regional powers at a time of conflict in the Gulf."
+   },
+   {
+    "headline": "Turkey and Qatar sign defence pact in Istanbul",
+    "body": "Turkey and Qatar have signed a mutual defence agreement in Istanbul, Euronews reported on 14 November. Turkish President Recep Tayyip Erdogan and Qatar's Emir, Sheikh Tamim bin Hamad Al Thani, co-chaired a meeting of the two countries' Supreme Strategic Committee, which finished a wide range of bilateral deals.\nThe joint statement says the agreement aims to give both countries a unified position against any external armed attack on one or both of them. It also provides for consultation on security threats, joint exercises, defence industry projects and training. It does not spell out what each country would be obliged to do if an attack occurred.\nFive documents were signed, including a memorandum on peace, reconciliation and conflict resolution and another on consumer protection.\nIn October, Qatar, Turkey, Pakistan and Indonesia signed a separate defence industry memorandum.",
+    "why": "Defence deals between regional powers can change the balance of security in the Middle East."
+   },
+   {
+    "headline": "Qatar and Turkey agree to defend each other against outside attack",
+    "body": "Turkey and Qatar have signed a mutual defence agreement in Istanbul, Euronews reported on 14 November. Turkey's President Recep Tayyip Erdogan and Qatar's Emir, Sheikh Tamim bin Hamad Al Thani, led a meeting of a joint committee, which agreed a range of deals between the two countries.\nThe joint statement says the pact is meant to give the two countries a united position if either, or both, faces an armed attack from outside. They will also consult each other on security threats, hold joint military exercises, work on defence industry projects and train personnel. The statement does not say exactly what each side would have to do if an attack happened.\nFive documents were signed in all, including ones on peace and conflict resolution and on consumer protection.\nIn October, Qatar, Turkey, Pakistan and Indonesia signed a defence industry memorandum.",
+    "why": "It shows countries in the region forming closer security ties."
+   },
+   {
+    "headline": "Turkey and Qatar sign agreement to stand together against attack",
+    "body": "Turkey and Qatar have signed a defence agreement in Istanbul, Euronews reported on 14 November. Turkey's president, Recep Tayyip Erdogan, and Qatar's ruler, known as the Emir, Sheikh Tamim bin Hamad Al Thani, met to lead a committee that oversees links between their countries. It agreed a number of deals.\nThe joint statement says the agreement is meant to give both countries a united position if either of them is attacked by an outside force. They will also talk about security threats, carry out military exercises together, work on defence industry projects and train staff. The statement does not say what each side must do if there is an attack.\nFive documents were signed, including ones on peace and on consumer protection.\nIn October, Qatar, Turkey, Pakistan and Indonesia signed a deal on defence industry cooperation.",
+    "why": "The deal could affect how safe and stable the Middle East is."
+   },
+   {
+    "headline": "Turkey and Qatar promise to act together if attacked",
+    "body": "Turkey and Qatar have signed a defence agreement in Istanbul, Euronews reported on 14 November. Turkey's president, Recep Tayyip Erdogan, and the ruler of Qatar, Sheikh Tamim bin Hamad Al Thani, met to lead a joint committee. The two countries agreed a number of deals.\nThe joint statement says both countries want a united position if either is attacked from outside. This kind of deal is called a mutual defence agreement. They will also talk about threats, train together, work on defence equipment and train staff. The statement does not say exactly what each side would do if an attack happened.\nFive papers were signed, including ones on peace and on protecting shoppers.\nIn October, four countries, Qatar, Turkey, Pakistan and Indonesia, signed a deal on working together on defence equipment.",
+    "why": "Deals like this can change how safe countries feel, and how others react."
+   },
+   {
+    "headline": "Qatar and Turkey sign a deal to help defend each other",
+    "body": "Turkey and Qatar have signed a deal about defence, which means keeping a country safe from attack. It was signed in Istanbul and reported by Euronews on 14 November. Turkey's president, Recep Tayyip Erdogan, and Qatar's ruler, Sheikh Tamim bin Hamad Al Thani, met to sign it along with other deals between the two countries.\nThe leaders' joint statement says both countries want to stand together if either of them is attacked by another country. This is called a mutual defence agreement. They will also talk about dangers, train their armies together and work on making defence equipment. It does not say exactly what each country would do.\nFive papers were signed in all, including one on peace and one on protecting shoppers.",
+    "why": "When countries make promises to protect each other, it can change how safe the region feels."
+   },
+   {
+    "headline": "Two countries promise to help each other if attacked",
+    "body": "Turkey and Qatar are two countries. Turkey is in the Middle East and Europe. Qatar is a small, rich country in the Middle East. On 14 November, news reports said they had signed a deal in Istanbul, a city in Turkey. In it, they promise to stand together if another country attacks either of them. This is called a mutual defence agreement.\nTurkey's leader, President Erdogan, and Qatar's leader, the Emir, signed it with other deals. They also said they will talk about dangers, train their armies together and work on defence equipment. The deal does not say exactly what each country will do.\nFive papers were signed in all. One of them is about peace and one is about protecting shoppers.",
+    "why": "It tells us that some countries want closer friends to feel safer."
+   },
+   {
+    "headline": "Two countries make a promise to look out for each other",
+    "body": "Turkey and Qatar are two countries that are far from the UK. On 14 November, news reports said their leaders had made a promise in a big city called Istanbul. They promised to stand together if another country attacks either of them. A promise like this is called a mutual defence agreement.\nThe leaders also said they will talk about dangers, train their armies together and make equipment for defence. The paper does not say exactly what they would do if an attack came.\nThey signed five papers in all. One is about peace, and one is about keeping shoppers safe from being cheated.",
+    "why": "Friends who look out for each other can feel safer."
+   },
+   {
+    "headline": "Two countries make a deal to protect each other",
+    "body": "Turkey and Qatar are two countries. Their leaders met in a city called Istanbul. News reports on 14 November said they signed a deal about defence. Defence means keeping a country safe from attack. In the deal, the two countries promise to stand together if another country attacks one of them. This is called a mutual defence agreement.\nTurkey's leader is President Erdogan. Qatar's leader is called the Emir. They said they will talk about dangers and train their armies together. They will also work on making equipment for defence. The deal does not say exactly what each country will do if there is an attack.\nThey signed five papers in all. One is about peace. One is about keeping shoppers safe.",
+    "why": "Countries make deals like this to feel safer."
+   },
+   {
+    "headline": "Two countries promise to be good friends and look out for each other",
+    "body": "Think about two friends in the playground who say, 'If anyone picks on you, I will stand next to you.' That is a bit like what Turkey and Qatar did. They are two countries. On 14 November, news reports said their leaders had signed a paper in a city called Istanbul. It says they will stand together if another country attacks either of them.\nThe leaders also said they will talk about dangers and train their armies together. The paper does not say exactly what they will do if there is trouble.\nThey signed five papers in all. One of them is about peace.",
+    "why": "When friends promise to help each other, they can feel safer."
+   }
+  ]
+ },
+ {
   "id": "eu-russian-arctic-lng-spending",
-  "order": 11,
+  "order": 14,
   "topic": "Economy",
   "region": "Europe",
   "source": "Euronews",
@@ -782,7 +1003,7 @@
  },
  {
   "id": "turkiye-china-renewables-deal",
-  "order": 12,
+  "order": 15,
   "topic": "Economy",
   "region": "Europe",
   "source": "Euronews",
