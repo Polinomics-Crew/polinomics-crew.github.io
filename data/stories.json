@@ -1,88 +1,92 @@
 [
  {
-  "id": "uk-eu-summit-reset-deal",
+  "id": "burnham-eu-deal-national-conversation",
   "order": 1,
   "topic": "Politics",
   "region": "United Kingdom",
-  "source": "GOV.UK / Euronews",
-  "url": "https://www.gov.uk/government/news/costs-cut-prime-minister-secures-deal-with-eu-to-cut-costs-keep-prices-down-and-create-opportunities-for-young-people-worth-up-to-17-billion-per-year",
-  "headline": "Burnham signs post-Brexit reset package with the EU in Brussels",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/11/20/furious-farage-accuses-burnham-of-betraying-brexit-as-eu-uk-summit-gets-underway",
+  "headline": "Burnham signs EU deals worth up to £17bn a year and plans a national conversation on Brexit",
   "terms": [
    {
     "term": "Single market",
-    "meaning": "The EU's shared trading area, where goods move with few checks or rules differences."
+    "meaning": "The EU's shared trading area, where goods move with few checks and common rules."
    },
    {
-    "term": "Carbon market",
-    "meaning": "A scheme in which companies pay for the pollution they cause."
+    "term": "GDP",
+    "meaning": "Gross domestic product: the total value of what a country produces."
    },
    {
-    "term": "Youth mobility scheme",
-    "meaning": "An agreement letting young people live and work in another country for a set time."
+    "term": "Manifesto",
+    "meaning": "A party's list of promises before an election."
    }
   ],
   "levels": [
    {
-    "headline": "Burnham signs post-Brexit reset package with the EU in Brussels",
-    "body": "Prime Minister Andy Burnham signed a post-Brexit reset package with the European Union at a summit in Brussels on 20 November. The government says the deals, covering food and agricultural standards, a link between carbon markets and a youth mobility scheme, are worth up to £17 billion a year, and could add up to 0.5% to GDP by 2040. That figure is the government's own estimate.\nThe food measures aim to cut paperwork and border checks on agricultural products. One report says the youth scheme would allow up to 100,000 young people from each side. Tuition fees, where a discounted-fee compromise is emerging, and access to the electricity market were left for later talks.\nReform UK leader Nigel Farage said Britain would have to accept EU rules without a vote, calling it a betrayal. Mr Burnham said earlier that Brexit \"has not worked\" and promised a national conversation on the UK's long-term relationship with the EU. Labour's pledge not to rejoin the single market or customs union stands until the next election.",
-    "why": "It is the biggest change to the UK's relationship with the EU since Brexit and it is already dividing the parties."
+    "headline": "Burnham signs EU deals worth up to £17bn a year and plans a national conversation on Brexit",
+    "body": "Prime Minister Andy Burnham signed a package of deals with the European Union at a summit in Brussels on 20 November. They cover food and drink, a link between carbon markets and a youth experience scheme. The government says the deals are worth up to £17 billion a year and could add up to 0.5% to UK economic output (GDP) by 2040.\nNigel Farage, the Reform UK leader, accused Burnham of betraying Brexit voters by bringing Britain back into parts of the EU single market. Before the summit Burnham said Brexit has not worked.\nBurnham has said a referendum on rejoining the EU is possible in a future election manifesto, but that it would not be the right thing to do now. Soon after the summit he will open a national conversation on Britain's long-term relationship with the EU. He became prime minister after Keir Starmer resigned.",
+    "why": "It could change how easily Britain trades with Europe, and it reopens the biggest argument in British politics of the last ten years."
    },
    {
-    "headline": "Burnham signs post-Brexit reset package with the EU in Brussels",
-    "body": "Andy Burnham signed a reset package with the EU in Brussels on 20 November. The government says it is worth up to £17 billion a year and could add up to 0.5% to GDP by 2040, though that is its own estimate.\nThe package covers food and agricultural standards, a link between the UK and EU carbon markets and a youth mobility scheme. The aim of the food deal is to cut paperwork and border checks. One report says up to 100,000 young people from each side could take part in the youth scheme.\nTuition fees and electricity market access were not settled. Nigel Farage, leader of Reform UK, said Britain would have to follow EU rules with no vote on them. Mr Burnham said Brexit has not worked and plans a national conversation about the long-term relationship. Labour's promise not to rejoin the single market or customs union lasts until the next election.",
-    "why": "It is the biggest change to the UK's relationship with the EU since Brexit and it is already dividing the parties."
+    "headline": "Burnham signs EU deals worth up to £17bn a year and plans a national conversation on Brexit",
+    "body": "Andy Burnham signed a set of agreements with the European Union in Brussels on 20 November. They cover food and drink, a link between carbon markets and a youth experience scheme. Ministers say the package is worth up to £17 billion a year and could lift UK economic output (GDP) by up to 0.5% by 2040.\nReform UK leader Nigel Farage said the prime minister had betrayed Brexit voters, because the deals bring Britain back into parts of the single market. Burnham had said before the summit that Brexit has not worked.\nHe says a referendum on rejoining the EU is possible in a future manifesto, though not right now. Soon after the summit he will launch a national conversation about the long-term relationship with Europe. Burnham took over from Keir Starmer, who resigned.",
+    "why": "It could change how easily Britain trades with Europe, and it reopens the biggest argument in British politics of the last ten years."
    },
    {
-    "headline": "Burnham signs post-Brexit reset package with the EU in Brussels",
-    "body": "The Prime Minister, Andy Burnham, has agreed a package of deals with the European Union at a summit in Brussels. The government says the deals could be worth up to £17 billion a year and add up to 0.5% to the size of the economy by 2040. This is the government's own estimate, not an independent one.\nThe deals cover food and farming rules, a link between carbon markets, which charge firms for pollution, and a scheme for young people to live and work abroad. Ministers say the food deal should cut checks at the border and ease pressure on supermarket prices.\nSome questions remain open, including university fees for students and access to electricity markets. Reform UK's Nigel Farage said the deal means following EU rules without a say. Mr Burnham says Brexit has not worked and wants a national debate on the future relationship.",
-    "why": "It is the biggest change to the UK's relationship with the EU since Brexit and it is already dividing the parties."
+    "headline": "Burnham signs EU deals worth up to £17bn a year and plans a national conversation on Brexit",
+    "body": "Prime Minister Andy Burnham agreed a package of deals with the European Union at a summit in Brussels on 20 November. The deals cover food and drink, a link between the UK and EU carbon markets, and a youth experience scheme. The government says they are worth up to £17 billion a year and could make the economy up to 0.5% bigger by 2040.\nNigel Farage, who leads Reform UK, said Burnham had betrayed people who voted for Brexit, because Britain is moving back into parts of the EU single market. Burnham said before the summit that Brexit has not worked.\nHe has not ruled out a referendum on rejoining the EU in a future manifesto, but says it is not the right thing to do now. First he will start a national conversation about Britain's long-term relationship with Europe.",
+    "why": "It could change how easily Britain trades with Europe, and it reopens the biggest argument in British politics of the last ten years."
    },
    {
-    "headline": "Burnham agrees new deal with the EU",
-    "body": "Prime Minister Andy Burnham has struck a deal with the European Union in Brussels, which ministers say could be worth up to £17 billion a year to Britain. The government also says it could add up to 0.5% to the economy by 2040, but these are its own estimates.\nThe agreement makes it easier to trade food and farm products by cutting paperwork and checks at the border. It also links the UK and EU systems that charge companies for carbon pollution, and creates a scheme that lets young people live, work and travel on the other side.\nTalks on university fees and electricity were left for later. Nigel Farage, who leads Reform UK, attacked the deal, saying Britain must accept EU rules with no vote. Mr Burnham says Brexit has not worked, and he plans a national conversation on what comes next.",
-    "why": "It is the biggest change to the UK's relationship with the EU since Brexit and it is already dividing the parties."
+    "headline": "Burnham signs EU deals worth up to £17bn a year and plans a national conversation on Brexit",
+    "body": "Prime Minister Andy Burnham has signed a set of new deals with the European Union. The agreement was reached at a summit in Brussels on 20 November. It covers trade in food and drink, a link between carbon markets, and a youth experience scheme for young people. The government says it is worth up to £17 billion a year and could add up to 0.5% to the size of the economy by 2040.\nThe deal has angered Brexit supporters. Nigel Farage, leader of Reform UK, accused Burnham of betraying voters, saying it brings Britain back into parts of the EU single market.\nBurnham says a referendum on rejoining the EU is possible in a future manifesto, but not right now. He plans to open a national conversation on the long-term relationship with Europe.",
+    "why": "It could change how easily Britain trades with Europe, and it reopens the biggest argument in British politics of the last ten years."
    },
    {
-    "headline": "Burnham agrees new deal with the EU",
-    "body": "Prime Minister Andy Burnham has agreed a new deal with the EU, the group of countries next door to us. The government says it could be worth up to £17 billion a year to Britain. That is the government's own guess, so it may turn out differently.\nThe deal should make it simpler to sell food between Britain and Europe, because there will be less paperwork and fewer checks at the border. There will also be a scheme so that young people can live and work in other countries for a while. A separate part links the two sides' systems that make companies pay for pollution.\nNot everything is agreed. Talks on university fees and electricity will carry on. Nigel Farage, a leading opponent, says Britain will have to follow EU rules without being able to vote on them. Mr Burnham says Brexit has not worked well enough.",
-    "why": "It could make some food cheaper and make travel and work in Europe easier for young people, though it also splits opinion."
+    "headline": "Burnham signs EU deals worth up to £17bn a year and plans a national conversation on Brexit",
+    "body": "Prime Minister Andy Burnham has signed new deals with the European Union, the group of countries Britain left in 2020. They were agreed at a summit in Brussels on 20 November. The deals make it easier to trade food and drink, link the two sides' carbon markets, and set up a youth experience scheme. The government says they are worth up to £17 billion a year.\nNigel Farage, who leads the party Reform UK, says Burnham has betrayed people who voted for Brexit. He argues the deals pull Britain back towards the EU's single market, the shared trading area with common rules.\nBurnham says a vote on rejoining is possible one day, but not now. He wants a national conversation about Britain's future relationship with Europe first.",
+    "why": "It could change prices, trade and travel between Britain and Europe, and it restarts a big political argument."
    },
    {
-    "headline": "Burnham agrees new deal with the EU",
-    "body": "Britain and the European Union have agreed a new deal. Prime Minister Andy Burnham signed it in Brussels on 20 November. The government says it could be worth up to £17 billion a year, but that is only its own estimate.\nThe deal is about trade and travel. Food and farm goods should face fewer checks at the border, so there may be less paperwork for companies and perhaps lower prices in shops. Young people will be able to live and work in the EU for a while, and EU young people will be able to do the same here.\nNot everything is settled yet. University fees and electricity are still being discussed. Some people, like Nigel Farage, dislike the deal. He says Britain will have to follow EU rules without a vote. Mr Burnham says Brexit has not worked and wants a big national conversation.",
-    "why": "It could make some food cheaper and make travel and work in Europe easier for young people, though it also splits opinion."
+    "headline": "Burnham signs EU deals worth up to £17bn a year and plans a national conversation on Brexit",
+    "body": "The Prime Minister, Andy Burnham, has made new deals with the European Union. Britain left the EU in 2020, and since then trading with Europe has been harder. The deals were signed at a meeting in Brussels on 20 November. They cover food and drink, a way of linking carbon markets, and a scheme that lets young people live and work abroad for a time. The government says they are worth up to £17 billion a year.\nNigel Farage, who leads Reform UK, is angry. He says the deals take Britain back into parts of the EU's shared market, and that this betrays Brexit voters.\nMr Burnham says a vote on rejoining could be possible in the future, but not now. He wants to talk with the public first.",
+    "why": "It could change prices, trade and travel between Britain and Europe, and it restarts a big political argument."
    },
    {
-    "headline": "Britain and the EU agree to work more closely",
-    "body": "The UK government has made a new deal with the European Union, a group of countries close to us. Britain left the EU some years ago, and since then trading with it has been harder. The Prime Minister, Andy Burnham, signed the new deal in Brussels. He says it could be worth up to £17 billion a year, but that is only a guess.\nThe deal should mean fewer checks on food at the border. That can make things cheaper to buy. Young people will also be able to live and work in Europe for a time. It also links the two sides' schemes that make companies pay for pollution.\nSome things are not decided yet, like fees for students. Some politicians, such as Nigel Farage, do not like the deal. He says Britain must follow EU rules without a vote.",
-    "why": "It could make some food cheaper and make travel and work in Europe easier for young people, though it also splits opinion."
+    "headline": "Burnham signs EU deals worth up to £17bn a year and plans a national conversation on Brexit",
+    "body": "The Prime Minister, Andy Burnham, has made new deals with the European Union. Britain left the EU in 2020. Since then, trade with Europe has been harder. The deals were signed in Brussels on 20 November. They help British firms sell food and drink to Europe. They link the two sides' carbon markets, which put a price on pollution. They also let young people live and work abroad for a time. The government says they could be worth up to £17 billion a year.\nNigel Farage leads a party called Reform UK. He is angry about the deals. He says they take Britain back towards the EU's shared market, and that this betrays people who voted for Brexit.\nMr Burnham says a vote on rejoining might be possible one day, but not now. First he wants a big talk with the public.",
+    "why": "It could change prices, trade and travel between Britain and Europe, and it restarts a big political argument."
    },
    {
-    "headline": "Britain and the EU agree to work more closely",
-    "body": "The UK has made a deal with the European Union. The EU is a club of countries near us. Britain left it some years ago. Since then, trading with those countries has been harder.\nThe new deal should make some things easier. Food will face fewer checks when it crosses the border. That should save companies time and money, and it might help keep prices down in shops. Young people will also be allowed to live and work in Europe for a while.\nThe leader of the UK, Prime Minister Andy Burnham, signed the deal. The government says it could be worth up to £17 billion a year, but nobody knows for sure. Some people, like Nigel Farage, do not like it. He says Britain will have to follow EU rules and will not get a vote on them. A few details are still being talked about.",
-    "why": "It is about how the UK and its closest neighbours work together, and it could change prices and chances for young people."
+    "headline": "Burnham signs EU deals worth up to £17bn a year and plans a national conversation on Brexit",
+    "body": "The UK's leader, Andy Burnham, has made new deals with the European Union, or EU. The EU is a group of countries in Europe. Britain left it in 2020. Since then, selling things to Europe has been harder for British firms. The new deals were signed in Brussels on 20 November. They make it easier to sell food and drink. They also let young people live and work in Europe for a while. The government says the deals could be worth up to £17 billion a year.\nSome people are very unhappy. Nigel Farage leads a party called Reform UK. He says the deals pull Britain back towards the EU. He thinks that is wrong, because people voted to leave.\nMr Burnham says Britain might vote on rejoining one day, but not now. First, he wants everyone to talk about it.",
+    "why": "It might change what we pay for food and what young people can do in Europe."
    },
    {
-    "headline": "The UK and the EU make a new deal",
-    "body": "Britain has made a new deal with the countries of the EU. The EU is a group of countries next to us. Britain left the group some years ago. Since then it has been harder to send things back and forth.\nThe new deal should help. Food will be checked less when it crosses the border. That means less waiting and less paperwork. It might make some things cheaper. Young people will also be able to live and work in Europe for a short time.\nThe Prime Minister is called Andy Burnham. He signed the deal. He thinks leaving the group did not work well. Some people disagree with him. One of them is Nigel Farage. He says Britain will have to follow the EU's rules and will not get a vote. Some parts of the deal are still being talked about.",
-    "why": "It is about how the UK and its closest neighbours work together, and it could change prices and chances for young people."
+    "headline": "Burnham signs EU deals worth up to £17bn a year and plans a national conversation on Brexit",
+    "body": "Britain's leader is called the Prime Minister. His name is Andy Burnham. He has made new deals with the EU. The EU is a group of countries in Europe. Britain used to be in it. Britain left in 2020. Since then, trading with Europe has got harder.\nThe new deals were agreed on 20 November. They make it easier to sell food and drink to Europe. They also let young people go and live in Europe for a while. The government says the deals could bring in a lot of money, up to £17 billion every year.\nNot everyone is happy. A man called Nigel Farage says the deals take Britain too close to the EU again. He thinks that is not what voters wanted. Mr Burnham says he wants a big talk with everyone about what happens next.",
+    "why": "It might change what we pay for food and what young people can do in Europe."
    },
    {
-    "headline": "The UK and the EU make a new deal",
-    "body": "Imagine your school and the school next door used to share a playground. Then your school said, \"We will use our own playground.\" After that, it got harder to play together. You had to fill in forms and wait at the gate.\nNow the two schools have made a new deal. The grown-up in charge of Britain, Andy Burnham, has agreed to share more things again. Food can go across the gate with fewer checks. Some young people will be able to visit and work in the other school's playground for a while.\nNot everyone is happy. A man called Nigel Farage says it is not fair, because Britain will have to follow the other school's rules without a vote. A few things are still being talked about, so the grown-ups will keep chatting.",
-    "why": "It is about how the UK and its closest neighbours work together, and it could change prices and chances for young people."
+    "headline": "Burnham signs EU deals worth up to £17bn a year and plans a national conversation on Brexit",
+    "body": "Imagine your school used to share a playground with the school next door. Then your school decided to leave and have its own playground. After that, it got harder to play games with the children next door.\nBritain is a bit like your school. It used to be in a group of countries called the EU. Then it left. Now the leader of Britain, Andy Burnham, has agreed some new deals with the EU. The deals make it easier to share things like food and drink. They also let young people go and live in Europe for a while.\nSome people think this is good. Others think it is a mistake. Mr Burnham says he wants everyone to have a big chat about it first, just like a class talking about a new rule.",
+    "why": "It might change what we pay for food and what young people can do in Europe."
    }
   ]
  },
  {
-  "id": "wall-street-ai-selloff",
+  "id": "wall-street-rebound-nvidia-huang",
   "order": 2,
   "topic": "Economy",
   "region": "United States",
   "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
-  "headline": "S&P 500 falls 3.7% to 6,910.39 as AI selloff pushes Wall Street into correction",
+  "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+  "headline": "S&P 500 closes up 4.7% at about 7,237 as Nvidia surges on Jensen Huang's return",
   "terms": [
+   {
+    "term": "S&P 500",
+    "meaning": "An index tracking 500 of the largest US companies."
+   },
    {
     "term": "Correction",
     "meaning": "A fall of 10% or more from a recent high."
@@ -90,662 +94,583 @@
    {
     "term": "Nasdaq",
     "meaning": "A US stock market index dominated by technology firms."
-   },
-   {
-    "term": "S&P 500",
-    "meaning": "An index tracking 500 of the largest US companies."
    }
   ],
   "levels": [
    {
-    "headline": "S&P 500 falls 3.7% to 6,910.39 as AI selloff pushes Wall Street into correction",
-    "body": "The S&P 500 closed down on Friday 20 November, the last completed session, falling 3.7% to 6,910.39. The Dow Jones Industrial Average lost 949.73 points, or 1.93%, to 48,147.33, while the Nasdaq Composite dropped 5.28% to 22,617.73, leaving it down about 2.7% for 2026. Trading Economics gave a slightly different Dow close of 48,034, so that figure varies by source.\nThe S&P 500 and Dow are now in correction territory, more than 10% below their record closes. Nvidia fell sharply after a Reuters report that the SEC is looking at its accounting. Over the week the Dow fell 8%, its worst since March 2020, the S&P 500 fell 8.6% and the Nasdaq about 10%.\nCNBC linked the selloff to worries about the AI rally, including the Anthropic IPO, and about inflation. US stock futures pointed to a rebound of about 2% when trading resumed.",
-    "why": "It shows how much the value of American savings, pensions and big companies depends on the AI boom, and it affects markets worldwide."
+    "headline": "S&P 500 closes up 4.7% at about 7,237 as Nvidia surges on Jensen Huang's return",
+    "body": "The S&P 500 closed up on Monday 23 November, the last completed session, rising about 4.7% to close near 7,237. The Nasdaq Composite gained about 6.5% to roughly 24,090, and the Dow Jones Industrial Average rose about 3%, or around 1,400 points, to roughly 49,595. Those are CNBC's rounded figures. It was the best day for the S&P 500 and Nasdaq since April 2025. Tuesday's session had not finished at the time of writing.\nNvidia shares jumped about 31% after the company reinstated Jensen Huang as chief executive. He had resigned on 12 November.\nThe rally reversed Friday's losses. The S&P 500 had ended that day in correction territory, 11.6% below its 6 October record, after a week in which it fell 8.6%.",
+    "why": "It shows how much US share prices, and the savings and pensions tied to them, now swing on a handful of AI companies."
    },
    {
-    "headline": "S&P 500 falls 3.7% to 6,910.39 as AI selloff pushes Wall Street into correction",
-    "body": "The S&P 500 closed down on Friday 20 November, the last completed session, falling 3.7% to 6,910.39. The Dow lost 949.73 points, or 1.93%, to close at 48,147.33. The Nasdaq Composite fell 5.28% to 22,617.73. One data provider gave a slightly different Dow figure, so exact levels vary by source.\nBoth the S&P 500 and the Dow are now in a correction, meaning they are more than 10% below their record highs. The Nasdaq has erased its gain for 2026. Over the week the Dow fell 8%, its worst week since March 2020, and the S&P 500 fell 8.6%.\nNvidia dragged on markets after a report that the SEC is examining its accounting. CNBC said worries about the AI rally and inflation lay behind the selloff. Futures suggested a rebound of around 2% when trading reopened.",
-    "why": "It shows how much the value of American savings, pensions and big companies depends on the AI boom, and it affects markets worldwide."
+    "headline": "S&P 500 closes up 4.7% at about 7,237 as Nvidia surges on Jensen Huang's return",
+    "body": "The S&P 500 closed higher on Monday 23 November, the last completed session, gaining about 4.7% to close near 7,237. The Nasdaq Composite rose about 6.5% to around 24,090 and the Dow rose about 3%, roughly 1,400 points, to near 49,595. These are rounded figures from CNBC. It was the best day for the S&P 500 and Nasdaq since April 2025. Tuesday's session was still to finish.\nNvidia shares leapt about 31% after the chipmaker brought back Jensen Huang as chief executive. He had resigned on 12 November.\nThe rebound erased Friday's slump. The S&P 500 had closed 11.6% below its 6 October record, in what traders call a correction, after falling 8.6% over the week.",
+    "why": "It shows how much US share prices, and the savings and pensions tied to them, now swing on a handful of AI companies."
    },
    {
-    "headline": "S&P 500 falls 3.7% to 6,910.39 as AI selloff pushes Wall Street into correction",
-    "body": "US shares ended Friday 20 November, the last completed trading day, sharply lower. The S&P 500, which tracks 500 large American companies, fell 3.7% to 6,910.39. The Dow Jones, which tracks 30 big firms, fell 1.93% to 48,147.33. The tech-heavy Nasdaq fell 5.28% to 22,617.73.\nThe S&P 500 and the Dow are now in what traders call a correction, which means they are more than 10% below their highest points. For the week, the Dow fell 8%, its worst week since March 2020. The Nasdaq is now down for the year.\nChipmaker Nvidia fell after a report that US regulators are looking at its accounting. Analysts also point to worries that the AI boom has pushed prices too high, and to inflation. Markets looked set to bounce back by about 2% on Monday, according to futures.",
-    "why": "It shows how much the value of American savings, pensions and big companies depends on the AI boom, and it affects markets worldwide."
+    "headline": "S&P 500 closes up 4.7% at about 7,237 as Nvidia surges on Jensen Huang's return",
+    "body": "US shares jumped on Monday 23 November, the last completed trading day. The S&P 500, which tracks 500 big American companies, rose about 4.7% to close near 7,237. The tech-heavy Nasdaq rose about 6.5% to around 24,090, and the Dow Jones, which tracks 30 large firms, rose about 3% to near 49,595. These are rounded figures. It was the best day for the S&P 500 and Nasdaq since April 2025. Tuesday's session had not ended when this was written.\nThe chipmaker Nvidia rose about 31% after it brought back Jensen Huang as chief executive. He had resigned on 12 November.\nFriday had been very bad. The S&P 500 closed 11.6% below its October record, which traders call a correction.",
+    "why": "It shows how much US share prices, and the savings and pensions tied to them, now swing on a handful of AI companies."
    },
    {
-    "headline": "US shares fall sharply as the AI selloff deepens",
-    "body": "Wall Street suffered a heavy fall on Friday 20 November, the last full session. The S&P 500 slid 3.7% to close at 6,910.39, the Dow lost 1.93% to finish at 48,147.33 and the Nasdaq plunged 5.28% to 22,617.73.\nThe S&P 500 and the Dow are now in a \"correction\", which is a drop of more than 10% from their peaks. The Nasdaq, dominated by technology firms, has lost all its gains for this year. It was the Dow's worst week since March 2020, with a fall of 8%.\nNvidia, the chipmaker at the heart of the AI boom, was hit by a report that US regulators are looking into its accounting. Investors also worry that AI share prices have run too far, and that inflation is hurting. Futures suggested prices would rebound by around 2% when trading restarted.",
-    "why": "It shows how much the value of American savings, pensions and big companies depends on the AI boom, and it affects markets worldwide."
+    "headline": "S&P 500 closes up 4.7% at about 7,237 as Nvidia surges on Jensen Huang's return",
+    "body": "Wall Street bounced back sharply on Monday 23 November, the last completed session. The S&P 500 closed up about 4.7% at around 7,237. The Nasdaq rose about 6.5% to roughly 24,090 and the Dow gained about 3%, or around 1,400 points, to nearly 49,595. All figures are rounded. It was their best day since April 2025. Tuesday's session had not finished when this was written.\nThe main driver was Nvidia, the AI chip maker, whose shares rose about 31%. The company had brought back Jensen Huang as chief executive after he resigned on 12 November.\nThe jump followed a steep fall on Friday, when the S&P 500 ended 11.6% below its record high. A fall of 10% or more is known as a correction.",
+    "why": "It shows how much US share prices, and the savings and pensions tied to them, now swing on a handful of AI companies."
    },
    {
-    "headline": "US shares fall sharply as the AI selloff deepens",
-    "body": "American shares fell sharply on Friday 20 November, which was the last trading day. The S&P 500, a measure of 500 big US companies, closed down 3.7% at 6,910.39. The Dow, which follows 30 large firms, fell 1.93% to 48,147.33. The Nasdaq, full of tech companies, dropped 5.28% to 22,617.73.\nThat means the S&P 500 and the Dow are now more than 10% below their best levels. Experts call that a correction. For the whole week, the Dow lost 8%, its worst week since early 2020.\nA big reason was Nvidia, a firm that makes chips for AI. Its shares fell after a report that regulators are checking its accounts. Many investors also fear that AI companies are priced too high. Futures, which are bets on future prices, suggested a bounce of about 2% on Monday.",
-    "why": "Share prices affect pensions and savings, and a big fall can worry people about jobs and prices."
+    "headline": "S&P 500 closes up 4.7% at about 7,237 as Nvidia surges on Jensen Huang's return",
+    "body": "Share prices in the United States rose sharply on Monday 23 November, the last full day of trading. The S&P 500, an index of 500 big American companies, closed up about 4.7% at around 7,237. The Nasdaq, which is full of technology firms, rose about 6.5% to roughly 24,090. The Dow, an index of 30 large companies, rose about 3% to nearly 49,595. These figures are rounded. Tuesday's trading had not finished when this was written.\nNvidia, a company that makes chips for artificial intelligence, saw its shares rise by about 31%. It had brought back its chief executive, Jensen Huang, who left on 12 November.\nLast Friday prices had dropped so far that the S&P 500 was more than 10% below its record. That is called a correction.",
+    "why": "It shows how much share prices, and the savings tied to them, depend on a few big technology firms."
    },
    {
-    "headline": "US shares fall sharply as the AI selloff deepens",
-    "body": "US share prices fell a lot on Friday 20 November. That was the last day the stock market was open. The S&P 500, which follows 500 big American companies, fell 3.7% to 6,910.39. The Dow fell 1.93% to 48,147.33. The Nasdaq, which has many tech firms, fell 5.28% to 22,617.73.\nThe S&P 500 and the Dow have now dropped more than 10% from their highest levels. People in finance call this a correction. The Dow lost 8% over the whole week, which was its worst week since early 2020.\nOne big reason was a company called Nvidia that makes computer chips for AI. Its shares fell after news that officials are checking its accounts. Many investors also worry that AI firms have become too expensive. Early signs suggested prices might bounce back by about 2% on Monday.",
-    "why": "Share prices affect pensions and savings, and a big fall can worry people about jobs and prices."
+    "headline": "S&P 500 closes up 4.7% at about 7,237 as Nvidia surges on Jensen Huang's return",
+    "body": "Share prices in the United States jumped on Monday 23 November, the last full day of trading. Shares are small pieces of companies, and an index follows a group of them. The S&P 500, which follows 500 big American firms, rose about 4.7%. The Nasdaq, full of technology firms, rose about 6.5%. The Dow, which follows 30 large firms, rose about 3%. These numbers are rounded. Tuesday's trading had not finished when this was written.\nThe biggest rise was at Nvidia, which makes chips for artificial intelligence. Its shares went up about 31% after it brought back its boss, Jensen Huang, who had left on 12 November.\nBefore this, prices had fallen so far that the S&P 500 was more than 10% below its record.",
+    "why": "It shows how much share prices, and the savings tied to them, depend on a few big technology firms."
    },
    {
-    "headline": "US stock market has a very bad day",
-    "body": "The American stock market had a bad day on Friday 20 November. That was the last day it was open. The stock market is where people buy and sell small pieces of companies. These pieces are called shares. On Friday, the prices of many shares fell. The S&P 500, which follows 500 big companies, fell 3.7%. The Dow fell 1.93%. The Nasdaq, full of tech firms, fell 5.28%.\nThis means the S&P 500 and the Dow are more than 10% lower than their best levels. Over the whole week, the Dow lost 8%. A company called Nvidia, which makes chips for AI, lost a lot of value after news that officials are checking its accounts.\nMany people are worried that AI companies cost too much. Early signs on Sunday said prices might go back up a little on Monday.",
-    "why": "Share prices affect pensions and savings, and a big fall can worry people about jobs and prices."
+    "headline": "S&P 500 closes up 4.7% at about 7,237 as Nvidia surges on Jensen Huang's return",
+    "body": "Share prices in the United States went up a lot on Monday 23 November. That was the last full day of trading. An index is a score that follows many company shares together. The S&P 500 follows 500 big American companies. It rose by about 4.7%. The Nasdaq follows many technology firms. It rose by about 6.5%. The Dow follows 30 large companies. It rose by about 3%. These numbers are rounded. Trading on Tuesday had not finished when this was written.\nThe biggest rise was at Nvidia. It makes computer chips for artificial intelligence. Its shares went up by about 31%. The company had brought back its boss, Jensen Huang. He had left on 12 November.\nBefore this, prices had fallen a lot. On Friday the S&P 500 was more than 10% below its top level.",
+    "why": "It shows how much share prices, and the savings tied to them, depend on a few big technology firms."
    },
    {
-    "headline": "US stock market has a very bad day",
-    "body": "American shares had a bad Friday. The stock market is a place where people buy and sell small pieces of companies, called shares. On Friday 20 November, the last day it was open, prices fell a lot. The S&P 500, which follows 500 big companies, fell 3.7%. The Dow fell 1.93%, and the Nasdaq fell 5.28%.\nThe S&P 500 and the Dow are now more than 10% below their highest points. People call that a correction. For the whole week, the Dow lost 8%, which was its worst week since 2020.\nA company called Nvidia, which makes chips for AI, fell after news that officials are checking its accounts. Many people also worry that AI companies cost too much. This matters because lots of pensions and savings hold shares. Early signs on Sunday suggested a bounce on Monday.",
-    "why": "Many families have money in shares through pensions, so big falls matter."
+    "headline": "S&P 500 closes up 4.7% at about 7,237 as Nvidia surges on Jensen Huang's return",
+    "body": "Share prices in the United States went up a lot on Monday 23 November. A share is a small piece of a company. People buy shares hoping they will be worth more later. Prices are often tracked in groups called indexes. The S&P 500 follows 500 big American firms. It rose by about 4.7%. The Nasdaq follows many technology firms. It rose by about 6.5%. The Dow follows 30 large firms. It rose by about 3%. These numbers are rounded. It was the last full day of trading. Tuesday's trading had not finished.\nNvidia makes chips that help computers think. Its shares rose by about 31%. It had brought back its boss, Jensen Huang, who left on 12 November.\nThe week before, prices had fallen a lot. This was a bounce back.",
+    "why": "It shows that the value of savings can jump up and down very quickly."
    },
    {
-    "headline": "Share prices in America drop a lot",
-    "body": "Shares in America fell a lot on Friday. Shares are tiny pieces of a company that people can buy. When many people sell, prices go down. On Friday the main lists of big company prices fell. One list, the S&P 500, fell by 3.7 out of every 100.\nThis was the last day the market was open, so it is the latest news. The prices are now more than 10% lower than their best. Over the week, they fell even more.\nOne company, called Nvidia, made big news. It makes chips for AI computers. People heard that officials are checking its accounts, so many sold its shares. People also worry that AI firms cost too much. Pensions hold shares, so this matters to many families. Early signs say prices may rise a little on Monday.",
-    "why": "Many families have money in shares through pensions, so big falls matter."
+    "headline": "S&P 500 closes up 4.7% at about 7,237 as Nvidia surges on Jensen Huang's return",
+    "body": "On Monday 23 November, the price of shares in American companies went up a lot. A share is a tiny piece of a company. If you own one, you own a little bit of that company. Share prices go up and down every day.\nOne of the big companies is called Nvidia. It makes chips for computers that can think a bit like people. It put back its old boss, Jensen Huang, in charge. He had left on 12 November. People liked this, so many wanted to buy its shares. The price went up by about 31%.\nOther prices rose too. The S&P 500, a score that follows 500 big companies, went up by about 4.7%. Before this, prices had dropped a lot, so Monday was a bounce back.",
+    "why": "It shows that the value of savings can jump up and down very quickly."
    },
    {
-    "headline": "Share prices in America drop a lot",
-    "body": "Imagine everyone in school collects football stickers and swaps them. For a long time, the shiny stickers got more and more valuable. Then one day many children decided the shiny stickers were not worth so much. They all tried to swap them at once, and the prices dropped.\nThat is a bit like what happened in America on Friday. People buy and sell tiny pieces of companies, called shares. Many shares in big computer firms lost value. The main list of 500 big companies fell by about 4 out of every 100.\nOne company, Nvidia, had bad news about checks on its accounts. Grown-ups often get worried when this happens. But prices go up and down, and early signs say they might rise a bit on Monday.",
-    "why": "Many families have money in shares through pensions, so big falls matter."
+    "headline": "S&P 500 closes up 4.7% at about 7,237 as Nvidia surges on Jensen Huang's return",
+    "body": "Imagine your class has a swap box of football cards. One day lots of children think their cards are worth less, so everyone sells. The price of cards drops fast. That is a bit like what happened to company shares in America last week.\nA share is a tiny piece of a company. On Monday 23 November, many shares went up in price again. One company, called Nvidia, makes special chips for computers. Its old boss, Jensen Huang, came back. Lots of people were pleased, so they wanted its shares. The price went up by about 31%.\nPrices still go up and down all the time, like the price of your swap cards. Grown-ups watch them closely because they affect savings and pensions.",
+    "why": "It shows that the value of savings can jump up and down very quickly."
    }
   ]
  },
  {
-  "id": "boe-raises-bank-rate-to-4",
+  "id": "uk-gdp-third-quarter-0-7",
   "order": 3,
   "topic": "Economy",
   "region": "United Kingdom",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
-  "headline": "Bank of England raises rates to 4% and warns inflation could near 5%",
-  "terms": [
-   {
-    "term": "Bank Rate",
-    "meaning": "The Bank of England's main interest rate, which influences loan and savings rates."
-   },
-   {
-    "term": "Monetary Policy Committee",
-    "meaning": "The group at the Bank that votes on interest rates."
-   },
-   {
-    "term": "Basis points",
-    "meaning": "One hundredth of a percentage point."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Bank of England raises rates to 4% and warns inflation could near 5%",
-    "body": "The Bank of England raised its main interest rate, Bank Rate, by 0.25 percentage points to 4% on 5 November. The Monetary Policy Committee voted 8 to 1 for the rise, with one member, Catherine Mann, voting for a larger rise of 0.5 points. It was the first increase since the Iran war began, according to CNBC.\nThe Bank said it expects UK inflation to rise to about 5% by the middle of 2027. It blamed mainly the conflict in the Middle East and higher energy prices.\nCNBC reported that markets expect another rise at the 17 December meeting, with the implied chance falling to 80% from 90% after the latest inflation figures. Traders also price in further rises by June. The Bank's Financial Stability Report is due on 26 November.",
-    "why": "Higher rates make mortgages and loans dearer but can help savers, and the Bank expects prices to keep rising for months."
-   },
-   {
-    "headline": "Bank of England raises rates to 4% and warns inflation could near 5%",
-    "body": "The Bank of England raised Bank Rate by 0.25 percentage points to 4% on 5 November. The Monetary Policy Committee voted 8 to 1 in favour, and one member, Catherine Mann, wanted a bigger rise of 0.5 points. CNBC described it as the first rise since the Iran war began.\nThe Bank expects inflation to climb to about 5% by the middle of 2027. It pointed mainly to the Middle East conflict and higher energy prices as the cause.\nAfter the October inflation figures, traders put the chance of another rise on 17 December at about 80%, down from 90%. Markets also expect more increases by June. The Bank publishes its Financial Stability Report on 26 November.",
-    "why": "Higher rates make mortgages and loans dearer but can help savers, and the Bank expects prices to keep rising for months."
-   },
-   {
-    "headline": "Bank of England raises rates to 4% and warns inflation could near 5%",
-    "body": "The Bank of England has raised interest rates from 3.75% to 4%. The Bank's rate-setting committee voted 8 to 1 for the change on 5 November. One member, Catherine Mann, wanted a bigger rise of half a percentage point.\nThe Bank puts up rates to slow price rises, because higher borrowing costs tend to cool spending. It now expects inflation to reach about 5% by the middle of 2027, mainly because of the war in the Middle East and higher energy costs.\nFinancial markets expect another rise at the next meeting on 17 December, and more after that. For households, that can mean dearer mortgages and loans, but better returns for people with savings.",
-    "why": "Higher rates make mortgages and loans dearer but can help savers, and the Bank expects prices to keep rising for months."
-   },
-   {
-    "headline": "Bank of England raises interest rates to 4%",
-    "body": "The Bank of England has raised interest rates to 4%, up from 3.75%, in a bid to control rising prices. Its committee voted 8 to 1 on 5 November, with one member, Catherine Mann, arguing for a bigger half-point rise.\nThe Bank warned that inflation is likely to climb to about 5% by the middle of next year, largely because of the conflict in the Middle East and the effect on energy costs. Raising rates makes borrowing more expensive, which tends to slow spending and ease price rises.\nTraders expect another rise on 17 December and several more by June. Borrowers with variable-rate mortgages or loans may soon pay more, while savers could earn a little more on their money.",
-    "why": "Higher rates make mortgages and loans dearer but can help savers, and the Bank expects prices to keep rising for months."
-   },
-   {
-    "headline": "Bank of England raises interest rates to 4%",
-    "body": "The Bank of England has put up its main interest rate to 4%. It was 3.75% before. The Bank does this to slow down rising prices. On 5 November, eight of the nine people who decide voted for the rise. The ninth, Catherine Mann, wanted a bigger rise.\nThe Bank thinks prices could rise by about 5% over a year by the middle of 2027. It says this is mostly because of the war in the Middle East, which has pushed up the price of energy.\nWhen interest rates go up, loans and mortgages cost more to pay back. Savings can earn more. People in financial markets expect another rise in December. The next decision is on 17 December.",
-    "why": "It affects mortgage payments, savings and prices in the shops."
-   },
-   {
-    "headline": "Bank of England raises interest rates to 4%",
-    "body": "The Bank of England has raised interest rates to 4%. That is a small rise from 3.75%. The Bank is in charge of keeping prices steady. It raises rates when it thinks prices are going up too fast. Eight of the nine people who vote on this wanted the rise. One wanted an even bigger rise.\nThe Bank says prices could be going up by about 5% a year by the middle of next year. It says the main causes are the war in the Middle East and costly energy.\nA higher interest rate means it costs more to borrow money, for example for a house. It also means savers may earn more. Many experts think there will be another rise on 17 December.",
-    "why": "It affects mortgage payments, savings and prices in the shops."
-   },
-   {
-    "headline": "The Bank of England puts up interest rates",
-    "body": "The Bank of England has raised its main interest rate to 4%. It was 3.75% before. The Bank does this when it wants prices to stop rising so fast. If it costs more to borrow money, people tend to spend a bit less, and shop prices rise more slowly. The vote was on 5 November. Eight people voted for the rise, and one, Catherine Mann, wanted a bigger one.\nThe Bank thinks prices could be rising by about 5% a year by the middle of 2027. It says the main reasons are the war in the Middle East and the cost of energy.\nFor families, a higher rate can mean bigger mortgage or loan payments. People who save may earn a little more. Many people expect another rise on 17 December.",
-    "why": "It affects mortgage payments, savings and prices in the shops."
-   },
-   {
-    "headline": "The Bank of England puts up interest rates",
-    "body": "The Bank of England has put up interest rates to 4%. An interest rate is the price of borrowing money. If you borrow, you pay a bit extra back. If you save, the bank pays you a bit extra. The Bank of England sets the main rate for the whole country.\nIt did this because prices are rising. That is called inflation. The Bank thinks prices might rise by about 5% in a year by next summer. It says the war in the Middle East has made energy cost more.\nWhen the main rate goes up, mortgages and loans cost more. This can be hard for families. But savers can earn more. The Bank meets again on 17 December, and people expect another rise.",
-    "why": "It affects what families pay on loans and what savers earn."
-   },
-   {
-    "headline": "The Bank of England makes borrowing cost more",
-    "body": "The Bank of England has made borrowing money more expensive. It put its main interest rate up to 4%. Interest is the extra money you pay when you borrow, or get when you save. The Bank of England is the place that sets the main rate for the country.\nWhy did it do that? Prices in shops have been going up. The Bank wants to slow that down. When borrowing costs more, people spend a little less, and prices rise more slowly. The Bank thinks a war far away is making energy cost more.\nThis can mean families pay more on loans. People with savings may get a bit more. The Bank will meet again on 17 December.",
-    "why": "It affects what families pay on loans and what savers earn."
-   },
-   {
-    "headline": "The Bank of England makes borrowing cost more",
-    "body": "Imagine you borrow a pound from your friend for a week. Your friend says, \"Give me back a pound and a penny.\" The extra penny is called interest. The Bank of England is a bit like the head of all the money in the country. It decides how big the extra penny should be.\nThis week the Bank made the extra penny bigger. It did this because things in shops cost more than before, and it wants to stop that. If borrowing costs more, people borrow and spend a bit less.\nThat can be hard for grown-ups who owe money. But it can be good for people who save, because they get a bit more. The Bank will check again in December.",
-    "why": "It affects what families pay on loans and what savers earn."
-   }
-  ]
- },
- {
-  "id": "uk-inflation-fuel-3-6",
-  "order": 4,
-  "topic": "Economy",
-  "region": "United Kingdom",
-  "source": "CNBC / ONS",
-  "url": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html",
-  "headline": "UK inflation rises to a one-year high of 3.6% as record diesel prices bite",
-  "terms": [
-   {
-    "term": "CPI",
-    "meaning": "The Consumer Prices Index, the main measure of inflation."
-   },
-   {
-    "term": "Core inflation",
-    "meaning": "Inflation leaving out food and energy, which jump around a lot."
-   },
-   {
-    "term": "Motor fuel",
-    "meaning": "Petrol and diesel for vehicles."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "UK inflation rises to a one-year high of 3.6% as record diesel prices bite",
-    "body": "UK consumer price inflation rose to 3.6% in the 12 months to October, a one-year high, according to figures released on 18 November. Motor fuel was the main driver, with fuel costs up 33.2% on a year earlier amid record diesel prices.\nCore inflation, which excludes volatile items such as food and energy, held steady at 2.8%, and services inflation was 3.7%. The rise follows the conflict in the Middle East, which has pushed up energy prices.\nThe Bank of England raised Bank Rate to 4% on 5 November and has warned that inflation could reach about 5% by the middle of 2027. After the figures, the market-implied chance of another rise on 17 December eased to 80% from 90%, though traders still expect several increases by June.",
-    "why": "Faster price rises squeeze household budgets and make further interest rate rises more likely."
-   },
-   {
-    "headline": "UK inflation rises to a one-year high of 3.6% as record diesel prices bite",
-    "body": "UK inflation, measured by the Consumer Prices Index, rose to 3.6% in the year to October, a one-year high. Motor fuel prices were up 33.2% on a year earlier, helped by record diesel prices.\nCore inflation, which strips out food and energy, was steady at 2.8%. Services inflation stood at 3.7%. The Middle East conflict has been pushing energy prices higher.\nThe Bank of England lifted Bank Rate to 4% earlier this month and expects inflation to approach 5% by mid-2027. Following the data, traders cut the implied chance of a December rise to 80% from 90%, but still expect more increases by June.",
-    "why": "Faster price rises squeeze household budgets and make further interest rate rises more likely."
-   },
-   {
-    "headline": "UK inflation rises to a one-year high of 3.6% as record diesel prices bite",
-    "body": "Prices across the UK rose by 3.6% in the year to October, the fastest pace in a year. The Consumer Prices Index is the main way of measuring this. The biggest cause was the cost of fuel, which was 33.2% higher than a year ago, with diesel prices at record levels.\nA narrower measure, called core inflation, leaves out food and energy because they swing about. It stayed at 2.8%. Prices of services, such as haircuts and restaurant meals, rose 3.7%.\nThe war in the Middle East has pushed energy costs up. The Bank of England has already raised interest rates to 4% and thinks inflation could near 5% by the middle of next year. Markets still expect another rise in December.",
-    "why": "Faster price rises squeeze household budgets and make further interest rate rises more likely."
-   },
-   {
-    "headline": "UK inflation climbs to 3.6% on fuel costs",
-    "body": "Inflation in the UK rose to 3.6% in October, its highest level in a year, official figures showed. The main reason was fuel: the cost of petrol and diesel was 33.2% higher than a year before, with diesel at record prices.\nThe measure that leaves out food and energy, known as core inflation, was unchanged at 2.8%, while the rate for services was 3.7%. The conflict in the Middle East has driven up energy prices.\nThe Bank of England has raised interest rates to 4% and expects inflation to approach 5% by mid-2027. Investors reckon there is about an 80% chance of another rise in December, slightly lower than before the figures, and expect more increases by June.",
-    "why": "Faster price rises squeeze household budgets and make further interest rate rises more likely."
-   },
-   {
-    "headline": "UK inflation climbs to 3.6% on fuel costs",
-    "body": "Prices in the UK went up faster in October. Inflation, which is how fast prices rise over a year, reached 3.6%. That is the highest for a year. The biggest reason was fuel. Petrol and diesel cost 33.2% more than a year ago, and diesel hit record prices.\nSome prices rose more slowly. If you leave out food and energy, which change a lot, inflation was 2.8%. The price of services, like getting your hair cut, went up 3.7%.\nThe war in the Middle East has made energy more expensive. The Bank of England has put up interest rates to 4% to slow prices down. It thinks inflation could reach about 5% by the middle of next year.",
-    "why": "Higher prices mean money buys less, especially when filling up a car."
-   },
-   {
-    "headline": "UK inflation climbs to 3.6% on fuel costs",
-    "body": "Prices in the shops and at the petrol station are going up faster. This is called inflation. In October, prices were 3.6% higher than a year before. That is the highest in a year. Fuel was the biggest cause. Petrol and diesel cost 33.2% more than a year ago, and diesel reached its highest price ever.\nIf you do not count food and energy, prices rose by 2.8%. This stayed the same as before. Services, such as haircuts, cost 3.7% more.\nThe war in the Middle East has made energy cost more. The Bank of England has raised interest rates to 4% to try to slow prices. It thinks they could rise by about 5% next year.",
-    "why": "Higher prices mean money buys less, especially when filling up a car."
-   },
-   {
-    "headline": "Prices in the UK are rising faster",
-    "body": "Prices in the UK are going up faster. This is called inflation. In October, prices were 3.6% higher than a year before, the biggest rise in a year. The main cause was fuel. Petrol and diesel cost 33.2% more than a year ago, and diesel reached record prices.\nIf you leave out food and energy, which change a lot, prices rose by 2.8%. Services, such as haircuts, rose by 3.7%.\nA war in the Middle East has made energy cost more. That pushes up what it costs to move goods to shops. The Bank of England has raised interest rates to 4% to try to slow prices down. It thinks inflation could reach about 5% by next summer.",
-    "why": "Higher prices mean money buys less, especially when filling up a car."
-   },
-   {
-    "headline": "Prices in the UK are rising faster",
-    "body": "Inflation means prices going up over time. In October, prices in the UK were 3.6% higher than a year before. That is the biggest rise for a year. The main cause was fuel. It costs a lot more to fill up a car now. Diesel is more expensive than it has ever been.\nThis happens because of a war in the Middle East. It makes oil and gas cost more. Lots of things use fuel to get to the shops, so more things cost more.\nWhen prices rise, your money buys less. To slow this down, the Bank of England has put up interest rates to 4%. It thinks prices could rise even faster by next summer.",
-    "why": "It means your pocket money or wages may not stretch as far."
-   },
-   {
-    "headline": "Prices in the shops are going up faster",
-    "body": "Prices in the shops are going up faster. This is called inflation. In October, things cost 3.6% more than a year before. That is the most in a year. It is a bit like a toy that cost £100 last year and now costs £103.60.\nThe main reason is fuel. Petrol and diesel cost a third more than last year. Diesel costs the most it ever has. Lorries and buses use fuel, so it can make other things cost more too.\nThe fuel costs more because of a war in the Middle East. The Bank of England wants to slow prices down. It has made borrowing cost more. It thinks prices could rise even faster by next summer.",
-    "why": "It means your pocket money or wages may not stretch as far."
-   },
-   {
-    "headline": "Prices in the shops are going up faster",
-    "body": "Imagine your favourite sweets cost 100 pence last year. Now they cost a little more, maybe 104 pence. When lots of things cost a bit more, we call it inflation. Last month, things in Britain cost about 3.6 pence more for every 100 pence, than a year ago.\nThe biggest rise was fuel, which is what makes cars and lorries go. It costs a lot more than before, because of a war far away. Lorries bring food to shops, so this can make other things cost more too.\nGrown-ups call this \"inflation\". It means pocket money buys a bit less. A group called the Bank of England is trying to slow it down.",
-    "why": "It means your pocket money or wages may not stretch as far."
-   }
-  ]
- },
- {
-  "id": "trump-putin-xi-yalta-europe",
-  "order": 5,
-  "topic": "Politics",
-  "region": "Europe",
-  "source": "Euronews",
-  "url": "https://www.euronews.com/2026/11/19/european-leaders-reject-yalta-20-deal-for-ukraine-after-trump-meets-putin-and-xi",
-  "headline": "European leaders reject 'Yalta 2.0' for Ukraine after Trump meets Putin and Xi",
-  "terms": [
-   {
-    "term": "Yalta",
-    "meaning": "A 1945 meeting where leaders of the US, UK and Soviet Union shaped postwar Europe."
-   },
-   {
-    "term": "Coalition of the Willing",
-    "meaning": "A group of countries ready to help support Ukraine."
-   },
-   {
-    "term": "Article 5",
-    "meaning": "NATO's promise that an attack on one member is an attack on all."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "European leaders reject 'Yalta 2.0' for Ukraine after Trump meets Putin and Xi",
-    "body": "European leaders have rejected what commentators called a \"Yalta 2.0\" approach to the war in Ukraine after US President Donald Trump met Russia's Vladimir Putin and China's Xi Jinping in Shenzhen on 19 November, on the sidelines of the APEC summit. Their joint statement, the \"Declaration Toward Peace\", did not mention Ukraine. The name refers to the 1945 Yalta conference, where great powers shaped postwar Europe.\nGerman Chancellor Friedrich Merz said a Yalta format would not bring peace, and France's Emmanuel Macron said Europe should be part of any talks. At a Berlin meeting of the Coalition of the Willing, leaders agreed Europe should engage in face-to-face negotiations with Russia and named a seven-member team. Mr Putin said Europeans should come to Moscow.\nMr Trump, joining the Berlin meeting by phone, asked why allies keep spending billions on Kyiv. Envoy Jared Kushner said the US was open to an Article 5-style guarantee for Ukraine. Euronews analysis found no breakthrough on Ukraine.",
-    "why": "The meeting raised fears that big powers might decide Europe's future without Europeans, with a war still under way in Ukraine."
-   },
-   {
-    "headline": "European leaders reject 'Yalta 2.0' for Ukraine after Trump meets Putin and Xi",
-    "body": "European leaders have rejected a \"Yalta 2.0\" settlement for Ukraine after Donald Trump met Vladimir Putin and Xi Jinping in Shenzhen on 19 November. Their \"Declaration Toward Peace\" did not mention Ukraine. The phrase recalls the 1945 Yalta conference, where great powers shaped postwar Europe.\nFriedrich Merz said a Yalta format would not bring peace, and Emmanuel Macron said Europe must be at the table. The Berlin Coalition of the Willing agreed Europe should negotiate directly with Russia and named a seven-member team. Mr Putin said Europeans should come to Moscow.\nMr Trump, on the phone from his plane, asked why Europe keeps spending billions on Kyiv. Jared Kushner said Washington was open to an Article 5-style guarantee for Ukraine if it served US interests. Analysts saw no breakthrough.",
-    "why": "The meeting raised fears that big powers might decide Europe's future without Europeans, with a war still under way in Ukraine."
-   },
-   {
-    "headline": "European leaders reject 'Yalta 2.0' for Ukraine after Trump meets Putin and Xi",
-    "body": "European leaders say they will not accept a \"Yalta 2.0\" plan for Ukraine, after US President Donald Trump met Russia's Vladimir Putin and China's Xi Jinping in Shenzhen on 19 November. The three issued a joint statement about peace that did not mention Ukraine. \"Yalta\" refers to a 1945 meeting where powerful countries decided Europe's future.\nGerman Chancellor Friedrich Merz said that approach would not bring peace. French President Emmanuel Macron said Europe must be included. Leaders meeting in Berlin agreed to talk directly to Russia and chose a seven-person team. Mr Putin replied that Europeans should come to Moscow.\nMr Trump questioned why Europe spends billions helping Ukraine. His envoy said the US was open to a security guarantee for Ukraine, but only if it suited American interests. Experts said little changed.",
-    "why": "The meeting raised fears that big powers might decide Europe's future without Europeans, with a war still under way in Ukraine."
-   },
-   {
-    "headline": "Europe rejects 'Yalta 2.0' after Trump, Putin and Xi talks",
-    "body": "European leaders have rejected what they call a \"Yalta 2.0\" deal on Ukraine, after Donald Trump met Vladimir Putin and Xi Jinping in China on 19 November. The leaders' joint statement on peace made no mention of Ukraine. Yalta was a 1945 conference at which Allied powers shaped postwar Europe.\nGermany's Friedrich Merz said a Yalta format would not bring peace, while France's Emmanuel Macron insisted Europe be included. Leaders in Berlin agreed to negotiate face to face with Russia and named a seven-member team. Mr Putin said Europeans should come to Moscow to set out their positions.\nMr Trump asked on a call why Europe was spending billions on Ukraine's military. His envoy Jared Kushner said the US would consider a security guarantee for Ukraine if it served American interests. Commentators saw no breakthrough.",
-    "why": "The meeting raised fears that big powers might decide Europe's future without Europeans, with a war still under way in Ukraine."
-   },
-   {
-    "headline": "Europe rejects 'Yalta 2.0' after Trump, Putin and Xi talks",
-    "body": "European leaders have said no to a plan that they fear could be decided without them. US President Donald Trump met Russia's Vladimir Putin and China's Xi Jinping in China on 19 November. Afterwards they published a statement about peace. It did not mention Ukraine at all.\nPeople are calling this \"Yalta 2.0\". Yalta was a meeting in 1945, when powerful leaders made decisions about Europe. Germany's leader, Friedrich Merz, said this kind of deal would not bring peace. France's president, Emmanuel Macron, said Europe must be part of any talks.\nEuropean leaders met in Berlin and chose a team of seven people to talk to Russia. Mr Putin said Europeans should come to Moscow. Mr Trump asked why Europe spends so much on helping Ukraine. Experts say nothing big has changed yet.",
-    "why": "It shows how the war in Ukraine and Europe's security are being decided, and who gets a say."
-   },
-   {
-    "headline": "Europe rejects 'Yalta 2.0' after Trump, Putin and Xi talks",
-    "body": "European leaders are unhappy after a big meeting they were not invited to. On 19 November, US President Donald Trump met Russia's Vladimir Putin and China's Xi Jinping in China. They wrote a statement about peace, but it did not mention Ukraine. Russia has been at war with Ukraine for years.\nSome people call this \"Yalta 2.0\". Yalta was a meeting in 1945 where a few powerful leaders decided what would happen in Europe. Germany's leader, Friedrich Merz, said that would not bring peace. France's leader, Emmanuel Macron, said Europe must be in the talks.\nEuropean leaders have picked a team of seven people to talk to Russia. Mr Putin said they should come to Moscow. Mr Trump asked why Europe spends so much on helping Ukraine. So far, no big breakthrough has come.",
-    "why": "It shows how the war in Ukraine and Europe's security are being decided, and who gets a say."
-   },
-   {
-    "headline": "Europe says no to a deal made without it",
-    "body": "European leaders are unhappy with a meeting held without them. On 19 November, US President Donald Trump met Russia's Vladimir Putin and China's Xi Jinping in China. Their joint statement on peace did not mention Ukraine, the country Russia is fighting.\nPeople call it \"Yalta 2.0\". Yalta was a 1945 meeting where a few powerful leaders made choices about Europe. Germany's Friedrich Merz said that kind of deal would not bring peace. France's Emmanuel Macron said Europe must be in the talks.\nEuropean leaders have picked seven people to talk to Russia. Mr Putin said they should come to Moscow. Mr Trump asked why Europe spends billions on helping Ukraine. So far, there has been no big breakthrough.",
-    "why": "It shows how the war in Ukraine and Europe's security are being decided, and who gets a say."
-   },
-   {
-    "headline": "Europe says no to a deal made without it",
-    "body": "Some leaders of Europe are upset. A few days ago, the leaders of three very big countries met in China. They were Donald Trump from the USA, Vladimir Putin from Russia and Xi Jinping from China. They talked about peace. But Russia is fighting a war against Ukraine, and the statement did not even say Ukraine.\nIn 1945 some powerful leaders met at a place called Yalta. They made big choices about Europe. People now worry the same thing could happen again, so they call this meeting \"Yalta 2.0\".\nEurope's leaders say they must be part of any talks. They have chosen seven people to speak to Russia. Mr Putin said they should come to Moscow. Not much has been settled yet.",
-    "why": "It is about who decides how the war in Ukraine ends."
-   },
-   {
-    "headline": "European leaders say they must be part of peace talks",
-    "body": "Three leaders of big countries met in China. They were Donald Trump from the USA, Vladimir Putin from Russia and Xi Jinping from China. They talked about peace. Russia is fighting a war with Ukraine, a country in Europe. But their message did not say the word Ukraine.\nLeaders in Europe were upset. They said, \"You cannot decide about us without us.\" A long time ago, in 1945, some strong leaders decided things about Europe in a meeting called Yalta. Now some people worry this is happening again.\nEurope's leaders have chosen a team of seven people to talk to Russia. Mr Putin said they should travel to Moscow. For now, nothing big has been decided.",
-    "why": "It is about who decides how the war in Ukraine ends."
-   },
-   {
-    "headline": "European leaders say they must be part of peace talks",
-    "body": "Imagine three big children go into a room and decide the rules for a game. The other children are playing that game in the playground, but nobody asks them. That would feel unfair.\nThis is a bit like what some leaders in Europe feel. The leaders of the USA, Russia and China met in China. They talked about peace. But Russia is fighting a war against its neighbour, Ukraine, and the three did not say Ukraine in their message.\nEurope's leaders said, \"We want to be in the room too.\" They picked seven people to go and talk. The leader of Russia said they should come to his country. So the grown-ups are still arguing, and nothing is decided.",
-    "why": "It is about who decides how the war in Ukraine ends."
-   }
-  ]
- },
- {
-  "id": "cop31-talks-collapse-fossil-fuels",
-  "order": 6,
-  "topic": "Politics",
-  "region": "Global",
-  "source": "Euronews / CNBC",
-  "url": "https://www.euronews.com/2026/11/22/cop31-climate-talks-fail-after-eu-and-others-reject-final-deal-proposal",
-  "headline": "COP31 climate talks end without a deal after EU rejects text that omits fossil fuels",
-  "terms": [
-   {
-    "term": "COP31",
-    "meaning": "The 31st UN climate conference, held in Antalya, Turkey."
-   },
-   {
-    "term": "Fossil fuels",
-    "meaning": "Coal, oil and gas, which release gases that warm the planet."
-   },
-   {
-    "term": "Carbon capture",
-    "meaning": "Technology that traps carbon dioxide before it reaches the air."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "COP31 climate talks end without a deal after EU rejects text that omits fossil fuels",
-    "body": "The COP31 climate summit in Antalya, Türkiye, ended on 22 November without an agreed deal, after talks ran two days past their scheduled finish and became the longest UN climate conference on record. COP31 President Murat Kurum said there was no consensus and the decisions were not adopted.\nThe sticking point was fossil fuels. An early draft called for a faster phase-out, but a later version removed all mention of them. The final text kept a goal to electrify the global economy and a push for carbon capture without naming fossil fuels. The EU and Panama rejected it, with Ireland's O'Brien, speaking for the EU presidency, saying the bloc would not endorse a text that did not mention fossil fuels.\nObservers said Saudi Arabia and other big oil producers pushed to keep explicit fossil fuel language out. UN Secretary-General António Guterres said he was deeply disappointed.",
-    "why": "Without agreement, there is no new shared plan on cutting the fossil fuels that drive climate change."
-   },
-   {
-    "headline": "COP31 climate talks end without a deal after EU rejects text that omits fossil fuels",
-    "body": "The COP31 climate summit in Antalya ended on 22 November with no agreed deal. Talks ran two days over time, making it the longest UN climate conference ever. COP31 President Murat Kurum said there was no consensus and the decisions were not adopted.\nFossil fuels were the main sticking point. An early draft urged a faster phase-out, but a later one removed all mention of them. The final text kept a goal to electrify the global economy and to expand carbon capture, without naming fossil fuels. The EU and Panama rejected it.\nObservers said Saudi Arabia and other major oil producers pushed to keep fossil fuel wording out. UN Secretary-General António Guterres said he was deeply disappointed, and Australia's Chris Bowen also voiced disappointment.",
-    "why": "Without agreement, there is no new shared plan on cutting the fossil fuels that drive climate change."
-   },
-   {
-    "headline": "COP31 climate talks end without a deal after EU rejects text that omits fossil fuels",
-    "body": "The world's main climate summit, COP31, ended in Antalya, Türkiye, on 22 November without a deal. It ran two days past its planned end and became the longest UN climate conference ever held. Its president, Murat Kurum, said countries had not reached agreement.\nThe big argument was about fossil fuels, meaning coal, oil and gas. An early draft called for moving away from them faster, but later versions left them out. The final text mentioned electrifying the world's economy and carbon capture, which traps pollution, but not fossil fuels by name. The EU and Panama refused to accept it.\nOil-producing countries, including Saudi Arabia, were said to have pushed to keep the words out. UN chief António Guterres said he was deeply disappointed.",
-    "why": "Without agreement, there is no new shared plan on cutting the fossil fuels that drive climate change."
-   },
-   {
-    "headline": "COP31 climate summit ends with no agreement",
-    "body": "The COP31 climate summit in Türkiye has ended without a deal. Talks overran by two days, making it the longest UN climate conference ever, and the summit's president, Murat Kurum, said there was no consensus.\nFossil fuels were at the heart of the row. One draft called for a faster phase-out, but a later version dropped all mention of coal, oil and gas. The final text kept a goal to electrify economies and expand carbon capture technology, but did not name fossil fuels. The EU and Panama rejected the text.\nObservers said Saudi Arabia and other oil producers had fought to keep the wording out. UN Secretary-General António Guterres said he was deeply disappointed by the outcome.",
-    "why": "Without agreement, there is no new shared plan on cutting the fossil fuels that drive climate change."
-   },
-   {
-    "headline": "COP31 climate summit ends with no agreement",
-    "body": "The big world meeting about climate change has ended with no agreement. It was held in Antalya, in Türkiye, and is called COP31. It ran two days longer than planned. It was the longest one the UN has ever held.\nThe argument was about fossil fuels. These are coal, oil and gas, and burning them heats up the planet. One early plan said countries should stop using them faster. Later plans left the words out. The final plan talked about using more electricity and about trapping pollution, but did not name fossil fuels.\nThe EU and Panama said no to it. Oil-producing countries, such as Saudi Arabia, wanted the words left out. The head of the UN said he was very disappointed.",
-    "why": "It shows how hard it is for countries to agree on how fast to move away from oil, gas and coal."
-   },
-   {
-    "headline": "COP31 climate summit ends with no agreement",
-    "body": "Countries from all over the world met in Türkiye to talk about climate change. This meeting is called COP31. It finished on 22 November, but the countries did not agree on a plan. It ran two days longer than planned, and it was the longest meeting of its kind ever.\nThe big argument was about fossil fuels. Fossil fuels are coal, oil and gas. When we burn them, they warm the planet. One early plan said countries should use less of them, faster. Later plans did not mention them at all.\nThe EU and Panama said they could not accept that. Oil-producing countries, such as Saudi Arabia, wanted the words left out. The head of the UN said he was very disappointed.",
-    "why": "It shows how hard it is for countries to agree on how fast to move away from oil, gas and coal."
-   },
-   {
-    "headline": "The world's climate talks end with no deal",
-    "body": "The big world meeting on climate change, COP31, ended in Türkiye on 22 November without an agreement. It ran two days late, and it was the longest meeting of its kind ever held.\nThe argument was about fossil fuels, which are coal, oil and gas. Burning them warms the planet. One early plan said countries should use less of them, faster. Later plans left them out. The last plan talked about using more electricity and trapping pollution, but did not name fossil fuels.\nThe EU and Panama said no. Oil-producing countries, such as Saudi Arabia, were said to want the words left out. The head of the UN said he was very disappointed.",
-    "why": "It shows how hard it is for countries to agree on how fast to move away from oil, gas and coal."
-   },
-   {
-    "headline": "The world's climate talks end with no deal",
-    "body": "Countries from all over the world met in Türkiye to talk about how to help the planet. The meeting is called COP31. When it ended, they had not agreed on anything. They even stayed two extra days, and still could not agree.\nThe big argument was about coal, oil and gas. We call these fossil fuels. We burn them to make electricity and to run cars. But burning them makes the Earth warmer. Some countries wanted a plan to use less of them. Other countries, which sell a lot of oil, did not want the words in the plan.\nThe EU said it would not agree to a plan that did not even mention them. The head of the UN said he was very sad about this.",
-    "why": "It is about whether countries can agree to protect the planet."
-   },
-   {
-    "headline": "Countries could not agree at the big climate meeting",
-    "body": "Countries from around the world met in Türkiye to talk about keeping the Earth from getting too hot. They stayed two extra days. But in the end, they could not agree on a plan.\nThe argument was about oil, gas and coal. These are called fossil fuels. We burn them for power. But burning them is making the Earth warmer. Some countries wanted to say clearly that we should use less of them. Others, which sell a lot of oil, did not want to say it.\nThe EU said it would not agree to a plan with no mention of them. The boss of the UN said he felt very sad. So the countries will have to try again.",
-    "why": "It is about whether countries can agree to protect the planet."
-   },
-   {
-    "headline": "Countries could not agree at the big climate meeting",
-    "body": "Imagine a whole class has to agree on a rule to keep the classroom tidy. Everyone sits down to talk. They talk and talk, even after the bell. But they cannot agree.\nThis is a bit like what happened with the world's leaders. They met in a country called Türkiye to decide how to keep the Earth from getting too warm. The main problem is something called fossil fuels. That is a word for coal, oil and gas, which we burn to make power.\nSome countries wanted the plan to say we should use less of them. Others did not. So there was no plan in the end. The grown-up in charge of the UN said he was very sad about it.",
-    "why": "It is about whether countries can agree to protect the planet."
-   }
-  ]
- },
- {
-  "id": "brent-oil-falls-hormuz-recovers",
-  "order": 7,
-  "topic": "Economy",
-  "region": "Global",
-  "source": "CNBC / Trading Economics",
-  "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
-  "headline": "Brent crude trades near $92 as Hormuz flows recover, down about 20% in a month",
-  "terms": [
-   {
-    "term": "Brent crude",
-    "meaning": "The main international benchmark price for oil, quoted in dollars a barrel."
-   },
-   {
-    "term": "WTI",
-    "meaning": "West Texas Intermediate, the main US oil price benchmark."
-   },
-   {
-    "term": "Strait of Hormuz",
-    "meaning": "A narrow waterway through which much of the world's oil ships pass."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Brent crude trades near $92 as Hormuz flows recover, down about 20% in a month",
-    "body": "Brent crude was trading around $92 a barrel on 23 November, with early Asian trade showing it 0.22% lower at $92.35. US benchmark WTI was down 0.19% at $83.25. Trading Economics put Brent about 20% lower over the past month.\nShipments through the Strait of Hormuz have nearly returned to pre-war levels, and the International Energy Agency expects the market to return to a surplus in the fourth quarter. US Energy Secretary Chris Wright said flows through the strait had reached record levels.\nRisks remain. Donald Trump is reportedly weighing more strikes on Iran, the Houthis claimed an attack on a Saudi refinery and an Iranian-reported tanker fire followed a mine strike east of Hormuz. Brent began the year near $60 and peaked as high as $130 in March and April. Goldman Sachs expects an average of $88 in 2027.",
-    "why": "Oil prices feed into petrol, heating and shop prices, but war risks could push them up again."
-   },
-   {
-    "headline": "Brent crude trades near $92 as Hormuz flows recover, down about 20% in a month",
-    "body": "Brent crude traded at around $92 a barrel on 23 November, with US benchmark WTI near $83.25. Trading Economics said Brent was down about 20% over the past month.\nFlows through the Strait of Hormuz have almost recovered to pre-war levels, and the International Energy Agency expects the market to move into surplus in the fourth quarter. US Energy Secretary Chris Wright said flows had hit record levels.\nBut risks remain. Donald Trump is reportedly considering more strikes on Iran, the Houthis claimed an attack on a Saudi refinery and Iran's navy said a tanker caught fire after hitting a mine. Brent started the year near $60 and reached $130 in March and April. Goldman Sachs expects an average of $88 in 2027.",
-    "why": "Oil prices feed into petrol, heating and shop prices, but war risks could push them up again."
-   },
-   {
-    "headline": "Brent crude trades near $92 as Hormuz flows recover, down about 20% in a month",
-    "body": "The price of oil has dropped by about a fifth in a month. On 23 November, Brent crude, the main international benchmark, was trading around $92 a barrel. The US equivalent, WTI, was about $83.\nOne reason is that ships are moving through the Strait of Hormuz, a narrow sea route for much of the world's oil, almost as normal. The International Energy Agency expects there to be more oil than the world needs in the last three months of the year.\nBut the war with Iran is not over. President Trump may order more strikes, and attacks on Saudi oil sites have continued. Brent started this year around $60 and rose as high as $130 in spring, so prices are still high.",
-    "why": "Oil prices feed into petrol, heating and shop prices, but war risks could push them up again."
-   },
-   {
-    "headline": "Oil prices fall about 20% in a month as Hormuz shipping recovers",
-    "body": "Oil prices have fallen about 20% over the past month. Brent crude, the international benchmark, was trading around $92 a barrel on 23 November, while the American benchmark, WTI, stood at about $83.\nThe drop reflects shipments through the Strait of Hormuz, a key route for the world's oil, recovering to near pre-war levels. The International Energy Agency expects supply to exceed demand in the final quarter of the year.\nThe situation remains fragile. Donald Trump is reportedly weighing more strikes on Iran, and Houthi attacks on Saudi oil facilities continue. Brent began the year around $60 and spiked to as much as $130 in March and April. Goldman Sachs forecasts an average of $88 next year.",
-    "why": "Oil prices feed into petrol, heating and shop prices, but war risks could push them up again."
-   },
-   {
-    "headline": "Oil prices fall about 20% in a month as Hormuz shipping recovers",
-    "body": "The price of oil has gone down by about a fifth in a month. On 23 November, a barrel of Brent oil cost about $92. Brent is the main price people use around the world. The American version, called WTI, was about $83.\nOne reason is that ships can carry oil through the Strait of Hormuz again. This is a narrow stretch of sea where a lot of the world's oil passes. It is almost back to normal. Experts think there will soon be more oil than people need.\nBut the war is not over, so prices could jump again. At the start of this year oil cost about $60. In spring it reached $130. So it is still high.",
-    "why": "Cheaper oil can ease petrol and shop prices, but the fighting could change that quickly."
-   },
-   {
-    "headline": "Oil prices fall about 20% in a month as Hormuz shipping recovers",
-    "body": "Oil is getting cheaper. Oil is what we make petrol and diesel from. A barrel is a big container of oil. On 23 November, a barrel cost about $92. A month ago it cost about a fifth more.\nOne reason is that oil ships can move through a narrow sea route, called the Strait of Hormuz, almost as normal. During the war, ships could not pass easily. Experts think there will soon be more oil than people need, and this makes the price fall.\nBut there is still a risk. The war is not over, and people attacked oil sites in Saudi Arabia again last week. Oil cost about $60 at the start of this year, and $130 in spring. So it could move quickly again.",
-    "why": "Cheaper oil can ease petrol and shop prices, but the fighting could change that quickly."
-   },
-   {
-    "headline": "Oil is getting cheaper again",
-    "body": "Oil is getting cheaper. On 23 November, a barrel of Brent oil, the main world price, cost about $92. That is about a fifth less than a month ago. The American price, called WTI, was about $83.\nOne reason is that ships can use the Strait of Hormuz, a narrow sea route for much of the world's oil, almost as normal again. Experts expect there to be more oil than people need by the end of the year.\nBut the war with Iran is not over, so prices could jump again. Oil cost about $60 at the start of the year and went as high as $130 in spring. Cheaper oil can help lower petrol prices, but only if it stays cheap.",
-    "why": "Cheaper oil can ease petrol and shop prices, but the fighting could change that quickly."
-   },
-   {
-    "headline": "Oil is getting cheaper again",
-    "body": "Oil is what we use to make petrol and diesel. It is sold in barrels. This month, the price of oil has come down. A barrel now costs about $92. A month ago, it cost about a fifth more. That is good news, because cheaper oil can help bring down the cost of petrol.\nOil got cheaper because ships can again travel on a narrow sea route called the Strait of Hormuz. A lot of the world's oil goes this way. During the war it was hard to get through.\nBut the war is not over, so things could change fast. At the start of this year, oil cost about $60. In the spring, it cost $130. So $92 is still high.",
-    "why": "Oil helps decide how much petrol costs."
-   },
-   {
-    "headline": "The price of oil has gone down",
-    "body": "Oil is what makes cars and lorries go, after it has been turned into petrol and diesel. This month, oil got cheaper. A big barrel of it costs about $92 now. It used to cost more.\nWhy is it cheaper? Ships can carry oil along a narrow sea road, called the Strait of Hormuz, almost like normal. Before, it was hard because of a war nearby. Now there will probably be plenty of oil.\nBut the war is not finished, so the price could go up again. This matters because when oil costs more, petrol costs more too, and so can lots of things in shops.",
-    "why": "Oil helps decide how much petrol costs."
-   },
-   {
-    "headline": "The price of oil has gone down",
-    "body": "Imagine you sell lemonade at a school fair. When lots of people want lemonade but there are only a few cups, you can charge a lot. When you have plenty of cups, the price goes down.\nOil works a bit like that. Oil is what makes cars go, after it is turned into petrol. During a war, it was hard to get oil on ships, so there was less of it and it cost a lot. Now ships can go again, so there is more oil, and the price has gone down.\nThat is good news for people who buy petrol. But the war has not ended. If the ships get stuck again, the price could go back up.",
-    "why": "Oil helps decide how much petrol costs."
-   }
-  ]
- },
- {
-  "id": "houthis-saudi-refinery-trump-iran",
-  "order": 8,
-  "topic": "Politics",
-  "region": "Middle East",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
-  "headline": "Houthis claim attack on Saudi refinery as Trump warns of possible new strikes on Iran next year",
-  "terms": [
-   {
-    "term": "Houthis",
-    "meaning": "An armed group in Yemen that has attacked targets in Saudi Arabia and shipping."
-   },
-   {
-    "term": "Islamabad Memorandum",
-    "meaning": "A June deal between the US and Iran meant to lead to a permanent peace, which later broke down."
-   },
-   {
-    "term": "Refinery",
-    "meaning": "A plant that turns crude oil into petrol and diesel."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Houthis claim attack on Saudi refinery as Trump warns of possible new strikes on Iran next year",
-    "body": "Yemen's Houthis said on Sunday 22 November that they targeted Saudi Arabia's Rabigh refinery, though the damage is unclear. The Saudi-led coalition said it intercepted and destroyed a drone launched towards the kingdom's western region. Rabigh was also among sites the Houthis said they attacked in late October, along with Ras Tanura and Abqaiq.\nPresident Donald Trump told Fox News he was inclined to order military strikes on Tehran next year if the US and Iran fail to finalise an agreement, and he blamed Iranian officials for stalling. Iran's foreign minister, Abbas Araghchi, said Tehran remains open to a negotiated settlement.\nA June deal between Mr Trump and Iranian President Masoud Pezeshkian, the Islamabad Memorandum of Understanding, aimed at a permanent peace but later broke down. Saudi Arabia and Bahrain also reported new attacks.",
-    "why": "The war keeps oil supplies and prices uncertain, and could widen if talks fail."
-   },
-   {
-    "headline": "Houthis claim attack on Saudi refinery as Trump warns of possible new strikes on Iran next year",
-    "body": "Yemen's Houthis said on 22 November that they targeted Saudi Arabia's Rabigh refinery. The damage is unclear, and the Saudi-led coalition said it intercepted and destroyed a drone headed for the west of the kingdom. Rabigh was also named in the Houthis' late October claims, alongside Ras Tanura and Abqaiq.\nDonald Trump told Fox News he was inclined to order strikes on Tehran next year if no agreement is finalised, accusing Iranian officials of stalling. Abbas Araghchi, Iran's foreign minister, said Iran remains open to a negotiated settlement.\nThe Islamabad Memorandum of Understanding, signed in June by Mr Trump and Iran's president Masoud Pezeshkian to build a permanent peace, later broke down. Saudi Arabia and Bahrain reported fresh attacks.",
-    "why": "The war keeps oil supplies and prices uncertain, and could widen if talks fail."
-   },
-   {
-    "headline": "Houthis claim attack on Saudi refinery as Trump warns of possible new strikes on Iran next year",
-    "body": "The Houthis, an armed group in Yemen, said on 22 November that they attacked Saudi Arabia's Rabigh oil refinery. It is not clear how much damage was done. Saudi-led forces said they shot down a drone heading for the west of the country. The Houthis have attacked several Saudi oil sites before, including in late October.\nIn the United States, President Donald Trump said on Fox News that he is inclined to order strikes on Iran next year if the two sides cannot agree a deal. He said Iranian officials were stalling. Iran's foreign minister said Iran is still open to a negotiated settlement.\nA peace agreement signed in June between the US and Iran later broke down. Saudi Arabia and Bahrain also reported new attacks.",
-    "why": "The war keeps oil supplies and prices uncertain, and could widen if talks fail."
-   },
-   {
-    "headline": "Houthis claim Saudi refinery attack as Trump warns of Iran strikes",
-    "body": "Yemen's Houthi group claimed on 22 November that it attacked Saudi Arabia's Rabigh oil refinery, though the extent of any damage is unclear. The Saudi-led coalition said it destroyed a drone headed for the country's west. The Houthis said they had also targeted Saudi sites in late October.\nPresident Donald Trump told Fox News that he was inclined to order military strikes on Tehran next year if the US and Iran do not finalise a deal. He accused Iranian officials of stalling. Iran's foreign minister, Abbas Araghchi, said his government is still open to a negotiated settlement.\nA deal signed in June to work towards lasting peace between the two countries later fell apart. Saudi Arabia and Bahrain both reported fresh attacks.",
-    "why": "The war keeps oil supplies and prices uncertain, and could widen if talks fail."
-   },
-   {
-    "headline": "Houthis claim Saudi refinery attack as Trump warns of Iran strikes",
-    "body": "The war in the Middle East is still going on. A group in Yemen called the Houthis said on 22 November that they attacked an oil refinery in Saudi Arabia. A refinery is a factory that turns crude oil into petrol and diesel. We do not know how badly it was damaged. Saudi forces said they shot down a drone.\nThe US President, Donald Trump, said he might order attacks on Iran next year if the two countries cannot agree a deal. He said Iran's leaders were slowing things down. Iran's foreign minister said Iran still wants to talk.\nIn June, the US and Iran signed a peace deal, but it fell apart later. Other countries nearby, such as Bahrain, say they have been attacked too.",
-    "why": "It affects oil supplies and the price of fuel around the world."
-   },
-   {
-    "headline": "Houthis claim Saudi refinery attack as Trump warns of Iran strikes",
-    "body": "A war in the Middle East is still going on. On 22 November, a group in Yemen called the Houthis said they attacked an oil factory in Saudi Arabia. It is called a refinery, and it turns oil into petrol. Nobody knows how badly it was hurt. Saudi forces said they stopped a flying drone.\nThe President of the USA, Donald Trump, said he might attack Iran next year if the two countries cannot make a deal. He said Iran's leaders were being slow on purpose. Iran said it still wants to talk.\nThe US and Iran agreed a peace plan in June. But the plan fell apart. Other nearby countries say they were attacked too.",
-    "why": "It affects oil supplies and the price of fuel around the world."
-   },
-   {
-    "headline": "The Iran war is still not over",
-    "body": "There is still a war in the Middle East. On 22 November, a group in Yemen called the Houthis said they attacked a Saudi oil refinery, which is a plant that turns oil into petrol. We do not know how much damage was done. Saudi forces said they stopped a drone.\nUS President Donald Trump said he might order strikes on Iran next year if there is no deal. He said Iran's leaders were stalling. Iran's foreign minister said Iran still wants a deal through talks.\nA peace agreement made in June between the two countries later broke down. Saudi Arabia and Bahrain also said they had new attacks. The fighting matters because it can affect oil supplies and fuel prices.",
-    "why": "It affects oil supplies and the price of fuel around the world."
-   },
-   {
-    "headline": "The Iran war is still not over",
-    "body": "There is a war in the Middle East. It involves Iran, the USA and some nearby countries. A group called the Houthis, who live in a country called Yemen, said they attacked an oil factory in Saudi Arabia. It is called a refinery. It makes petrol from oil. We do not know how badly it was hurt.\nThe American President, Donald Trump, said he might attack Iran next year if the two sides cannot agree. Iran said it still wants to talk and make peace.\nThe two countries signed a peace plan in June, but it broke. This is important because the world needs oil, and fighting can make it cost more.",
-    "why": "It matters because the fighting can make fuel cost more."
-   },
-   {
-    "headline": "A war in the Middle East carries on",
-    "body": "There is a war far away, in a part of the world called the Middle East. This week, a group in a country called Yemen said they attacked an oil factory in another country, Saudi Arabia. Oil from these factories is used to make petrol for cars.\nThe American President, Donald Trump, said he might attack Iran next year if the two sides cannot make a deal. Iran said it still wants to talk.\nThe countries tried to make peace in June. But the peace plan broke. The fighting matters to us because when oil is hard to get, petrol can cost more. People are still talking, and everyone hopes for peace.",
-    "why": "It matters because the fighting can make fuel cost more."
-   },
-   {
-    "headline": "A war in the Middle East carries on",
-    "body": "Imagine two groups of children are having a big argument in the playground. They tried to make friends in June. But the friendship broke, and now they are arguing again.\nThis is a bit like what is happening in a place called the Middle East. Some countries are fighting. One group attacked a big factory in Saudi Arabia. The factory turns oil into petrol, which makes cars go.\nThe leader of the USA said he might get involved next year if the two sides cannot make friends. The other side said it still wants to talk. When fighting stops oil moving about, petrol can cost more. So everyone hopes the grown-ups will find a way to be friends again.",
-    "why": "It matters because the fighting can make fuel cost more."
-   }
-  ]
- },
- {
-  "id": "treasury-yields-fall-nvidia-probe",
-  "order": 9,
-  "topic": "Economy",
-  "region": "United States",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/20/treasury-yields-bonds-inflation.html",
-  "headline": "Treasury yields fall as investors seek safety and Nvidia drops 14% on reported SEC probe",
-  "terms": [
-   {
-    "term": "Treasury yield",
-    "meaning": "The return on US government bonds, which moves opposite to bond prices."
-   },
-   {
-    "term": "Safe haven",
-    "meaning": "An investment people choose when they fear losses elsewhere."
-   },
-   {
-    "term": "SEC",
-    "meaning": "The US Securities and Exchange Commission, which regulates financial markets."
-   }
-  ],
-  "levels": [
-   {
-    "headline": "Treasury yields fall as investors seek safety and Nvidia drops 14% on reported SEC probe",
-    "body": "US government bond yields fell sharply on Friday 20 November as investors fled to safe havens during the stock selloff. The 10-year Treasury yield dropped 12 basis points to 4.932%, and the 2-year and 30-year yields also fell. The move back below 5% was notable because the 10-year yield had risen above that level after the Federal Reserve skipped a rate rise in late October.\nLPL Financial's Lawrence Gillum said the safe-haven bid was clearly alive and well. Yields move in the opposite direction to bond prices, so falling yields mean rising demand.\nNvidia shares fell about 14% after Reuters reported that the Securities and Exchange Commission is looking at the chipmaker's accounting, a report not confirmed by the agency. California's attorney general, Rob Bonta, has also sent a subpoena asking whether its advanced chips reached China.",
-    "why": "It shows investors moving from risky shares to safer government bonds, which can change borrowing costs worldwide."
-   },
-   {
-    "headline": "Treasury yields fall as investors seek safety and Nvidia drops 14% on reported SEC probe",
-    "body": "US government bond yields fell sharply on Friday 20 November as investors sought safety. The 10-year Treasury yield dropped 12 basis points to 4.932%, and 2-year and 30-year yields fell too. The 10-year had risen above 5% after the Federal Reserve skipped a hike in late October, so the move back below was notable.\nLPL Financial's Lawrence Gillum said the safe-haven bid is clearly alive and well. Yields move opposite to bond prices, so falling yields signal strong demand for bonds.\nNvidia fell about 14% after Reuters reported that the SEC is examining the chipmaker's accounting, which the agency has not confirmed. California attorney general Rob Bonta has also subpoenaed Nvidia over whether advanced chips went to China.",
-    "why": "It shows investors moving from risky shares to safer government bonds, which can change borrowing costs worldwide."
-   },
-   {
-    "headline": "Treasury yields fall as investors seek safety and Nvidia drops 14% on reported SEC probe",
-    "body": "Investors rushed into US government bonds on Friday 20 November as shares fell. When bond prices rise, the yield, which is the return buyers get, falls. The 10-year Treasury yield fell by 12 basis points, or 0.12 percentage points, to 4.932%. It had climbed above 5% after the Federal Reserve decided not to raise rates in late October.\nA bond strategist said people clearly wanted safe places for their money. Government bonds are seen as safe.\nThe chipmaker Nvidia fell about 14% after Reuters reported that regulators at the SEC are looking at its accounting. The SEC has not confirmed this. A California official has also asked whether its chips reached China.",
-    "why": "It shows investors moving from risky shares to safer government bonds, which can change borrowing costs worldwide."
-   },
-   {
-    "headline": "Investors rush to US government bonds as Nvidia shares tumble",
-    "body": "US government bond yields fell on Friday 20 November as investors looked for safety during a steep stock market drop. The 10-year Treasury yield fell 12 basis points to 4.932%, dropping back below 5%, a level it had passed after the Federal Reserve held off from raising rates in late October.\nBond yields move opposite to bond prices, so a fall means investors were buying. A strategist at LPL Financial said the safe-haven bid was alive and well.\nNvidia shares fell about 14% after Reuters reported that the US Securities and Exchange Commission is examining its accounting. The agency has not confirmed it. California's attorney general has also subpoenaed the company over whether advanced chips went to China.",
-    "why": "It shows investors moving from risky shares to safer government bonds, which can change borrowing costs worldwide."
-   },
-   {
-    "headline": "Investors rush to US government bonds as Nvidia shares tumble",
-    "body": "On Friday 20 November, many investors sold shares and bought US government bonds instead. These bonds are loans to the American government. People think they are very safe. When lots of people buy them, their price goes up and the yield, which is the money you earn from them, goes down.\nThe yield on the 10-year bond fell to 4.932%. A day earlier it was higher. A bond expert said people clearly wanted a safe place for their money.\nAt the same time, shares in the chip company Nvidia dropped by about 14%. A news agency reported that US regulators are looking at its accounts. The regulators have not said that is true. A California official also asked if its chips went to China.",
-    "why": "It shows how worried investors were and where they moved their money."
-   },
-   {
-    "headline": "Investors rush to US government bonds as Nvidia shares tumble",
-    "body": "When people get worried about losing money, they move it to safer places. On Friday 20 November, many people sold shares and bought US government bonds. A bond is a loan to the government. You get paid a bit extra for lending. People think the American government will pay its loans back.\nWhen lots of people want bonds, their price goes up and the extra money you earn, called the yield, goes down. The 10-year yield went down to 4.932%.\nThe same day, shares in a chip company called Nvidia fell by about 14%. News said officials are checking its accounts. The officials have not confirmed this. Another official asked if its chips went to China.",
-    "why": "It shows how worried investors were and where they moved their money."
-   },
-   {
-    "headline": "Nvidia shares fall as people look for safe places for money",
-    "body": "On Friday 20 November, many investors sold shares and bought US government bonds. A bond is a loan to the government, and people think it is very safe. When many people buy bonds, their yield, which is what the lender earns, goes down. The 10-year yield fell by 0.12 points to 4.932%.\nThe same day, shares in the chip company Nvidia fell by about 14%. A news agency reported that US regulators are looking at its accounting. The regulator has not confirmed this. A California official has also asked whether its chips reached China.\nThe two stories show investors feeling nervous and moving their money to safer places.",
-    "why": "It shows how worried investors were and where they moved their money."
-   },
-   {
-    "headline": "Nvidia shares fall as people look for safe places for money",
-    "body": "A government bond is a loan you give to a government. You get paid back later with a bit extra. People think the US government always pays back, so bonds feel safe.\nOn Friday 20 November, many people were worried about falling share prices. So they sold shares and bought US bonds. When lots of people buy bonds, the extra money you get from them goes down. That extra money is called the yield. It went down to 4.932%.\nThe same day, a company called Nvidia lost about 14% of its value. Nvidia makes chips for AI computers. News said officials are checking its accounts. The officials have not said so themselves.",
-    "why": "It shows where people put their money when they get worried."
-   },
-   {
-    "headline": "Nvidia shares drop and people move money to safer places",
-    "body": "When you are worried about losing your money, you might put it somewhere safe. On Friday, many grown-ups did that. They sold shares, which can go up and down a lot. They bought government bonds, which are like loans to the government. People think these are very safe.\nA company called Nvidia, which makes chips for AI computers, lost about 14% of its value that day. That is a lot. News said officials are checking how it keeps its accounts. The officials have not said it is true.\nSo people felt worried. They moved their money to safer places. This shows how people feel when prices fall.",
-    "why": "It shows where people put their money when they get worried."
-   },
-   {
-    "headline": "Nvidia shares drop and people move money to safer places",
-    "body": "Imagine you have some pocket money, and a big storm is coming. You might put your coins in a safe box at home instead of leaving them out. You want them to be safe.\nOn Friday, grown-ups with lots of money did the same thing. Prices of company shares were falling, which worried them. So they moved their money to something they think is very safe, called government bonds. That is like lending your money to the government.\nA computer chip company called Nvidia also lost a lot of value. People heard that officials were checking its accounts. When people feel worried, they often choose the safe box.",
-    "why": "It shows where people put their money when they get worried."
-   }
-  ]
- },
- {
-  "id": "uk-unemployment-retail-sales",
-  "order": 10,
-  "topic": "Economy",
-  "region": "United Kingdom",
   "source": "ONS",
-  "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/employmentintheuk/november2026",
-  "headline": "UK unemployment falls to 4.6% and retail sales volumes rise 0.7% in October",
+  "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/julytoseptember2026",
+  "headline": "UK economy grew 0.7% in the third quarter, ONS says, with services leading the way",
   "terms": [
    {
-    "term": "Unemployment rate",
-    "meaning": "The share of people who want a job and are looking, but cannot find one."
-   },
-   {
-    "term": "Retail sales volumes",
-    "meaning": "How much shoppers bought, after allowing for price changes."
+    "term": "GDP",
+    "meaning": "Gross domestic product: the total value of what a country produces."
    },
    {
     "term": "ONS",
     "meaning": "The Office for National Statistics, the UK's official statistics body."
+   },
+   {
+    "term": "Interest rate",
+    "meaning": "The cost of borrowing money, set for the UK by the Bank of England."
    }
   ],
   "levels": [
    {
-    "headline": "UK unemployment falls to 4.6% and retail sales volumes rise 0.7% in October",
-    "body": "The UK unemployment rate fell to 4.6%, down 0.3 percentage points on both the year and the quarter, according to the Office for National Statistics, in figures published on 17 November.\nSeparately, the ONS estimates that retail sales volumes rose 0.7% in October, following a 0.6% fall in September, which was revised down from an earlier estimate of a 0.4% fall. Over the three months to October, volumes were up 0.4%. The next retail sales release is due on 18 December.\nThe figures come as inflation has risen to 3.6% and the Bank of England has raised Bank Rate to 4%, so shoppers and households face higher prices and borrowing costs. Volumes measure the amount bought after stripping out the effect of price rises, so they show real changes in spending rather than higher prices.",
-    "why": "Jobs and shop spending show how households are coping as prices and interest rates rise."
+    "headline": "UK economy grew 0.7% in the third quarter, ONS says, with services leading the way",
+    "body": "The UK economy grew by 0.7% in the third quarter of 2026, the Office for National Statistics (ONS) said in its first estimate, published on 12 November. That is up from growth of 0.5% in the previous quarter. The figure matched forecasts, and the ONS said services were the main driver, growing 0.9%. As a first estimate it can still be revised, and the next release is due on 22 December.\nChancellor John Healey called it the fastest growth in almost ten years outside the pandemic. CNBC reported that artificial intelligence was providing an extra engine of growth.\nSome economists are more cautious. JP Morgan's Scott Gardner expects the economy's strength to be tested in the coming months. The Bank of England has raised interest rates to 4% and has warned inflation could approach 5%.",
+    "why": "Growth helps pay for jobs, wages and public services, but the Bank of England is also worried about prices."
    },
    {
-    "headline": "UK unemployment falls to 4.6% and retail sales volumes rise 0.7% in October",
-    "body": "The UK unemployment rate fell to 4.6%, down 0.3 percentage points on both the year and the quarter, the Office for National Statistics reported on 17 November.\nRetail sales volumes rose by an estimated 0.7% in October after a 0.6% fall in September, a figure revised down from a 0.4% fall. Across the three months, volumes were up 0.4%. The ONS publishes the next retail data on 18 December.\nThe data arrive as inflation has climbed to 3.6% and the Bank of England has raised Bank Rate to 4%, adding to pressure on households. Volumes strip out the effect of price changes, so they show how much shoppers actually bought.",
-    "why": "Jobs and shop spending show how households are coping as prices and interest rates rise."
+    "headline": "UK economy grew 0.7% in the third quarter, ONS says, with services leading the way",
+    "body": "UK gross domestic product rose 0.7% between July and September, the Office for National Statistics said on 12 November in its first estimate. The previous quarter had seen growth of 0.5%. The result was in line with forecasts. Services output rose 0.9% and was the main source of growth. The figure may be revised, and the next release is due on 22 December.\nChancellor John Healey said it was the fastest rate of growth in almost ten years, leaving aside the pandemic. CNBC reported that AI was acting as an extra engine of growth.\nNot everyone is relaxed. JP Morgan's Scott Gardner expects the economy to be tested in the months ahead, and the Bank of England has raised interest rates to 4% while warning that inflation could near 5%.",
+    "why": "Growth helps pay for jobs, wages and public services, but the Bank of England is also worried about prices."
    },
    {
-    "headline": "UK unemployment falls to 4.6% and retail sales volumes rise 0.7% in October",
-    "body": "Fewer people in the UK are out of work. The unemployment rate fell to 4.6%, which is 0.3 percentage points lower than both a year ago and the previous three months, according to the Office for National Statistics.\nShop sales also picked up. The amount bought in shops rose 0.7% in October after falling 0.6% in September. Over three months, sales were up 0.4%. The figures take price rises into account, so they show how much people actually bought, not just how much they paid.\nThe news comes as prices are rising faster, with inflation at 3.6%, and the Bank of England has raised interest rates to 4%. Households are having to manage higher costs.",
-    "why": "Jobs and shop spending show how households are coping as prices and interest rates rise."
+    "headline": "UK economy grew 0.7% in the third quarter, ONS says, with services leading the way",
+    "body": "The UK economy grew by 0.7% between July and September, according to the first estimate from the Office for National Statistics, published on 12 November. That is faster than the 0.5% growth in the previous three months, and it matched what economists expected. Services, such as shops, restaurants and finance, grew by 0.9% and led the way. The figure could still be revised, and the next one is due on 22 December.\nChancellor John Healey said it was the fastest growth in almost ten years, apart from the pandemic. CNBC said artificial intelligence was giving the economy an extra boost.\nSome economists are cautious. The Bank of England has raised interest rates to 4% and warns that inflation could come close to 5%.",
+    "why": "Growth helps pay for jobs, wages and public services, but the Bank of England is also worried about prices."
    },
    {
-    "headline": "UK unemployment rate falls to 4.6% as shop sales rise",
-    "body": "Unemployment in the UK fell to 4.6%, down 0.3 percentage points on the year and on the quarter, official figures showed on 17 November. That means fewer people are looking for work without finding it.\nRetail sales also rose. The Office for National Statistics estimates that the amount bought in shops grew 0.7% in October, after a 0.6% fall in September. Across the three months, volumes were up 0.4%. These volumes remove the effect of higher prices, so they show the amount of goods people actually bought.\nHowever, inflation has risen to 3.6% and the Bank of England has lifted interest rates to 4%, which puts pressure on household budgets. The next retail figures are due on 18 December.",
-    "why": "Jobs and shop spending show how households are coping as prices and interest rates rise."
+    "headline": "UK economy grew 0.7% in the third quarter, ONS says, with services leading the way",
+    "body": "The UK economy grew by 0.7% in the third quarter of the year, the Office for National Statistics said in its first estimate on 12 November. The economy had grown by 0.5% in the previous quarter. Growth was driven by services, which rose by 0.9%. As this is a first estimate, it could be changed later. The next update is due on 22 December.\nChancellor John Healey said it was the fastest growth in almost ten years outside the pandemic. CNBC reported that artificial intelligence was acting as an extra engine for growth.\nEconomists are more careful. JP Morgan's Scott Gardner expects the economy to be tested in the months ahead, and the Bank of England has raised interest rates to 4% because it fears prices could rise by close to 5%.",
+    "why": "Growth helps pay for jobs, wages and public services, but the Bank of England is also worried about prices."
    },
    {
-    "headline": "UK unemployment rate falls to 4.6% as shop sales rise",
-    "body": "Fewer people in Britain are without a job. The unemployment rate fell to 4.6%. That is 0.3 percentage points lower than a year ago. The Office for National Statistics, which counts these things, shared the news on 17 November.\nPeople also bought more in shops. In October, the amount bought went up by 0.7%. In September it went down by 0.6%. Over three months it went up by 0.4%. This counts the amount of things bought, not the money spent, so higher prices do not change it.\nBut things cost more now. Prices are going up by 3.6% a year. The Bank of England has raised interest rates to 4%. That can make life harder for families.",
-    "why": "Jobs and spending show how well families are managing as prices rise."
+    "headline": "UK economy grew 0.7% in the third quarter, ONS says, with services leading the way",
+    "body": "Britain's economy grew by 0.7% between July and September, the official statistics body, the ONS, said on 12 November. The economy is the total of everything the country makes and sells, and growth means it got bigger. The growth was higher than the 0.5% in the quarter before, and it matched what experts had guessed. Services, such as shops, restaurants and banks, grew by 0.9%. This is a first estimate, so it might change when the next one comes out on 22 December.\nChancellor John Healey called it the fastest growth in almost ten years, apart from the pandemic. Some news reports said new artificial intelligence tools were helping.\nBut prices are also rising. The Bank of England has raised interest rates to 4% to try to slow this.",
+    "why": "Growth supports jobs, pay and public services, but prices are still rising quickly."
    },
    {
-    "headline": "UK unemployment rate falls to 4.6% as shop sales rise",
-    "body": "More people in the UK have jobs. The unemployment rate is the share of people who want work but cannot find it. It fell to 4.6%, which is lower than a year ago. This was announced on 17 November by the Office for National Statistics.\nPeople also bought more things in shops in October. The amount went up by 0.7%. The month before, it had gone down. Experts count how many things people buy, not just the money they spend, so they can tell if people are really buying more.\nBut prices are rising, and the Bank of England has raised interest rates. That can make money tight for families, even when more people have jobs.",
-    "why": "Jobs and spending show how well families are managing as prices rise."
+    "headline": "UK economy grew 0.7% in the third quarter, ONS says, with services leading the way",
+    "body": "Britain's economy grew by 0.7% between July and September, the Office for National Statistics (ONS) said on 12 November. The economy is everything the country makes and sells, and growth means there was more of it than before. In the quarter before, growth was 0.5%, so this is faster. Shops, restaurants, banks and other service firms grew the most, by 0.9%. This is a first estimate, and it could change when the next one comes out on 22 December.\nChancellor John Healey said it was the fastest growth in almost ten years, apart from the pandemic. Some reports said new artificial intelligence tools helped.\nBut prices are rising too, so the Bank of England has raised interest rates to 4%.",
+    "why": "Growth supports jobs, pay and public services, but prices are still rising quickly."
    },
    {
-    "headline": "Fewer people in the UK are out of work",
-    "body": "There is some good news about jobs. The unemployment rate in the UK fell to 4.6%. That means about 4.6 in every 100 people who wanted a job could not find one. It was higher a year ago. The Office for National Statistics shared this on 17 November.\nShops also did better. In October, people bought about 0.7% more than in September, when they had bought less. The figure counts how much was bought, not just how much was spent.\nBut prices are rising, and the Bank of England has raised interest rates. That can make life harder for families, even when more people have jobs.",
-    "why": "Jobs and spending show how well families are managing as prices rise."
+    "headline": "UK economy grew 0.7% in the third quarter, ONS says, with services leading the way",
+    "body": "Britain's economy grew by 0.7% between July and September. The official statistics office, the ONS, said so on 12 November. The economy means everything the country makes and sells. Growth means it has got bigger. The quarter before, growth was 0.5%, so this is faster. Shops, restaurants, banks and other services grew the most, by 0.9%. This is a first guess, and it might change on 22 December.\nChancellor John Healey said it was the fastest growth in almost ten years, apart from the pandemic. Some reports said new artificial intelligence tools helped.\nThere is a worry, too. Prices are rising quickly. The Bank of England has raised interest rates to 4%. That makes borrowing cost more, which can slow rising prices.",
+    "why": "Growth supports jobs, pay and public services, but prices are still rising quickly."
    },
    {
-    "headline": "Fewer people in the UK are out of work",
-    "body": "Jobs and shopping can tell us how people are getting on. The latest news is quite good. The number of people without a job went down. About 4.6 in every 100 people who wanted work could not find it. A year ago, it was a bit more.\nPeople also bought more in shops in October. Shops sold about 0.7% more than in September. In September, they had sold less.\nBut life is still costly. Prices are rising, so things cost more than last year. The Bank of England has also made borrowing money cost more. So some families may still find it hard to manage, even if more people have jobs.",
-    "why": "It is about whether people can find work and spend money."
+    "headline": "UK economy grew 0.7% in the third quarter, ONS says, with services leading the way",
+    "body": "Britain's economy grew by 0.7% between July and September. An office that counts these things, called the ONS, said so on 12 November. The economy means all the things the country makes and sells, from shop sales to haircuts to computer work. Growth means there was more of it than before. Growth the quarter before was 0.5%, so this is faster. Shops, cafes, banks and other service firms grew most. The number is a first guess, and it might change on 22 December.\nChancellor John Healey said it was the fastest growth for almost ten years, apart from the pandemic.\nBut prices are rising too. The Bank of England has raised interest rates to 4%. This makes borrowing money cost more, which helps to slow price rises.",
+    "why": "It suggests more people may find work, though things may cost more."
    },
    {
-    "headline": "Fewer people in Britain are without a job",
-    "body": "Some good news about jobs. Fewer people in Britain are out of work. About 4.6 in every 100 people who want a job could not find one. A year ago, it was a few more.\nShops had good news too. People bought a bit more in October than in September. They bought about 0.7% more things.\nBut prices are still going up, so money does not stretch as far as before. The Bank of England has also made borrowing cost more. People who have jobs can pay for the things they need, so it is good when more people can work.",
-    "why": "It is about whether people can find work and spend money."
+    "headline": "UK economy grew 0.7% in the third quarter, ONS says, with services leading the way",
+    "body": "The UK economy is everything that people in Britain make and sell, such as food, haircuts and computer games. Every few months, a group called the ONS counts it up. It said that from July to September the economy grew by 0.7%. That means there was a bit more made and sold than before. This is faster than the time before, when it grew by 0.5%.\nMost of the growth came from shops, cafes, banks and other firms that do jobs for people. The Chancellor, John Healey, said it was the fastest growth in almost ten years, apart from the time of the pandemic.\nBut prices are also going up. So the Bank of England has made borrowing money cost more, to help slow the rise.",
+    "why": "It suggests more people may find work, though things may cost more."
    },
    {
-    "headline": "Fewer people in Britain are without a job",
-    "body": "Imagine a town where some grown-ups are looking for jobs. This month, a few more of them found one. That is good news, because a job means money for food, clothes and fun.\nWith that money, people go shopping. Last month, the shops in Britain sold a little more than the month before. So more people were buying things.\nBut things cost a bit more than before, and borrowing money costs more too. So families still need to be careful with their money. Still, more people having jobs is a happy thing for a town.",
-    "why": "It is about whether people can find work and spend money."
+    "headline": "UK economy grew 0.7% in the third quarter, ONS says, with services leading the way",
+    "body": "Think of the whole country as one big bake sale. The economy is everything that is made and sold at the sale. When the economy grows, there are more cakes and more people buying them.\nA group called the ONS counts it all up. It said that from July to September, the bake sale grew by 0.7%. That is a little bit bigger than before. Most of the growth came from people doing jobs for others, like cafes and banks.\nThis is good news, because bigger sales can mean more jobs. But the price of cakes is going up too. So the Bank of England, which looks after money in Britain, is making it cost more to borrow. It hopes this will keep prices from rising too fast.",
+    "why": "It suggests more people may find work, though things may cost more."
+   }
+  ]
+ },
+ {
+  "id": "brent-near-89-hormuz-tanker-claims",
+  "order": 4,
+  "topic": "Economy",
+  "region": "Middle East",
+  "source": "CNBC",
+  "url": "https://cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+  "headline": "Brent oil dips to about $89 as Iran claims three more tankers hit mines in Hormuz",
+  "terms": [
+   {
+    "term": "Brent crude",
+    "meaning": "The main international benchmark price for oil."
+   },
+   {
+    "term": "Strait of Hormuz",
+    "meaning": "A narrow sea route between Iran and Oman through which much of the world's oil passes."
+   },
+   {
+    "term": "Sanctions",
+    "meaning": "Penalties, usually on trade or finance, imposed on a country or its people."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Brent oil dips to about $89 as Iran claims three more tankers hit mines in Hormuz",
+    "body": "Brent crude futures dipped to about $89.2 a barrel on Tuesday 24 November, while US West Texas Intermediate fell to about $80.1. That is well below an October high of nearly $105 for Brent. A Eurasia Group analyst expects Brent to stay in the lower half of an $80 to $100 range, but warns that escalating Iranian attacks in the Strait of Hormuz could reverse that.\nIran's Revolutionary Guard said three tankers hit mines in the strait, despite US air cover and escorts. The claim has not been independently confirmed, and the US military disputed similar claims earlier.\nOn Monday the US Treasury widened sanctions on more than two dozen Iranian exchange houses, front companies and key people, in what it called an effort to disrupt Iran's shadow banking networks.",
+    "why": "Oil prices feed straight into petrol, diesel and heating costs, and into the inflation that the Bank of England is trying to control."
+   },
+   {
+    "headline": "Brent oil dips to about $89 as Iran claims three more tankers hit mines in Hormuz",
+    "body": "International benchmark Brent futures slipped to about $89.2 a barrel on Tuesday 24 November, and US crude fell to about $80.1. Brent is well below its October high of nearly $105. An analyst at Eurasia Group expects it to stay in the lower half of an $80 to $100 range, but says more Iranian attacks in the Strait of Hormuz could reverse the fall.\nIran's Revolutionary Guard claimed three tankers struck mines in the strait despite US air cover and escorts. The claim is unconfirmed, and the US military disputed earlier, similar claims.\nOn Monday the US Treasury widened sanctions on more than two dozen Iranian exchange houses, front companies and key figures, saying it aimed to disrupt Iran's shadow banking networks.",
+    "why": "Oil prices feed straight into petrol, diesel and heating costs, and into the inflation that the Bank of England is trying to control."
+   },
+   {
+    "headline": "Brent oil dips to about $89 as Iran claims three more tankers hit mines in Hormuz",
+    "body": "The price of Brent crude, the main international benchmark for oil, fell to about $89.2 a barrel on Tuesday 24 November. US crude dropped to about $80.1. In October Brent had been close to $105. An analyst at Eurasia Group thinks Brent will stay in the lower half of an $80 to $100 range, but warns that attacks near the Strait of Hormuz could push it back up.\nIran's Revolutionary Guard says three tankers hit mines in the strait, even with American air cover and escorts. This has not been independently confirmed, and the US military disputed similar claims earlier.\nOn Monday the US Treasury widened sanctions on more than two dozen Iranian exchange houses, front companies and key people.",
+    "why": "Oil prices feed straight into petrol, diesel and heating costs, and into the inflation that the Bank of England is trying to control."
+   },
+   {
+    "headline": "Brent oil dips to about $89 as Iran claims three more tankers hit mines in Hormuz",
+    "body": "The oil price fell on Tuesday 24 November. Brent crude, the main international benchmark, dipped to about $89.2 a barrel, and US crude dropped to about $80.1. In October, Brent was close to $105. An analyst at Eurasia Group expects it to stay between $80 and $100, though more attacks in the Strait of Hormuz could change that.\nThe strait is a narrow sea route that much of the world's oil passes through. Iran's Revolutionary Guard says three tankers hit mines there, even though the US was escorting ships. This has not been independently confirmed.\nOn Monday the US also widened sanctions on Iranian money exchanges and front companies, trying to cut off the money Iran uses.",
+    "why": "Oil prices feed straight into petrol, diesel and heating costs, and into the inflation that the Bank of England is trying to control."
+   },
+   {
+    "headline": "Brent oil dips to about $89 as Iran claims three more tankers hit mines in Hormuz",
+    "body": "The price of oil fell on Tuesday 24 November. Brent crude, the main international price, dipped to about $89.2 a barrel. In October it was close to $105. An expert at a firm called Eurasia Group thinks it will stay between $80 and $100. But he warns more attacks near the Strait of Hormuz could push it up again.\nThe Strait of Hormuz is a narrow stretch of sea near Iran. A lot of the world's oil travels through it by ship. Iran's Revolutionary Guard, a branch of its armed forces, says three oil tankers hit mines there. Nobody else has confirmed this.\nAlso on Monday, the United States put more sanctions on Iran. Sanctions are penalties that stop people or firms using certain banks.",
+    "why": "Oil prices affect what we pay for fuel and goods, and how high interest rates go."
+   },
+   {
+    "headline": "Brent oil dips to about $89 as Iran claims three more tankers hit mines in Hormuz",
+    "body": "The price of oil fell on Tuesday 24 November. Brent crude, the main price used around the world, dipped to about $89.2 a barrel. In October it was close to $105. An expert thinks it will stay between $80 and $100, but warns that attacks near the Strait of Hormuz could push it up again.\nThe Strait of Hormuz is a narrow stretch of sea near Iran, and a lot of the world's oil goes through it on ships. Iran's Revolutionary Guard, part of its armed forces, says three oil tankers hit mines there. Nobody else has confirmed this.\nThe United States also put new sanctions on Iran on Monday. Sanctions are penalties that block people from using banks and trade.",
+    "why": "Oil prices affect what we pay for fuel and goods, and how high interest rates go."
+   },
+   {
+    "headline": "Brent oil dips to about $89 as Iran claims three more tankers hit mines in Hormuz",
+    "body": "The price of oil fell on Tuesday 24 November. Brent crude is the main price used around the world. It dipped to about $89.2 a barrel. In October it was close to $105. One expert thinks it will stay between $80 and $100. But he warns that it could rise again if there are more attacks near the Strait of Hormuz.\nThe Strait of Hormuz is a narrow stretch of sea near Iran. A lot of the world's oil goes through it on ships. Iran's army group, the Revolutionary Guard, says three oil ships hit mines there. Nobody else has confirmed this.\nThe United States also put new sanctions on Iran on Monday. Sanctions are punishments that stop people using banks and trade.",
+    "why": "Oil prices affect what we pay for fuel and goods, and how high interest rates go."
+   },
+   {
+    "headline": "Brent oil dips to about $89 as Iran claims three more tankers hit mines in Hormuz",
+    "body": "Oil is a thick liquid dug from under the ground. It is turned into petrol and diesel for cars and lorries. On Tuesday 24 November, the price of oil went down a little. A barrel of Brent, the main kind, cost about $89. In October it cost nearly $105.\nA lot of the world's oil goes by ship through a narrow sea called the Strait of Hormuz, near Iran. Iran says three oil ships hit mines there. A mine is a hidden bomb in the water. Nobody else has confirmed this. If ships are attacked, oil can get more expensive again.\nThe United States has also said it will punish Iran by blocking some of its money dealings. These punishments are called sanctions.",
+    "why": "When oil costs more, petrol and many other things can cost more too."
+   },
+   {
+    "headline": "Brent oil dips to about $89 as Iran claims three more tankers hit mines in Hormuz",
+    "body": "Oil is used to make petrol for cars. Most of it is dug up in the Middle East and carried around the world on big ships. The price of oil changes every day. On Tuesday 24 November, the price went down a little. It is now about $89 for one barrel. Last month it was almost $105.\nMany ships go through a narrow sea called the Strait of Hormuz. It is near a country called Iran. Iran says three oil ships hit hidden bombs there. We do not know yet if that is true. If ships are attacked, the price of oil can go up again.\nThe United States has also punished Iran by blocking some of its money. Those punishments are called sanctions.",
+    "why": "When oil costs more, petrol and many other things can cost more too."
+   },
+   {
+    "headline": "Brent oil dips to about $89 as Iran claims three more tankers hit mines in Hormuz",
+    "body": "Cars need petrol to move, a bit like you need food to run around. Petrol is made from oil, which comes from deep under the ground. Many ships carry oil from one part of the world to another.\nThere is a narrow piece of sea where lots of these ships go. It is near a country called Iran. Iran says three ships there hit hidden bombs in the water. Nobody else has said this is true yet. If ships get hurt, there is less oil, and then oil costs more.\nThis week the price of oil went down a little. That is good news for people who buy petrol. But it can go up again quickly, like a ball that bounces.",
+    "why": "When oil costs more, petrol and many other things can cost more too."
+   }
+  ]
+ },
+ {
+  "id": "eu-us-clash-ukraine-peace-talks-order",
+  "order": 5,
+  "topic": "Politics",
+  "region": "Europe",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/11/23/von-der-leyen-and-kushner-clash-over-peace-talks-sequence",
+  "headline": "Von der Leyen and Kushner clash over the order of Ukraine peace talks",
+  "terms": [
+   {
+    "term": "Ceasefire",
+    "meaning": "An agreement to stop fighting, at least for a while."
+   },
+   {
+    "term": "Security guarantees",
+    "meaning": "Promises of protection if a country is attacked again."
+   },
+   {
+    "term": "NATO",
+    "meaning": "A military alliance of European and North American countries."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Von der Leyen and Kushner clash over the order of Ukraine peace talks",
+    "body": "European Commission President Ursula von der Leyen and the US envoy Jared Kushner disagree over the order of Ukraine peace talks, Euronews reported on 23 November. European leaders say a ceasefire in Ukraine must come first, and only then talks on wider European security arrangements. Chancellor Friedrich Merz put it as peace in Ukraine first, then agreements on Euro-Atlantic security.\nKushner argued that security guarantees for Ukraine cannot be settled apart from the wider security architecture, so both should be tackled together. He said the US wants a common understanding on this over the coming weeks.\nEuropeans fear a Russian trap. A Russian paper tabled at the last round of talks in Abu Dhabi, according to the New York Times, asks NATO to stop expanding and pull back to its 1997 borders. That round produced only humanitarian arrangements and prisoner exchanges.",
+    "why": "How the talks are ordered could decide whether Europe has a say in its own security and how soon the fighting in Ukraine stops."
+   },
+   {
+    "headline": "Von der Leyen and Kushner clash over the order of Ukraine peace talks",
+    "body": "Ursula von der Leyen, head of the European Commission, and US envoy Jared Kushner are at odds over how Ukraine peace talks should be sequenced, Euronews reported on 23 November. European leaders insist on a ceasefire in Ukraine before any talks on European security architecture. Germany's Friedrich Merz said peace in Ukraine must come first.\nKushner said security guarantees for Ukraine cannot be agreed in isolation from the wider arrangements, and that the two should be handled together. He said the US aims for a common understanding in the coming weeks.\nEuropeans see a Russian trap. According to the New York Times, a paper Russia tabled at the last Abu Dhabi round asks NATO to stop expanding and withdraw to 1997 borders. That round produced only humanitarian arrangements and prisoner swaps.",
+    "why": "How the talks are ordered could decide whether Europe has a say in its own security and how soon the fighting in Ukraine stops."
+   },
+   {
+    "headline": "Von der Leyen and Kushner clash over the order of Ukraine peace talks",
+    "body": "Ursula von der Leyen, who leads the European Commission, and the US envoy Jared Kushner disagree about how to organise talks to end the war in Ukraine, Euronews reported on 23 November. European leaders say a ceasefire must come first, and only then should talks begin on wider European security. Germany's Chancellor, Friedrich Merz, said Ukraine must have peace first.\nKushner said guarantees to protect Ukraine cannot be settled separately from wider security plans, so both should be discussed together. He hopes for a common understanding in the next few weeks.\nEuropeans suspect a Russian trap. Russia reportedly wants NATO to stop growing and pull back to its 1997 borders. The last round of talks, in Abu Dhabi, only produced prisoner swaps and humanitarian deals.",
+    "why": "How the talks are ordered could decide whether Europe has a say in its own security and how soon the fighting in Ukraine stops."
+   },
+   {
+    "headline": "Von der Leyen and Kushner clash over the order of Ukraine peace talks",
+    "body": "European and American leaders are arguing about how to bring peace to Ukraine. Ursula von der Leyen, head of the European Commission, and the US envoy Jared Kushner disagree about the order of the talks, Euronews reported on 23 November. Europe wants a ceasefire first, then talks about Europe's wider security. Germany's Chancellor Friedrich Merz agrees.\nKushner says protecting Ukraine in future cannot be decided separately from those wider arrangements. He wants both discussed together, with a common understanding in the coming weeks.\nMany Europeans fear a trap. Russia has reportedly asked NATO to stop expanding and pull back to its 1997 borders. The last talks, in Abu Dhabi, only led to prisoner exchanges and humanitarian deals.",
+    "why": "How the talks are ordered could decide whether Europe has a say in its own security and how soon the fighting in Ukraine stops."
+   },
+   {
+    "headline": "Von der Leyen and Kushner clash over the order of Ukraine peace talks",
+    "body": "Leaders in Europe and the United States disagree about how to make peace in Ukraine. Ursula von der Leyen, who leads the European Commission, wants a ceasefire first. A ceasefire is an agreement to stop fighting. Only after that does she want to talk about Europe's wider safety plans. The US envoy Jared Kushner wants to talk about both at once, including promises to protect Ukraine if it is attacked again.\nEuropean leaders worry this is a Russian trap. Russia has reportedly asked NATO, the military alliance Europe belongs to, to stop growing and pull back. Europeans have said no.\nThe last talks, in Abu Dhabi, only led to prisoner swaps and some help for civilians. Fighting has not stopped.",
+    "why": "The order of the talks could decide whether the fighting stops soon and whether Europe has a say in its own safety."
+   },
+   {
+    "headline": "Von der Leyen and Kushner clash over the order of Ukraine peace talks",
+    "body": "Leaders in Europe and the United States disagree about how to make peace in Ukraine. Ursula von der Leyen, who leads the European Commission, wants a ceasefire first. A ceasefire means both sides stop fighting. Only then does she want to talk about how to keep Europe safe in future. The US envoy Jared Kushner wants to talk about both things together, including promises to protect Ukraine if it is attacked again.\nMany European leaders think this could be a Russian trap. Russia has reportedly asked NATO, a group of countries that defend each other, to stop growing and pull back. Europe has rejected this.\nThe last talks, in Abu Dhabi, only led to prisoner swaps and some help for civilians.",
+    "why": "The order of the talks could decide whether the fighting stops soon and whether Europe has a say in its own safety."
+   },
+   {
+    "headline": "Von der Leyen and Kushner clash over the order of Ukraine peace talks",
+    "body": "Leaders in Europe and the United States disagree about how to make peace in Ukraine. Ursula von der Leyen leads the European Commission, which runs the EU day to day. She wants a ceasefire first. A ceasefire means both sides stop fighting. After that, she wants to talk about how to keep Europe safe in the future. The US envoy Jared Kushner wants to talk about both together. That includes promises to protect Ukraine if it is attacked again.\nMany European leaders worry this is a trick by Russia. Russia has reportedly asked NATO to stop growing and to pull back. NATO is a group of countries that promise to defend each other. Europe says no to this.\nThe last talks, in Abu Dhabi, only led to prisoner swaps and some help for ordinary people.",
+    "why": "The order of the talks could decide whether the fighting stops soon and whether Europe has a say in its own safety."
+   },
+   {
+    "headline": "Von der Leyen and Kushner clash over the order of Ukraine peace talks",
+    "body": "Russia has been fighting a war against Ukraine. Leaders now want to make peace, but they disagree about how. Ursula von der Leyen helps to run the European Union. She says there must be a ceasefire first. A ceasefire means everyone stops fighting. Only then should leaders talk about how to keep all of Europe safe. An American, Jared Kushner, wants to talk about both things at the same time.\nMany European leaders worry that Russia is trying to trick them. Russia has reportedly asked NATO to stop growing. NATO is a group of countries that promise to defend each other. Europe has said no.\nThe last talks only agreed to swap some prisoners and help some people. The fighting has not stopped.",
+    "why": "It affects whether the war in Ukraine can stop, and how safe Europe will be afterwards."
+   },
+   {
+    "headline": "Von der Leyen and Kushner clash over the order of Ukraine peace talks",
+    "body": "Russia has been fighting a war against its neighbour, Ukraine. Now leaders want to make peace. But they cannot agree on how to do it. Ursula von der Leyen helps to lead Europe. She wants everyone to stop fighting first. That is called a ceasefire. After that, she wants to talk about how to keep Europe safe. An American, Jared Kushner, wants to talk about it all together.\nSome European leaders think Russia wants to trick them. They do not want to give Russia what it asks for.\nThe last talks did not stop the war. They only agreed that some prisoners would go home. So the fighting goes on, and people still need help.",
+    "why": "It affects whether the war in Ukraine can stop, and how safe Europe will be afterwards."
+   },
+   {
+    "headline": "Von der Leyen and Kushner clash over the order of Ukraine peace talks",
+    "body": "Imagine two children in the playground have been fighting for a long time. The teachers want them to stop, but the teachers do not agree on how to begin.\nOne teacher says, first the fighting must stop. Then we can talk about how to keep the playground safe. Another teacher says, let us talk about everything together right now.\nThis is a bit like what is happening with a war between two countries, Russia and Ukraine. A European leader, Ursula von der Leyen, wants the fighting to stop first. An American, Jared Kushner, wants to talk about everything at once.\nEveryone wants the war to end. They just have to agree how to start.",
+    "why": "It affects whether the war in Ukraine can stop, and how safe Europe will be afterwards."
+   }
+  ]
+ },
+ {
+  "id": "russian-missile-poland-nato-rutte",
+  "order": 6,
+  "topic": "Politics",
+  "region": "Europe",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine",
+  "headline": "Russian missiles land in Poland as Rutte says NATO will defend every inch of allied territory",
+  "terms": [
+   {
+    "term": "NATO",
+    "meaning": "A military alliance of European and North American countries that promise to defend each other."
+   },
+   {
+    "term": "Cruise missile",
+    "meaning": "A missile that flies low and steers itself to a target."
+   },
+   {
+    "term": "Airspace",
+    "meaning": "The sky above a country, which that country controls."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Russian missiles land in Poland as Rutte says NATO will defend every inch of allied territory",
+    "body": "Russian missiles crashed in eastern Poland on Friday 20 November during a large Russian attack on Ukraine, Euronews reported. Polish officials said a Kh-101 cruise missile landed near the village of Nowy Lipowiec in the Lublin province. Reports differ on the number, with some saying two missiles and a drone, and others saying three missiles.\nPrime Minister Donald Tusk called it a provocation and noted that it happened near where allied exercises were taking place. Polish and allied jets scrambled and Patriot batteries were put on alert, but reports say there was no shoot-down.\nNATO Secretary General Mark Rutte called the incident dangerous and told Warsaw on Saturday that the alliance will defend every inch of Polish territory. NATO's North Atlantic Council met in Brussels on Monday. Polish prosecutors said the missiles came from Russia.",
+    "why": "An attack on a NATO member could draw in the whole alliance, so any strike on Poland is a test of how far the war might spread."
+   },
+   {
+    "headline": "Russian missiles land in Poland as Rutte says NATO will defend every inch of allied territory",
+    "body": "Russian missiles fell in eastern Poland on Friday 20 November during a heavy Russian attack on Ukraine, Euronews reported. Polish officials said a Kh-101 cruise missile came down near Nowy Lipowiec in the Lublin province. Accounts differ on the numbers: some say two missiles and a drone, others three missiles.\nPrime Minister Donald Tusk called it a provocation, pointing out that it happened close to where allied military exercises were under way. Polish and allied fighter jets took off and Patriot air defences were put on alert, but reportedly nothing was shot down.\nNATO chief Mark Rutte called the incident dangerous and, in Warsaw on Saturday, promised to defend every inch of Polish territory. The North Atlantic Council met on Monday, and Polish prosecutors said the missiles came from Russia.",
+    "why": "An attack on a NATO member could draw in the whole alliance, so any strike on Poland is a test of how far the war might spread."
+   },
+   {
+    "headline": "Russian missiles land in Poland as Rutte says NATO will defend every inch of allied territory",
+    "body": "Russian missiles landed in eastern Poland on Friday 20 November, during a big Russian attack on Ukraine, Euronews reported. Polish officials said a Kh-101 cruise missile came down near the village of Nowy Lipowiec. Reports differ on the number: some say two missiles and a drone, others say three missiles.\nPrime Minister Donald Tusk called it a provocation, because it happened close to where allied troops were training. Fighter jets took off and air defence systems were put on alert, but reports say nothing was shot down.\nNATO's Secretary General, Mark Rutte, called the incident dangerous. In Warsaw on Saturday he promised that the alliance will defend every inch of Polish land. NATO ambassadors met on Monday. Polish prosecutors say the missiles came from Russia.",
+    "why": "An attack on a NATO member could draw in the whole alliance, so any strike on Poland is a test of how far the war might spread."
+   },
+   {
+    "headline": "Russian missiles land in Poland as Rutte says NATO will defend every inch of allied territory",
+    "body": "Russian missiles have landed in eastern Poland. This happened on Friday 20 November, during a large Russian attack on Ukraine, Euronews reported. Poland says a Kh-101 cruise missile came down near the village of Nowy Lipowiec. Reports disagree on how many missiles there were. Some say two and a drone, others say three.\nPrime Minister Donald Tusk called it a provocation. It happened near allied military exercises. Fighter jets took off and air defences were put on alert, but nothing was reportedly shot down.\nNATO chief Mark Rutte called the incident dangerous. Poland is a NATO member, so an attack on it concerns the whole alliance. Speaking in Warsaw on Saturday, he said NATO will defend every inch of Polish territory. Polish prosecutors say the missiles came from Russia.",
+    "why": "An attack on a NATO member could draw in the whole alliance, so any strike on Poland is a test of how far the war might spread."
+   },
+   {
+    "headline": "Russian missiles land in Poland as Rutte says NATO will defend every inch of allied territory",
+    "body": "Russian missiles have landed in Poland. This happened on Friday 20 November, while Russia was attacking Ukraine, which borders Poland. Poland says a missile of a type called Kh-101 came down near a village in the east. Reports disagree on how many missiles there were. Some say two and a drone, others say three.\nPoland's Prime Minister, Donald Tusk, called it a provocation. That means something done on purpose to cause trouble. Fighter jets took off, but nothing was shot down.\nPoland belongs to NATO, a group of countries that promise to defend each other. NATO's boss, Mark Rutte, said the group will defend every inch of Polish land. Polish prosecutors say the missiles came from Russia.",
+    "why": "It tests whether the war in Ukraine could spread to a NATO country, and how NATO would respond."
+   },
+   {
+    "headline": "Russian missiles land in Poland as Rutte says NATO will defend every inch of allied territory",
+    "body": "Russian missiles have landed in Poland. This happened on Friday 20 November, while Russia was carrying out a big attack on Ukraine, which borders Poland. Poland says a missile called a Kh-101 came down near a village in the east. Reports do not agree on the number. Some say two missiles and a drone, others say three missiles.\nPoland's Prime Minister, Donald Tusk, called it a provocation, which means something done on purpose to cause trouble. Fighter jets took off, but nothing was reportedly shot down.\nPoland is in NATO, a group of countries that promise to defend each other. NATO's boss, Mark Rutte, said it will defend every inch of Polish land. Polish prosecutors say the missiles came from Russia.",
+    "why": "It tests whether the war in Ukraine could spread to a NATO country, and how NATO would respond."
+   },
+   {
+    "headline": "Russian missiles land in Poland as Rutte says NATO will defend every inch of allied territory",
+    "body": "Some Russian missiles have landed in Poland. This happened on Friday 20 November. Russia was attacking Ukraine, which is next door to Poland. Poland says one missile, called a Kh-101, came down near a village in the east. Reports do not agree on how many missiles there were. Some say two and a drone. Others say three.\nPoland's leader, Donald Tusk, said Russia did this on purpose to cause trouble. Fighter jets took off, but nothing was shot down.\nPoland is a member of NATO. NATO is a group of countries that have promised to help if one of them is attacked. NATO's boss, Mark Rutte, went to Poland. He said NATO will defend every inch of Polish land. Polish prosecutors, who are lawyers for the state, say the missiles came from Russia.",
+    "why": "It tests whether the war in Ukraine could spread to a NATO country, and how NATO would respond."
+   },
+   {
+    "headline": "Russian missiles land in Poland as Rutte says NATO will defend every inch of allied territory",
+    "body": "There is a war between Russia and Ukraine. Poland is a country next to Ukraine. On Friday 20 November, some Russian missiles landed in Poland. A missile is a flying weapon. People disagree on how many landed. Some say two, and some say three.\nPoland's leader, Donald Tusk, said Russia did it on purpose to cause trouble.\nPoland is in a group called NATO. The countries in NATO have promised to help each other if one is attacked. NATO's boss, Mark Rutte, went to Poland. He said NATO will protect every bit of Polish land. Polish prosecutors, who are lawyers for the state, say the missiles came from Russia. NATO leaders had a meeting about it on Monday.",
+    "why": "It shows the war next door can come close to other countries, and that allies have promised to help each other."
+   },
+   {
+    "headline": "Russian missiles land in Poland as Rutte says NATO will defend every inch of allied territory",
+    "body": "There is a war between two countries, Russia and Ukraine. Poland is a country right next to Ukraine. On Friday 20 November, some missiles from Russia came down in Poland. A missile is a flying bomb. People are not sure how many there were. Some say two, and some say three.\nPoland is part of a team of countries called NATO. The team has made a promise. If one country is attacked, all the others help. The boss of NATO, Mark Rutte, went to Poland. He said, we will protect every bit of Poland.\nThe leaders of NATO met on Monday to talk about what happened. Everyone is trying to keep the war from getting bigger.",
+    "why": "It shows the war next door can come close to other countries, and that allies have promised to help each other."
+   },
+   {
+    "headline": "Russian missiles land in Poland as Rutte says NATO will defend every inch of allied territory",
+    "body": "Imagine a big fight is happening in one playground. Next door there is another playground. Suddenly a ball from the fight lands in the next playground.\nThis is a bit like what happened. Russia and Ukraine are at war. Poland is the playground next door. On Friday 20 November, some Russian missiles landed there. Missiles are flying bombs.\nPoland is in a team of countries called NATO. Team members promise to look after each other. The boss of the team said, we will keep every bit of Poland safe. The leaders have been talking about it, so the fight does not get bigger.",
+    "why": "It shows the war next door can come close to other countries, and that allies have promised to help each other."
+   }
+  ]
+ },
+ {
+  "id": "healey-budget-bank-surcharge-isa",
+  "order": 7,
+  "topic": "Economy",
+  "region": "United Kingdom",
+  "source": "GOV.UK",
+  "url": "https://www.gov.uk/government/news/budget-2026-breathing-space-for-today-hope-for-the-future",
+  "headline": "Healey's Budget doubles the bank tax surcharge to 6% and reverses the cash ISA cut",
+  "terms": [
+   {
+    "term": "Budget",
+    "meaning": "The government's yearly plan for taxes and spending."
+   },
+   {
+    "term": "OBR",
+    "meaning": "The Office for Budget Responsibility, which makes independent forecasts for the Budget."
+   },
+   {
+    "term": "Surcharge",
+    "meaning": "An extra tax charged on top of the normal rate."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Healey's Budget doubles the bank tax surcharge to 6% and reverses the cash ISA cut",
+    "body": "Chancellor John Healey delivered the 2026 Budget to Parliament on 28 October. The Bank Corporation Tax Surcharge rises from 3% to 6% for 15 months, ending on 31 March 2028, raising £1.5 billion. The planned cut to the £20,000 cash ISA limit is reversed. Machine Games Duty rises from 20% to 25% for higher-stake machines, while pubs and seaside arcades are protected.\nBusiness Asset Disposal Relief has its lifetime limit cut from £1 million to £500,000. Tax rates on property and savings income rise by two percentage points from April 2027, while rates on dividend and employment income are unchanged. Healey said there would be no tax rises on wages or dividends.\nThe Office for Budget Responsibility raised its 2026 growth forecast to 1.2% and expects 1.0% in 2027.",
+    "why": "The Budget sets who pays what in tax and how much the government can spend, so it touches savings, businesses and household bills."
+   },
+   {
+    "headline": "Healey's Budget doubles the bank tax surcharge to 6% and reverses the cash ISA cut",
+    "body": "Chancellor John Healey presented the 2026 Budget on 28 October. The surcharge on bank profits doubles from 3% to 6% for 15 months, until 31 March 2028, and should raise £1.5 billion. The planned cut to the £20,000 cash ISA limit has been reversed. Machine Games Duty goes up from 20% to 25% for higher-stake machines, with pubs and seaside arcades protected.\nThe lifetime limit for Business Asset Disposal Relief falls from £1 million to £500,000. Tax rates on property and savings income rise by two percentage points from April 2027. Rates on dividends and wages are unchanged, and Healey said there would be no tax rises on either.\nThe independent OBR raised its 2026 growth forecast to 1.2%, with 1.0% expected in 2027.",
+    "why": "The Budget sets who pays what in tax and how much the government can spend, so it touches savings, businesses and household bills."
+   },
+   {
+    "headline": "Healey's Budget doubles the bank tax surcharge to 6% and reverses the cash ISA cut",
+    "body": "Chancellor John Healey delivered the Budget on 28 October. Banks will pay more: an extra tax on their profits rises from 3% to 6% for 15 months, until 31 March 2028, raising £1.5 billion. The planned cut to the £20,000 limit on tax-free cash savings in ISAs has been reversed. Tax on higher-stake gambling machines goes up from 20% to 25%, though pubs and seaside arcades are protected.\nBusiness owners selling a company will get less tax relief, as the lifetime limit falls from £1 million to £500,000. Tax rates on property and savings income rise by two percentage points from April 2027, but Healey said wages and dividends will not be taxed more.\nThe OBR, the government's independent forecaster, now expects 1.2% growth this year.",
+    "why": "The Budget sets who pays what in tax and how much the government can spend, so it touches savings, businesses and household bills."
+   },
+   {
+    "headline": "Healey's Budget doubles the bank tax surcharge to 6% and reverses the cash ISA cut",
+    "body": "Chancellor John Healey set out the Budget on 28 October, which is the government's plan for tax and spending. Banks will pay more. A surcharge on their profits rises from 3% to 6% for 15 months, raising £1.5 billion. Savers get good news, as the planned cut to the £20,000 limit on cash ISAs has been reversed. Tax on higher-stake gambling machines rises from 20% to 25%.\nBusiness owners selling up will get less relief, as the limit falls from £1 million to £500,000. Tax on income from property and savings goes up by two percentage points from April 2027. Healey said there will be no tax rises on wages or dividends.\nThe OBR, an independent forecaster, now expects the economy to grow 1.2% this year.",
+    "why": "The Budget sets who pays what in tax and how much the government can spend, so it touches savings, businesses and household bills."
+   },
+   {
+    "headline": "Healey's Budget doubles the bank tax surcharge to 6% and reverses the cash ISA cut",
+    "body": "Chancellor John Healey announced the Budget on 28 October. The Budget is the government's plan for how much tax to collect and what to spend. Banks will pay more tax. An extra charge on their profits goes from 3% to 6% for 15 months, which should raise £1.5 billion. Savers got good news. A plan to cut the amount you can save tax-free in a cash ISA has been dropped, so you can still put in £20,000 a year. Tax on some gambling machines goes up too.\nSome people will pay more on income from property and savings from April 2027. But Mr Healey said wages will not be taxed more.\nAn independent group, the OBR, expects the economy to grow by 1.2% this year.",
+    "why": "The Budget decides who pays what in tax, and it affects savers, businesses and families."
+   },
+   {
+    "headline": "Healey's Budget doubles the bank tax surcharge to 6% and reverses the cash ISA cut",
+    "body": "Chancellor John Healey announced the Budget on 28 October. The Budget is the government's plan for taxes and spending. Banks will pay more tax. An extra charge on their profits goes up from 3% to 6% for 15 months, which should raise £1.5 billion. Savers got good news, because a planned cut to the £20,000 limit for cash ISAs has been dropped. A cash ISA is a savings account where the interest is not taxed. Tax on some higher-stake gambling machines goes up too.\nPeople who earn money from property or savings will pay two percentage points more tax from April 2027. But Mr Healey said wages and dividends will not be taxed more.\nAn independent group, the OBR, expects the economy to grow by 1.2% this year.",
+    "why": "The Budget decides who pays what in tax, and it affects savers, businesses and families."
+   },
+   {
+    "headline": "Healey's Budget doubles the bank tax surcharge to 6% and reverses the cash ISA cut",
+    "body": "The Chancellor, John Healey, announced the Budget on 28 October. The Budget is the government's plan for how much tax to collect and how to spend it. Banks will pay more tax. An extra charge on their profits goes up from 3% to 6% for 15 months. This should raise £1.5 billion. Savers got good news. The government planned to cut how much people can save tax-free in a cash ISA, but it has dropped that plan. A cash ISA is a savings account where the interest is not taxed. Tax on some gambling machines goes up too.\nPeople who earn money from property or savings will pay a bit more tax from April 2027. Mr Healey said wages will not be taxed more.",
+    "why": "The Budget decides who pays what in tax, and it affects savers, businesses and families."
+   },
+   {
+    "headline": "Healey's Budget doubles the bank tax surcharge to 6% and reverses the cash ISA cut",
+    "body": "The Chancellor is the person in charge of the country's money. His name is John Healey. On 28 October he told Parliament the plan for the year. This plan is called the Budget. It says how much tax people and firms must pay, and how the government will spend it.\nBanks will pay more tax on their profits. Gambling machines will be taxed more. Savers had good news. There was a plan to limit how much people could save in a cash ISA, which is a savings account where you do not pay tax on the interest. That plan has been dropped.\nMr Healey said that tax on wages, which is the money people earn from their jobs, will not go up.",
+    "why": "It decides how much tax people and firms pay, and what the government can spend on schools and hospitals."
+   },
+   {
+    "headline": "Healey's Budget doubles the bank tax surcharge to 6% and reverses the cash ISA cut",
+    "body": "Every year the government makes a plan for money. This plan is called the Budget. On 28 October, the Chancellor, John Healey, told Parliament what was in it. The Chancellor is the person in charge of the country's money.\nTax is money that people and firms pay to the government. The government uses it for things like schools and hospitals. In this Budget, banks will have to pay more tax. Gambling machines will be taxed more too.\nThere was good news for people who save money. A plan to change cash ISAs has been dropped. A cash ISA is a savings account where you do not pay tax on the money it earns. Mr Healey also said that tax on wages will not go up.",
+    "why": "It decides how much tax people and firms pay, and what the government can spend on schools and hospitals."
+   },
+   {
+    "headline": "Healey's Budget doubles the bank tax surcharge to 6% and reverses the cash ISA cut",
+    "body": "Imagine your class has a jar for sweets. Everyone puts in a few, and the teacher uses them for class treats. The government has a jar like that, but with money. The money is called tax.\nOnce a year, a person called the Chancellor says who will put in money and how much. This is called the Budget. This year it was a man called John Healey, and he said it on 28 October.\nBanks, which look after people's money, will have to put in more. Companies with gambling machines will too. But there is good news for children saving up. A plan to change savings accounts has been dropped, so saving stays the same.",
+    "why": "It decides how much tax people and firms pay, and what the government can spend on schools and hospitals."
+   }
+  ]
+ },
+ {
+  "id": "new-settlement-rules-migrants",
+  "order": 8,
+  "topic": "Politics",
+  "region": "United Kingdom",
+  "source": "GOV.UK",
+  "url": "https://www.gov.uk/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk",
+  "headline": "Home Secretary sets out tougher rules for migrants who want to settle in the UK",
+  "terms": [
+   {
+    "term": "Settlement",
+    "meaning": "Permission to live in the UK permanently, also called indefinite leave to remain."
+   },
+   {
+    "term": "Net migration",
+    "meaning": "The number of people arriving to live in a country minus the number leaving."
+   },
+   {
+    "term": "National Insurance",
+    "meaning": "A payment taken from earnings that counts towards benefits and the State Pension."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Home Secretary sets out tougher rules for migrants who want to settle in the UK",
+    "body": "The government has set out new rules for migrants who want to settle permanently in the UK, replacing near-automatic settlement after long residence with an earned model. The default qualifying period becomes 10 years. The highest earners can settle after 3 years, while people earning above £50,271 and some public servants, such as doctors, nurses and teachers, can do so after 5. People who have broken immigration rules face at least 20 years.\nCare workers who met their visa conditions and earned at least £25,000 can settle after 5 years. Applicants need a clean criminal record, English at a set standard, no debts owed to the taxpayer and sustained National Insurance contributions.\nSettled status will not be taken from anyone who already has it. The government estimates that over 500,000 people will wait longer than 5 years. Reform has pledged to scrap indefinite leave to remain.",
+    "why": "The rules decide how long hundreds of thousands of people must wait before they can stay in Britain for good, and they are central to a heated political debate."
+   },
+   {
+    "headline": "Home Secretary sets out tougher rules for migrants who want to settle in the UK",
+    "body": "The government has announced tougher rules for migrants seeking permanent settlement, ending near-automatic settlement after long residence. The default qualifying period will be 10 years. The highest earners can settle after 3 years, and people earning above £50,271 and some public servants, including doctors, nurses and teachers, can do so after 5. People who have breached immigration rules face at least 20 years.\nCare workers who kept to their visa conditions and earned at least £25,000 can settle after 5 years. All applicants need a spotless criminal record, English at a set level, no debt to the taxpayer and a record of National Insurance contributions.\nNobody who already has settled status will lose it. The government estimates over 500,000 people will wait longer than 5 years. Reform has pledged to scrap indefinite leave to remain.",
+    "why": "The rules decide how long hundreds of thousands of people must wait before they can stay in Britain for good, and they are central to a heated political debate."
+   },
+   {
+    "headline": "Home Secretary sets out tougher rules for migrants who want to settle in the UK",
+    "body": "The government has set out tougher rules for people from abroad who want to settle in the UK for good. Until now, living here for long enough led almost automatically to settlement. Under the new model, settlement must be earned. The usual wait will be 10 years. The highest earners can settle after 3 years. People earning over £50,271 and some public servants, such as doctors, nurses and teachers, can settle after 5. Anyone who has broken immigration rules must wait at least 20 years.\nCare workers who earned at least £25,000 and followed their visa rules can settle after 5 years. Everyone needs a clean criminal record, good enough English, no debts to the taxpayer and a record of paying National Insurance.\nThose who already have settled status keep it. The government expects over 500,000 people to wait longer than 5 years.",
+    "why": "The rules decide how long hundreds of thousands of people must wait before they can stay in Britain for good, and they are central to a heated political debate."
+   },
+   {
+    "headline": "Home Secretary sets out tougher rules for migrants who want to settle in the UK",
+    "body": "The government has announced tougher rules for migrants who want to settle in the UK permanently. In the past, living here for a long time led almost automatically to settlement. Now it has to be earned. The usual wait will be 10 years. The highest earners can settle after 3 years. People earning over £50,271, and some public servants like doctors, nurses and teachers, can settle after 5 years. People who have broken immigration rules must wait at least 20 years.\nCare workers who earned at least £25,000 can settle after 5 years. Everyone needs a clean criminal record, English at a set standard, no debts to the taxpayer and a record of paying National Insurance.\nPeople who already have settled status will keep it.",
+    "why": "The rules decide how long hundreds of thousands of people must wait before they can stay in Britain for good, and they are central to a heated political debate."
+   },
+   {
+    "headline": "Home Secretary sets out tougher rules for migrants who want to settle in the UK",
+    "body": "The government has made new rules for people from other countries who want to make the UK their permanent home. This is called settlement. In the past, living here for a long time almost always led to settlement. Now people must earn it. The usual wait will be 10 years. People who earn a lot, or who work as doctors, nurses or teachers, can wait less. The highest earners can settle after 3 years, and others in these groups after 5. People who have broken immigration rules will wait at least 20 years.\nEveryone must have no criminal record, speak English well enough, owe no money to the taxpayer, and have paid National Insurance. That is a payment taken from wages.\nPeople who already have settled status will keep it.",
+    "why": "They decide how long many people must wait to stay in Britain for good, and migration is a hot political issue."
+   },
+   {
+    "headline": "Home Secretary sets out tougher rules for migrants who want to settle in the UK",
+    "body": "The government has made new rules for people from other countries who want to make the UK their permanent home. This is called settlement. Until now, living here for a long time almost always led to it. Now people must earn it. The usual wait will be 10 years. Some groups wait less. People who earn over £50,271, and some public servants such as doctors, nurses and teachers, can settle after 5 years. The highest earners can settle after 3. People who have broken immigration rules will wait at least 20 years.\nEveryone needs a clean criminal record, good enough English, no debts to the taxpayer and a record of paying National Insurance, which is taken from wages.\nPeople who already have settled status keep it.",
+    "why": "They decide how long many people must wait to stay in Britain for good, and migration is a hot political issue."
+   },
+   {
+    "headline": "Home Secretary sets out tougher rules for migrants who want to settle in the UK",
+    "body": "The government has made new rules for people from other countries who want to make the UK their permanent home. This is called settlement. Until now, living here for a long time almost always led to it. Now people must earn it. The usual wait will be 10 years. People who earn a lot, or who work as doctors, nurses or teachers, wait less, between 3 and 5 years. People who have broken immigration rules will wait at least 20 years.\nEveryone must have no criminal record, speak English well enough, owe no money to the taxpayer, and have paid National Insurance. That is a payment taken from wages, which helps to pay for things like pensions.\nPeople who already have settled status will keep it. The government thinks more than 500,000 people will now wait longer.",
+    "why": "They decide how long many people must wait to stay in Britain for good, and migration is a hot political issue."
+   },
+   {
+    "headline": "Home Secretary sets out tougher rules for migrants who want to settle in the UK",
+    "body": "Some people come from other countries to live in the UK. After some years, they can ask to stay for good. This is called settlement. The government has changed the rules. Until now, living here for a long time almost always meant you could stay for good. Now you have to earn it.\nThe usual wait will be 10 years. People who earn a lot of money, or who work as doctors, nurses or teachers, wait less, between 3 and 5 years. People who have broken the rules wait at least 20 years.\nYou also need to have no crime record, speak good English, and have paid National Insurance. That is a payment taken from your wages. People who already have the right to stay for good will keep it.",
+    "why": "They decide how long people from other countries must wait before they can make Britain their permanent home."
+   },
+   {
+    "headline": "Home Secretary sets out tougher rules for migrants who want to settle in the UK",
+    "body": "Some people move to the UK from other countries. After some years, they can ask to stay here for good. This is called settlement. The government has just changed the rules to make it harder. Before, if you lived here long enough, you could almost always stay. Now you have to earn it.\nThe usual wait will be 10 years. But people who earn a lot of money, or who work as doctors, nurses or teachers, wait less. People who have broken the rules wait much longer.\nPeople must also speak good English and must not have broken the law. People who already have the right to stay for good will not lose it. Many people have strong views about these rules.",
+    "why": "They decide how long people from other countries must wait before they can make Britain their permanent home."
+   },
+   {
+    "headline": "Home Secretary sets out tougher rules for migrants who want to settle in the UK",
+    "body": "Some families move to Britain from other countries. They may want to make Britain their home for ever. To do that, they have to ask for permission. This is like joining a club with rules.\nThe government has changed the rules. Before, if you lived here for a long time, you could almost always stay. Now you must wait longer, usually 10 years. People with important jobs, like doctors and nurses, wait less. You must also follow the law and speak good English.\nPeople who already have permission will keep it. Some people think the new rules are fair. Others think they are too hard. Grown-ups often have very different ideas about this.",
+    "why": "They decide how long people from other countries must wait before they can make Britain their permanent home."
+   }
+  ]
+ },
+ {
+  "id": "belgium-national-strike-austerity",
+  "order": 9,
+  "topic": "Economy",
+  "region": "Europe",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/11/23/belgian-unions-lead-protest-against-austerity-policies-as-governments-future-hangs-in-bala",
+  "headline": "Belgian national strike grounds flights as 50,000 march against austerity",
+  "terms": [
+   {
+    "term": "Austerity",
+    "meaning": "Government policies that cut spending or raise taxes to reduce debt."
+   },
+   {
+    "term": "Deficit",
+    "meaning": "The gap when a government spends more than it collects in taxes."
+   },
+   {
+    "term": "Coalition",
+    "meaning": "A government made up of several parties working together."
+   }
+  ],
+  "levels": [
+   {
+    "headline": "Belgian national strike grounds flights as 50,000 march against austerity",
+    "body": "A national strike in Belgium on Monday 23 November grounded all flights and disrupted public transport, schools and other public services, Euronews reported. Police said 50,000 people marched through the capital, Brussels, to protest against government austerity measures.\nThe government wants to save €10 billion over the next few years to reduce Belgium's high budget deficit. Unions want higher taxes on high earners instead. Divisions remain within the coalition. Prime Minister Bart De Wever offered his resignation to the king on 2 November over the budget impasse, but the king refused to accept it and gave him more time to find a solution.\nEuronews described the government's future as hanging in the balance. Earlier rounds of the protest movement include a national strike in October that police said drew some 30,000 people.",
+    "why": "It shows how hard it is for governments in Europe to cut deficits without losing public support, and Belgium hosts the EU's main institutions."
+   },
+   {
+    "headline": "Belgian national strike grounds flights as 50,000 march against austerity",
+    "body": "A national strike in Belgium on Monday 23 November grounded all flights and disrupted public transport, schools and other services, Euronews reported. Police put the crowd marching through Brussels against austerity at 50,000.\nThe government wants to save €10 billion over the coming years to cut a large budget deficit. The unions want higher taxes on high earners instead. The governing coalition is divided. Prime Minister Bart De Wever offered his resignation to the king on 2 November because of the budget impasse, but the king refused it and gave him more time to find a solution.\nEuronews said the government's future hangs in the balance. An earlier national strike in October drew some 30,000 people, according to police.",
+    "why": "It shows how hard it is for governments in Europe to cut deficits without losing public support, and Belgium hosts the EU's main institutions."
+   },
+   {
+    "headline": "Belgian national strike grounds flights as 50,000 march against austerity",
+    "body": "A national strike in Belgium on Monday 23 November stopped all flights and disrupted trains, buses, schools and other public services, Euronews reported. Police said 50,000 people marched through Brussels to protest against austerity, which means cutting spending to reduce debt.\nThe government wants to save €10 billion over the next few years because Belgium spends much more than it collects in taxes. The unions say high earners should pay more tax instead. The parties in the governing coalition are also divided. Prime Minister Bart De Wever offered to resign to the king on 2 November, but the king refused and gave him more time to find a deal.\nEuronews said the government's future is uncertain.",
+    "why": "It shows how hard it is for governments in Europe to cut deficits without losing public support, and Belgium hosts the EU's main institutions."
+   },
+   {
+    "headline": "Belgian national strike grounds flights as 50,000 march against austerity",
+    "body": "Belgium was hit by a national strike on Monday 23 November. All flights were grounded, and public transport, schools and other services were disrupted, Euronews reported. Police said 50,000 people marched through Brussels against austerity, which means cutting government spending to reduce debt.\nThe government wants to save €10 billion over the next few years, because Belgium spends much more than it collects in tax. The unions think high earners should pay more tax instead. The parties in the coalition government do not agree with each other. Prime Minister Bart De Wever offered to resign to the king on 2 November. The king said no and gave him more time to find a solution.\nThe government's future is uncertain.",
+    "why": "It shows how hard it is for governments in Europe to cut deficits without losing public support, and Belgium hosts the EU's main institutions."
+   },
+   {
+    "headline": "Belgian national strike grounds flights as 50,000 march against austerity",
+    "body": "Belgium had a national strike on Monday 23 November. A strike is when workers stop work to protest. No flights could take off, and trains, buses and schools were disrupted. Police said 50,000 people marched through Brussels, the capital. They were protesting against austerity. That means the government cutting spending to pay off its debts.\nThe government wants to save €10 billion over the next few years. Belgium spends much more than it collects in taxes. The trade unions, which speak for workers, say people who earn a lot should pay more tax instead.\nThe parties in the government do not agree. The Prime Minister, Bart De Wever, offered to resign on 2 November. The king said no and gave him more time.",
+    "why": "It shows how hard it is for governments to cut spending without angry protests."
+   },
+   {
+    "headline": "Belgian national strike grounds flights as 50,000 march against austerity",
+    "body": "Belgium had a national strike on Monday 23 November. A strike is when workers stop work to protest. All flights were grounded, and public transport and schools were disrupted. Police said 50,000 people marched through Brussels, the capital, against austerity. That means the government cutting spending to reduce its debts.\nThe government wants to save €10 billion over the next few years, because Belgium spends much more than it collects in taxes. The trade unions, which speak for workers, say people who earn a lot should pay more tax instead.\nThe parties in the government do not agree. The Prime Minister, Bart De Wever, offered to resign to the king on 2 November. The king refused and gave him more time.",
+    "why": "It shows how hard it is for governments to cut spending without angry protests."
+   },
+   {
+    "headline": "Belgian national strike grounds flights as 50,000 march against austerity",
+    "body": "Belgium had a national strike on Monday 23 November. A strike is when workers stop work to protest. No planes could fly, and trains, buses and schools were disrupted. Police said 50,000 people marched through Brussels, the capital. They were against something called austerity. That is when a government cuts spending to pay off its debts.\nThe government wants to save €10 billion over the next few years. Belgium spends much more than it gets in taxes. The workers' groups, called trade unions, say people who earn a lot should pay more tax instead.\nThe parties in the government do not agree. The Prime Minister, Bart De Wever, offered to resign on 2 November. The king said no and gave him more time to sort it out.",
+    "why": "It shows how hard it is for governments to cut spending without angry protests."
+   },
+   {
+    "headline": "Belgian national strike grounds flights as 50,000 march against austerity",
+    "body": "Belgium is a country in Europe. On Monday 23 November, many workers stopped work to protest. This is called a strike. No planes could take off. Many trains, buses and schools did not run. About 50,000 people walked through the capital, Brussels, to show they were unhappy.\nThey were upset about plans to cut government spending. The government owes a lot of money and wants to save €10 billion. The workers' groups say rich people should pay more tax instead.\nThe parties that run the country do not agree with each other. The Prime Minister, Bart De Wever, said he would stop. The king said no and gave him more time.",
+    "why": "It shows what can happen when people are unhappy about the way a government spends money."
+   },
+   {
+    "headline": "Belgian national strike grounds flights as 50,000 march against austerity",
+    "body": "Belgium is a country in Europe. On Monday 23 November, a lot of workers did not go to work. They did this to show they were unhappy. This is called a strike. No planes could take off, and many trains, buses and schools did not run. About 50,000 people walked through the capital, Brussels.\nThey were upset because the government wants to spend less. It owes a lot of money, so it wants to save €10 billion. The workers say rich people should pay more tax instead.\nThe people who run the country do not agree. The leader, Bart De Wever, said he would stop. The king said no and told him to try again.",
+    "why": "It shows what can happen when people are unhappy about the way a government spends money."
+   },
+   {
+    "headline": "Belgian national strike grounds flights as 50,000 march against austerity",
+    "body": "Imagine your class has spent too much of its money on snacks. Now the teacher says, we must spend less. Some children are cross. They say, the children with the most should give more instead.\nSomething like this is happening in a country called Belgium. The government has spent more than it has. It wants to spend less, so it can save lots of money. Many people are unhappy about this.\nOn Monday 23 November, lots of workers stopped work to show it. No planes could fly. About 50,000 people walked through the streets of the capital city. The leaders now have to find a way that more people agree on.",
+    "why": "It shows what can happen when people are unhappy about the way a government spends money."
    }
   ]
  }
